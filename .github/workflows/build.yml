@@ -22,7 +22,7 @@ jobs:
         # Linux:   https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/
         # macOS:   https://download.qt.io/online/qtsdkrepository/mac_x64/desktop/
         # Windows: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/
-        qt-version: ['5.3', '5.4', '5.7', '5.13.2', '5.14.2', '5.15.0']
+        qt-version: ['5.14.2']
         exclude:
           # xcode not found
           - os: macos-latest
@@ -50,10 +50,13 @@ jobs:
       with:
         submodules: true
 
-    - name: Get version
-      uses: allenevans/set-env@v1.0.0
-      with:
-        VERSION: $(cat version.h | sed "s/[^0-9,.]//g")
+#    - name: Get version
+#      uses: allenevans/set-env@v1.0.0
+#      with:
+#        VERSION: $(cat version.h | sed "s/[^0-9,.]//g")
+    - name: Set Env
+      run: |
+        echo "::set-env name=VERSION::$(cat version.h | sed 's/[^0-9,.]//g')"
     - name: Printenv
       run: |
         echo "VERSION=${VERSION}"
