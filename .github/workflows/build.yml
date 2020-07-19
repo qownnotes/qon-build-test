@@ -75,9 +75,16 @@ jobs:
           - os: windows-latest
             qt-version: '5.7'
     steps:
+    - name: Set Env
+      run: |
+        export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
+        export TAG=v${VERSION}-${GITHUB_RUN_ID}-${GITHUB_RUN_NUMBER}
+        echo "::set-env name=VERSION::${VERSION}"
+        echo "::set-env name=TAG::${TAG}"
     - name: Printenv
       run: |
         echo "VERSION=${VERSION}"
+        echo "TAG=${TAG}"
         printenv
     - name: Build project # This would actually build your project, using zip for an example artifact
       run: |
