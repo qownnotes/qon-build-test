@@ -50,6 +50,14 @@ jobs:
       with:
         submodules: true
 
+    - name: Get version
+      uses: allenevans/set-env@v1.0.0
+      with:
+        VERSION: $(cat version.h | sed "s/[^0-9,.]//g")
+    - name: Printenv
+      run: |
+        echo "VERSION=${VERSION}"
+        printenv
     - name: Build project # This would actually build your project, using zip for an example artifact
       run: |
         zip --junk-paths my-artifact main.cpp
