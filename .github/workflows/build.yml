@@ -79,12 +79,14 @@ jobs:
       with:	
         submodules: true
     - name: Set Env
+      shell: bash
       run: |
         export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
         export TAG=v${VERSION}.${GITHUB_RUN_ID}.${GITHUB_RUN_NUMBER}
         echo "::set-env name=VERSION::${VERSION}"
         echo "::set-env name=TAG::${TAG}"
     - name: Printenv
+      shell: bash
       run: |
         echo "VERSION=${VERSION}"
         echo "TAG=${TAG}"
