@@ -30,6 +30,7 @@ jobs:
           
 
   build:
+    needs: create_release
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
