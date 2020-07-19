@@ -75,6 +75,9 @@ jobs:
           - os: windows-latest
             qt-version: '5.7'
     steps:
+    - uses: actions/checkout@v2	
+      with:	
+        submodules: true
     - name: Set Env
       run: |
         export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
