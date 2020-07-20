@@ -114,7 +114,7 @@ jobs:
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
       run: |
-        echo "#define RELEASE \"GitHub Action\"" > release.h
+        echo "#define RELEASE \"GitHub Actions\"" > release.h
         qmake
         lrelease QOwnNotes.pro
         make -j 2
@@ -123,7 +123,7 @@ jobs:
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
       run: |
-        echo "#define RELEASE \"GitHub Action\"" > release.h
+        echo "#define RELEASE \"GitHub Actions\"" > release.h
         lrelease QOwnNotes.pro
         ls ${Qt5_Dir}/bin
         whereis qmake
@@ -134,14 +134,13 @@ jobs:
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
-        # TODO: doesn't work yet
-        echo "#define RELEASE ""GitHubAction""" > release.h
+        echo "#define RELEASE ""GitHub Actions""" > release.h
         type release.h
         qmake
         lrelease QOwnNotes.pro
         make
         md ..\release
-        dir
+        dir release
         # copy the binary to our release path
         copy release\QOwnNotes.exe ..\release
         # copy OpenSSL DLLs to the release path
@@ -160,11 +159,11 @@ jobs:
         # http://doc.qt.io/qt-5/windows-deployment.html
         windeployqt --release QOwnNotes.exe
         # this dll was missed by windeployqt
-        copy ..\libwinpthread-1.dll . /y
+        copy ..\libwinpthread-1.dll .
         # this dll didn't work when released by windeployqt
         # important: this dll needs to be updated when a new version of Qt is used!
         # search for it in the mingw* folder of your local installation of Qt
-        copy "..\libstdc++-6.dll" . /y
+        copy "..\libstdc++-6.dll" .
         # for some reason AppVeyor or windeployqt uses a copy of the German
         # translation file as English one, which screws up the English user interface
         del "translations\qt_en.qm"
