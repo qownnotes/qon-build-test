@@ -24,7 +24,7 @@ jobs:
         run: |
           export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
           export TAG=v${VERSION}.${GITHUB_RUN_ID}.${GITHUB_RUN_NUMBER}
-          export RELEASE_TEXT=$(grep -Pzo '## 20.7.4\n(\n|.)+?\n##' CHANGELOG.md | sed '$ d')
+          export RELEASE_TEXT=$(grep -Pzo '## 20.7.4\n(\n|.)+?\n##' ../CHANGELOG.md | sed '$ d')
           echo "::set-env name=VERSION::${VERSION}"
           echo "::set-env name=TAG::${TAG}"
           echo "::set-env name=RELEASE_TEXT::${RELEASE_TEXT}"
