@@ -75,10 +75,48 @@ jobs:
         echo "VERSION=${VERSION}"
         echo "TAG=${TAG}"
         printenv
+
+      #
+      # Install Qt
+      #
+
+    - name: Cache Qt
+      id: cache-qt
+      uses: actions/cache@v1
+      with:
+        path: ../Qt
+        key: ${{ runner.os }}-QtCache-${{ matrix.qt-version }}
+    # https://github.com/marketplace/actions/install-qt
+    - if: contains( matrix.os, 'windows') && ( matrix.qt-version == '5.7' )
+      name: Install Qt 5.7 on Windows
+      uses: jurplel/install-qt-action@v2
+      with:
+        version: ${{ matrix.qt-version }}
+        arch: win32_mingw53
+        # try mirror
+        mirror: 'http://mirrors.ocf.berkeley.edu/qt/'
+        cached: ${{ steps.cache-qt.outputs.cache-hit }}
+    - if: contains( matrix.os, 'windows') && ( matrix.qt-version != '5.7' )
+      name: Install Qt on Windows
+      uses: jurplel/install-qt-action@v2
+      with:
+        version: ${{ matrix.qt-version }}
+        arch: win64_mingw73
+        cached: ${{ steps.cache-qt.outputs.cache-hit }}
+    - if: false == contains( matrix.os, 'windows')
+      name: Install Qt
+      uses: jurplel/install-qt-action@v2
+      with:
+        version: ${{ matrix.qt-version }}
+        cached: ${{ steps.cache-qt.outputs.cache-hit }}
+
+    #
+    # Build QOwnNotes
+    #
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
       run: |
-        echo "#define RELEASE \"Travis CI\"" > release.h
+        echo "#define RELEASE \"GitHub Action\"" > release.h
         qmake QOwnNotes.pro CONFIG+=$CONFIG CONFIG+=ccache
         lrelease QOwnNotes.pro
         make -j 2
