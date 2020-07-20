@@ -32,6 +32,7 @@ jobs:
         run: |
           echo "VERSION=${VERSION}"
           echo "TAG=${TAG}"
+          echo "RELEASE_TEXT=${RELEASE_TEXT}"
           printenv
       - name: Create release
         id: create_release
