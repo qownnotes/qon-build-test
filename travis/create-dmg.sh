@@ -51,7 +51,7 @@ security unlock-keychain -p travis osx-build.keychain
 #echo "Calling macdeployqt and code signing application"
 #$QTDIR/bin/macdeployqt ./$APP.app -codesign="$DEVELOPER_NAME"
 echo "Calling macdeployqt"
-$QTDIR/bin/macdeployqt ./$APP.app
+$QTDIR/bin/macdeployqt ./$APP.app || ${Qt5_Dir}/bin/macdeployqt ./$APP.app
 if [ "$?" -ne "0" ]; then
     echo "Failed to run macdeployqt"
     # remove keys
