@@ -123,16 +123,16 @@ jobs:
       name: Build for macOS
       run: |
         echo "#define RELEASE \"GitHub Action\"" > release.h
-        make -j 2
-        whereis qmake
-        qmake
         lrelease QOwnNotes.pro
         ls ${Qt5_Dir}/bin
+        whereis qmake
+        qmake
+        make -j 2
         ../travis/create-dmg.sh
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
-        echo "#define RELEASE \"GitHubAction\"" > release.h
+        echo #define RELEASE "GitHubAction" > release.h
         type release.h
         qmake
         lrelease QOwnNotes.pro
