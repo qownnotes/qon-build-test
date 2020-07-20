@@ -105,27 +105,26 @@ jobs:
     # Build QOwnNotes
     #
 
-    - if: contains( matrix.os, 'ubuntu')
-      name: Build for Linux
+    - name: Build
       run: |
         echo "#define RELEASE \"GitHub Action\"" > release.h
         qmake
         lrelease QOwnNotes.pro
         make -j 2
+    - if: contains( matrix.os, 'ubuntu')
+      name: Package for Linux
+      run: |
         tar czf QOwnNotes.tar.gz *
     - if: contains( matrix.os, 'macos')
-      name: Build for macOS
+      name: Package for macOS
       run: |
         ../travis/create-dmg.sh
     - if: contains( matrix.os, 'windows')
-      name: Build for Windows
+      name: Package for Windows
       run: |
-        qmake
-        lrelease QOwnNotes.pro
-        make
         md ..\release
         # copy the binary to our release path
-        copy release\QOwnNotes.exe ..\release
+        copy QOwnNotes.exe ..\release
         # copy OpenSSL DLLs to the release path
         copy ..\appveyor\OpenSSL\libcrypto-1_1.dll ..\release
         copy ..\appveyor\OpenSSL\libssl-1_1.dll ..\release
