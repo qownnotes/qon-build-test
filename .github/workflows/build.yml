@@ -38,8 +38,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.TAG }}
-          release_name: Release ${{ github.ref }}
-          
+          release_name: Release ${{ env.VERSION }}
+          # TODO: parse from changelog
+          body: |
+            Changes in this Release
+            - First Change
+            - Second Change
 
   build:
     needs: create_release
