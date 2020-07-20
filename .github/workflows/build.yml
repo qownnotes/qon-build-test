@@ -44,7 +44,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.TAG }}
-          release_name: Release ${{ env.VERSION }}
+          release_name: Release v${{ env.VERSION }}
           # TODO: parse from changelog
           body: ${{ env.RELEASE_TEXT }}
 
