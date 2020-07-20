@@ -87,15 +87,6 @@ jobs:
         path: ../Qt
         key: ${{ runner.os }}-QtCache-${{ matrix.qt-version }}
     # https://github.com/marketplace/actions/install-qt
-    - if: contains( matrix.os, 'windows') && ( matrix.qt-version == '5.7' )
-      name: Install Qt 5.7 on Windows
-      uses: jurplel/install-qt-action@v2
-      with:
-        version: ${{ matrix.qt-version }}
-        arch: win32_mingw53
-        # try mirror
-        mirror: 'http://mirrors.ocf.berkeley.edu/qt/'
-        cached: ${{ steps.cache-qt.outputs.cache-hit }}
     - if: contains( matrix.os, 'windows') && ( matrix.qt-version != '5.7' )
       name: Install Qt on Windows
       uses: jurplel/install-qt-action@v2
@@ -104,7 +95,7 @@ jobs:
         arch: win64_mingw73
         cached: ${{ steps.cache-qt.outputs.cache-hit }}
     - if: false == contains( matrix.os, 'windows')
-      name: Install Qt
+      name: Install Qt on Linux and macOS
       uses: jurplel/install-qt-action@v2
       with:
         version: ${{ matrix.qt-version }}
