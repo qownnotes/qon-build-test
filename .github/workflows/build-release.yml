@@ -110,7 +110,7 @@ jobs:
         echo "#define RELEASE \"GitHub Action\"" > release.h
         qmake
         lrelease QOwnNotes.pro
-        make -j 2
+        make
     - if: contains( matrix.os, 'ubuntu')
       name: Package for Linux
       run: |
