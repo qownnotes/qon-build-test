@@ -76,9 +76,9 @@ jobs:
         echo "TAG=${TAG}"
         printenv
 
-      #
-      # Install Qt
-      #
+    #
+    # Install Qt
+    #
 
     - name: Cache Qt
       id: cache-qt
@@ -116,7 +116,7 @@ jobs:
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
       run: |
-        ./travis/create-dmg.sh
+        ../travis/create-dmg.sh
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
