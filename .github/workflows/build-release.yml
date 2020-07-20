@@ -108,7 +108,7 @@ jobs:
       name: Build for Linux
       run: |
         echo "#define RELEASE \"GitHub Action\"" > release.h
-        qmake QOwnNotes.pro CONFIG+=$CONFIG CONFIG+=ccache
+        qmake QOwnNotes.pro
         lrelease QOwnNotes.pro
         make -j 2
 
