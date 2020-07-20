@@ -87,7 +87,7 @@ jobs:
         path: ../Qt
         key: ${{ runner.os }}-QtCache-${{ matrix.qt-version }}
     # https://github.com/marketplace/actions/install-qt
-    - if: contains( matrix.os, 'windows') && ( matrix.qt-version != '5.7' )
+    - if: contains( matrix.os, 'windows')
       name: Install Qt on Windows
       uses: jurplel/install-qt-action@v2
       with:
@@ -104,6 +104,7 @@ jobs:
     #
     # Build QOwnNotes
     #
+
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
       run: |
@@ -111,22 +112,48 @@ jobs:
         qmake QOwnNotes.pro
         lrelease QOwnNotes.pro
         make -j 2
+        tar czf QOwnNotes.tar.gz *
+    - if: contains( matrix.os, 'macos')
+      name: Build for macOS
+      run: |
+        ./travis/create-dmg.sh
+    - if: contains( matrix.os, 'windows')
+      name: Build for Windows
+      run: |
+        #zip --junk-paths ./my-artifact-${{ matrix.os }}.zip main.cpp
+        echo "Build" > QOwnNotes.zip
 
-    - name: Build project # This would actually build your project, using zip for an example artifact
-      shell: bash
-      run: |
-        zip --junk-paths ./my-artifact-${{ matrix.os }}.zip main.cpp
-    - name: ls
-      shell: bash
-      run: |
-        ls
-    - name: Upload Release Asset
-      id: upload-release-asset 
+    #
+    # Release QOwnNotes
+    #
+
+    - if: contains( matrix.os, 'ubuntu')
+      name: Upload Release Asset for Linux
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
-        asset_path: ./src/my-artifact-${{ matrix.os }}.zip
-        asset_name: my-artifact-${{ matrix.os }}.zip
+        asset_path: ./src/QOwnNotes.tar.gz
+        asset_name: QOwnNotes-linux-${{ env.VERSION }}.tar.gz
+        asset_content_type: application/gzip
+    - if: contains( matrix.os, 'macos')
+      name: Upload Release Asset for macOS
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ needs.create_release.outputs.upload_url }}
+        asset_path: ./src/QOwnNotes-${{ env.VERSION }}.dmg
+        asset_name: QOwnNotes-macos-${{ env.VERSION }}.dmg
+        asset_content_type: application/x-apple-diskimage
+    - if: contains( matrix.os, 'windows')
+      name: Upload Release Asset for Windows
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ needs.create_release.outputs.upload_url }}
+        asset_path: ./src/QOwnNotes.zip
+        asset_name: QOwnNotes-windows.zip
         asset_content_type: application/zip
