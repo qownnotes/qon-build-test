@@ -119,6 +119,7 @@ jobs:
         lrelease QOwnNotes.pro
         make -j 2
         tar czf QOwnNotes.tar.gz *
+
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
       run: |
@@ -129,18 +130,20 @@ jobs:
         qmake
         make -j 2
         ../travis/create-dmg.sh
+
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
         # TODO: doesn't work yet
-        #echo #define RELEASE "GitHubAction" > release.h
+        echo "#define RELEASE ""GitHubAction""" > release.h
         type release.h
         qmake
         lrelease QOwnNotes.pro
         make
         md ..\release
+        dir
         # copy the binary to our release path
-        copy QOwnNotes.exe ..\release
+        copy release\QOwnNotes.exe ..\release
         # copy OpenSSL DLLs to the release path
         copy ..\appveyor\OpenSSL\libcrypto-1_1.dll ..\release
         copy ..\appveyor\OpenSSL\libssl-1_1.dll ..\release
@@ -181,6 +184,7 @@ jobs:
         asset_path: ./src/QOwnNotes.tar.gz
         asset_name: QOwnNotes-linux-${{ env.VERSION }}.tar.gz
         asset_content_type: application/gzip
+
     - if: contains( matrix.os, 'macos')
       name: Upload Release Asset for macOS
       uses: actions/upload-release-asset@v1
@@ -188,9 +192,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
-        asset_path: ./src/QOwnNotes-${{ env.VERSION }}.dmg
+        asset_path: ./src/QOwnNotes-.dmg
         asset_name: QOwnNotes-macos-${{ env.VERSION }}.dmg
         asset_content_type: application/x-apple-diskimage
+
     - if: contains( matrix.os, 'windows')
       name: Upload Release Asset for Windows
       uses: actions/upload-release-asset@v1
