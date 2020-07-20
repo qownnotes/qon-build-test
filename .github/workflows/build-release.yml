@@ -1,4 +1,4 @@
-name: 'build'
+name: 'build-release'
 
 on:
   push:
@@ -45,7 +45,6 @@ jobs:
         with:
           tag_name: ${{ env.TAG }}
           release_name: Release v${{ env.VERSION }}
-          # TODO: parse from changelog
           body: ${{ env.RELEASE_TEXT }}
 
   build:
@@ -59,28 +58,6 @@ jobs:
         # macOS:   https://download.qt.io/online/qtsdkrepository/mac_x64/desktop/
         # Windows: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/
         qt-version: ['5.14.2']
-        exclude:
-          # xcode not found
-          - os: macos-latest
-            qt-version: '5.3'
-          # xcode not found
-          - os: macos-latest
-            qt-version: '5.4'
-          # win64_mingw73 not found
-          - os: windows-latest
-            qt-version: '5.3'
-          # win64_mingw73 not found
-          - os: windows-latest
-            qt-version: '5.4'
-          # Qt installation times out too often
-          - os: windows-latest
-            qt-version: '5.13.2'
-          # win64_mingw73 not found
-          - os: windows-latest
-            qt-version: '5.15.0'
-          # Download error: decompression get wrong: no output data.
-          - os: windows-latest
-            qt-version: '5.7'
     steps:
     - uses: actions/checkout@v2	
       with:	
@@ -98,6 +75,14 @@ jobs:
         echo "VERSION=${VERSION}"
         echo "TAG=${TAG}"
         printenv
+    - if: contains( matrix.os, 'ubuntu')
+      name: Build for Linux
+      run: |
+        echo "#define RELEASE \"Travis CI\"" > release.h
+        qmake QOwnNotes.pro CONFIG+=$CONFIG CONFIG+=ccache
+        lrelease QOwnNotes.pro
+        make -j 2
+
     - name: Build project # This would actually build your project, using zip for an example artifact
       shell: bash
       run: |
