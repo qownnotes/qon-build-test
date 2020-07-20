@@ -132,7 +132,8 @@ jobs:
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
-        echo #define RELEASE "GitHubAction" > release.h
+        # TODO: doesn't work yet
+        #echo #define RELEASE "GitHubAction" > release.h
         type release.h
         qmake
         lrelease QOwnNotes.pro
