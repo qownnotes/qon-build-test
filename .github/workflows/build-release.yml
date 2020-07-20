@@ -109,7 +109,7 @@ jobs:
       name: Build for Linux
       run: |
         echo "#define RELEASE \"GitHub Action\"" > release.h
-        qmake QOwnNotes.pro
+        qmake
         lrelease QOwnNotes.pro
         make -j 2
         tar czf QOwnNotes.tar.gz *
@@ -120,8 +120,37 @@ jobs:
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
-        #zip --junk-paths ./my-artifact-${{ matrix.os }}.zip main.cpp
-        echo "Build" > QOwnNotes.zip
+        qmake
+        lrelease QOwnNotes.pro
+        make
+        md ..\release
+        # copy the binary to our release path
+        copy release\QOwnNotes.exe ..\release
+        # copy OpenSSL DLLs to the release path
+        copy ..\appveyor\OpenSSL\libcrypto-1_1.dll ..\release
+        copy ..\appveyor\OpenSSL\libssl-1_1.dll ..\release
+        # copy unzip application for updater
+        copy ..\appveyor\unzip.exe ..\release
+        # copy updater script
+        copy ..\appveyor\update.bat ..\release
+        # copy portable mode launcher to the release path
+        copy ..\appveyor\QOwnNotesPortable.bat ..\release
+        # copy translation files
+        copy languages\*.qm ..\release
+        cd ..\release
+        # fetching dependencies of QT app
+        # http://doc.qt.io/qt-5/windows-deployment.html
+        windeployqt --release QOwnNotes.exe
+        # this dll was missed by windeployqt
+        copy ..\libwinpthread-1.dll . /y
+        # this dll didn't work when released by windeployqt
+        # important: this dll needs to be updated when a new version of Qt is used!
+        # search for it in the mingw* folder of your local installation of Qt
+        copy "..\libstdc++-6.dll" . /y
+        # for some reason AppVeyor or windeployqt uses a copy of the German
+        # translation file as English one, which screws up the English user interface
+        del "translations\qt_en.qm"
+        tar.exe -a -c -f QOwnNotes.zip *
 
     #
     # Release QOwnNotes
