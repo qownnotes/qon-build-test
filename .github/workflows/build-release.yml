@@ -53,6 +53,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
+        # Ubuntu 16.04 because of https://github.com/probonopd/linuxdeployqt/issues/340
         os: [ubuntu-16.04, macos-latest, windows-latest]
         # Linux:   https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/
         # macOS:   https://download.qt.io/online/qtsdkrepository/mac_x64/desktop/
@@ -126,6 +127,7 @@ jobs:
         qmake PREFIX=/usr
         lrelease QOwnNotes.pro
         make -j2
+        # Create DEB
         cd ../travis
         dpkg-deb -x QOwnNotes.deb build
         install ../src/QOwnNotes build/opt/QOwnNotes
@@ -135,17 +137,13 @@ jobs:
         mv ../icons/* build/opt/QOwnNotes/
         sed -i 's/VERSION_NUMBER/'"${VERSION}"'/g' build/DEBIAN/control
         dpkg -b build QOwnNotes.deb
-        # see https://docs.appimage.org/packaging-guide/converting-binary-packages/pkg2appimage.html
-        #git clone https://github.com/AppImage/pkg2appimage
-        #cd pkg2appimage
-        #bash -ex ./pkg2appimage ../../build-systems/github/pkg2appimage.yml
+        # Create AppImage (needs Ubuntu 16.04)
         cd ../src
         make INSTALL_ROOT=appdir -j2 install ; find appdir/
         wget -c -nv "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
         chmod a+x linuxdeployqt-continuous-x86_64.AppImage
         # export VERSION=... # linuxdeployqt uses this for naming the file
         ./linuxdeployqt-continuous-x86_64.AppImage appdir/usr/share/applications/*.desktop -appimage
-        ls
 
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
@@ -155,7 +153,7 @@ jobs:
         ls ${Qt5_Dir}/bin
         whereis qmake
         qmake
-        make -j 2
+        make -j2
         ../travis/create-dmg.sh
 
     - if: contains( matrix.os, 'windows')
