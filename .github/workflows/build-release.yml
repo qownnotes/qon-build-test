@@ -140,7 +140,6 @@ jobs:
         lrelease QOwnNotes.pro
         make
         md ..\release
-        dir release
         # copy the binary to our release path
         copy release\QOwnNotes.exe ..\release
         # copy OpenSSL DLLs to the release path
@@ -166,7 +165,9 @@ jobs:
         copy "..\appveyor\libstdc++-6.dll" .
         # for some reason AppVeyor or windeployqt uses a copy of the German
         # translation file as English one, which screws up the English user interface
-        del "translations\qt_en.qm"
+        dir
+        dir translations
+        #del "translations\qt_en.qm"
         tar.exe -a -c -f QOwnNotes.zip *
 
     #
