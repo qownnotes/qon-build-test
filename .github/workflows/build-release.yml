@@ -175,11 +175,11 @@ jobs:
         # Bug in Qt 5.14+: https://stackoverflow.com/questions/61045959/windeployqt-error-unable-to-find-the-platform-plugin
         windeployqt --release QOwnNotes.exe
         # this dll was missed by windeployqt
-        #copy ..\appveyor\libwinpthread-1.dll .
+        copy ..\appveyor\libwinpthread-1.dll .
         # this dll didn't work when released by windeployqt
         # important: this dll needs to be updated when a new version of Qt is used!
         # search for it in the mingw* folder of your local installation of Qt
-        #copy "..\appveyor\libstdc++-6.dll" .
+        copy "..\appveyor\libstdc++-6.dll" .
         # for some reason AppVeyor or windeployqt uses a copy of the German
         # translation file as English one, which screws up the English user interface
         dir
