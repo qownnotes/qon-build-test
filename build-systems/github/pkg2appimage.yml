@@ -3,4 +3,4 @@ ingredients:
   sources:
     - deb http://us.archive.ubuntu.com/ubuntu/ bionic main universe
   debs:
-    - QOwnNotes.deb
+    - ../QOwnNotes.deb
