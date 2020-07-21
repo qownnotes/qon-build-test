@@ -139,6 +139,7 @@ jobs:
         git clone https://github.com/AppImage/pkg2appimage
         cd pkg2appimage
         bash -ex ./pkg2appimage ../../build-systems/github/pkg2appimage.yml
+        ls
 
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
@@ -196,18 +197,28 @@ jobs:
     #
 
     - if: contains( matrix.os, 'ubuntu')
-      name: Upload Release Asset for Linux
+      name: Release deb package for Linux
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./travis/QOwnNotes.deb
-        asset_name: QOwnNotes-linux-${{ env.VERSION }}.deb
+        asset_name: QOwnNotes-${{ env.VERSION }}.deb
         asset_content_type: application/vnd.debian.binary-package
+    - if: contains( matrix.os, 'ubuntu')
+      name: Release AppImage package for Linux
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ needs.create_release.outputs.upload_url }}
+        asset_path: ./travis/out/QOwnNotes-.glibc2.16-x86_64.AppImage
+        asset_name: QOwnNotes-${{ env.VERSION }}.glibc2.16-x86_64.AppImage
+        asset_content_type: application/application/x-appimage
 
     - if: contains( matrix.os, 'macos')
-      name: Upload Release Asset for macOS
+      name: Release dmg for macOS
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -218,7 +229,7 @@ jobs:
         asset_content_type: application/x-apple-diskimage
 
     - if: contains( matrix.os, 'windows')
-      name: Upload Release Asset for Windows
+      name: Upload ZIP for Windows
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
