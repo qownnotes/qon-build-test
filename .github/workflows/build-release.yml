@@ -161,9 +161,9 @@ jobs:
       run: |
         echo "#define RELEASE ""GitHub Actions""" > release.h
         type release.h
-        qmake
+        qmake QOwnNotes.pro -r -spec win32-g++
         lrelease QOwnNotes.pro
-        make
+        mingw32-make
         md ..\release
         # copy the binary to our release path
         copy QOwnNotes.exe ..\release
