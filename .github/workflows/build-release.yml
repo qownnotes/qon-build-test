@@ -137,7 +137,7 @@ jobs:
         dpkg -b build QOwnNotes.deb
         # see https://docs.appimage.org/packaging-guide/converting-binary-packages/pkg2appimage.html
         git clone https://github.com/AppImage/pkg2appimage
-        bash -ex ./pkg2appimage/pkg2appimage recipes/XXX.yml
+        bash -ex ./pkg2appimage/pkg2appimage ../build-systems/github/pkg2appimage.yml
 
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
