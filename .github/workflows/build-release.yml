@@ -168,7 +168,7 @@ jobs:
         make
         md ..\release
         # copy the binary to our release path
-        copy release\QOwnNotes.exe ..\release
+        copy QOwnNotes.exe ..\release
         # copy OpenSSL DLLs to the release path
         copy ..\appveyor\OpenSSL\libcrypto-1_1.dll ..\release
         copy ..\appveyor\OpenSSL\libssl-1_1.dll ..\release
