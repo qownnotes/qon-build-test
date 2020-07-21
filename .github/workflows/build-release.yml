@@ -190,7 +190,7 @@ jobs:
         dir
         dir translations
         del "translations\qt_en.qm"
-        tar.exe -cvzf ..\QOwnNotes.zip *
+        powershell Compress-Archive -Path * -DestinationPath ..\QOwnNotes.zip
 
     #
     # Release QOwnNotes
@@ -204,7 +204,7 @@ jobs:
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./travis/QOwnNotes.deb
-        asset_name: QOwnNotes-${{ env.VERSION }}.deb
+        asset_name: QOwnNotes.deb
         asset_content_type: application/vnd.debian.binary-package
     - if: contains( matrix.os, 'ubuntu')
       name: Release AppImage for Linux
@@ -214,7 +214,7 @@ jobs:
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./travis/out/QOwnNotes-.glibc2.16-x86_64.AppImage
-        asset_name: QOwnNotes-${{ env.VERSION }}.glibc2.16-x86_64.AppImage
+        asset_name: QOwnNotes.glibc2.16-x86_64.AppImage
         asset_content_type: application/application/x-appimage
 
     - if: contains( matrix.os, 'macos')
@@ -225,7 +225,7 @@ jobs:
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./src/QOwnNotes-.dmg
-        asset_name: QOwnNotes-macos-${{ env.VERSION }}.dmg
+        asset_name: QOwnNotes.dmg
         asset_content_type: application/x-apple-diskimage
 
     - if: contains( matrix.os, 'windows')
@@ -236,5 +236,5 @@ jobs:
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./QOwnNotes.zip
-        asset_name: QOwnNotes-windows.zip
+        asset_name: QOwnNotes.zip
         asset_content_type: application/zip
