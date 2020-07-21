@@ -197,7 +197,7 @@ jobs:
     #
 
     - if: contains( matrix.os, 'ubuntu')
-      name: Release deb package for Linux
+      name: Release DEB package for Linux
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -207,7 +207,7 @@ jobs:
         asset_name: QOwnNotes-${{ env.VERSION }}.deb
         asset_content_type: application/vnd.debian.binary-package
     - if: contains( matrix.os, 'ubuntu')
-      name: Release AppImage package for Linux
+      name: Release AppImage for Linux
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -218,7 +218,7 @@ jobs:
         asset_content_type: application/application/x-appimage
 
     - if: contains( matrix.os, 'macos')
-      name: Release dmg for macOS
+      name: Release DMG for macOS
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
