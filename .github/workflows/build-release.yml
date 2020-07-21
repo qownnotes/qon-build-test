@@ -185,7 +185,7 @@ jobs:
         dir
         dir translations
         del "translations\qt_en.qm"
-        tar.exe -a -c -f QOwnNotes.zip *
+        tar.exe -cvzf ..\QOwnNotes.zip *
 
     #
     # Release QOwnNotes
@@ -220,6 +220,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
-        asset_path: ./src/QOwnNotes.zip
+        asset_path: ./QOwnNotes.zip
         asset_name: QOwnNotes-windows.zip
         asset_content_type: application/zip
