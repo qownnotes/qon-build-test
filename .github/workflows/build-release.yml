@@ -134,7 +134,9 @@ jobs:
         mv ../icons/* build/opt/QOwnNotes/
         sed -i 's/VERSION_NUMBER/'"${VERSION}"'/g' build/DEBIAN/control
         dpkg -b build QOwnNotes.deb
-        # tar czf QOwnNotes.tar.gz *
+        # see https://docs.appimage.org/packaging-guide/converting-binary-packages/pkg2appimage.html
+        git clone https://github.com/AppImage/pkg2appimage
+        bash -ex ./pkg2appimage/pkg2appimage recipes/XXX.yml
 
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
