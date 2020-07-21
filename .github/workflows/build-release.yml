@@ -53,13 +53,13 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-latest, macos-latest, windows-latest]
+        os: [ubuntu-xenial, macos-latest, windows-latest]
         # Linux:   https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/
         # macOS:   https://download.qt.io/online/qtsdkrepository/mac_x64/desktop/
         # Windows: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/
         qt-version: ['5.13.2', '5.14.2']
         exclude:
-          - os: ubuntu-latest
+          - os: ubuntu-xenial
             qt-version: '5.13.2'
           - os: macos-latest
             qt-version: '5.13.2'
@@ -86,7 +86,7 @@ jobs:
       uses: actions/cache@v1
       with:
         path: ../Qt
-        key: ${{ runner.os }}-QtCache-${{ matrix.qt-version }}
+        key: ${{ runner.os }}-QtCache-${{ matrix.qt-version }}-a
     # https://github.com/marketplace/actions/install-qt
     - if: contains( matrix.os, 'windows')
       name: Install Qt on Windows
@@ -96,7 +96,7 @@ jobs:
         arch: win32_mingw73
         cached: ${{ steps.cache-qt.outputs.cache-hit }}
     - if: false == contains( matrix.os, 'windows')
-      name: Install Qt on Linux and macOS
+      name: Install Qt on Linux/macOS
       uses: jurplel/install-qt-action@v2
       with:
         version: ${{ matrix.qt-version }}
