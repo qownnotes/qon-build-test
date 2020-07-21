@@ -123,9 +123,9 @@ jobs:
       run: |
         sudo apt install desktop-file-utils
         echo "#define RELEASE \"GitHub Actions\"" > release.h
-        qmake
+        qmake PREFIX=/usr
         lrelease QOwnNotes.pro
-        make -j 2
+        make -j2
         cd ../travis
         dpkg-deb -x QOwnNotes.deb build
         install ../src/QOwnNotes build/opt/QOwnNotes
@@ -136,9 +136,15 @@ jobs:
         sed -i 's/VERSION_NUMBER/'"${VERSION}"'/g' build/DEBIAN/control
         dpkg -b build QOwnNotes.deb
         # see https://docs.appimage.org/packaging-guide/converting-binary-packages/pkg2appimage.html
-        git clone https://github.com/AppImage/pkg2appimage
-        cd pkg2appimage
-        bash -ex ./pkg2appimage ../../build-systems/github/pkg2appimage.yml
+        #git clone https://github.com/AppImage/pkg2appimage
+        #cd pkg2appimage
+        #bash -ex ./pkg2appimage ../../build-systems/github/pkg2appimage.yml
+        cd ../src
+        make INSTALL_ROOT=appdir -j2 install ; find appdir/
+        wget -c -nv "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        chmod a+x linuxdeployqt-continuous-x86_64.AppImage
+        # export VERSION=... # linuxdeployqt uses this for naming the file
+        ./linuxdeployqt-continuous-x86_64.AppImage appdir/usr/share/applications/*.desktop -appimage
         ls
 
     - if: contains( matrix.os, 'macos')
