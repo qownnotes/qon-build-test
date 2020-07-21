@@ -121,6 +121,7 @@ jobs:
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
       run: |
+        apt install desktop-file-utils
         echo "#define RELEASE \"GitHub Actions\"" > release.h
         qmake
         lrelease QOwnNotes.pro
