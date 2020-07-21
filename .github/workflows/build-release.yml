@@ -159,11 +159,11 @@ jobs:
         # http://doc.qt.io/qt-5/windows-deployment.html
         windeployqt --release QOwnNotes.exe
         # this dll was missed by windeployqt
-        copy ..\libwinpthread-1.dll .
+        copy ..\appveyor\libwinpthread-1.dll .
         # this dll didn't work when released by windeployqt
         # important: this dll needs to be updated when a new version of Qt is used!
         # search for it in the mingw* folder of your local installation of Qt
-        copy "..\libstdc++-6.dll" .
+        copy "..\appveyor\libstdc++-6.dll" .
         # for some reason AppVeyor or windeployqt uses a copy of the German
         # translation file as English one, which screws up the English user interface
         del "translations\qt_en.qm"
