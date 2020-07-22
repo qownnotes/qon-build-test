@@ -163,7 +163,7 @@ jobs:
         type release.h
         qmake QOwnNotes.pro -r -spec win32-g++
         lrelease QOwnNotes.pro
-        mingw32-make
+        make CXXFLAGS="-m32" LDFLAGS="-m32
         md ..\release
         # copy the binary to our release path
         copy QOwnNotes.exe ..\release
