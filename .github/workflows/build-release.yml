@@ -159,7 +159,7 @@ jobs:
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
-        dir /s /b ..\..\Qt
+        dir /s /b ..\..
         echo "#define RELEASE ""GitHub Actions""" > release.h
         type release.h
         qmake QOwnNotes.pro -r -spec win32-g++
