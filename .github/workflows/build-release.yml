@@ -24,7 +24,7 @@ jobs:
         run: |
           export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
           export TAG=v${VERSION}.${GITHUB_RUN_ID}.${GITHUB_RUN_NUMBER}
-          export RELEASE_TEXT=$(grep -Pzo '## 20.7.4\n(\n|.)+?\n##' ../CHANGELOG.md | sed '$ d')
+          export RELEASE_TEXT=$(grep -Pzo '## ${VERSION}\n(\n|.)+?\n##' ../CHANGELOG.md | sed '$ d')
           RELEASE_TEXT="${RELEASE_TEXT//'%'/'%25'}"
           RELEASE_TEXT="${RELEASE_TEXT//$'\n'/'%0A'}"
           RELEASE_TEXT="${RELEASE_TEXT//$'\r'/'%0D'}"
