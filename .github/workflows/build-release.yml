@@ -189,7 +189,7 @@ jobs:
         # this dll didn't work when released by windeployqt
         # important: this dll needs to be updated when a new version of Qt is used!
         # search for it in the mingw* folder of your local installation of Qt
-        copy "..\appveyor\libstdc++-6.dll" .
+        copy ..\appveyor\libstdc++-6.dll .
         # for some reason AppVeyor or windeployqt uses a copy of the German
         # translation file as English one, which screws up the English user interface
         dir
