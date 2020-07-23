@@ -159,7 +159,6 @@ jobs:
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
       run: |
-        dir /s /b %Qt5_Dir%
         dir /s /b ..\..
         echo "#define RELEASE ""GitHub Actions""" > release.h
         type release.h
