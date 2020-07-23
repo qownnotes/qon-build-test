@@ -242,3 +242,15 @@ jobs:
         asset_path: ./QOwnNotes.zip
         asset_name: QOwnNotes.zip
         asset_content_type: application/zip
+
+  after-build:
+    name: Done
+    runs-on: ubuntu-latest
+    needs: build
+    strategy:
+      fail-fast: false
+    steps:
+    - name: Done
+      shell: bash
+      run: |
+        echo "Done!"
