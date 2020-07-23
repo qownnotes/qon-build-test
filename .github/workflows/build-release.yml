@@ -17,6 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       upload_url: ${{ steps.create_release.outputs.upload_url }}
+      release_id: ${{ steps.create_release.outputs.id }}
     steps:
       - uses: actions/checkout@v2
       - name: Set Env
@@ -253,4 +254,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        release_id: ${{ jobs.create_release.steps.create_release.outputs.id }}
+        release_id: ${{ needs.create_release.outputs.release_id }}
