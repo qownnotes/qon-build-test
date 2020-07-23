@@ -167,9 +167,9 @@ jobs:
         md ..\release
         # copy the binary to our release path
         copy release\QOwnNotes.exe ..\release
-        # copy OpenSSL DLLs to the release path
-        copy ..\appveyor\OpenSSL\libcrypto-1_1.dll ..\release
-        copy ..\appveyor\OpenSSL\libssl-1_1.dll ..\release
+        # copy Win64 OpenSSL v1.1.1g DLLs to the release path
+        copy ..\build-systems\github\windows\libcrypto-1_1-x64.dll ..\release
+        copy ..\build-systems\github\windows\libssl-1_1-x64.dll ..\release
         # copy unzip application for updater
         copy ..\appveyor\unzip.exe ..\release
         # copy updater script
