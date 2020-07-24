@@ -226,6 +226,7 @@ jobs:
         asset_path: ./src/QOwnNotes-${{ env.VERSION }}-x86_64.AppImage
         asset_name: QOwnNotes-x86_64.AppImage
         asset_content_type: application/application/x-appimage
+        asset_label: Linux
 
     - if: contains( matrix.os, 'macos')
       name: Release DMG for macOS
@@ -237,6 +238,7 @@ jobs:
         asset_path: ./src/QOwnNotes-.dmg
         asset_name: QOwnNotes.dmg
         asset_content_type: application/x-apple-diskimage
+        asset_label: macOS
 
     - if: contains( matrix.os, 'windows')
       name: Upload ZIP for Windows
@@ -248,6 +250,7 @@ jobs:
         asset_path: ./QOwnNotes.zip
         asset_name: QOwnNotes.zip
         asset_content_type: application/zip
+        asset_label: Windows
 
   publish_release:
     runs-on: ubuntu-latest
