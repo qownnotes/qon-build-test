@@ -109,7 +109,11 @@ jobs:
       run: |
         echo "VERSION=${VERSION}"
         echo "TAG=${TAG}"
+        echo "RELEASE_ID=${RELEASE_ID}
+        echo "release_id=${{ needs.create_release.outputs.release_id }}"
         printenv
+      env:
+        RELEASE_ID=${{ needs.create_release.outputs.release_id }}
 
     #
     # Build QOwnNotes
