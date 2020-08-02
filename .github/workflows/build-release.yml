@@ -14,7 +14,7 @@ defaults:
 
 jobs:
   create_release:
-    name: Create draft release
+    name: Create release
     runs-on: ubuntu-latest
     outputs:
       upload_url: ${{ steps.create_release.outputs.upload_url }}
@@ -25,6 +25,7 @@ jobs:
         run: |
           export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
           export TAG=v${VERSION}.${GITHUB_RUN_ID}.${GITHUB_RUN_NUMBER}
+          #export TAG=v${VERSION}
           export RELEASE_TEXT=$(grep -Pzo "## ${VERSION}\n(\n|.)+?\n##" ../CHANGELOG.md | sed '$ d')
           RELEASE_TEXT="${RELEASE_TEXT//'%'/'%25'}"
           RELEASE_TEXT="${RELEASE_TEXT//$'\n'/'%0A'}"
@@ -77,9 +78,7 @@ jobs:
       shell: bash
       run: |
         export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
-        export TAG=v${VERSION}.${GITHUB_RUN_ID}.${GITHUB_RUN_NUMBER}
         echo "::set-env name=VERSION::${VERSION}"
-        echo "::set-env name=TAG::${TAG}"
 
     #
     # Install Qt
@@ -109,12 +108,7 @@ jobs:
       shell: bash
       run: |
         echo "VERSION=${VERSION}"
-        echo "TAG=${TAG}"
-        echo "RELEASE_ID=${RELEASE_ID}"
-        echo "release_id=${{ needs.create_release.outputs.release_id }}"
         printenv
-      env:
-        RELEASE_ID: ${{ needs.create_release.outputs.release_id }}
 
     #
     # Build QOwnNotes
@@ -157,11 +151,10 @@ jobs:
       run: |
         echo "#define RELEASE \"GitHub Actions\"" > release.h
         lrelease QOwnNotes.pro
-        ls ${Qt5_Dir}/bin
-        whereis qmake
+        #ls ${Qt5_Dir}/bin
         qmake
         make -j2
-        ../travis/create-dmg.sh
+        ../build-systems/github/macos/create-dmg.sh
 
     - if: contains( matrix.os, 'windows')
       name: Build for Windows
@@ -226,8 +219,7 @@ jobs:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./src/QOwnNotes-${{ env.VERSION }}-x86_64.AppImage
         asset_name: QOwnNotes-x86_64.AppImage
-        asset_content_type: application/application/x-appimage
-        asset_label: Linux
+        asset_content_type: application/vnd.appimage
 
     - if: contains( matrix.os, 'macos')
       name: Release DMG for macOS
@@ -236,10 +228,9 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
-        asset_path: ./src/QOwnNotes-.dmg
+        asset_path: ./src/QOwnNotes.dmg
         asset_name: QOwnNotes.dmg
         asset_content_type: application/x-apple-diskimage
-        asset_label: macOS
 
     - if: contains( matrix.os, 'windows')
       name: Upload ZIP for Windows
@@ -251,9 +242,9 @@ jobs:
         asset_path: ./QOwnNotes.zip
         asset_name: QOwnNotes.zip
         asset_content_type: application/zip
-        asset_label: Windows
 
   publish_release:
+    name: Publish release
     runs-on: ubuntu-latest
     needs: [create_release, build]
     steps:
