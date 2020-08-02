@@ -1,11 +1,11 @@
 name: 'build-test'
 
 on:
-#  push:
-#    branches:
-#      - develop
-#    tags-ignore:
-#      - '*'
+  push:
+    branches:
+      - develop
+    tags-ignore:
+      - '*'
 #  pull_request:
   workflow_dispatch:
 
