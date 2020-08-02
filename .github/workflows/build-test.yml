@@ -103,7 +103,7 @@ jobs:
       run: |
         cd ..\tests
         qmake DEFINES+=INTEGRATION_TESTS CONFIG-=x86_64 CONFIG+=x86
-        make
+        make CONFIG-=x86_64 CONFIG+=x86
         copy ..\build-systems\github\windows\libcrypto-1_1-x64.dll .
         copy ..\build-systems\github\windows\libssl-1_1-x64.dll .
         copy ..\bin\tests\tests.exe .
