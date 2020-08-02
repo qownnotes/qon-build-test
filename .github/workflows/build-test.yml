@@ -102,7 +102,7 @@ jobs:
       name: Do Windows tests
       run: |
         cd ..\tests
-        qmake DEFINES+=INTEGRATION_TESTS
+        qmake DEFINES+=INTEGRATION_TESTS -spec win32-g++
         CONFIG-=x86_64 CONFIG+=x86
         mingw32-make CXXFLAGS="-m32" LDFLAGS="-m32"
         copy ..\build-systems\github\windows\libcrypto-1_1-x64.dll .
