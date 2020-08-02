@@ -1,11 +1,12 @@
 name: 'build-release'
 
 on:
-  push:
-    branches:
-      - develop
-    tags-ignore:
-      - '*'
+#  push:
+#    branches:
+#      - develop
+#    tags-ignore:
+#      - '*'
+  workflow_dispatch:
 
 defaults:
   run:
