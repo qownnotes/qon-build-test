@@ -19,11 +19,13 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-latest, macos-latest, windows-latest]
+#        os: [ubuntu-latest, macos-latest, windows-latest]
+        os: [windows-latest]
         # Linux:   https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/
         # macOS:   https://download.qt.io/online/qtsdkrepository/mac_x64/desktop/
         # Windows: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/
-        qt-version: ['5.3', '5.4', '5.7', '5.13.2', '5.14.2', '5.15.0']
+#        qt-version: ['5.3', '5.4', '5.7', '5.13.2', '5.14.2', '5.15.0']
+        qt-version: ['5.7']
         exclude:
           # xcode not found
           - os: macos-latest
@@ -105,7 +107,8 @@ jobs:
         qmake DEFINES+=INTEGRATION_TESTS -spec win32-g++
         # CONFIG-=x86_64 CONFIG+=x86
         # mingw32-make CXXFLAGS="-m32" LDFLAGS="-m32"
-        mingw32-make CXXFLAGS="-std=gnu++11 -DBOTAN_TARGET_ARCH_IS_X86_32 -DBOTAN_TARGET_CPU_IS_X86_FAMILY"
+        # mingw32-make CXXFLAGS="-std=gnu++11 -DBOTAN_TARGET_ARCH_IS_X86_32 -DBOTAN_TARGET_CPU_IS_X86_FAMILY"
+        make CXXFLAGS="-std=gnu++11 -DBOTAN_TARGET_ARCH_IS_X86_32 -DBOTAN_TARGET_CPU_IS_X86_FAMILY"
         copy ..\build-systems\github\windows\libcrypto-1_1-x64.dll .
         copy ..\build-systems\github\windows\libssl-1_1-x64.dll .
         copy ..\bin\tests\tests.exe .
