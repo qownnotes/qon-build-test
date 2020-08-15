@@ -195,6 +195,7 @@ jobs:
         # translation file as English one, which screws up the English user interface
         del translations\qt_en.qm
         Compress-Archive -Path * -DestinationPath ..\QOwnNotes.zip
+        Compress-Archive -Path ..\..\Qt\5.13.2\mingw73_64\qml\QtQuick\* -DestinationPath ..\QtQuick.zip
 
     #
     # Release QOwnNotes
@@ -241,6 +242,16 @@ jobs:
         upload_url: ${{ needs.create_release.outputs.upload_url }}
         asset_path: ./QOwnNotes.zip
         asset_name: QOwnNotes.zip
+        asset_content_type: application/zip
+    - if: contains( matrix.os, 'windows')
+      name: Upload QtQuick.zip for Windows
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ needs.create_release.outputs.upload_url }}
+        asset_path: ./QtQuick.zip
+        asset_name: QtQuick.zip
         asset_content_type: application/zip
 
   publish_release:
