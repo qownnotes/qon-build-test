@@ -196,6 +196,7 @@ jobs:
         del translations\qt_en.qm
         Compress-Archive -Path * -DestinationPath ..\QOwnNotes.zip
         Compress-Archive -Path ..\..\Qt\5.13.2\mingw73_64\qml\QtQuick\* -DestinationPath ..\QtQuick.zip
+        tree ..\..\Qt\5.13.2 /f
 
     #
     # Release QOwnNotes
