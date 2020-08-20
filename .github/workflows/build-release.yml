@@ -149,7 +149,7 @@ jobs:
     - if: contains( matrix.os, 'macos')
       name: Build for macOS
       run: |
-        brew install libiodbc postgres tree
+        brew install tree
         echo "#define RELEASE \"GitHub Actions\"" > release.h
         lrelease QOwnNotes.pro
         #ls ${Qt5_Dir}/bin
