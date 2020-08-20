@@ -51,7 +51,9 @@ fi
 echo "Cloning macdeployqtfix"
 git clone --depth=1 https://github.com/aurelien-rainone/macdeployqtfix.git
 echo "Calling macdeployqtfix for ${Qt5_Dir}"
-tree ${Qt5_Dir}
+#tree ${Qt5_Dir}
+tree /usr/local/opt/libiodbc/lib
+tree /Applications/Postgres.app/Contents/Versions/9.6/lib/
 python macdeployqtfix/macdeployqtfix.py $APP.app/Contents/MacOS/$APP ${Qt5_Dir}
 
 echo "Create $TEMPDIR"
