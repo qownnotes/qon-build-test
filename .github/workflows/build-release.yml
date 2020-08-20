@@ -154,6 +154,7 @@ jobs:
         #ls ${Qt5_Dir}/bin
         qmake
         make -j2
+        chmod a+x ../build-systems/github/macos/create-dmg.sh
         ../build-systems/github/macos/create-dmg.sh
 
     - if: contains( matrix.os, 'windows')
