@@ -38,7 +38,7 @@ cp languages/*.qm $APP.app/Contents/Resources
 
 # use macdeployqt to deploy the application
 echo "Calling macdeployqt"
-${Qt5_Dir}/bin/macdeployqt ./$APP.app
+${Qt5_Dir}/bin/macdeployqt ./$APP.app -verbose=3
 if [ "$?" -ne "0" ]; then
     echo "Failed to run macdeployqt"
     exit 1
@@ -52,9 +52,9 @@ echo "Cloning macdeployqtfix"
 git clone --depth=1 https://github.com/aurelien-rainone/macdeployqtfix.git
 echo "Calling macdeployqtfix for ${Qt5_Dir}"
 #tree ${Qt5_Dir}
-tree /usr/local
-tree /Applications/Postgres.app
-python macdeployqtfix/macdeployqtfix.py $APP.app/Contents/MacOS/$APP /usr/local
+ls /usr/local
+#tree /Applications/Postgres.app
+#python macdeployqtfix/macdeployqtfix.py $APP.app/Contents/MacOS/$APP /usr/local
 
 echo "Create $TEMPDIR"
 #Create a temporary directory if one doesn't exist
