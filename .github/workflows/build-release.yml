@@ -153,7 +153,7 @@ jobs:
         echo "#define RELEASE \"GitHub Actions\"" > release.h
         lrelease QOwnNotes.pro
         #ls ${Qt5_Dir}/bin
-        qmake -dead_strip -config release
+        qmake -config release
         make -j2
         chmod a+x ../build-systems/github/macos/create-dmg.sh
         ../build-systems/github/macos/create-dmg.sh
