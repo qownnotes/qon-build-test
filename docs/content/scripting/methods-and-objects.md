@@ -702,7 +702,7 @@ reference of what styles are available.
 
 If you want to inject styles into html preview to alter the way notes
 are previewed please look at
-[notetomarkdownhtmlhook](#notetomarkdownhtmlhook).
+[notetomarkdownhtmlhook](../hooks/#notetomarkdownhtmlhook).
 
 Reloading the scripting engine
 ------------------------------
@@ -1132,6 +1132,50 @@ Keep in mind that settings actually can be empty, you have to take care
 about that yourself. `defaultValue` is only used if the setting doesn't
 exist at all.
 
+Creating a cache directory
+--------------------------
+
+You can cache files at the default cache location of your system.
+
+!!! help "Method call and parameters"
+    ```cpp
+    /**
+     * Returns a cache directory for a script
+     *
+     * @param {QString} subDir the subfolder to create and use
+     * @return {QString} the cache dir path
+     */
+    QString ScriptingService::cacheDir(const QString &subDir) const;
+    ```
+
+!!! example
+    ```js
+    // create the cache directory for my-script-id
+    var cacheDirForScript = script.cacheDir("my-script-id");
+    ```
+
+Clearing a cache directory
+--------------------------
+
+You can clear the cache files of your script by passing its name to clearCacheDir().
+
+!!! help "Method call and parameters"
+    ```cpp
+    /**
+     * Clears the cache directory for a script
+     *
+     * @param {QString} subDir the subfolder to clear
+     * @return {bool} true on success
+     */
+    bool ScriptingService::clearCacheDir(const QString &subDir) const;
+    ```
+
+!!! example
+    ```js
+    // clear cache directory of my-script-id 
+    script.clearCacheDir("my-script-id");
+    ```
+
 Reading the path to the directory of your script
 ------------------------------------------------
 
@@ -1368,17 +1412,18 @@ Checking if a file exists
     ```
 
 Reading text from a file
-----------------------
+------------------------
 
 !!! help "Method call and parameters"
     ```cpp
     /**
      * Read text from a file
      *
-     * @param filePath
+     * @param filePath {QString} path of the file to load
+     * @param codec {QString} file encoding (default: UTF-8)
      * @return the file data or null if the file does not exist
      */
-    QString ScriptingService::readFromFile(const QString &filePath)
+    QString ScriptingService::readFromFile(const QString &filePath, const QString &codec)
     ```
 
 !!! example
