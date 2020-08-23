@@ -1789,7 +1789,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="696"/>
-      <location filename="../mainwindow.cpp" line="8679"/>
+      <location filename="../mainwindow.cpp" line="8687"/>
       <source>Add a tag to the current note</source>
       <translation>Joriy qaydga teg qo'shing</translation>
     </message>
@@ -1825,7 +1825,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1238"/>
-      <location filename="../mainwindow.cpp" line="6666"/>
+      <location filename="../mainwindow.cpp" line="6669"/>
       <source>Custom actions</source>
       <translation>Maxsus harakatlar</translation>
     </message>
@@ -1906,13 +1906,13 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1445"/>
-      <location filename="../mainwindow.cpp" line="10369"/>
+      <location filename="../mainwindow.cpp" line="10381"/>
       <source>Select &amp;all notes</source>
       <translation>Barcha &amp;eslatmalarni tanlang</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1454"/>
-      <location filename="../mainwindow.cpp" line="6577"/>
+      <location filename="../mainwindow.cpp" line="6580"/>
       <source>Insert &amp;link</source>
       <translation>Havolani &amp;joylashtiring</translation>
     </message>
@@ -1967,7 +1967,7 @@
       <translation>Qayd qidirish yoki yaratish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8680"/>
+      <location filename="../mainwindow.cpp" line="8688"/>
       <source>Add a tag to the selected notes</source>
       <translation>Tanlangan yozuvlarga teg qo'shing</translation>
     </message>
@@ -1978,7 +1978,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="886"/>
-      <location filename="../mainwindow.cpp" line="6628"/>
+      <location filename="../mainwindow.cpp" line="6631"/>
       <source>Export</source>
       <translation>Eksport qilish</translation>
     </message>
@@ -1989,7 +1989,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="928"/>
-      <location filename="../mainwindow.cpp" line="6609"/>
+      <location filename="../mainwindow.cpp" line="6612"/>
       <source>Print</source>
       <translation>Chop eting</translation>
     </message>
@@ -2362,7 +2362,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2244"/>
-      <location filename="../mainwindow.cpp" line="11484"/>
+      <location filename="../mainwindow.cpp" line="11496"/>
       <source>Remove current workspace</source>
       <translation>Joriy ish joyini olib tashlang</translation>
     </message>
@@ -2404,7 +2404,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2318"/>
-      <location filename="../mainwindow.cpp" line="6586"/>
+      <location filename="../mainwindow.cpp" line="6589"/>
       <source>Insert block &amp;quote</source>
       <translation>Blok taklifini &amp;joylashtiring</translation>
     </message>
@@ -2431,7 +2431,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2365"/>
-      <location filename="../mainwindow.cpp" line="10345"/>
+      <location filename="../mainwindow.cpp" line="10357"/>
       <source>Open note in different window</source>
       <translation>Qaydni turli oynada oching</translation>
     </message>
@@ -2452,7 +2452,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2405"/>
-      <location filename="../mainwindow.cpp" line="10353"/>
+      <location filename="../mainwindow.cpp" line="10365"/>
       <source>Show note git versions</source>
       <translation>Eslatma git versiyalarini ko'rsatish</translation>
     </message>
@@ -2535,7 +2535,7 @@
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2567"/>
-      <location filename="../mainwindow.cpp" line="12401"/>
+      <location filename="../mainwindow.cpp" line="12423"/>
       <source>Automatically detect</source>
       <translation>Avtomatik ravishda aniqlash</translation>
     </message>
@@ -2720,22 +2720,22 @@
       <translation>Evernote-dan eslatmalarni import qiling</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2839"/>
+      <location filename="../mainwindow.cpp" line="2845"/>
       <source>Note was removed externally!</source>
       <translation>Qayd tashqi tomondan olib tashlandi!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2840"/>
+      <location filename="../mainwindow.cpp" line="2846"/>
       <source>Current note was removed outside of this application!
 Restore current note?</source>
       <translation>Ushbu qayd ushbu ilovadan tashqarida olib tashlandi!
 Hozirgi qayd qayta tiklansinmi?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5436"/>
-      <location filename="../mainwindow.cpp" line="5459"/>
-      <location filename="../mainwindow.cpp" line="7071"/>
-      <location filename="../mainwindow.cpp" line="10435"/>
+      <location filename="../mainwindow.cpp" line="5441"/>
+      <location filename="../mainwindow.cpp" line="5464"/>
+      <location filename="../mainwindow.cpp" line="7074"/>
+      <location filename="../mainwindow.cpp" line="10447"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Bekor qilish</translation>
     </message>
@@ -2747,47 +2747,47 @@ Hozirgi qayd qayta tiklansinmi?</translation>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3077"/>
+      <location filename="../mainwindow.cpp" line="3082"/>
       <source>new version %1 available</source>
       <translation>yangi %1 versiyasi mavjud</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3194"/>
+      <location filename="../mainwindow.cpp" line="3199"/>
       <source>Abort</source>
       <translation>To'xtatish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3194"/>
+      <location filename="../mainwindow.cpp" line="3199"/>
       <source>Loading notes…</source>
       <translation>Qaydlar yuklanmoqda…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3408"/>
+      <location filename="../mainwindow.cpp" line="3413"/>
       <source>Removed duplicate conflicted database: %1</source>
       <translation>Qarama-qarshi ma'lumotlar bazasi nusxasi o'chirildi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3409"/>
+      <location filename="../mainwindow.cpp" line="3414"/>
       <source>Could not remove duplicate conflicted database: %1</source>
       <translation>Bir-biriga zid bo'lgan ma'lumotlar bazasini o'chirib bo'lmadi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3415"/>
+      <location filename="../mainwindow.cpp" line="3420"/>
       <source>Removed merged conflicted database: %1</source>
       <translation>Birlashtirilgan qarama-qarshi ma'lumotlar bazasi o'chirildi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3416"/>
+      <location filename="../mainwindow.cpp" line="3421"/>
       <source>Could not remove merged conflicted database: %1</source>
       <translation>Birlashtirilgan qarama-qarshi ma'lumotlar bazasini o'chirib bo'lmadi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3431"/>
+      <location filename="../mainwindow.cpp" line="3436"/>
       <source>Delete conflicted database copies</source>
       <translation>Zid bo'lgan ma'lumotlar bazasi nusxalarini o'chiring</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="3454"/>
+      <location filename="../mainwindow.cpp" line="3459"/>
       <source>Removed %n conflicted database copies</source>
       <translation>
         <numerusform>%n zid bo'lgan ma'lumotlar bazasi nusxasi o'chirildi</numerusform>
@@ -2795,62 +2795,62 @@ Hozirgi qayd qayta tiklansinmi?</translation>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3618"/>
+      <location filename="../mainwindow.cpp" line="3623"/>
       <source>Please select the folder where your notes will get stored</source>
       <translation>Eslatmalaringiz saqlanadigan papkani tanlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3644"/>
+      <location filename="../mainwindow.cpp" line="3649"/>
       <source>No folder was selected</source>
       <translation>Hech qanday jild tanlanmagan</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3646"/>
+      <location filename="../mainwindow.cpp" line="3651"/>
       <source>You have to select your ownCloud notes folder to make this software work!</source>
       <translation>Ushbu dasturiy ta'minot ishlashi uchun siz ownCloud eslatmalar papkangizni tanlashingiz kerak!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3648"/>
+      <location filename="../mainwindow.cpp" line="3653"/>
       <source>&amp;Retry</source>
       <translation>&amp;Qayta urinish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3648"/>
+      <location filename="../mainwindow.cpp" line="3653"/>
       <source>&amp;Exit</source>
       <translation>&amp;Chiqish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3956"/>
+      <location filename="../mainwindow.cpp" line="3961"/>
       <source>Remove current note</source>
       <translation>Joriy qaydni olib tashlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3957"/>
+      <location filename="../mainwindow.cpp" line="3962"/>
       <source>Remove current note: &lt;strong&gt;%1&lt;/strong&gt;?</source>
       <translation>Joriy qaydni o'chirish: &lt;strong&gt;%1&lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4314"/>
+      <location filename="../mainwindow.cpp" line="4319"/>
       <source>Please enter the &lt;strong&gt;password&lt;/strong&gt; of this encrypted note.</source>
       <translation>Ushbu shifrlangan qaydning &lt;strong&gt; parolini &lt;/strong&gt; kiriting.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4337"/>
+      <location filename="../mainwindow.cpp" line="4342"/>
       <source>Note can't be decrypted!</source>
       <translation>Qaydni shifrdan chiqarib bo'lmaydi!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4338"/>
+      <location filename="../mainwindow.cpp" line="4343"/>
       <source>It seems that your password is not valid!</source>
       <translation>Sizning parolingiz haqiqiy emas shekilli!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4506"/>
+      <location filename="../mainwindow.cpp" line="4511"/>
       <source>Remove selected notes</source>
       <translation>Belgilangan qaydlarni olib tashlang</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4508"/>
+      <location filename="../mainwindow.cpp" line="4513"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?
 
 If the trash is enabled on your ownCloud server you should be able to restore them from there.</source>
@@ -2864,13 +2864,13 @@ Agar axlat o'zingizning ownCloud serveringizda yoqilgan bo'lsa, ularni o'sha erd
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4596"/>
-      <location filename="../mainwindow.cpp" line="10652"/>
+      <location filename="../mainwindow.cpp" line="4601"/>
+      <location filename="../mainwindow.cpp" line="10664"/>
       <source>Remove selected folders</source>
       <translation>Tanlangan papkalarni olib tashlang</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4597"/>
+      <location filename="../mainwindow.cpp" line="4602"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected folder(s)?&lt;ul&gt;&lt;li&gt;%1&lt;/li&gt;&lt;/ul&gt;All files and folders in these folders will be removed as well!</source>
       <translation>
         <numerusform>Tanlangan papkani &lt;strong&gt;% n &lt;/strong&gt; o'chirish kerakmi? &lt;ul&gt; &lt;li&gt;%1 &lt;/li&gt; &lt;/ul&gt; Ushbu papkadagi barcha fayllar va papkalar ham olib tashlanadi!
@@ -2882,17 +2882,17 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4608"/>
+      <location filename="../mainwindow.cpp" line="4613"/>
       <source>Removed note subfolder: %1</source>
       <translation>O'chirilgan qaydlar jildi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4628"/>
+      <location filename="../mainwindow.cpp" line="4633"/>
       <source>Remove selected tags</source>
       <translation>Tanlangan teglarni olib tashlang</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4629"/>
+      <location filename="../mainwindow.cpp" line="4634"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected tag(s)? No notes will be removed in this process.</source>
       <translation>
         <numerusform>Tanlangan teg &lt;strong&gt;%n &lt;/strong&gt; o'chirilsinmi? Ushbu jarayonda qaydlar olib tashlanmaydi.</numerusform>
@@ -2900,13 +2900,13 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4681"/>
-      <location filename="../mainwindow.cpp" line="9465"/>
+      <location filename="../mainwindow.cpp" line="4686"/>
+      <location filename="../mainwindow.cpp" line="9473"/>
       <source>Move selected notes</source>
       <translation>Belgilangan qaydlarni ko'chirish</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4682"/>
+      <location filename="../mainwindow.cpp" line="4687"/>
       <source>Move %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Tanlangan %n eslatma ni &lt;strong&gt;%2 &lt;/strong&gt; ga ko'chirish?</numerusform>
@@ -2914,13 +2914,13 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4785"/>
-      <location filename="../mainwindow.cpp" line="9573"/>
+      <location filename="../mainwindow.cpp" line="4790"/>
+      <location filename="../mainwindow.cpp" line="9581"/>
       <source>Copy selected notes</source>
       <translation>Tanlangan eslatmalarni nusxalash</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4786"/>
+      <location filename="../mainwindow.cpp" line="4791"/>
       <source>Copy %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Tanlangan %n eslatmani &lt;strong&gt;%2 &lt;/strong&gt; ga nusxalash kerakmi?</numerusform>
@@ -2928,13 +2928,13 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4816"/>
-      <location filename="../mainwindow.cpp" line="4965"/>
+      <location filename="../mainwindow.cpp" line="4821"/>
+      <location filename="../mainwindow.cpp" line="4970"/>
       <source>Done</source>
       <translation>Bajarildi</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4817"/>
+      <location filename="../mainwindow.cpp" line="4822"/>
       <source>%n note(s) were copied to &lt;strong&gt;%2&lt;/strong&gt;.</source>
       <translation>
         <numerusform>%n qayd &lt;strong&gt;%2&lt;/strong&gt; ga ko'chirildi.</numerusform>
@@ -2942,12 +2942,12 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4830"/>
+      <location filename="../mainwindow.cpp" line="4835"/>
       <source>Tag selected notes</source>
       <translation>Belgilangan qaydlarni teglang</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4831"/>
+      <location filename="../mainwindow.cpp" line="4836"/>
       <source>Tag %n selected note(s) with &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Tanlangan %n belgisini &lt;strong&gt;%2&lt;/strong&gt; belgisiga belgilangmi?</numerusform>
@@ -2955,42 +2955,42 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5104"/>
+      <location filename="../mainwindow.cpp" line="5109"/>
       <source>Restart application</source>
       <translation>Ilovani qayta yoqing</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5110"/>
+      <location filename="../mainwindow.cpp" line="5115"/>
       <source>You may need to restart the application manually to let the changes take effect.</source>
       <translation>O'zgarishlar kuchga kirishi uchun ilovani qayta ishga tushirishingiz kerak bo'lishi mumkin.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5115"/>
+      <location filename="../mainwindow.cpp" line="5120"/>
       <source>You may need to restart the application to let the changes take effect.</source>
       <translation>O'zgarishlar kuchga kirishi uchun ilovani qayta ishga tushirishingiz kerak bo'lishi mumkin.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5117"/>
+      <location filename="../mainwindow.cpp" line="5122"/>
       <source>Restart</source>
       <translation>Qayta ishga tushirish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5348"/>
+      <location filename="../mainwindow.cpp" line="5353"/>
       <source>PDF files</source>
       <translation>PDF-fayllar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5432"/>
+      <location filename="../mainwindow.cpp" line="5437"/>
       <source>Todo lists disabled!</source>
       <translation>Todo ro'yxatlari o'chirilgan!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5433"/>
+      <location filename="../mainwindow.cpp" line="5438"/>
       <source>You have disabled the todo lists.&lt;br /&gt;Please check your &lt;strong&gt;Todo&lt;/strong&gt; configuration in the settings!</source>
       <translation>Siz todo ro'yxatlarini o'chirib qo'ydingiz. &lt;br /&gt; Iltimos, sozlamalardagi &lt;strong&gt; Todo &lt;/strong&gt; konfiguratsiyangizni tekshiring!</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="5676"/>
+      <location filename="../mainwindow.cpp" line="5681"/>
       <source>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of any term of &lt;strong&gt;%1&lt;/strong&gt;</source>
       <translation>
         <numerusform>&lt;strong&gt;%n &lt;/strong&gt; har qanday muddatda &lt;strong&gt;%1 &lt;/strong&gt; topilganligi topildi</numerusform>
@@ -2998,99 +2998,99 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6226"/>
+      <location filename="../mainwindow.cpp" line="6229"/>
       <source>Note was not found</source>
       <translation>Qayd topilmadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6227"/>
+      <location filename="../mainwindow.cpp" line="6230"/>
       <source>Note was not found, create new note &lt;strong&gt;%1&lt;/strong&gt;?</source>
       <translation>Qayd topilmadi, yangi eslatma yarating &lt;strong&gt;%1&lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6390"/>
+      <location filename="../mainwindow.cpp" line="6393"/>
       <source>Note folders</source>
       <translation>Eslatma papkalari</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6513"/>
+      <location filename="../mainwindow.cpp" line="6516"/>
       <source>Note versions are currently loaded from your ownCloud server</source>
       <translation>Eslatma versiyalari hozirda sizning ownCloud serveringizdan yuklanadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6530"/>
+      <location filename="../mainwindow.cpp" line="6533"/>
       <source>Trashed notes are currently loaded from your ownCloud server</source>
       <translation>O'chirilgan eslatmalar hozirgi vaqtda sizning ownCloud serveringizdan yuklanadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6596"/>
+      <location filename="../mainwindow.cpp" line="6599"/>
       <source>Copy code block</source>
       <translation>Kod blokidan nusxa olish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6617"/>
+      <location filename="../mainwindow.cpp" line="6620"/>
       <source>Print selected text</source>
       <translation>Tanlangan matnni chop etish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6623"/>
+      <location filename="../mainwindow.cpp" line="6626"/>
       <source>Print selected text (preview)</source>
       <translation>Tanlangan matnni chop etish (oldindan ko'rish)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6641"/>
+      <location filename="../mainwindow.cpp" line="6644"/>
       <source>Export selected text as PDF</source>
       <translation>Tanlangan matnni PDF formatida eksport qiling</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6647"/>
+      <location filename="../mainwindow.cpp" line="6650"/>
       <source>Export selected text as PDF (preview)</source>
       <translation>Tanlangan matnni PDF formatida eksport qilish (oldindan ko'rish)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7067"/>
+      <location filename="../mainwindow.cpp" line="7070"/>
       <source>Your note will be decrypted and stored as plain text again. Keep in mind that the unencrypted note will possibly be synced to your server and sensitive text may be exposed!&lt;br /&gt;Do you want to decrypt your note?</source>
       <translation>Sizning qaydingiz shifrdan chiqariladi va yana oddiy matn sifatida saqlanadi. Shuni yodda tutingki, shifrlanmagan eslatma sizning serveringizga sinxronlashtirilishi mumkin va nozik matn paydo bo'lishi mumkin! &lt;br /&gt; Eslatmani ochishni xohlaysizmi?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7164"/>
+      <location filename="../mainwindow.cpp" line="7167"/>
       <source>Markdown files</source>
       <translation>Markdown fayllari</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7220"/>
+      <location filename="../mainwindow.cpp" line="7223"/>
       <source>Bookmarked note position at slot %1</source>
       <translation>Belgilangan qayd %1 uyasida</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7235"/>
+      <location filename="../mainwindow.cpp" line="7238"/>
       <source>Jumped to bookmark position at slot %1</source>
       <translation>%1 uyasida manzil belgisiga o'tish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7463"/>
-      <location filename="../mainwindow.cpp" line="7532"/>
+      <location filename="../mainwindow.cpp" line="7466"/>
+      <location filename="../mainwindow.cpp" line="7535"/>
       <source>Inserting image</source>
       <translation>Rasm joylashtirilmoqda</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7468"/>
-      <location filename="../mainwindow.cpp" line="7536"/>
+      <location filename="../mainwindow.cpp" line="7471"/>
+      <location filename="../mainwindow.cpp" line="7539"/>
       <source>Done inserting image</source>
       <translation>Rasm qo'shish tugallandi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7470"/>
+      <location filename="../mainwindow.cpp" line="7473"/>
       <source>Inserting attachment</source>
       <translation>Qo'shimchani o'rnatish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7475"/>
+      <location filename="../mainwindow.cpp" line="7478"/>
       <source>Done inserting attachment</source>
       <translation>Ilova biriktirildi</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7487"/>
+      <location filename="../mainwindow.cpp" line="7490"/>
       <source>Copied %n note(s) to %1</source>
       <translation>
         <numerusform>%n qayd ni %1-ga nusxalash</numerusform>
@@ -3098,7 +3098,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7496"/>
+      <location filename="../mainwindow.cpp" line="7499"/>
       <source>Failed to copy %n note(s) (most likely already existing)</source>
       <translation>
         <numerusform>%n qayd ni nusxalashda xatolik yuz berdi (ehtimol allaqachon mavjud)</numerusform>
@@ -3106,7 +3106,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7506"/>
+      <location filename="../mainwindow.cpp" line="7509"/>
       <source>Skipped copying of %n note(s) (no markdown or text file or not readable)</source>
       <translation>
         <numerusform>%n qayd ni o'tkazib yuborish (hech qanday belgi yoki matnli fayl yo'q yoki o'qilmaydi)</numerusform>
@@ -3114,225 +3114,225 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7519"/>
+      <location filename="../mainwindow.cpp" line="7522"/>
       <source>Saving temporary image</source>
       <translation>Vaqtinchalik rasm saqlanmoqda</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7538"/>
+      <location filename="../mainwindow.cpp" line="7541"/>
       <source>Temporary file can't be opened</source>
       <translation>Vaqtinchalik faylni ochib bo'lmaydi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7581"/>
+      <location filename="../mainwindow.cpp" line="7584"/>
       <source>Downloading %1</source>
       <translation>%1 yuklanmoqda</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7771"/>
+      <location filename="../mainwindow.cpp" line="7774"/>
       <source>Reset font size to %1 pt</source>
       <comment>Will be shown after the font size is reset by 'Reset note text size'</comment>
       <translation>Shriftning o'lchamini %1 pt ga o'zgartiring</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8725"/>
+      <location filename="../mainwindow.cpp" line="8733"/>
       <source>Remove tag '%1' from the current note</source>
       <translation>Joriy eslatmadan '%1' yorlig'ini olib tashlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8726"/>
+      <location filename="../mainwindow.cpp" line="8734"/>
       <source>Remove tag '%1' from the selected notes</source>
       <translation>Tanlangan qaydlardan '%1' yorlig'ini olib tashlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8957"/>
+      <location filename="../mainwindow.cpp" line="8965"/>
       <source>Rename tag</source>
       <translation>Yorliq nomini o'zgartiring</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8958"/>
+      <location filename="../mainwindow.cpp" line="8966"/>
       <source>Assign color</source>
       <translation>Rangni belgilang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8959"/>
+      <location filename="../mainwindow.cpp" line="8967"/>
       <source>Disable color</source>
       <translation>Rangni o'chiring</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8963"/>
+      <location filename="../mainwindow.cpp" line="8971"/>
       <source>&amp;Move tags to…</source>
       <translation>&amp;Teglarni... ga ko‘chirish…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9174"/>
+      <location filename="../mainwindow.cpp" line="9182"/>
       <source>Move to the root</source>
       <comment>to move a tag to the current tag in the tag context menu</comment>
       <translation>Ildizga o'ting</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9739"/>
+      <location filename="../mainwindow.cpp" line="9747"/>
       <source>An url was opened at the current cursor position</source>
       <translation>Mavjud kursor o'rnida url ochildi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9843"/>
+      <location filename="../mainwindow.cpp" line="9851"/>
       <source>No equation was found in front of the cursor</source>
       <translation>Kursor oldida hech qanday tenglama topilmadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9860"/>
+      <location filename="../mainwindow.cpp" line="9868"/>
       <source>Result for equation: %1 = %2</source>
       <translation>Tenglama uchun natija: %1 = %2</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9961"/>
+      <location filename="../mainwindow.cpp" line="9973"/>
       <source>The scripting engine was reloaded</source>
       <translation>Skript mexanizmi qayta yuklandi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9995"/>
+      <location filename="../mainwindow.cpp" line="10007"/>
       <source>HTML files</source>
       <translation>HTML-fayllar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10281"/>
+      <location filename="../mainwindow.cpp" line="10293"/>
       <source>Jump to the note's subfolder</source>
       <translation>Qaydning pastki jildiga o'ting
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10338"/>
+      <location filename="../mainwindow.cpp" line="10350"/>
       <source>Open note in tab</source>
       <translation>Qaydni tabda oching
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12004"/>
+      <location filename="../mainwindow.cpp" line="12016"/>
       <source>A script update was found!</source>
       <translation>Skript yangilanishi topildi!
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12010"/>
+      <location filename="../mainwindow.cpp" line="12022"/>
       <source>Script updates</source>
       <translation>Skript yangilanishlari
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12011"/>
+      <location filename="../mainwindow.cpp" line="12023"/>
       <source>Updates to your scripts were found in the script repository! Do you want to update them?</source>
       <translation>Skriptlaringiz uchun yangilanishlar skript omborida topildi! Siz ularni yangilamoqchimisiz?
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12026"/>
+      <location filename="../mainwindow.cpp" line="12038"/>
       <source>No script updates were found</source>
       <translation>Skript yangilanishlari topilmadi
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12632"/>
+      <location filename="../mainwindow.cpp" line="12654"/>
       <source>Toggle note stickiness</source>
       <translation>Yozuvning yopishqoqligini o'zgartiring
 </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12638"/>
+      <location filename="../mainwindow.cpp" line="12660"/>
       <source>Close other note tabs</source>
       <translation>Boshqa qayd yorliqlarini yoping</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10225"/>
-      <location filename="../mainwindow.cpp" line="10419"/>
+      <location filename="../mainwindow.cpp" line="10237"/>
+      <location filename="../mainwindow.cpp" line="10431"/>
       <source>Rename note</source>
       <translation>Qaydni qayta nomlash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10227"/>
+      <location filename="../mainwindow.cpp" line="10239"/>
       <source>Allows you to rename the filename of the note</source>
       <translation>Qayd nomining nomini o'zgartirishga imkon beradi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10241"/>
+      <location filename="../mainwindow.cpp" line="10253"/>
       <source>&amp;Move notes to…</source>
       <translation>&amp;Qaydlarni... ga ko‘chirish…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10242"/>
+      <location filename="../mainwindow.cpp" line="10254"/>
       <source>&amp;Copy notes to…</source>
       <translation>&amp;Qaydlarni nusxalash…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10285"/>
+      <location filename="../mainwindow.cpp" line="10297"/>
       <source>Move notes to subfolder…</source>
       <translation>Qaydlarni pastki jildga ko'chirish…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10289"/>
+      <location filename="../mainwindow.cpp" line="10301"/>
       <source>Copy notes to subfolder…</source>
       <translation>Qaydlarni quyi jildga nusxalash…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10297"/>
+      <location filename="../mainwindow.cpp" line="10309"/>
       <source>&amp;Tag selected notes with…</source>
       <translation>&amp;Belgilangan qaydlarni teg bilan belgilang…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10321"/>
+      <location filename="../mainwindow.cpp" line="10333"/>
       <source>&amp;Remove tag from selected notes…</source>
       <translation>&amp;Belgilangan qaydlardan yorliqni olib tashlash…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10419"/>
+      <location filename="../mainwindow.cpp" line="10431"/>
       <source>Name:</source>
       <translation>Ism:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10431"/>
+      <location filename="../mainwindow.cpp" line="10443"/>
       <source>Note renaming not enabled!</source>
       <translation>Qaydni qayta nomlash yoqilmagan!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10651"/>
+      <location filename="../mainwindow.cpp" line="10663"/>
       <source>Rename subfolder</source>
       <translation>Quyi jildning nomini o'zgartirish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11255"/>
+      <location filename="../mainwindow.cpp" line="11267"/>
       <source>Create new workspace</source>
       <translation>Yangi ish joyini yarating</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11256"/>
-      <location filename="../mainwindow.cpp" line="11526"/>
+      <location filename="../mainwindow.cpp" line="11268"/>
+      <location filename="../mainwindow.cpp" line="11538"/>
       <source>Workspace name:</source>
       <translation>Ish maydoni nomi:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11381"/>
+      <location filename="../mainwindow.cpp" line="11393"/>
       <source>full</source>
       <comment>full workspace</comment>
       <translation>to'la</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11388"/>
+      <location filename="../mainwindow.cpp" line="11400"/>
       <source>minimal</source>
       <comment>minimal workspace</comment>
       <translation>minimal</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11485"/>
+      <location filename="../mainwindow.cpp" line="11497"/>
       <source>Remove the current workspace?</source>
       <translation>Joriy ish maydoni olib tashlansinmi?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11525"/>
+      <location filename="../mainwindow.cpp" line="11537"/>
       <source>Rename workspace</source>
       <translation>Ish joyini qayta nomlash</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="11671"/>
+      <location filename="../mainwindow.cpp" line="11683"/>
       <source>%n chars</source>
       <comment>characters</comment>
       <translation>
@@ -3341,42 +3341,42 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11943"/>
+      <location filename="../mainwindow.cpp" line="11955"/>
       <source>Disallow all note editing</source>
       <translation>Barcha eslatmalarni tahrirlashni taqiqlash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12159"/>
+      <location filename="../mainwindow.cpp" line="12171"/>
       <source>Select text files to import</source>
       <translation>Import qilinadigan matnli fayllarni tanlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12189"/>
+      <location filename="../mainwindow.cpp" line="12201"/>
       <source>Importing: %1</source>
       <translation>Import qilinmoqda: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12254"/>
+      <location filename="../mainwindow.cpp" line="12266"/>
       <source>Note headline '%1' was copied to the clipboard</source>
       <translation>Eslatma sarlavhasi '%1' klipbordga ko'chirilgan</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12339"/>
+      <location filename="../mainwindow.cpp" line="12360"/>
       <source>Leave full-screen mode</source>
       <translation>To'liq ekranli rejimdan chiqing</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12519"/>
+      <location filename="../mainwindow.cpp" line="12541"/>
       <source>Custom editor width</source>
       <translation>Maxsus muharrir kengligi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12519"/>
+      <location filename="../mainwindow.cpp" line="12541"/>
       <source>Characters:</source>
       <translation>Belgilar:</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="8699"/>
+      <location filename="../mainwindow.cpp" line="8707"/>
       <source>%n notes selected</source>
       <translation>
         <numerusform>%n qayd tanlandi</numerusform>
@@ -3385,7 +3385,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2450"/>
-      <location filename="../mainwindow.cpp" line="11944"/>
+      <location filename="../mainwindow.cpp" line="11956"/>
       <source>Allow all note editing</source>
       <translation>Barcha qaydlarni tahrirlashga ruxsat bering</translation>
     </message>
@@ -3395,12 +3395,12 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>&amp;Yorliq</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4905"/>
+      <location filename="../mainwindow.cpp" line="4910"/>
       <source>Remove tag from selected notes</source>
       <translation>Belgilangan qaydlardan yorliqni olib tashlang</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4906"/>
+      <location filename="../mainwindow.cpp" line="4911"/>
       <source>Remove tag &lt;strong&gt;%1&lt;/strong&gt; from %n selected note(s)?</source>
       <translation>
         <numerusform>Tanlangan %n eslatmasidan &lt;strong&gt;%1&lt;/strong&gt; teg olib tashlansinmi?</numerusform>
@@ -3408,7 +3408,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4966"/>
+      <location filename="../mainwindow.cpp" line="4971"/>
       <source>Tag &lt;strong&gt;%1&lt;/strong&gt; was removed from %n note(s)</source>
       <translation>
         <numerusform>%n qaydidan &lt;strong&gt;%1&lt;/strong&gt; teg olib tashlandi</numerusform>
@@ -3416,95 +3416,95 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5011"/>
+      <location filename="../mainwindow.cpp" line="5016"/>
       <source>Current notes folder: </source>
       <translation>Joriy qaydlar jildi:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5014"/>
+      <location filename="../mainwindow.cpp" line="5019"/>
       <source>Set the notes folder. Current notes folder: </source>
       <translation>Eslatmalar papkasini o'rnating. Joriy qaydlar jildi:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5216"/>
+      <location filename="../mainwindow.cpp" line="5221"/>
       <source>Print note</source>
       <translation>Qaydni chop etish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5291"/>
+      <location filename="../mainwindow.cpp" line="5296"/>
       <source>Letter</source>
       <translation>Xat</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5321"/>
+      <location filename="../mainwindow.cpp" line="5326"/>
       <source>Portrait</source>
       <translation>Portret</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5321"/>
+      <location filename="../mainwindow.cpp" line="5326"/>
       <source>Landscape</source>
       <translation>Landshaft</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5326"/>
+      <location filename="../mainwindow.cpp" line="5331"/>
       <source>Orientation</source>
       <translation>Yo'nalish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5326"/>
+      <location filename="../mainwindow.cpp" line="5331"/>
       <source>Orientation:</source>
       <translation>Yo'nalish:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5349"/>
+      <location filename="../mainwindow.cpp" line="5354"/>
       <source>Export current note as PDF</source>
       <translation>Joriy qaydni PDF formatida eksport qiling</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5456"/>
+      <location filename="../mainwindow.cpp" line="5461"/>
       <source>You have not selected any todo lists.&lt;br /&gt;Please check your &lt;strong&gt;Todo&lt;/strong&gt; configuration in the settings!</source>
       <translation>Siz hech qanday ro'yxat tanlamadingiz. &lt;br/&gt; Iltimos, sozlamalardagi &lt;strong&gt; Todo &lt;/strong&gt; konfiguratsiyani tekshiring!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6372"/>
+      <location filename="../mainwindow.cpp" line="6375"/>
       <source>Open QOwnNotes</source>
       <translation>QOwnNotes-ni oching</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6035"/>
-      <location filename="../mainwindow.cpp" line="6422"/>
-      <location filename="../mainwindow.cpp" line="10221"/>
-      <location filename="../mainwindow.cpp" line="10649"/>
+      <location filename="../mainwindow.cpp" line="6038"/>
+      <location filename="../mainwindow.cpp" line="6425"/>
+      <location filename="../mainwindow.cpp" line="10233"/>
+      <location filename="../mainwindow.cpp" line="10661"/>
       <source>New note</source>
       <translation>Yangi qayd</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6439"/>
+      <location filename="../mainwindow.cpp" line="6442"/>
       <source>Recent notes</source>
       <translation>So'nggi qaydlar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6455"/>
+      <location filename="../mainwindow.cpp" line="6458"/>
       <source>Show todo lists</source>
       <translation>Kutish ro'yxatlarini ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6467"/>
+      <location filename="../mainwindow.cpp" line="6470"/>
       <source>Recent tasks</source>
       <translation>So'nggi vazifalar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6488"/>
+      <location filename="../mainwindow.cpp" line="6491"/>
       <source>Quit</source>
       <translation>Chiqing</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7943"/>
+      <location filename="../mainwindow.cpp" line="7947"/>
       <source>show notes from all note subfolders (%1)</source>
       <translation>barcha qayd jildlarining eslatmalarini ko'rsatish (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7966"/>
+      <location filename="../mainwindow.cpp" line="7970"/>
       <source>show notes in note root folder (%1)</source>
       <translation>eslatma ildiz papkasida qaydlarni ko'rsatish (%1)</translation>
     </message>
@@ -3512,36 +3512,36 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <location filename="../mainwindow.ui" line="316"/>
       <location filename="../mainwindow.cpp" line="776"/>
       <location filename="../mainwindow.cpp" line="2095"/>
-      <location filename="../mainwindow.cpp" line="7978"/>
+      <location filename="../mainwindow.cpp" line="7982"/>
       <source>Note folder</source>
       <translation>Eslatma jildi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9346"/>
-      <location filename="../mainwindow.cpp" line="9413"/>
+      <location filename="../mainwindow.cpp" line="9354"/>
+      <location filename="../mainwindow.cpp" line="9421"/>
       <source>Copy to note folder</source>
       <translation>Qayd papkasiga nusxalash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9346"/>
-      <location filename="../mainwindow.cpp" line="9414"/>
+      <location filename="../mainwindow.cpp" line="9354"/>
+      <location filename="../mainwindow.cpp" line="9422"/>
       <source>Move to note folder</source>
       <translation>Qaydlar papkasiga o'tkazing</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9347"/>
-      <location filename="../mainwindow.cpp" line="9415"/>
+      <location filename="../mainwindow.cpp" line="9355"/>
+      <location filename="../mainwindow.cpp" line="9423"/>
       <source>Copy to this subfolder</source>
       <translation>Ushbu pastki jildga nusxalash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9348"/>
-      <location filename="../mainwindow.cpp" line="9416"/>
+      <location filename="../mainwindow.cpp" line="9356"/>
+      <location filename="../mainwindow.cpp" line="9424"/>
       <source>Move to this subfolder</source>
       <translation>Ushbu pastki jildga o'ting</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9460"/>
+      <location filename="../mainwindow.cpp" line="9468"/>
       <source>Move %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Tanlangan %n eslatma ni &lt;strong&gt;%2 &lt;/strong&gt; pastki jildiga ko'chirish kerakmi?</numerusform>
@@ -3549,13 +3549,13 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5117"/>
-      <location filename="../mainwindow.cpp" line="12173"/>
+      <location filename="../mainwindow.cpp" line="5122"/>
+      <location filename="../mainwindow.cpp" line="12185"/>
       <source>Cancel</source>
       <translation>Bekor qilish</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9544"/>
+      <location filename="../mainwindow.cpp" line="9552"/>
       <source>%n note(s) were moved to note subfolder "%2"</source>
       <translation>
         <numerusform>%n qayd "%2" pastki jildiga ko'chirildi</numerusform>
@@ -3563,7 +3563,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9568"/>
+      <location filename="../mainwindow.cpp" line="9576"/>
       <source>Copy %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
       <translation>
         <numerusform>Tanlangan %n eslatmani nusxalash pastki jildni qayd etish &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
@@ -3571,7 +3571,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9635"/>
+      <location filename="../mainwindow.cpp" line="9643"/>
       <source>%n note(s) were copied to note subfolder "%2"</source>
       <translation>
         <numerusform>%n qayd qayd pastki jildiga ko'chirildi "%2"</numerusform>
@@ -3579,57 +3579,57 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10343"/>
+      <location filename="../mainwindow.cpp" line="10355"/>
       <source>Open note in external editor</source>
       <translation>Tashqi muharrirda qaydni oching</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10347"/>
+      <location filename="../mainwindow.cpp" line="10359"/>
       <source>Show note in file manager</source>
       <translation>Fayl menejerida qaydni ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10432"/>
+      <location filename="../mainwindow.cpp" line="10444"/>
       <source>If you want to rename your note you have to enable the option to allow the note filename to be different from the headline.</source>
       <translation>Agar eslatmaning nomini o'zgartirishni xohlasangiz, ushbu fayl nomining sarlavhadan farqli bo'lishiga imkon beradigan parametrni yoqishingiz kerak.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10650"/>
+      <location filename="../mainwindow.cpp" line="10662"/>
       <source>New subfolder</source>
       <translation>Yangi pastki jild</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10654"/>
+      <location filename="../mainwindow.cpp" line="10666"/>
       <source>Show folder in file manager</source>
       <translation>Fayl menejerida papkani ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10699"/>
+      <location filename="../mainwindow.cpp" line="10711"/>
       <source>Create a new folder</source>
       <translation>Yangi papka yarating</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10700"/>
+      <location filename="../mainwindow.cpp" line="10712"/>
       <source>Folder name:</source>
       <translation>Jild nomi:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7902"/>
+      <location filename="../mainwindow.cpp" line="7906"/>
       <source>show all untagged notes (%1)</source>
       <translation>barcha teglarsiz qaydlarni ko'rsatish (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7904"/>
+      <location filename="../mainwindow.cpp" line="7908"/>
       <source>Untagged notes</source>
       <translation>Yorliqsiz yozuvlar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9996"/>
+      <location filename="../mainwindow.cpp" line="10008"/>
       <source>Export current note as HTML file</source>
       <translation>Joriy qaydni HTML-fayl sifatida eksport qiling</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5300"/>
+      <location filename="../mainwindow.cpp" line="5305"/>
       <source>Page size</source>
       <translation>Sahifa hajmi</translation>
     </message>
@@ -3639,27 +3639,27 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>asboblar panelidan chiqish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5300"/>
+      <location filename="../mainwindow.cpp" line="5305"/>
       <source>Page size:</source>
       <translation>Sahifa hajmi:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5417"/>
+      <location filename="../mainwindow.cpp" line="5422"/>
       <source>QOwnNotes will track anonymous usage data, that helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. You can disable that behaviour in the settings.</source>
       <translation>QOwnNotes anonim foydalanish ma'lumotlarini kuzatib boradi, bu QOwnNotes-ning qaysi qismlarini keyingi yaxshilanish va xatolarni aniqlash va tuzatish to'g'risida qaror qabul qilishga yordam beradi. Siz ushbu xatti-harakatni sozlamalarda o'chirib qo'yishingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5421"/>
+      <location filename="../mainwindow.cpp" line="5426"/>
       <source>&amp;Ok</source>
       <translation>&amp;Ok</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10231"/>
+      <location filename="../mainwindow.cpp" line="10243"/>
       <source>&amp;Remove notes</source>
       <translation>&amp;Qaydlarni olib tashlash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6577"/>
+      <location filename="../mainwindow.cpp" line="6580"/>
       <source>&amp;Link selected text</source>
       <translation>&amp;Tanlangan matnni bog'lang</translation>
     </message>
@@ -3669,28 +3669,28 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>Sizning vazifalaringiz serverdan yuklanmoqda</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2770"/>
+      <location filename="../mainwindow.cpp" line="2776"/>
       <source>Current note was modified externally</source>
       <translation>Ushbu qayd tashqi tomondan o'zgartirildi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2853"/>
-      <location filename="../mainwindow.cpp" line="5973"/>
+      <location filename="../mainwindow.cpp" line="2859"/>
+      <location filename="../mainwindow.cpp" line="5976"/>
       <source>Stored current note to disk</source>
       <translation>Joriy yozuv diskka saqlanadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2871"/>
+      <location filename="../mainwindow.cpp" line="2877"/>
       <source>Note was modified externally: %1</source>
       <translation>Qayd tashqi ko'rinishda o'zgartirildi: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2894"/>
+      <location filename="../mainwindow.cpp" line="2899"/>
       <source>Notes directory was modified externally</source>
       <translation>Eslatmalar katalogi tashqi tomondan o'zgartirildi</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="2955"/>
+      <location filename="../mainwindow.cpp" line="2960"/>
       <source>Stored %n note(s) to disk</source>
       <translation>
         <numerusform>%n ta yozuv diskka saqlanadi</numerusform>
@@ -3698,58 +3698,58 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7869"/>
+      <location filename="../mainwindow.cpp" line="7873"/>
       <source>show all notes (%1)</source>
       <translation>barcha qaydlarni ko'rsatish (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7872"/>
-      <location filename="../mainwindow.cpp" line="7946"/>
+      <location filename="../mainwindow.cpp" line="7876"/>
+      <location filename="../mainwindow.cpp" line="7950"/>
       <source>All notes</source>
       <translation>Barcha eslatmalar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8949"/>
+      <location filename="../mainwindow.cpp" line="8957"/>
       <source>&amp;Add tag</source>
       <translation>&amp;Yorliq qo'shing</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8997"/>
+      <location filename="../mainwindow.cpp" line="9005"/>
       <source>Tag could not be created!</source>
       <translation>Tag yaratib bo‘lmadi!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9176"/>
+      <location filename="../mainwindow.cpp" line="9184"/>
       <source>Move to this tag</source>
       <translation>Ushbu yorliqqa o'ting</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9211"/>
+      <location filename="../mainwindow.cpp" line="9219"/>
       <source>Tag this</source>
       <translation>Bu yorliq</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9236"/>
+      <location filename="../mainwindow.cpp" line="9244"/>
       <source>Cannot move tag '%1' to this tag</source>
       <translation>'%1' yorlig'ini ushbu tegga ko'chirib bo'lmadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9285"/>
+      <location filename="../mainwindow.cpp" line="9293"/>
       <source>Moved tag '%1' to new tag</source>
       <translation>'%1' yorlig'i yangi tegga ko'chirildi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8199"/>
+      <location filename="../mainwindow.cpp" line="8207"/>
       <source>show all notes tagged with '%1' (%2)</source>
       <translation>'%1' (%2) bilan belgilangan barcha eslatmalarni ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8960"/>
+      <location filename="../mainwindow.cpp" line="8968"/>
       <source>&amp;Remove tags</source>
       <translation>&amp;Yorliqlarni olib tashlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5455"/>
+      <location filename="../mainwindow.cpp" line="5460"/>
       <source>No selected todo lists!</source>
       <translation>To'xtatish ro'yxati tanlanmagan!</translation>
     </message>
@@ -3870,43 +3870,43 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>Nomsiz asboblar panelini yuklab bo'lmadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2797"/>
+      <location filename="../mainwindow.cpp" line="2803"/>
       <source>Overwriting external changes of: %1</source>
       <translation>Tashqi o'zgarishlarni qayta yozish: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2818"/>
+      <location filename="../mainwindow.cpp" line="2824"/>
       <source>Loading external changes from: %1</source>
       <translation>Tashqi o'zgarishlarni yuklash: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2854"/>
-      <location filename="../mainwindow.cpp" line="5974"/>
+      <location filename="../mainwindow.cpp" line="2860"/>
+      <location filename="../mainwindow.cpp" line="5977"/>
       <source>Current note could not be stored to disk</source>
       <translation>Joriy qayd diskka saqlanmadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3034"/>
+      <location filename="../mainwindow.cpp" line="3039"/>
       <source>Read-only</source>
       <translation>Faqat o'qish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3036"/>
+      <location filename="../mainwindow.cpp" line="3041"/>
       <source>Note editing is disabled, click to enable</source>
       <translation>Qaydni tahrirlash o'chirilgan, yoqish uchun cherting</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3053"/>
+      <location filename="../mainwindow.cpp" line="3058"/>
       <source>Line numbers</source>
       <translation>Chiziq raqamlari</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3063"/>
+      <location filename="../mainwindow.cpp" line="3068"/>
       <source>Click here to see what has changed and to be able to update to the latest version</source>
       <translation>Nimani o'zgartirganini va so'nggi versiyasini yangilash imkoniyatiga ega bo'lish uchun bu erni bosing</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="3433"/>
+      <location filename="../mainwindow.cpp" line="3438"/>
       <source>Proceed with automatic deletion of &lt;strong&gt;%n&lt;/strong&gt; conflicted database copies that may block your ownCloud sync process?</source>
       <translation>
         <numerusform>O'zingizning ownCloud sinxronlash jarayoningizni blokirovka qilishi mumkin bo'lgan qarama-qarshi ma'lumotlar bazasi nusxasini &lt;strong&gt;%n &lt;/strong&gt; avtomatik o'chirishni davom ettirasizmi?</numerusform>
@@ -3914,7 +3914,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4889"/>
+      <location filename="../mainwindow.cpp" line="4894"/>
       <source>%n note(s) were tagged with "%2"</source>
       <translation>
         <numerusform>%n qayd "%2" bilan belgilangan</numerusform>
@@ -3922,7 +3922,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="5672"/>
+      <location filename="../mainwindow.cpp" line="5677"/>
       <source>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of &lt;strong&gt;%1&lt;/strong&gt;</source>
       <translation>
         <numerusform>&lt;strong&gt;%n&lt;/strong&gt; har &lt;strong&gt; %1 &lt;/strong&gt; topildi</numerusform>
@@ -3930,67 +3930,67 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6035"/>
+      <location filename="../mainwindow.cpp" line="6038"/>
       <source>Note headline</source>
       <translation>Eslatma sarlavhasi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6583"/>
+      <location filename="../mainwindow.cpp" line="6586"/>
       <source>Block &amp;quote selected text</source>
       <comment>Action to apply a block quote formatting to the selected text</comment>
       <translation>Tanlangan &amp;matnning narxini bloklash</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7593"/>
+      <location filename="../mainwindow.cpp" line="7596"/>
       <source>Downloading images finished</source>
       <translation>Rasmlarni yuklash tugadi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7743"/>
+      <location filename="../mainwindow.cpp" line="7746"/>
       <source>Increased font size to %1 pt</source>
       <translation>Shriftning o'lchamini %1 pt ga oshirish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7760"/>
+      <location filename="../mainwindow.cpp" line="7763"/>
       <source>Decreased font size to %1 pt</source>
       <translation>Shriftning o'lchami %1 pt ga kamaytirildi</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5421"/>
-      <location filename="../mainwindow.cpp" line="5436"/>
-      <location filename="../mainwindow.cpp" line="5459"/>
-      <location filename="../mainwindow.cpp" line="10435"/>
+      <location filename="../mainwindow.cpp" line="5426"/>
+      <location filename="../mainwindow.cpp" line="5441"/>
+      <location filename="../mainwindow.cpp" line="5464"/>
+      <location filename="../mainwindow.cpp" line="10447"/>
       <source>Open &amp;settings</source>
       <translation>Sozlamalarni &amp;oching</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1671"/>
-      <location filename="../mainwindow.cpp" line="12325"/>
+      <location filename="../mainwindow.cpp" line="12337"/>
       <source>leave</source>
       <translation>qoldiring</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7010"/>
+      <location filename="../mainwindow.cpp" line="7013"/>
       <source>Please enter your &lt;strong&gt;password&lt;/strong&gt; to encrypt the note.&lt;br /&gt;Keep in mind that you have to &lt;strong&gt;remember&lt;/strong&gt; your password to read the content of the note&lt;br /&gt; and that you can &lt;strong&gt;only&lt;/strong&gt; do that &lt;strong&gt;in QOwnNotes&lt;/strong&gt;!</source>
       <translation>Eslatmani shifrlash uchun &lt;strong&gt; parolingizni&lt;/strong&gt; kiriting. &lt;br/&gt;Eslatma tarkibini o'qish uchun parolingizni &lt;strong&gt; eslab qolishingiz &lt;/strong&gt; kerakligini yodda tuting&lt;br/&gt; va buni &lt;strong&gt; faqat QOwnNotes &lt;/strong&gt; da &lt;strong&gt; qilishingiz&lt;/strong&gt; mumkin!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7066"/>
+      <location filename="../mainwindow.cpp" line="7069"/>
       <source>Decrypt note and store it as plain text</source>
       <translation>Qaydni shifrlang va oddiy matn sifatida saqlang</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7071"/>
+      <location filename="../mainwindow.cpp" line="7074"/>
       <source>&amp;Decrypt</source>
       <translation>&amp;Shifrni ochish</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7096"/>
+      <location filename="../mainwindow.cpp" line="7099"/>
       <source>&lt;br /&gt;You will be able to edit your encrypted note.</source>
       <translation>&lt;br /&gt;Shifrlangan qaydingizni tahrirlashingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7165"/>
+      <location filename="../mainwindow.cpp" line="7168"/>
       <source>Export current note as Markdown file</source>
       <translation>Joriy qaydni Markdown fayl sifatida eksport qiling</translation>
     </message>
@@ -4229,103 +4229,103 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
   <context>
     <name>OwnCloudService</name>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="245"/>
+      <location filename="../services/owncloudservice.cpp" line="247"/>
       <source>Username / password error</source>
       <translation>Foydalanuvchi nomi / parol xatosi</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="246"/>
+      <location filename="../services/owncloudservice.cpp" line="248"/>
       <source>Your calendar username or password is incorrect!</source>
       <translation>Kalendaringiz foydalanuvchi nomi yoki parolingiz noto'g'ri!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="580"/>
+      <location filename="../services/owncloudservice.cpp" line="582"/>
       <source>API app version too low</source>
       <translation>API ilovasi versiyasi juda past</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="581"/>
+      <location filename="../services/owncloudservice.cpp" line="583"/>
       <source>Please consider updating your QOwnNotesAPI app on your server, your app version %1 is too low and may cause troubles in QOwnNotes.</source>
       <translation>Iltimos, serveringizda QOwnNotesAPI ilovasini yangilash haqida o'ylang, %1 dasturingiz versiyasi juda past va QOwnNotes-da muammolarga olib kelishi mumkin.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1128"/>
+      <location filename="../services/owncloudservice.cpp" line="1175"/>
       <source>ownCloud server connection error</source>
       <translation>ownCloud server ulanish xato</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1133"/>
+      <location filename="../services/owncloudservice.cpp" line="1180"/>
       <source>ownCloud server error: &lt;strong&gt;%1&lt;/strong&gt;&lt;br /&gt;Please check your ownCloud configuration.</source>
       <translation>ownCloud serverida xatolik: &lt;strong&gt;%1 &lt;/strong&gt; &lt;br /&gt; Iltimos, ownCloud konfiguratsiyani tekshiring.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1153"/>
+      <location filename="../services/owncloudservice.cpp" line="1200"/>
       <source>You need to setup your ownCloud server!</source>
       <translation>Siz ownCloud serveringizni sozlashingiz kerak!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1165"/>
+      <location filename="../services/owncloudservice.cpp" line="1212"/>
       <source>Open &amp;settings</source>
       <translation>Sozlamalarni &amp;oching</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1165"/>
+      <location filename="../services/owncloudservice.cpp" line="1212"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Bekor qilish</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1224"/>
+      <location filename="../services/owncloudservice.cpp" line="1271"/>
       <source>Done with loading note versions</source>
       <translation>Qayd versiyalari yuklanmoqda</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1269"/>
+      <location filename="../services/owncloudservice.cpp" line="1316"/>
       <source>No versions found</source>
       <translation>Hech qanday versiya topilmadi</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1270"/>
+      <location filename="../services/owncloudservice.cpp" line="1317"/>
       <source>There are no versions for this note or the note wasn't found on the server.</source>
       <translation>Ushbu qayd uchun hech qanday versiya mavjud emas yoki eslatma serverda topilmadi.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1290"/>
+      <location filename="../services/owncloudservice.cpp" line="1337"/>
       <source>Done with loading trashed notes</source>
       <translation>O'chirilgan eslatmalarni yuklash tugallandi</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1335"/>
+      <location filename="../services/owncloudservice.cpp" line="1382"/>
       <source>No trashed notes</source>
       <translation>Chiqit qilingan qaydlar yo'q</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1336"/>
+      <location filename="../services/owncloudservice.cpp" line="1383"/>
       <source>No trashed notes were found on the server.</source>
       <translation>Serverda axlat eslatmalari topilmadi.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1358"/>
-      <location filename="../services/owncloudservice.cpp" line="1385"/>
+      <location filename="../services/owncloudservice.cpp" line="1405"/>
+      <location filename="../services/owncloudservice.cpp" line="1432"/>
       <source>Error while loading todo lists!</source>
       <translation>To'lov ro'yxatlarini yuklashda xato!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1359"/>
+      <location filename="../services/owncloudservice.cpp" line="1406"/>
       <source>Your CalDAV server didn't reply anything!</source>
       <translation>Sizning CalDAV serveringiz hech qanday javob bermadi!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1386"/>
+      <location filename="../services/owncloudservice.cpp" line="1433"/>
       <source>Error message from your CalDAV server: &lt;strong&gt;%1&lt;/strong&gt;</source>
       <translation>CalDAV serveringizdan xato xabari: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="2063"/>
+      <location filename="../services/owncloudservice.cpp" line="2110"/>
       <source>No bookmarks</source>
       <translation>Xatcho'plar yo'q</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="2064"/>
+      <location filename="../services/owncloudservice.cpp" line="2111"/>
       <source>No bookmarks were found on the server.</source>
       <translation>Serverda xatcho'plar topilmadi.</translation>
     </message>
@@ -4366,37 +4366,37 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>standart</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1248"/>
+      <location filename="../entities/note.cpp" line="1266"/>
       <source>Could not store note file: %1 - Error message: %2</source>
       <translation>Eslatma faylini saqlab bo'lmadi: %1 - Xato xabari: %2</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1326"/>
+      <location filename="../entities/note.cpp" line="1344"/>
       <source>Renamed note-file was removed: %1</source>
       <translation>O'zgartirilgan eslatma fayli o'chirildi: %1</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1334"/>
+      <location filename="../entities/note.cpp" line="1352"/>
       <source>Could not remove renamed note-file: %1 - Error message: %2</source>
       <translation>Qayta nomlangan eslatma faylini olib tashlab bo'lmadi: %1 - xato xabari: %2</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1480"/>
+      <location filename="../entities/note.cpp" line="1498"/>
       <source>Note</source>
       <translation>Eslatma</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="2528"/>
+      <location filename="../entities/note.cpp" line="2546"/>
       <source>Could not read image file: %1</source>
       <translation>Rasm faylini o'qib bo'lmadi: %1</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="3116"/>
+      <location filename="../entities/note.cpp" line="3147"/>
       <source>Note file path changed</source>
       <translation>Qayd fayli yo'li o'zgartirildi</translation>
     </message>
     <message numerus="yes">
-      <location filename="../entities/note.cpp" line="3117"/>
+      <location filename="../entities/note.cpp" line="3148"/>
       <source>A change of the note path was detected. Would you like to replace all occurrences of &lt;strong&gt;%1&lt;/strong&gt; links with &lt;strong&gt;%2&lt;/strong&gt; and links with filename &lt;strong&gt;%3&lt;/strong&gt; with &lt;strong&gt;%4&lt;/strong&gt; in &lt;strong&gt;%n&lt;/strong&gt; note file(s)?</source>
       <translation>
         <numerusform>Qayd yo'lining o'zgarishi aniqlandi.
@@ -4408,7 +4408,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../entities/note.cpp" line="3658"/>
+      <location filename="../entities/note.cpp" line="3693"/>
       <source>…and %n more note(s)</source>
       <translation>
         <numerusform>Shakl: bitta... va yana %n eslatma</numerusform>
@@ -4459,7 +4459,7 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>&lt;code&gt;%1 &lt;/code&gt; buyrug'i bajarilmadi!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4215"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4219"/>
       <source>New connection</source>
       <translation>Yangi ulanish</translation>
     </message>
@@ -4484,20 +4484,20 @@ Tanlangan papkalarni &lt;strong&gt;%n&lt;/strong&gt; o'chirish kerakmi!</numerus
       <translation>Eslatmalaringiz saqlanadigan papkani tanlang</translation>
     </message>
     <message>
-      <location filename="../entities/notesubfolder.cpp" line="562"/>
-      <location filename="../entities/notesubfolder.cpp" line="587"/>
+      <location filename="../entities/notesubfolder.cpp" line="556"/>
+      <location filename="../entities/notesubfolder.cpp" line="581"/>
       <source>Folder will be hidden!</source>
       <translation>Jild yashirin bo'ladi!
 </translation>
     </message>
     <message>
-      <location filename="../entities/notesubfolder.cpp" line="563"/>
+      <location filename="../entities/notesubfolder.cpp" line="557"/>
       <source>Folder with name &lt;b&gt;%1&lt;/b&gt; can't be created, because it's internally used by the application!</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; nomli jildni yaratib bo'lmaydi, chunki u ilova tomonidan ishlatilgan!
 </translation>
     </message>
     <message>
-      <location filename="../entities/notesubfolder.cpp" line="588"/>
+      <location filename="../entities/notesubfolder.cpp" line="582"/>
       <source>Folder with name &lt;b&gt;%1&lt;/b&gt; can't be created, because it's on the list of ignored subfolders! You can change that in the &lt;i&gt;Panels settings&lt;/i&gt;.</source>
       <translation>&lt;b&gt;%1 &lt;/b&gt; nomli jildni yaratib bo'lmaydi, chunki u e'tiborga olinmaydigan quyi jildlar ro'yxatida! Buni &lt;i&gt; panellar sozlamalarida &lt;/i&gt; o'zgartirishingiz mumkin.
 </translation>
@@ -4924,7 +4924,7 @@ Uni baribir o'rnatmoqchimisiz?</translation>
   <context>
     <name>ScriptingService</name>
     <message>
-      <location filename="../services/scriptingservice.cpp" line="256"/>
+      <location filename="../services/scriptingservice.cpp" line="257"/>
       <source>file doesn't exist</source>
       <translation>fayl mavjud emas</translation>
     </message>
@@ -4955,7 +4955,7 @@ Uni baribir o'rnatmoqchimisiz?</translation>
     <name>SettingsDialog</name>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="26"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4276"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4287"/>
       <source>Settings</source>
       <translation>Sozlamalar</translation>
     </message>
@@ -5171,45 +5171,45 @@ Uni baribir o'rnatmoqchimisiz?</translation>
       <translation>Boshqa CalDAV serveri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2967"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2978"/>
       <source>Only some colors will be adapted, your desktop theme will control the rest. You need to restart the application to let these changes take action.</source>
       <translation>Faqat ba'zi ranglar moslashadi, ish stolingiz qolganlarini boshqaradi. Ushbu o'zgarishlarni amalga oshirish uchun dasturni qayta ishga tushirishingiz kerak.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2970"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2981"/>
       <source>Optimize preview colors for dark mode desktop themes</source>
       <translation>Qorong'i rejimdagi ish stoli mavzulari uchun oldindan ko'rish ranglarini optimallashtiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2957"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2968"/>
       <source>This enables the dark mode, interface and icons will be modified. You need to restart the application to let these changes take action.</source>
       <translation>Bu qorong'u rejimni yoqadi, interfeys va piktogrammalar o'zgartiriladi. Ushbu o'zgarishlarni amalga oshirish uchun dasturni qayta ishga tushirishingiz kerak.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2960"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2971"/>
       <source>Enable dark mode</source>
       <translation>Qorong'u rejimni yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2986"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2996"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3027"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3037"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2997"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3007"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3038"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3048"/>
       <source>You need to restart the application to let this setting take effect</source>
       <translation>Ushbu sozlamaning kuchga kirishi uchun dasturni qayta ishga tushirishingiz kerak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3066"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3077"/>
       <source>Item sizes in the main window</source>
       <translation>Asosiy oynada elementlarning o'lchamlari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5049"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5060"/>
       <source>Markdown highlighting</source>
       <translation>Markdownni ajratib ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5055"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5066"/>
       <source>Enable markdown highlighting</source>
       <translation>Belgilangan yoritishni yoqish</translation>
     </message>
@@ -5234,39 +5234,39 @@ Uni baribir o'rnatmoqchimisiz?</translation>
       <translation>Yorliqlar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4504"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4797"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4515"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4808"/>
       <source>Default font:</source>
       <translation>Odatiy shrift:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4546"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4738"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4557"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4749"/>
       <source>Code font:</source>
       <translation>Kod harfi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3225"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3236"/>
       <source>Main window shortcuts</source>
       <translation>Asosiy oyna yorliqlari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3818"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3829"/>
       <source>Do this at your own risk!</source>
       <translation>Buni o'zingizning xavfingiz bilan qiling!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3821"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3832"/>
       <source>Ignore all external note folder changes</source>
       <translation>Barcha tashqi eslatma jildidagi o'zgarishlarga e'tibor bermang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4401"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4412"/>
       <source>No two spaces to do a line break are added here if checked</source>
       <translation>Agar belgilansa, bu erda chiziq uzilishida ikkita bo'sh joy qo'shilmaydi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4404"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4415"/>
       <source>Use GitHub line breaks</source>
       <translation>GitHub liniyalarining uzilishlaridan foydalaning</translation>
     </message>
@@ -5311,7 +5311,7 @@ Uni baribir o'rnatmoqchimisiz?</translation>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Agar siz QOwnNotes-ni tarjima qilishga yoki mavjud tarjimani yangilashga yordam bermoqchi bo'lsangiz, o'qing: &lt;a href = "http://www.qownnotes.org/Knowledge-base/How- can-I-help-to-translate-QOwnNotes"&gt; QOwnNotes-ni tarjima qilishga qanday yordam berishim mumkin? &lt;/a&gt; &lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2931"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2942"/>
       <source>Dark mode</source>
       <translation>Qorong'i rejim</translation>
     </message>
@@ -5346,17 +5346,17 @@ Uni baribir o'rnatmoqchimisiz?</translation>
       <translation>Agar siz tilni o'zgartirsangiz, o'zgartirishlar kiritilishi uchun dasturni qayta ishga tushirishingiz kerak.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3647"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3658"/>
       <source>You need to reload the scripting engine if you modify a script file</source>
       <translation>Skript faylini o'zgartirsangiz, skript mexanizmini qayta yuklashingiz kerak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3650"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3661"/>
       <source>Reload scripting engine</source>
       <translation>Skript mexanizmini qayta yuklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3640"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3651"/>
       <source>Validate script</source>
       <translation>Tekshirilgan skript</translation>
     </message>
@@ -5366,19 +5366,19 @@ Uni baribir o'rnatmoqchimisiz?</translation>
       <translation>Umumiy</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3812"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3823"/>
       <source>Notes</source>
       <translation>Izohlar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3838"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3849"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked you will always be notified about external modifications, even if current note wasn't edited in the last minute. Recommended is &lt;span style=" font-style:italic;"&gt;unchecked&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Agar belgilansa, tashqi o'zgarishlar haqida har doim sizga xabar beriladi, hatto so'nggi daqiqada hozirgi qayd tahrirlanmagan bo'lsa ham. Tavsiya etiladi &lt;span style = "font-style: italic;"&gt; belgilanmagan &lt;/span&gt;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3934"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5290"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5828"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3945"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5301"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5846"/>
       <source>You might run into sync troubles with older versions of ownCloud sync when going far below 10 sec.
 Just test yourself if you get sync conflicts and set a higher value if so.</source>
       <translation>10 sekunddan pastroqqa tushganda, siz o'z-o'zini sinxronlashning eski versiyalari bilan sinxronlashda muammolarga duch kelishingiz mumkin.
@@ -5390,66 +5390,66 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Yaponcha</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3938"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3949"/>
       <source>note save interval time [sec]</source>
       <translation>eslatma oraliq vaqtini saqlash [s]</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3841"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3852"/>
       <source>Notify about all external modifications of the current note</source>
       <translation>Joriy yozuvning barcha tashqi o'zgarishlari to'g'risida xabardor qiling</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4305"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2270"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2278"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4316"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2274"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2282"/>
       <source>Database</source>
       <translation>Ma'lumotlar bazasi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4321"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4332"/>
       <source>Reinitialize Database</source>
       <translation>Ma'lumotlar bazasini qayta ishga tushiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4244"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4255"/>
       <source>Clear application data and exit</source>
       <translation>Ilova ma'lumotlarini tozalash va chiqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4250"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4261"/>
       <source>This button allows you to clear all settings, remove the local todo database and exit QOwnNotes.</source>
       <translation>Ushbu tugma barcha sozlamalarni tozalash, mahalliy todo ma'lumotlar bazasini olib tashlash va QOwnNotes-dan chiqish imkoniyatini beradi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4260"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2342"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4271"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2346"/>
       <source>Clear app data and exit</source>
       <translation>Ilova ma’lumotlarini tozalang va chiqing</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4039"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4050"/>
       <source>Update dialog</source>
       <translation>Yangilash oynasi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4119"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4130"/>
       <source>Default note file extension</source>
       <translation>Qayd faylining standart kengaytmasi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4204"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4215"/>
       <source>External editor</source>
       <translation>Tashqi muharrir</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4217"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4228"/>
       <source>path to external editor, leave empty for default</source>
       <translation>tashqi muharririga yo'l, standart uchun bo'sh qoldiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4227"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5369"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4238"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5380"/>
       <source>set external editor</source>
       <translation>tashqi muharririni o'rnating</translation>
     </message>
@@ -5489,17 +5489,17 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Skript yozish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3294"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3305"/>
       <source>Your scripts</source>
       <translation>Skriptlaringiz</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3378"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3389"/>
       <source>&amp;Remove script</source>
       <translation>&amp;Skriptni olib tashlash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3657"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3668"/>
       <source>Click here to select your QML script</source>
       <translation>QML skriptingizni tanlash uchun shu erni bosing</translation>
     </message>
@@ -5581,7 +5581,7 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="773"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3468"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3479"/>
       <source>Name:</source>
       <translation>Ism:</translation>
     </message>
@@ -5907,166 +5907,166 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Urdu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2849"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2860"/>
       <source>Chinese Simplified</source>
       <translation>Xitoy soddalashtirilgan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2860"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2871"/>
       <source>Chinese Traditional</source>
       <translation>Xitoy an'anaviy</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2940"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2951"/>
       <source>Enable dark mode application icon and tray icon</source>
       <translation>Qorong'u rejimda dastur va belgi belgisini yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2947"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2958"/>
       <source>You might also want to choose another editor color schema in the editor settings in dark mode.</source>
       <translation>Qorong'i rejimda muharrir sozlamalarida yana bitta tahrirchi rang sxemasini tanlashni xohlashingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3050"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3061"/>
       <source>Enable dark mode icon theme</source>
       <translation>Qorong'u rejimda ikonka mavzusini yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2980"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2991"/>
       <source>System tray</source>
       <translation>Tizim tepsisi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2989"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3000"/>
       <source>Show system tray icon</source>
       <translation>Tizim tepsisi belgisini ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2999"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3010"/>
       <source>Start application hidden</source>
       <translation>Ilovani yashirishni boshlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3009"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3020"/>
       <source>Interface style</source>
       <translation>Interfeys uslubi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3040"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3051"/>
       <source>Enforce system icon theme</source>
       <translation>Tizim ikonkalari mavzusini kuchaytirish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3146"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3157"/>
       <source>Override interface font size</source>
       <translation>Interfeys shriftining o'lchamini bekor qiladi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3155"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3166"/>
       <source>Interface font size:</source>
       <translation>Interfeysi shriftning o'lchamini:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3367"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3378"/>
       <source>&amp;Add script…</source>
       <translation>&amp;Skript qo‘shish…</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4013"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4024"/>
       <source>Use legacy way to link to notes, images and attachments</source>
       <translation>Eslatmalar, rasmlar va qo'shimchalarga ulanish uchun eski usuldan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3858"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3869"/>
       <source>When opening notes the cursor position inside the note will now be restored to the position when the note was last visited in the current session</source>
       <translation>Eslatmalarni ochganda, eslatmadagi kursorning joylashuvi joriy yozuvga oxirgi marta tashrif buyurilganida tiklanadi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3828"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3839"/>
       <source>By default the headline will generated automatically</source>
       <translation>Odatiy bo'lib, sarlavha avtomatik ravishda yaratiladi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3831"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3842"/>
       <source>The shortcut to create a new note asks for a headline</source>
       <translation>Yangi eslatma yaratish uchun yorliq sarlavhani talab qiladi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3897"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3908"/>
       <source>Automatically close the note folder database to prevent problems with sync tools</source>
       <translation>Sinxronizatsiya vositalari bilan bog'liq muammolarni oldini olish uchun eslatma papkasi bazasini avtomatik ravishda yoping</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3900"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3911"/>
       <source>Automatically close the note folder database</source>
       <translation>Qayd papkasi ma'lumotlar bazasini avtomatik ravishda yoping</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4061"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4072"/>
       <source>Search engine</source>
       <translation>Qidiruv mexanizmi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4083"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4094"/>
       <source>Message boxes</source>
       <translation>Xabar qutilari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4089"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3955"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4100"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3959"/>
       <source>Reset message boxes</source>
       <translation>Xabar qutilarini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4282"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4021"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4045"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4293"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4025"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4049"/>
       <source>Import settings</source>
       <translation>Sozlamalarni import qilish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4289"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3987"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4300"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3991"/>
       <source>Export settings</source>
       <translation>Eksport sozlamalari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4427"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4438"/>
       <source>Open issue assistant</source>
       <translation>Ochiq nashr yordamchisi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4394"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4405"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The best way to post issues is to use the issue assistant by pressing the &lt;span style=" font-weight:600;"&gt;Open issue assistant&lt;/span&gt; button on the bottom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; Muammolarni joylashtirishning eng yaxshi usuli bu &lt;span style = "font-weight: 600;"&gt; ni bosish orqali nashr yordamchisidan foydalanish. Masala yordamchisining pastki qismida &lt;/span&gt; tugmachasini oching. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4659"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4670"/>
       <source>Ignore code font size to allow zooming</source>
       <translation>Masshtabni kattalashtirish uchun kodning shrift o'lchamiga e'tibor bermaslik</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4653"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4664"/>
       <source>Rendering</source>
       <translation>Renderlash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4673"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4684"/>
       <source>Enable underline rendering</source>
       <translation>Belgilangan chizishni yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5083"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5094"/>
       <source>Fully highlight blockquotes</source>
       <translation>Bloknotlarni to'liq ta'kidlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5153"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5164"/>
       <source>Note-edit cursor width:</source>
       <translation>Izohni tahrirlash kursorning kengligi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5102"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5113"/>
       <source>Enable Vim mode (some QOwnNotes shortcuts will not work)</source>
       <translation>Vim rejimini yoqish (ba'zi QOwnNotes yorliqlari ishlamaydi)</translation>
     </message>
@@ -6113,7 +6113,7 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2772"/>
       <source>Thai</source>
-      <translation type="unfinished">Thai</translation>
+      <translation>Tay</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2783"/>
@@ -6127,231 +6127,242 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2838"/>
+      <source>Yiddish</source>
+      <translation>Yahudiy
+</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2849"/>
       <source>Zulu</source>
       <translation>Zulu</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2894"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2905"/>
       <source>Search for language</source>
       <translation>Tilni qidirish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3257"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3268"/>
       <source>Action name</source>
       <translation>Harakat nomi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3262"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3273"/>
       <source>Local shortcut</source>
       <translation>Mahalliy yorliq</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3267"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3278"/>
       <source>Global shortcut</source>
       <translation>Global yorliq</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3868"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3879"/>
       <source>Disable this if you want to launch the application without opening a note</source>
       <translation>Agar siz ilovani eslatma ochmasdan ishga tushirmoqchi bo'lsangiz, buni o'chiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3871"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3882"/>
       <source>Open last accessed note at application startup</source>
       <translation>Ilovani ishga tushirishda so'nggi kirish yozuvini oching</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4424"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4435"/>
       <source>This is the best way to open an issue</source>
       <translation>Bu muammoni ochishning eng yaxshi usuli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4438"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4449"/>
       <source>Please use this in the issue tracker</source>
       <translation>Iltimos, muammoni tekshirishda foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4441"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4452"/>
       <source>&amp;Copy debug information to clipboard</source>
       <translation>&amp;Nosozliklarni tuzatish haqidagi ma'lumotni clipboardga nusxalash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4452"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4463"/>
       <source>Please don't use this in the issue tracker</source>
       <translation>Iltimos, buni muammoni tekshirish vositasida ishlatmang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4680"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4691"/>
       <source>Use editor highlighting styles also for the preview</source>
       <translation>Oldindan ko'rish uchun uslublarni ajratib ko'rsatish usullaridan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4703"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4714"/>
       <source>Exporting</source>
       <translation>Eksport qilinmoqda</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4709"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4720"/>
       <source>Use internal export styling for the PDF export and printing of the preview</source>
       <translation>PDF-faylni eksport qilish va oldindan ko'rishni bosib chiqarish uchun ichki eksport uslubidan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5017"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5028"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to take a look at all available &lt;a href="http://docs.qownnotes.org/en/latest/editor/time-formats/"&gt;time formats&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Barcha mavjud&lt;a href="http://docs.qownnotes.org/en/latest/editor/time-formats/"&gt; vaqt formatlarini &lt;/a&gt; ko'rib chiqishni xohlashingiz mumkin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5187"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5198"/>
       <source>Disable cursor blinking</source>
       <translation>Kursorni o'chirishni o'chiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5194"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5205"/>
       <source>Automatically remove trailing spaces in the note text</source>
       <translation>Qayd matni bo'sh joylarini avtomatik ravishda olib tashlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5204"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5215"/>
       <source>Tabs and Indents</source>
       <translation>Yorliqlar va satrlar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5212"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5223"/>
       <source>Use tab character instead of spaces</source>
       <translation>Bo'shliqlar o'rniga yorliq belgilaridan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5219"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5230"/>
       <source>Indent:</source>
       <translation>Shikoyat:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5599"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5608"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5610"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5619"/>
       <source>Regular expressions of note subfolders to ignore, separated by ";"</source>
       <translation>E'tibor bermaslik uchun eslatma pastki jildlarining muntazam iboralari, ";" bilan ajratilgan.
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5602"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5613"/>
       <source>Ignored subfolders</source>
       <translation>E’tiborsiz qilingan pastki jildlar
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5618"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5629"/>
       <source>Reset ignored subfolders</source>
       <translation>Eskirgan pastki papkalarni tiklash
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5654"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5665"/>
       <source>Restore open note tabs at application startup and when note folders are switched</source>
       <translation>Dasturni ishga tushirganda va eslatma papkalari almashganda ochiq qayd yozuvlarini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5768"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5750"/>
+      <source>Hide 'Note count' with tags (increases performance)</source>
+      <translation>"Qaydlar soni" ni yashirib qo'yish (qulaylik uchun)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="5786"/>
       <source>Show the number of matches in each note</source>
       <translation>Har bir eslatmada matchlar sonini ko'rsating</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5430"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5441"/>
       <source>Note list panel</source>
       <translation>Eslatmalar ro'yxati paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5436"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5447"/>
       <source>Show notes in the note list with preview</source>
       <translation>Eslatmalar ro'yxatida eslatmalarni oldindan ko'rish bilan ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5509"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5520"/>
       <source>Instead of a note list use a note tree with all the subfolders (if they are turned on for the note folder)</source>
       <translation>Eslatmalar ro'yxati o'rniga barcha pastki papkalarga ega bo'lgan eslatma daraxtidan foydalaning (agar ular eslatma jildi uchun yoqilgan bo'lsa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5778"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5796"/>
       <source>Note folder panel</source>
       <translation>Qayd paneli paneli
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5784"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5802"/>
       <source>Show note folders as buttons instead of in a select box</source>
       <translation>Belgilangan oynada emas, balki eslatma papkalarini tugmalar shaklida ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5926"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5944"/>
       <source>Panels can be turned on and off in the &lt;i&gt;Window / Panels&lt;/i&gt; main menu and you can also configure different &lt;i&gt;Workspaces&lt;/i&gt; for different panel configurations.</source>
       <translation>Panellarni &lt;i&gt; Oyna / Panellar &lt;/i&gt; asosiy menyusida yoqish va o'chirish mumkin, shuningdek turli xil panellarni konfiguratsiyasi uchun har xil &lt;i&gt; Ish maydoni &lt;/i&gt; ni sozlashingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6003"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6021"/>
       <source>Bookmarks</source>
       <translation>Xatcho'plar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6009"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6027"/>
       <source>Notes with this tag will be used for fetching bookmarks</source>
       <translation>Ushbu yorliqli qaydlar xatcho'plarni olish uchun ishlatiladi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6012"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6030"/>
       <source>Tag name for bookmarks notes</source>
       <translation>Xatcho'plar qaydlari uchun yorliq nomi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6019"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6037"/>
       <source>Bookmarks tag:</source>
       <translation>Xatcho'plar yorlig'i:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6026"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6044"/>
       <source>By default the browser extension will show all links of the current note. You can also make it show special bookmark links of notes with a certain tag. For more information about the bookmark link syntax click &lt;a href="%1"&gt;here&lt;/a&gt;.</source>
       <translation>Odatiy bo'lib, brauzer kengaytmasi joriy eslatmaning barcha havolalarini ko'rsatadi. Bundan tashqari, siz uni ma'lum bir teg bilan eslatmalarning maxsus xatcho'plarini ko'rsatishingiz mumkin. Xatcho'plar havolasi sintaksisi haqida ko'proq ma'lumot olish uchun &lt;a href="%1"&gt; bu erda &lt;/a&gt; ni bosing.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6039"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6057"/>
       <source>Bookmarks note name:</source>
       <translation>Xatcho'plar qayd nomi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6046"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6064"/>
       <source>This note will be used for adding new bookmarks from the browser extension</source>
       <translation>Ushbu qayd brauzer kengaytmasidan yangi xatcho'plar qo'shish uchun ishlatiladi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6049"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6067"/>
       <source>Note name for adding new bookmarks</source>
       <translation>Yangi xatcho'plarni qo'shish uchun eslatma nomi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6059"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6077"/>
       <source>Web socket server</source>
       <translation>Veb-soket serveri</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6065"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6083"/>
       <source>Socket server port:</source>
       <translation>Soket server porti:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6099"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6117"/>
       <source>Show security token</source>
       <translation>Xavfsizlik tokenini ko'rsating</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6135"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6153"/>
       <source>Web socket server support</source>
       <translation>Veb-soket serverini qo'llab-quvvatlash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6141"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6159"/>
       <source>Enable socket server</source>
       <translation>Soket serverini yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6116"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6134"/>
       <source>Install the &lt;a href="%1"&gt;Web Companion browser extension&lt;/a&gt; from the &lt;a href="%2"&gt;Chrome Web Store&lt;/a&gt; or &lt;a href="%3"&gt;Firefox Add-ons page&lt;/a&gt; to use QOwnNotes as web clipper.</source>
       <translation>&lt;a href="%1"&gt; Web Companion brauzer kengaytmasini &lt;/a&gt; ni &lt;a href="%2"&gt; Chrome internet-do'konidan &lt;/a&gt; yoki &lt;a href="%3"&gt; Firefox Add- QOwnNotes-ni veb-kliper sifatida ishlatish uchun &lt;/a&gt; sahifada.</translation>
     </message>
@@ -6362,249 +6373,249 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
 &lt;br&gt; Ehtiyot bo'ling, ownCloud eslatmalari fayl nomi sarlavha bilan bir xil bo'lishi kerak!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5638"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5649"/>
       <source>Note edit panel</source>
       <translation>Eslatmani tahrirlash paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5644"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5655"/>
       <source>If this is disabled you are able to create more complex panel layouts, but all panels will be resized if the window is resized</source>
       <translation>Agar bu o'chirilgan bo'lsa, siz yanada murakkab panel sxemalarini yaratishingiz mumkin, ammo agar oynaning o'lchamlari o'zgartirilsa, barcha panellar hajmi o'zgaradi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5647"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5658"/>
       <source>Use the note edit panel as fixed central widget to be resized if the window or other panels are resized</source>
       <translation>Oynaning yoki boshqa panellarning o'lchamlari o'zgartirilgan bo'lsa, eslatma tahrirlash panelini sobit markaziy vidjet sifatida foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5773"/>
       <source>Note search panel</source>
       <translation>Qaydlarni qidirish paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5761"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5779"/>
       <source>Disable auto-completion of previous searches</source>
       <translation>Avvalgi qidiruvlarni avto-to'ldirishni o'chirib qo'ying</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5664"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5675"/>
       <source>Navigation panel</source>
       <translation>Navigatsiya paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5670"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5681"/>
       <source>Hide navigation item search bar</source>
       <translation>Navigatsiya elementlarini qidirish panelini yashirish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5798"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5816"/>
       <source>Local trash settings</source>
       <translation>Mahalliy axlat sozlamalari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5832"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5850"/>
       <source>Remove trashed notes after:</source>
       <translation>Chiqit qilingan eslatmalarni olib tashlang:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5839"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5857"/>
       <source> days</source>
       <extracomment>seconds</extracomment>
       <translation>kunlar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5858"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5876"/>
       <source>Automatically remove trashed notes after a certain time</source>
       <translation>Ma'lum vaqtdan keyin axlatni avtomatik ravishda chiqarib oling</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5884"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5902"/>
       <source>Local trash support</source>
       <translation>Mahalliy axlatni qo'llab-quvvatlash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5890"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5908"/>
       <source>Enable local trash</source>
       <translation>Mahalliy axlatni yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5907"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5925"/>
       <source>Layout selector</source>
       <translation>Joyni tanlash vositasi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5913"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5931"/>
       <source>You can set a new layout here. Keep in mind that you always can modify the position of the panels with the &lt;i&gt;Unlock panels&lt;/i&gt; button.</source>
       <translation>Siz bu erda yangi tartib o'rnatishingiz mumkin. Shuni yodda tutingki, siz har doim &lt;i&gt; panellarni ochish &lt;/i&gt; tugmasi yordamida panellarning holatini o'zgartirishingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5129"/>
-      <location filename="../dialogs/settingsdialog.ui" line="6085"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5140"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6103"/>
       <source>Reset the cursor width</source>
       <translation>Kursorning kengligini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5304"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5315"/>
       <source>External git log command to show the git versions of a note</source>
       <translation>Qaydlarning git versiyalarini ko'rsatish uchun tashqi git log buyrug'i</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5310"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5321"/>
       <source>Enter a command to be used to show a git log (like for example "gitk")</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Git jurnalini ko'rsatish uchun ishlatiladigan buyruqni kiriting (masalan "gitk")</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5330"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5341"/>
       <source>If you use this setting you will get a new menu entry to show the git versions if you right-click a note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Agar ushbu sozlamadan foydalansangiz, eslatmani o'ng tugmachasini bosganingizda git versiyalarini ko'rsatish uchun yangi menyu yozuvi olasiz.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5450"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5461"/>
       <source>Show all notes of a tag including the notes of their children-tags</source>
       <translation>Tegning barcha yozuvlarini, shu jumladan bolalar teglarining eslatmalarini ko'rsating</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5443"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5454"/>
       <source>Show all notes in a folder including their subfolders (only works if subfolders are turned on)</source>
       <translation>Jilddagi barcha eslatmalarni o'zlarining ichki jildlari bilan birga ko'rsatish (faqat pastki jildlar yoqilgan bo'lsa ishlaydi)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5180"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5191"/>
       <source>Highlight the current line</source>
       <translation>Joriy chiziqni ajratib ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5397"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5408"/>
       <source>Don't forget to enable git support for your note folders and to configure your name and email address for your git client, for example with these terminal commands:</source>
       <translation>Eslatmalar papkalari uchun git-ni yoqishni va git-mijoz uchun ismingiz va elektron pochta manzilingizni sozlashni unutmang, masalan, ushbu terminal buyruqlari bilan:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5680"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5691"/>
       <source>Tags panel</source>
       <translation>Teglar paneli</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5483"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5562"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5709"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5494"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5573"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5720"/>
       <source>Order</source>
       <translation>Buyurtma</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5492"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5568"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5715"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5503"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5579"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5726"/>
       <source>Ascending</source>
       <translation>Borayotgan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5499"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5575"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5722"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5510"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5586"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5733"/>
       <source>Descending</source>
       <translation>Kamayishi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5457"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5532"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5686"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5468"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5543"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5697"/>
       <source>Sort</source>
       <translation>Saralash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5173"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5184"/>
       <source>Only use editor width setting in distraction free mode</source>
       <translation>Chalg'ituvchi bepul rejimda faqat muharrir kengligidan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5463"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5538"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5692"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5474"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5549"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5703"/>
       <source>Alphabetical</source>
       <translation>Alifbo tartibida</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5699"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5710"/>
       <source>By last change / use</source>
       <translation>So'nggi o'zgartirish / foydalanish bo'yicha</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5732"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5743"/>
       <source>Hide 'Find or create tag' search</source>
       <translation>"Yorliqni topish yoki yaratish" qidiruvini yashirish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5519"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5530"/>
       <source>Note subfolders panel</source>
       <translation>Pastki jildlar paneliga e'tibor bering</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5525"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5536"/>
       <source>Show with full path</source>
       <translation>To'liq yo'l bilan ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5470"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5545"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5481"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5556"/>
       <source>By last change</source>
       <translation>So'nggi o'zgarish bilan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5555"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5566"/>
       <source>Show root folder name</source>
       <translation>Ildiz jild nomini ko‘rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5585"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5596"/>
       <source>Hide 'Find or create note subfolder' search</source>
       <translation>"Eslatma pastki jildini topish yoki yaratish" qidiruvini yashirish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5592"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5603"/>
       <source>Display note subfolders as full tree</source>
       <translation>Qaydlarning quyi jildlarini to'liq daraxt shaklida ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2871"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2875"/>
       <source>Search script repository</source>
       <translation>Skript omborini qidirish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5320"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5331"/>
       <source>You optionally can use "%notePath%" for the path of the note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
       <translation>Ixtiyoriy qayd uchun "%notePath%" dan foydalanishingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5343"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5354"/>
       <source>Git client</source>
       <translation>Git mijoz</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5359"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5370"/>
       <source>Path to git executable:</source>
       <translation>Git bajariladigan usul:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5349"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5360"/>
       <source>Path to git client, leave empty for default</source>
       <translation>Mijozni ochish uchun yo'l, standart holatda bo'sh qoldiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5268"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5279"/>
       <source>Commit interval</source>
       <translation>Amal qilish oralig'i</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5274"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5285"/>
       <source>sec</source>
       <extracomment>seconds</extracomment>
       <translation>sek</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5294"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5305"/>
       <source>git commit interval time [sec]</source>
       <translation>git vaqt oralig‘ini [sek] bajaring</translation>
     </message>
@@ -6679,22 +6690,22 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Ukrain</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3769"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3780"/>
       <source>The name</source>
       <translation>Ism</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3993"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4004"/>
       <source>Maximum height:</source>
       <translation>Maksimal balandligi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3966"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3977"/>
       <source>Maximum width:</source>
       <translation>Maksimal kenglik:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3907"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3918"/>
       <source>Scale images down when inserted into notes</source>
       <translation>Qaydlarga qo'shilganda rasmlarning o'lchamlarini pasaytiring</translation>
     </message>
@@ -6704,127 +6715,127 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Xorvat</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3684"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3695"/>
       <source>Path to your QML file</source>
       <translation>QML faylingizga yo'l</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3475"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3486"/>
       <source>Script name</source>
       <translation>Skript nomi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3497"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3508"/>
       <source>Description:</source>
       <translation>Ta'rif:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3579"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3590"/>
       <source>Version:</source>
       <translation>Versiya:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3540"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3551"/>
       <source>Repository:</source>
       <translation>Rezervuar:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3517"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3528"/>
       <source>Author(s):</source>
       <translation>Muallif(lar):</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3914"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3925"/>
       <source>Check this if you want to accept all external modifications while you are editing the current note.</source>
       <translation>Agar joriy yozuvni tahrirlash paytida barcha tashqi o'zgarishlarni qabul qilmoqchi bo'lsangiz, buni belgilang.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3917"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3928"/>
       <source>Accept all external modifications of the current note</source>
       <translation>Joriy yozuvning barcha tashqi o'zgarishlarini qabul qiling</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3851"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3862"/>
       <source>Use UNIX newline instead of native newline characters</source>
       <translation>Yangi satr belgilarining o'rniga UNIX yangi qatoridan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3861"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3872"/>
       <source>Restore cursor position when opening a note</source>
       <translation>Qaydni ochishda kursor o'rnini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4311"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4322"/>
       <source>Be warned that this will also remove your cached todo items and configured note folders and scripts!</source>
       <translation>Esda tuting, bu sizning keshlangan todo elementlaringiz va sozlangan eslatma papkalari va skriptlarni olib tashlaydi!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4841"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4852"/>
       <source>Apply toolbar configuration</source>
       <translation>Asboblar paneli konfiguratsiyasini qo'llang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4855"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4866"/>
       <source>Reset toolbars</source>
       <translation>Asboblar panelini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4883"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4894"/>
       <source>Enable logging to file</source>
       <translation>Faylga kirishni yoqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4890"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4901"/>
       <source>Clear log file</source>
       <translation>Jurnal faylini tozalash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4901"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4912"/>
       <source>Fake old version number to trigger update</source>
       <translation>Yangilashni boshlash uchun soxta eski versiya raqami</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4929"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4940"/>
       <source>Log file path:</source>
       <translation>Fayl jo‘natish yo‘li:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4991"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5002"/>
       <source>Here you can set your own time format for inserting the current time into a note.</source>
       <translation>Bu erda siz joriy vaqtni qaydga kiritish uchun o'zingizning vaqt formatingizni o'rnatishingiz mumkin.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4994"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5005"/>
       <source>Insert current time</source>
       <translation>Joriy vaqtni kiriting</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5000"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5011"/>
       <source>Time format:</source>
       <translation>Vaqt formati:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5007"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5018"/>
       <source>Enter your custom time format, like "dd.MM.yyyy hh:mm"</source>
       <translation>"Dd.MM.yyyy hh:mm" kabi shaxsiy vaqt formatini kiriting</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5096"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5107"/>
       <source>Editor options</source>
       <translation>Muharrir variantlari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5109"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5120"/>
       <source>Enable automatic closing of brackets and markdown formatting characters</source>
       <translation>Qavslar va markirovka formatlash belgilarining avtomatik yopilishini yoqing</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5163"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5174"/>
       <source>You have to use the backspace key to remove the opening character</source>
       <translation>Ochish belgilarini olib tashlash uchun siz backspace tugmachasini ishlatishingiz kerak</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5166"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5177"/>
       <source>Enable automatic removal of matching closing characters</source>
       <translation>Avtomatik o'chirish belgilarini olib tashlashni yoqing</translation>
     </message>
@@ -6869,38 +6880,38 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>&amp;Taqvim ro'yxatini qayta yuklang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2937"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3047"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2948"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3058"/>
       <source>You may need to restart the application to let these changes take effect</source>
       <translation>Ushbu o'zgarishlar kuchga kirishi uchun ilovani qayta ishga tushirishingiz kerak bo'lishi mumkin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3082"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3093"/>
       <source>Toolbar icon size:</source>
       <translation>Asboblar panelidagi piktogramma hajmi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3072"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3083"/>
       <source>List and tree item height:</source>
       <translation>Daraxtlar ro'yxati va balandligi:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3105"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3116"/>
       <source>Reset the icon size</source>
       <translation>Belgilar hajmini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3119"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3130"/>
       <source>Reset the item height</source>
       <translation>Element balandligini tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4666"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4677"/>
       <source>View text right to left (RTL)</source>
       <translation>Matnni o'ngdan chapga ko'rish (RTL)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3243"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3254"/>
       <source>Search for shortcut</source>
       <translation>Yorliqni qidiring</translation>
     </message>
@@ -6910,22 +6921,22 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Ortiqcha elementlarni qo'llab-quvvatlamaydigan taqvimlarga e'tibor bermang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2871"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2882"/>
       <source>Arabic</source>
       <translation>Arabcha</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3021"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3032"/>
       <source>Icons</source>
       <translation>Belgilar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3030"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3041"/>
       <source>Use internal icon theme instead of system icon theme</source>
       <translation>Tizim ikonkasi mavzusining o'rniga ichki ikonka mavzusidan foydalaning</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3633"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3644"/>
       <source>Script path:</source>
       <translation>Skript yo'li:</translation>
     </message>
@@ -6940,79 +6951,79 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Qayd faylining nomi sarlavhadan farq qilmasin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3924"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3935"/>
       <source>Check this if you want to ignore all external modifications while you are editing the current note.</source>
       <translation>Joriy eslatmani tahrirlash paytida barcha tashqi o'zgarishlarga e'tibor bermaslik uchun buni belgilang.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3927"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3938"/>
       <source>Ignore all external modifications of the current note</source>
       <translation>Joriy eslatmaning barcha tashqi o'zgartirishlariga e'tibor bermang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3848"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3859"/>
       <source>You can use this for example under Windows if you have troubles with newlines in the ownCloud / Nextcloud notes app</source>
       <translation>Buni o'zingizda Windows / Nextcloud eslatmalar ilovasida yangi chiziqlar bilan bog'liq muammolar mavjud bo'lsa, masalan Windows-dan foydalanishingiz mumkin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4023"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4034"/>
       <source>App instance</source>
       <translation>Ilova nusxasi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4029"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4040"/>
       <source>Only allow one app instance at the same time</source>
       <translation>Bir vaqtning o'zida bitta ilovaga ruxsat bering</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4125"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4136"/>
       <source>Add a custom file extension</source>
       <translation>Maxsus kengaytmani qo'shing</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4139"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4150"/>
       <source>Remove a custom file extension</source>
       <translation>Maxsus kengaytmani olib tashlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4178"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4189"/>
       <source>If you add custom extensions just type in the extension, like "taskpaper".</source>
       <translation>Agar siz maxsus kengaytmalarni qo'shsangiz, "vazifa qog'ozi" kabi kengaytmani kiriting.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4182"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4193"/>
       <source>Text file (txt)</source>
       <translation>Matnli fayl (txt)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4210"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4221"/>
       <source>Path to external editor:</source>
       <translation>Tashqi muharrirga yo'l:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4045"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4056"/>
       <source>Don't show the update dialog automatically</source>
       <translation>Avtomatik yangilash oynasi ko'rsatilmasin</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4498"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4725"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4509"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4736"/>
       <source>Fonts</source>
       <translation>Shriftlar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4521"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4563"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4748"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4776"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4532"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4574"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4759"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4787"/>
       <source>Set a new font</source>
       <translation>Yangi shrift o'rnating</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4532"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4577"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4762"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4807"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4543"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4588"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4773"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4818"/>
       <source>Reset font</source>
       <translation>Shriftni tiklash</translation>
     </message>
@@ -7022,19 +7033,19 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>Tuzatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4362"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2289"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4264"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4373"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2293"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4268"/>
       <source>Debug information</source>
       <translation>Nosozliklarni tuzatish haqida ma'lumot</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4368"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4379"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You can &lt;span style=" font-weight:600;"&gt;copy and paste&lt;/span&gt; this text (or parts of this text) in an &lt;span style=" font-weight:600;"&gt;issue&lt;/span&gt; on the &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt;QOwnNotes issues page&lt;/a&gt; if you have &lt;span style=" font-weight:600;"&gt;questions or troubles&lt;/span&gt; with QOwnNotes. Data that is too sensitive is hidden in this information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; آپ &lt;اسپین طرز = "فونٹ وزن: 600؛"&gt; اس متن کو (یا اس متن کے کچھ حصے) &lt;اسپین طرز = میں کاپی اور پیسٹ کرسکتے ہیں۔ اگر آپ کے پاس &lt;span انداز = "فونٹ ویٹ: 600؛"&gt; سوال یا پریشانی &lt;/ span&gt; QOwnNotes کے ساتھ۔ ڈیٹا جو بہت حساس ہے اس معلومات میں پوشیدہ ہے۔ &lt;/ p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4455"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4466"/>
       <source>&amp;Save debug information</source>
       <translation>&amp;Tuzatish haqidagi ma'lumotni saqlang</translation>
     </message>
@@ -7064,17 +7075,17 @@ Sinxron to'qnashuvlarga duch kelsangiz, o'zingizni sinab ko'ring va agar shunday
       <translation>SOCKS5 proksi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1480"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1482"/>
       <source>Automatic (needs restart)</source>
       <translation>Avtomatik (qayta yoqish kerak)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1789"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1793"/>
       <source>Shortcut already assigned</source>
       <translation>Yorliq allaqachon tayinlangan</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1992"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1996"/>
       <source>The connection was made successfully!
 Server version: %1
 QOwnNotesAPI version: %2</source>
@@ -7083,7 +7094,7 @@ Server versiyasi: %1
 QOwnNotesAPI versiyasi: %2</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2005"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2009"/>
       <source>There was an error connecting to the ownCloud Server!
 You also need to have the QOwnNotesAPI app installed and enabled!
 
@@ -7094,113 +7105,113 @@ Siz shuningdek QOwnNotesAPI ilovasini o'rnatishingiz va yoqishingiz kerak!
 Ulanish xatosi haqida xabar: </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2290"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2294"/>
       <source>Please don't use this in the issue tracker, copy the debug information text directly into the issue.</source>
       <translation>Iltimos, buni muammoni qidiruvchida ishlatmang, nosozliklarni tuzatish to'g'risidagi ma'lumotni to'g'ridan-to'g'ri muammoga ko'chiring.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2297"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2301"/>
       <source>Markdown files</source>
       <translation>Markdown fayllari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2323"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2327"/>
       <source>Disable usage tracking</source>
       <translation>Foydalanishni kuzatishni o'chiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2324"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2328"/>
       <source>Anonymous usage data helps to decide what parts of QOwnNotes to improve next and to find and fix bugs.&lt;br /&gt;Please disable it only if you really can't live with it.&lt;br /&gt;&lt;br /&gt;Really disable usage tracking?</source>
       <translation>Anonim foydalanish ma'lumotlari QOwnNotes-ning qaysi qismlarini keyingi yaxshilanish va xatolarni aniqlash va tuzatish to'g'risida qaror qabul qilishga yordam beradi. &lt;br /&gt;Iltimos, agar siz u bilan yashay olmasangiz, uni o'chirib qo'ying. &lt;br /&gt; &lt;br /&gt;Foydalanishni kuzatish haqiqatdan ham o'chirilsinmi?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2551"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2555"/>
       <source>new folder</source>
       <translation>yangi papka</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2585"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2589"/>
       <source>Remove note folder</source>
       <translation>Qayd jildini olib tashlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2586"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2590"/>
       <source>Remove the current note folder &lt;strong&gt;%1&lt;/strong&gt;?</source>
       <translation>Joriy eslatma jildini olib tashlash &lt;strong&gt;%1&lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2660"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2664"/>
       <source>Please select the folder where your notes will get stored to</source>
       <translation>Eslatmalaringiz saqlanadigan papkani tanlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2695"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2699"/>
       <source>Loading folders from server</source>
       <translation>Serverdan papkalarni yuklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2710"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2714"/>
       <source>No more folders were found in the current folder</source>
       <translation>Joriy papkada boshqa jildlar topilmadi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2783"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2787"/>
       <source>Loading folders in '%1' from server</source>
       <translation>Serverdan '%1' jildini yuklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2856"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2860"/>
       <source>Take a look at the &lt;a href="%1"&gt;Scripting documentation&lt;/a&gt; to get started fast.</source>
       <translation>Tez boshlash uchun &lt;a href="%1"&gt; skript hujjatlari &lt;/a&gt; ni ko'rib chiqing.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2860"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2864"/>
       <source>If you need access to a certain functionality in QOwnNotes please open an issue on the &lt;a href="%1"&gt; QOwnNotes issue page&lt;/a&gt;.</source>
       <translation>Agar QOwnNotes-da biron bir funktsiyaga kirishingiz kerak bo'lsa, unda &lt;a href="%1"&gt; QOwnNotes nashrlari sahifasida &lt;/a&gt; muammoni oching.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2882"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2886"/>
       <source>Check for script updates</source>
       <translation>Skript yangilanishlarini tekshiring</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2889"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2893"/>
       <source>Add local script</source>
       <translation>Mahalliy skriptni qo'shing</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2893"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2897"/>
       <source>Add an existing, local script</source>
       <translation>Mavjud, mahalliy skriptni qo'shing</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3986"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4044"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3990"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4048"/>
       <source>INI files</source>
       <translation>INI fayllari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4022"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4026"/>
       <source>Do you really want to import settings? Your current settings will get removed and not every setting may get restored, like the note folder settings and which scripts you were using. You also will need to adjust some settings, especially across platforms, but your notes will stay intact!</source>
       <translation>Haqiqatan ham sozlamalarni import qilmoqchimisiz? Joriy sozlamalaringiz o'chiriladi va eslatma papkasi sozlamalari va siz foydalanayotgan skriptlar singari hamma sozlamalar tiklanmaydi. Shuningdek, ba'zi sozlamalarni, ayniqsa platformalarda sozlashingiz kerak bo'ladi, ammo qaydlaringiz saqlanib qoladi!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4032"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4036"/>
       <source>The application will be quit after the import.</source>
       <translation>Import qilinganidan keyin dastur o'chiriladi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4033"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4037"/>
       <source>The application will be restarted after the import.</source>
       <translation>Import qilinganidan keyin dastur qayta boshlanadi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4265"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4269"/>
       <source>The debug information was copied to the clipboard.</source>
       <translation>Tuzatish to'g'risidagi ma'lumotlar clipboardga ko'chirildi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2876"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2880"/>
       <source>Find a script in the script repository</source>
       <translation>Skriptlar omboridan skriptni toping</translation>
     </message>
@@ -7215,141 +7226,141 @@ Ulanish xatosi haqida xabar: </translation>
       <translation>Menyu panelidagi elementni ko'rsatish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1662"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="1714"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1666"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1718"/>
       <source>Undefined shortcut</source>
       <translation>Aniqlanmagan yorliq
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1666"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="1718"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1670"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1722"/>
       <source>Assign a new shortcut</source>
       <translation>Yangi yorliqni tayinlang
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1667"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="1719"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1671"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1723"/>
       <source>Reset to default shortcut</source>
       <translation>Odatiy yorliqqa qaytaring
 </translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1685"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1689"/>
       <source>Clear shortcut</source>
       <translation>Yorliqni tozalash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1790"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1794"/>
       <source>The shortcut &lt;strong&gt;%1&lt;/strong&gt; is already assigned to &lt;strong&gt;%2&lt;/strong&gt;! Do you want to jump to the shortcut?</source>
       <translation>&lt;strong&gt;%1 &lt;/strong&gt; yorlig'i allaqachon &lt;strong&gt;%2 &lt;/strong&gt; ga tayinlangan! Yorliqqa o'tishni xohlaysizmi?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2969"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2973"/>
       <source>Remove script</source>
       <translation>Skriptni olib tashlash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2970"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2974"/>
       <source>Remove the current script &lt;strong&gt;%1&lt;/strong&gt;?</source>
       <translation>Joriy skript &lt;strong&gt;%1 &lt;/strong&gt; o'chirilsinmi?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3020"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3024"/>
       <source>QML files</source>
       <translation>QML fayllari</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3021"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3025"/>
       <source>Please select your QML file</source>
       <translation>Iltimos, o'zingizning QML faylingizni tanlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3110"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3114"/>
       <source>Open repository</source>
       <translation>Omborni oching</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3168"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3172"/>
       <source>Your script seems to be valid</source>
       <translation>Sizning skriptingiz haqiqiy emasga o'xshaydi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3169"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3173"/>
       <source>There were script errors:
 %1</source>
       <translation>Skriptda xatoliklar yuz berdi:
 %1</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3237"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3241"/>
       <source>File extension</source>
       <translation>Fayl kengaytmasi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3237"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3241"/>
       <source>Enter your custom file extension:</source>
       <translation>Maxsus kengaytmani kiriting:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3566"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3570"/>
       <source>Calendar cache emptied</source>
       <translation>Kalendar keshi bo'shatildi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3567"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3571"/>
       <source>Your calendar cache was emptied.</source>
       <translation>Kalendaringiz keshi bo'shatildi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3648"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3652"/>
       <source>Reset toolbars and exit</source>
       <translation>Asboblar panelini tiklash va chiqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3649"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3653"/>
       <source>Do you really want to reset all toolbars? The application will be closed in the process, the default toolbars will be restored when you start it again.</source>
       <translation>Haqiqatan ham barcha asboblar panelini asl holatiga qaytarishni xohlaysizmi? Dastur ish jarayonida yopiladi, uni qayta ishga tushirganingizda standart panellar tiklanadi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3653"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3657"/>
       <source>Reset and &amp;exit</source>
       <translation>Qayta tiklash va &amp;chiqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3811"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3815"/>
       <source>Log file cleared</source>
       <translation>Jurnal fayli o'chirildi</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3812"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3816"/>
       <source>The log file &lt;strong&gt;%1&lt;/strong&gt; was cleared.</source>
       <translation>&lt;strong&gt;%1&lt;/strong&gt; jurnal fayli o'chirildi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3848"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3852"/>
       <source>Executable files</source>
       <translation>Amalga oshiriladigan fayllar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3849"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3851"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3853"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3855"/>
       <source>All files</source>
       <translation>Barcha fayllar</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3859"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3863"/>
       <source>Please select the path of your git executable</source>
       <translation>Iltimos, bajariladigan git yo'lini tanlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3956"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3960"/>
       <source>Do you really want to reset the overrides of all message boxes?</source>
       <translation>Haqiqatan ham barcha xabarlar qutilaridagi yozuvlarni qayta tiklamoqchimisiz?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2279"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2283"/>
       <source>The Database was reinitialized.</source>
       <translation>Ma'lumotlar bazasi qayta ishga tushirildi.</translation>
     </message>
@@ -7404,12 +7415,12 @@ Ulanish xatosi haqida xabar: </translation>
       <translation>Agar siz QOwnNotes-ni &lt;code&gt; - portativ &lt;/code&gt; parametri bilan ishlatsangiz, u faollashadi.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2298"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2302"/>
       <source>Save debug information</source>
       <translation>Tuzatish haqidagi ma'lumotni saqlang</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2343"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2347"/>
       <source>Do you really want to clear all settings, remove the database and exit QOwnNotes?
 
 Your notes will stay intact!</source>
@@ -7418,14 +7429,14 @@ Your notes will stay intact!</source>
 Qaydlaringiz saqlanib qoladi!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2346"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2350"/>
       <source>Clear and &amp;exit</source>
       <translation>Tozalash va &amp;chiqish</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2274"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2346"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3653"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2278"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2350"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3657"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Bekor qilish</translation>
     </message>
@@ -7435,17 +7446,17 @@ Qaydlaringiz saqlanib qoladi!</translation>
       <translation>QOwnNotes-ni ko'chma rejimda ishga tushirish uchun siz bo'shatish yo'lingizda &lt;code&gt; QOwnNotesPortable.bat &lt;/code&gt; -ni topasiz.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2271"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2275"/>
       <source>Do you really want to clear the local database? This will also remove your configured note folders and your cached todo items!</source>
       <translation>Haqiqatan ham mahalliy ma'lumotlar bazasini tozalashni xohlaysizmi? Bu sizning konfiguratsiyalangan qayd jildlaringizni va keshlangan todo elementlarini olib tashlaydi!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2274"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2278"/>
       <source>Clear &amp;database</source>
       <translation>Ma'lumotlar &amp;bazasini tozalash</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2457"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2461"/>
       <source>Select editor application</source>
       <translation>Muharrir dasturini tanlang</translation>
     </message>
@@ -8055,29 +8066,64 @@ Buni bekor qilib bo‘lmaydi!</translation>
       <translation>Qayd nomini toping</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="30"/>
+      <location filename="../dialogs/trashdialog.cpp" line="31"/>
       <source>&amp;Restore selected note on server</source>
       <translation>&amp;Serverda tanlangan qaydni tiklash</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="32"/>
+      <location filename="../dialogs/trashdialog.cpp" line="33"/>
       <source>&lt;h3&gt;Slower, but with note versions&lt;/h3&gt;&lt;p&gt;The note will be restored on your ownCloud server with all versions.&lt;/p&gt;&lt;p&gt;You will have to wait until it is synced to QOwnNotes by ownCloud sync.&lt;/p&gt;</source>
       <translation>&lt;h3&gt; Sekinroq, ammo eslatma versiyalari bilan &lt;/h3&gt; &lt;p&gt; Eslatma barcha versiyalar bilan o'zCloud serveringizda tiklanadi. &lt;/p&gt; &lt;p&gt; Siz o'z Qloud Sync tomonidan QOwnNotes-ga sinxronlashtirilishini kutishingiz kerak bo'ladi. &lt;/p&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="44"/>
+      <location filename="../dialogs/trashdialog.cpp" line="45"/>
       <source>&amp;Download selected note</source>
       <translation>&amp;Belgilangan qaydni yuklab oling</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="46"/>
+      <location filename="../dialogs/trashdialog.cpp" line="47"/>
       <source>&lt;h3&gt;Faster, but without versions&lt;/h3&gt;&lt;p&gt;The note will be created with the text from the preview.&lt;/p&gt;&lt;p&gt;The note versions on your ownCloud server will not be restored and the note will remain in the trash.&lt;/p&gt;&lt;p&gt;You can always restore the note and its versions later.&lt;/p&gt;</source>
       <translation>&lt;h3&gt; Tezroq, lekin versiyasiz &lt;/h3&gt; &lt;p&gt; Eslatma oldindan ko'rish orqali matn bilan yaratiladi. &lt;/p&gt; &lt;p&gt; O'zCloud serveridagi eslatma versiyalari tiklanmaydi va eslatma qoladi axlatda. &lt;/p&gt; &lt;p&gt; Siz har doim eslatmani va uning versiyalarini keyinroq tiklashingiz mumkin. &lt;/p&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="58"/>
+      <location filename="../dialogs/trashdialog.cpp" line="59"/>
+      <source>&amp;Delete</source>
+      <translation>&amp;O'chirish
+</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="60"/>
+      <source>Delete selected note on server</source>
+      <translation>Serverdagi tanlangan qaydni o'chirish
+</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="68"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Bekor qilish</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="190"/>
+      <source>Delete note on server</source>
+      <translation>Serverdagi qaydni o'chirish
+</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="191"/>
+      <source>Delete selected trashed note on server?</source>
+      <translation>Tanlangan axlat eslatma serverda yo'q qilinsinmi?
+</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="213"/>
+      <source>Error while deleting note</source>
+      <translation>Qaydni o'chirishda xato
+</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="214"/>
+      <source>Deleting trashed note failed with status code: %1</source>
+      <translation>Trastlangan eslatmani o'chirish muvaffaqiyatsiz tugadi: %1</translation>
     </message>
   </context>
   <context>
@@ -8255,34 +8301,34 @@ Buni bekor qilib bo‘lmaydi!</translation>
   <context>
     <name>UpdateService</name>
     <message>
-      <location filename="../services/updateservice.cpp" line="111"/>
-      <location filename="../services/updateservice.cpp" line="126"/>
-      <location filename="../services/updateservice.cpp" line="147"/>
+      <location filename="../services/updateservice.cpp" line="118"/>
+      <location filename="../services/updateservice.cpp" line="133"/>
+      <location filename="../services/updateservice.cpp" line="154"/>
       <source>Update-checker error</source>
       <translation>Yangilashni tekshirishda xato</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="112"/>
+      <location filename="../services/updateservice.cpp" line="119"/>
       <source>Network reply error: %1</source>
       <translation>Tarmoqqa javob xatosi: %1</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="127"/>
+      <location filename="../services/updateservice.cpp" line="134"/>
       <source>No data was received by the network request!</source>
       <translation>Tarmoq so'rovi bo'yicha hech qanday ma'lumot olinmadi!</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="148"/>
+      <location filename="../services/updateservice.cpp" line="155"/>
       <source>The data from the network request could not be interpreted!</source>
       <translation>Tarmoq so‘rovidagi ma’lumotlarni izohlab bo‘lmadi!</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="261"/>
+      <location filename="../services/updateservice.cpp" line="268"/>
       <source>No updates</source>
       <translation>Yangilanishlar yo'q</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="262"/>
+      <location filename="../services/updateservice.cpp" line="269"/>
       <source>There are no updates available.&lt;br /&gt;&lt;strong&gt;%1&lt;/strong&gt; is the latest version.</source>
       <translation>Hech qanday yangilanish yo'q. &lt;br /&gt; &lt;strong&gt;%1 &lt;/strong&gt; so'nggi versiyasi.</translation>
     </message>

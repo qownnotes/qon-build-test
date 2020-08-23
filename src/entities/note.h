@@ -150,6 +150,8 @@ class Note {
 
     QString encryptNoteText();
 
+    QString fetchDecryptedNoteText() const;
+
     QString getDecryptedNoteText() const;
 
     bool hasEncryptedNoteText() const;
@@ -208,6 +210,8 @@ class Note {
     void setNoteSubFolderId(int id);
 
     static QVector<Note> fetchAllByNoteSubFolderId(int noteSubFolderId);
+
+    static QVector<int> fetchAllIdsByNoteSubFolderId(int noteSubFolderId);
 
     static QVector<int> noteIdListFromNoteList(const QVector<Note> &noteList);
 

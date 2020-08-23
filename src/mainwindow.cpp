@@ -2733,6 +2733,12 @@ void MainWindow::notesWereModified(const QString &str) {
         return;
     }
 
+    // if we should ignore all changes return here
+    if (QSettings().value(QStringLiteral("ignoreAllExternalNoteFolderChanges"))
+        .toBool()) {
+        return;
+    }
+
     qDebug() << "notesWereModified: " << str;
 
     QFileInfo fi(str);
@@ -2884,8 +2890,7 @@ void MainWindow::notesDirectoryWasModified(const QString &str) {
     }
 
     // if we should ignore all changes return here
-    QSettings settings;
-    if (settings.value(QStringLiteral("ignoreAllExternalNoteFolderChanges"))
+    if (QSettings().value(QStringLiteral("ignoreAllExternalNoteFolderChanges"))
             .toBool()) {
         return;
     }
@@ -4179,9 +4184,9 @@ bool MainWindow::eventFilter(QObject *obj, QEvent *event) {
                 // on_noteTreeWidget_itemChanged when
                 // Note::handleNoteRenaming is called, so we don't allow to
                 // call focusNoteTextEdit()
-                if (!Note::allowDifferentFileName()) {
+//                if (!Note::allowDifferentFileName()) {
                     focusNoteTextEdit();
-                }
+//                }
                 return true;
             } else if ((keyEvent->key() == Qt::Key_Delete) ||
                        (keyEvent->key() == Qt::Key_Backspace)) {
@@ -4573,7 +4578,7 @@ void MainWindow::removeSelectedNoteSubFolders(QTreeWidget *treeWidget) {
 
     // gather the folders that are about to be deleted
     QStringList noteSubFolderPathList;
-    QList<NoteSubFolder> noteSubFolderList;
+    QVector<NoteSubFolder> noteSubFolderList;
     const auto selItems = treeWidget->selectedItems();
     for (QTreeWidgetItem *item : selItems) {
         if (item->data(0, Qt::UserRole + 1) != FolderType) {
@@ -5749,7 +5754,7 @@ void MainWindow::filterNotesByTag() {
         default:
             // check for multiple active;
             const auto selectedItems = ui->tagTreeWidget->selectedItems();
-            QList<int> tagIds;
+            QVector<int> tagIds;
             Tag activeTag;
 
             if (selectedItems.count() > 1) {
@@ -5767,13 +5772,13 @@ void MainWindow::filterNotesByTag() {
                 tagIds << activeTag.getId();
             }
 
-            QList<Tag> tags;
+            QVector<Tag> tags;
             tags.reserve(tagIds.count());
             for (const int id : Utils::asConst(tagIds)) {
                 tags << Tag::fetch(id);
             }
 
-            QList<Tag> tagList;
+            QVector<Tag> tagList;
             tagList.reserve(tags.count());
             for (const Tag &t : Utils::asConst(tags)) {
                 // check if the notes should be viewed recursively
@@ -5869,9 +5874,7 @@ void MainWindow::filterNotesByNoteSubFolders() {
     noteIdList.reserve(noteSubFolderIds.count());
     for (int noteSubFolderId : Utils::asConst(noteSubFolderIds)) {
         // get all notes of a note sub folder
-        QVector<Note> noteList =
-            Note::fetchAllByNoteSubFolderId(noteSubFolderId);
-        noteIdList << Note::noteIdListFromNoteList(noteList);
+        noteIdList << Note::fetchAllIdsByNoteSubFolderId(noteSubFolderId);
     }
 
     // omit the already hidden notes
@@ -7076,7 +7079,7 @@ void MainWindow::on_actionDecrypt_note_triggered() {
 
     if (currentNote.canDecryptNoteText()) {
         ui->encryptedNoteTextEdit->hide();
-        ui->noteTextEdit->setText(currentNote.getDecryptedNoteText());
+        ui->noteTextEdit->setText(currentNote.fetchDecryptedNoteText());
         ui->noteTextEdit->show();
         ui->noteTextEdit->setFocus();
         updateNoteTextEditReadOnly();
@@ -7100,11 +7103,11 @@ void MainWindow::on_actionEdit_encrypted_note_triggered() {
         Q_UNUSED(blocker)
 
         ui->noteTextEdit->hide();
-        const auto text = currentNote.getDecryptedNoteText();
+        const auto text = currentNote.fetchDecryptedNoteText();
         currentNote.setDecryptedText(text);
         // for some reason this still triggers a "textChanged", so we will do a
-        // "currentNote.setDecryptedText" and check if the text realy changed in
-        // "currentNote.storeNewDecryptedText"
+        // "currentNote.setDecryptedText" and check if the text really changed
+        // in "currentNote.storeNewDecryptedText"
         ui->encryptedNoteTextEdit->setText(text);
         ui->encryptedNoteTextEdit->show();
         ui->encryptedNoteTextEdit->setFocus();
@@ -7835,32 +7838,33 @@ void MainWindow::reloadTagTree() {
     ui->tagTreeWidget->clear();
 
     QVector<int> noteSubFolderIds;
-    QVector<int> noteIdList;
-    int untaggedNoteCount = 0;
 
     const auto noteSubFolderWidgetItems =
         ui->noteSubFolderTreeWidget->selectedItems();
 
-    for (QTreeWidgetItem *i : noteSubFolderWidgetItems) {
-        const int id = i->data(0, Qt::UserRole).toInt();
-        // check if the notes should be viewed recursively
-        if (NoteSubFolder::isNoteSubfoldersPanelShowNotesRecursively()) {
+    // check if the notes should be viewed recursively
+    if (NoteSubFolder::isNoteSubfoldersPanelShowNotesRecursively()) {
+        for (QTreeWidgetItem *i : noteSubFolderWidgetItems) {
+            const int id = i->data(0, Qt::UserRole).toInt();
             noteSubFolderIds
-                << NoteSubFolder::fetchIdsRecursivelyByParentId(id);
-        } else {
+                    << NoteSubFolder::fetchIdsRecursivelyByParentId(id);
+        }
+    } else {
+        for (QTreeWidgetItem *i : noteSubFolderWidgetItems) {
+            const int id = i->data(0, Qt::UserRole).toInt();
             noteSubFolderIds << id;
         }
     }
 
     qDebug() << __func__ << " - 'noteSubFolderIds': " << noteSubFolderIds;
 
+    QVector<int> noteIdList;
+    int untaggedNoteCount = 0;
     // get the notes from the subfolders
     for (int noteSubFolderId : Utils::asConst(noteSubFolderIds)) {
         // get all notes of a note sub folder
-        const QVector<Note> noteList =
-            Note::fetchAllByNoteSubFolderId(noteSubFolderId);
         untaggedNoteCount += Note::countAllNotTagged(noteSubFolderId);
-        noteIdList << Note::noteIdListFromNoteList(noteList);
+        noteIdList << Note::fetchAllIdsByNoteSubFolderId(noteSubFolderId);
     }
 
     // create an item to view all notes
@@ -8101,6 +8105,15 @@ void MainWindow::buildNoteSubFolderTreeForParentItem(QTreeWidgetItem *parent) {
                         .toInt()));
         }
     }
+
+    // add the notes of the note folder root
+    if (parentId == 0 && isCurrentNoteTreeEnabled) {
+        const QVector<Note> noteList =
+            Note::fetchAllByNoteSubFolderId(0);
+        for (const auto &note : noteList) {
+            addNoteToNoteTreeWidget(note, parent);
+        }
+    }
 }
 
 /**
@@ -8119,7 +8132,7 @@ void MainWindow::buildTagTreeForParentItem(QTreeWidgetItem *parent,
                    QString::number(NoteFolder::currentNoteFolderId()))
             .toStringList();
 
-    const QList<Tag> tagList = Tag::fetchAllByParentId(parentId);
+    const QVector<Tag> tagList = Tag::fetchAllByParentId(parentId);
     for (const Tag &tag : tagList) {
         const int tagId = tag.getId();
         QTreeWidgetItem *item = addTagToTagTreeWidget(parent, tag);
@@ -8161,41 +8174,45 @@ QTreeWidgetItem *MainWindow::addTagToTagTreeWidget(QTreeWidgetItem *parent,
         parent == nullptr ? 0 : parent->data(0, Qt::UserRole).toInt();
     const int tagId = tag.getId();
     const QString name = tag.getName();
+    auto hideCount = QSettings().value("tagsPanelHideNoteCount", false).toBool();
+
     QVector<int> linkedNoteIds;
-    const QList<Tag> tagListToCount = Tag::isTaggingShowNotesRecursively() ?
-        Tag::fetchRecursivelyByParentId(tagId) : QList<Tag>{tag};
-    const auto selectedSubFolderItems =
-        ui->noteSubFolderTreeWidget->selectedItems();
+    if (!hideCount) {
+        const QVector<Tag> tagListToCount = Tag::isTaggingShowNotesRecursively() ?
+                    Tag::fetchRecursivelyByParentId(tagId) : QVector<Tag>{tag};
+        const auto selectedSubFolderItems =
+                ui->noteSubFolderTreeWidget->selectedItems();
 
-    for (const Tag &tagToCount : tagListToCount) {
         if (selectedSubFolderItems.count() > 1) {
-            for (QTreeWidgetItem *folderItem : selectedSubFolderItems) {
-                int id = folderItem->data(0, Qt::UserRole).toInt();
-                const NoteSubFolder folder = NoteSubFolder::fetch(id);
+            for (const Tag &tagToCount : tagListToCount) {
+                for (QTreeWidgetItem *folderItem : selectedSubFolderItems) {
+                    int id = folderItem->data(0, Qt::UserRole).toInt();
+                    const NoteSubFolder folder = NoteSubFolder::fetch(id);
 
-                if (!folder.isFetched()) {
-                    continue;
+                    if (!folder.isFetched()) {
+                        continue;
+                    }
+
+                    linkedNoteIds << tagToCount.fetchAllLinkedNoteIdsForFolder(
+                                         folder, _showNotesFromAllNoteSubFolders,
+                                         NoteSubFolder::isNoteSubfoldersPanelShowNotesRecursively());
                 }
-
-                linkedNoteIds << tagToCount.fetchAllLinkedNoteIdsForFolder(
-                    folder, _showNotesFromAllNoteSubFolders,
-                    NoteSubFolder::isNoteSubfoldersPanelShowNotesRecursively());
             }
         } else {
-            linkedNoteIds << tagToCount.fetchAllLinkedNoteIds(
-                _showNotesFromAllNoteSubFolders,
-                NoteSubFolder::isNoteSubfoldersPanelShowNotesRecursively());
+            for (const Tag &tagToCount : tagListToCount) {
+                linkedNoteIds << tagToCount.fetchAllLinkedNoteIds(
+                                     _showNotesFromAllNoteSubFolders,
+                                     NoteSubFolder::isNoteSubfoldersPanelShowNotesRecursively());
+            }
         }
+
+        // remove duplicate note ids
+        linkedNoteIds.erase(
+                    std::unique(linkedNoteIds.begin(), linkedNoteIds.end()),
+                    linkedNoteIds.end());
     }
 
-    // remove duplicate note ids
-#if (QT_VERSION < QT_VERSION_CHECK(5, 14, 0))
-    const QSet<int> linkedNoteIdSet = linkedNoteIds.toList().toSet();
-#else
-    const QSet<int> linkedNoteIdSet(linkedNoteIds.begin(), linkedNoteIds.end());
-#endif
-
-    const int linkCount = linkedNoteIdSet.count();
+    const int linkCount = linkedNoteIds.count();
     const QString toolTip = tr("show all notes tagged with '%1' (%2)")
                                 .arg(name, QString::number(linkCount));
     auto *item = new QTreeWidgetItem();
@@ -8678,7 +8695,7 @@ void MainWindow::reloadCurrentNoteTags() {
     ui->newNoteTagButton->setToolTip(
         currentNoteOnly ? tr("Add a tag to the current note")
                         : tr("Add a tag to the selected notes"));
-    QList<Tag> tagList;
+    QVector<Tag> tagList;
 
     ui->multiSelectActionFrame->setVisible(!currentNoteOnly);
     ui->noteEditorFrame->setVisible(currentNoteOnly);
@@ -8754,7 +8771,7 @@ void MainWindow::reloadCurrentNoteTags() {
 void MainWindow::highlightCurrentNoteTagsInTagTree() {
     const int selectedNotesCount = getSelectedNotesCount();
     const bool currentNoteOnly = selectedNotesCount <= 1;
-    QList<Tag> tagList;
+    QVector<Tag> tagList;
 
     if (currentNoteOnly) {
         tagList = Tag::fetchAllOfNote(currentNote);
@@ -9021,7 +9038,7 @@ void MainWindow::on_tagTreeWidget_customContextMenuRequested(const QPoint pos) {
     }
 
     // don't allow clicking on non-tag items for removing, editing and colors
-    if (item->data(0, Qt::UserRole) <= 0) {
+    if (item->data(0, Qt::UserRole).toInt() <= 0) {
         return;
     }
 
@@ -9222,7 +9239,7 @@ void MainWindow::buildBulkNoteTagMenuTree(QMenu *parentMenu, int parentTagId) {
  */
 void MainWindow::moveSelectedTagsToTagId(int tagId) {
     qDebug() << __func__ << " - 'tagId': " << tagId;
-    QList<Tag> tagList{};
+    QVector<Tag> tagList;
 
     // gather tags to move (since we can't be sure the tag tree will not get
     // reloaded when we are actually moving the first tag)
@@ -9251,7 +9268,7 @@ void MainWindow::moveSelectedTagsToTagId(int tagId) {
         // move tags
         for (Tag tag : Utils::asConst(tagList)) {
             if (useScriptingEngine) {
-                const QList<Tag> tagsToHandle =
+                const QVector<Tag> tagsToHandle =
                     Tag::fetchRecursivelyByParentId(tag.getId());
 
                 // check all tags we need to handle
@@ -9268,7 +9285,7 @@ void MainWindow::moveSelectedTagsToTagId(int tagId) {
             tag.store();
 
             if (useScriptingEngine) {
-                const QList<Tag> tagsToHandle =
+                const QVector<Tag> tagsToHandle =
                     Tag::fetchRecursivelyByParentId(tag.getId());
 
                 // check all tags we need to handle
@@ -9491,7 +9508,7 @@ void MainWindow::moveSelectedNotesToNoteSubFolder(
             }
 
             // fetch the tags to tag the note after moving it
-            const QList<Tag> tags = Tag::fetchAllOfNote(note);
+            const QVector<Tag> tags = Tag::fetchAllOfNote(note);
 
             if (note.getId() == currentNote.getId()) {
                 // unset the current note
@@ -9591,7 +9608,7 @@ void MainWindow::copySelectedNotesToNoteSubFolder(
             }
 
             // fetch the tags to tag the note after copying it
-            const QList<Tag> tags = Tag::fetchAllOfNote(note);
+            const QVector<Tag> tags = Tag::fetchAllOfNote(note);
 
             // copy note
             const bool result = note.copyToPath(noteSubFolder.fullPath());
@@ -9924,7 +9941,11 @@ bool MainWindow::noteTextEditAutoComplete(QStringList &resultList) {
                      .split(QRegularExpression(
                                 QStringLiteral("[^\\w\\d]"),
                                 QRegularExpression::UseUnicodePropertiesOption),
+#if QT_VERSION < QT_VERSION_CHECK(5, 15, 0)
                             QString::SkipEmptyParts)
+#else
+                            Qt::SkipEmptyParts)
+#endif
                      .filter(QRegularExpression(
                          QStringLiteral("^") + QRegularExpression::escape(text),
                          QRegularExpression::CaseInsensitiveOption));
@@ -10202,12 +10223,14 @@ void MainWindow::on_noteTreeWidget_customContextMenuRequested(
     const QPoint pos) {
     auto *item = ui->noteTreeWidget->itemAt(pos);
     const QPoint globalPos = ui->noteTreeWidget->mapToGlobal(pos);
+    const int type = item == nullptr ?
+         0 : item->data(0, Qt::UserRole + 1).toInt();
 
     // if the user clicks at empty space, this is null and if it isn't handled
     // QON crashes
-    if (item == nullptr) {
+    if (item == nullptr || type == FolderType) {
         openNoteSubFolderContextMenu(globalPos, ui->noteTreeWidget);
-    } else if (item->data(0, Qt::UserRole + 1).toInt() == NoteType) {
+    } else if (type == NoteType) {
         openNotesContextMenu(globalPos);
     }
 }
@@ -10290,7 +10313,7 @@ void MainWindow::openNotesContextMenu(const QPoint globalPos,
         buildBulkNoteSubFolderMenuTree(subFolderCopyMenu, true);
     }
 
-    const QList<Tag> tagList = Tag::fetchAll();
+    const QVector<Tag> tagList = Tag::fetchAll();
 
     // show the tagging menu if at least one tag is present
     if (tagList.count() > 0) {
@@ -10311,7 +10334,7 @@ void MainWindow::openNotesContextMenu(const QPoint globalPos,
         }
     }
 
-    const QList<Tag> tagRemoveList =
+    const QVector<Tag> tagRemoveList =
         Tag::fetchAllWithLinkToNoteNames(noteNameList);
 
     // show the remove tags menu if at least one tag is present
@@ -10976,7 +10999,7 @@ void MainWindow::on_actionShow_menu_bar_triggered(bool checked) {
  */
 void MainWindow::on_actionSplit_note_at_cursor_position_triggered() {
     QString name = currentNote.getName();
-    const QList<Tag> tags = Tag::fetchAllOfNote(currentNote);
+    const QVector<Tag> tags = Tag::fetchAllOfNote(currentNote);
 
     QOwnNotesMarkdownTextEdit *textEdit = activeNoteTextEdit();
     QTextCursor c = textEdit->textCursor();
@@ -11879,10 +11902,7 @@ void MainWindow::on_actionScript_settings_triggered() {
 }
 
 Qt::SortOrder MainWindow::toQtOrder(int order) {
-    if (order == ORDER_ASCENDING) {
-        return Qt::AscendingOrder;
-    }
-    return Qt::DescendingOrder;
+    return order == ORDER_ASCENDING ? Qt::AscendingOrder : Qt::DescendingOrder;
 }
 
 void MainWindow::updatePanelsSortOrder() {
@@ -12328,11 +12348,20 @@ void MainWindow::on_actionToggle_fullscreen_triggered() {
     if (isFullScreen()) {
         showNormal();
 
+        // we need a showNormal() first to exist full-screen mode
+        if (_isMaximizedBeforeFullScreen) {
+            showMaximized();
+        } else if (_isMinimizedBeforeFullScreen) {
+            showMinimized();
+        }
+
         statusBar()->removeWidget(_leaveFullScreenModeButton);
         disconnect(_leaveFullScreenModeButton, Q_NULLPTR, Q_NULLPTR, Q_NULLPTR);
         delete _leaveFullScreenModeButton;
         _leaveFullScreenModeButton = nullptr;
     } else {
+        _isMaximizedBeforeFullScreen = isMaximized();
+        _isMinimizedBeforeFullScreen = isMinimized();
         showFullScreen();
 
         _leaveFullScreenModeButton->setFlat(true);
@@ -12374,6 +12403,7 @@ void MainWindow::on_actionCheck_spelling_toggled(bool checked) {
     QSettings settings;
     settings.setValue(QStringLiteral("checkSpelling"), checked);
     ui->noteTextEdit->updateSettings();
+    ui->encryptedNoteTextEdit->updateSettings();
 }
 
 void MainWindow::loadDictionaryNames() {

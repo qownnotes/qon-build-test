@@ -20,6 +20,7 @@
 #include <QQmlEngine>
 #include <QRegularExpression>
 #include <QSettings>
+#include <QStandardPaths>
 #include <QStringBuilder>
 #include <QTimer>
 #include <QVariant>
@@ -2115,10 +2116,12 @@ bool ScriptingService::writeToFile(const QString &filePath,
  * @param filePath
  * @return the file data or null if the file does not exist
  */
-QString ScriptingService::readFromFile(const QString &filePath) const {
+QString ScriptingService::readFromFile(const QString &filePath,
+                                       const QString &codec) const {
     if (filePath.isEmpty()){
         return QString();
     }
+
     QFile file(filePath);
 
     if (!file.open(QFile::ReadOnly)){
@@ -2126,9 +2129,10 @@ QString ScriptingService::readFromFile(const QString &filePath) const {
     }
 
     QTextStream in(&file);
-    in.setCodec("UTF-8");
+    in.setCodec(codec.toLatin1());
     QString data = in.readAll();
     file.close();
+
     return data;
 }
 
@@ -2196,6 +2200,7 @@ void ScriptingService::triggerMenuAction(const QString &objectName,
 
 /**
  * Called after a script thread is done
+ *
  * @brief ScriptingService::onScriptThreadDone
  * @param thread
  */
@@ -2218,4 +2223,51 @@ void ScriptingService::onScriptThreadDone(ScriptThread *thread) {
                 Q_ARG(QVariant, QVariant::fromValue(threadList)));
         }
     }
+}
+
+/**
+ * Returns a cache directory for a script
+ *
+ * @param {QString} subDir the subfolder to create and use
+ * @return {QString} the cache dir path
+ */
+QString ScriptingService::cacheDir(const QString &subDir) const {
+    QString cacheDir = QStandardPaths::writableLocation(
+                           QStandardPaths::CacheLocation) + QString("/scripts/");
+
+    if (!subDir.isEmpty()) {
+        cacheDir = QDir::toNativeSeparators(cacheDir  + subDir);
+    }
+
+    QDir dir = QDir(cacheDir);
+    if (!dir.exists()) {
+        dir.mkpath(dir.path());
+    }
+
+    return dir.path();
+}
+
+/**
+ * Clears the cache directory for a script
+ *
+ * @param {QString} subDir the subfolder to clear or nothing for the entire script cache folder
+ * @return {bool} true on success
+ */
+bool ScriptingService::clearCacheDir(const QString &subDir) const {
+    QString cacheDir = QStandardPaths::writableLocation(
+                           QStandardPaths::CacheLocation) + QString("/scripts/");
+
+    if (!subDir.isEmpty()) {
+        cacheDir = QDir::toNativeSeparators(cacheDir + subDir);
+    }
+
+    QDir dir = QDir(cacheDir);
+    bool result = false;
+
+    if (dir.exists()) {
+        result = dir.removeRecursively();
+        dir.mkpath(dir.path()); // recreate the folder
+    }
+
+    return result;
 }

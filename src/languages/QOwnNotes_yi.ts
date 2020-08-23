@@ -195,12 +195,12 @@
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="120"/>
       <source>Polish</source>
-      <translation type="unfinished">Polish</translation>
+      <translation>פּויליש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="93"/>
       <source>Italian</source>
-      <translation type="unfinished">Italian</translation>
+      <translation>איטאַליעניש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="33"/>
@@ -215,147 +215,147 @@
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="121"/>
       <source>Portugese (Brazilian)</source>
-      <translation type="unfinished">Portugese (Brazilian)</translation>
+      <translation>פּאָרטוגעזיש (בראַזיליאַן)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="122"/>
       <source>Portugese</source>
-      <translation type="unfinished">Portugese</translation>
+      <translation>פארטוגעזיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="48"/>
       <source>Danish</source>
-      <translation type="unfinished">Danish</translation>
+      <translation>דאַניש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="142"/>
       <source>Swedish</source>
-      <translation type="unfinished">Swedish</translation>
+      <translation>שוועדיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="47"/>
       <source>Czech</source>
-      <translation type="unfinished">Czech</translation>
+      <translation>טשעכיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="29"/>
       <source>Afrikaans</source>
-      <translation type="unfinished">Afrikaans</translation>
+      <translation>אפריקאנער</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="30"/>
       <source>Amharic</source>
-      <translation type="unfinished">Amharic</translation>
+      <translation>אַמהאַריש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="31"/>
       <source>Ancient Greek</source>
-      <translation type="unfinished">Ancient Greek</translation>
+      <translation>אלטע גריכיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="32"/>
       <source>Arabic</source>
-      <translation type="unfinished">Arabic</translation>
+      <translation>אַראַביש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="35"/>
       <source>Armenian</source>
-      <translation type="unfinished">Armenian</translation>
+      <translation>ארמאניש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="36"/>
       <source>Albanian</source>
-      <translation type="unfinished">Albanian</translation>
+      <translation>אַלבאַניש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="37"/>
       <source>Basque</source>
-      <translation type="unfinished">Basque</translation>
+      <translation>באַסק</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="38"/>
       <source>Belarusian</source>
-      <translation type="unfinished">Belarusian</translation>
+      <translation>בעלארוסיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="39"/>
       <source>Bulgarian</source>
-      <translation type="unfinished">Bulgarian</translation>
+      <translation>בולגאַריש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="40"/>
       <source>Bengali</source>
-      <translation type="unfinished">Bengali</translation>
+      <translation>בענגאַליש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="41"/>
       <source>Breton</source>
-      <translation type="unfinished">Breton</translation>
+      <translation>ברעטאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="42"/>
       <source>Catalan</source>
-      <translation type="unfinished">Catalan</translation>
+      <translation>קאַטאַלאַניש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="43"/>
       <source>Catalan (Valencian)</source>
-      <translation type="unfinished">Catalan (Valencian)</translation>
+      <translation>קאַטאַלאניש (Valencian)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="45"/>
       <source>Chuvash (Russia)</source>
-      <translation type="unfinished">Chuvash (Russia)</translation>
+      <translation>טשוואַש (רוסלאַנד)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="46"/>
       <source>Croatian</source>
-      <translation type="unfinished">Croatian</translation>
+      <translation>קראָאַטיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="49"/>
       <source>Dutch</source>
-      <translation type="unfinished">Dutch</translation>
+      <translation>האָלענדיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="52"/>
       <source>English (Australian)</source>
-      <translation type="unfinished">English (Australian)</translation>
+      <translation>ענגליש (אַוסטראַליאַן)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="56"/>
       <source>English (Canadian)</source>
-      <translation type="unfinished">English (Canadian)</translation>
+      <translation>ענגליש (קאנאדיש)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="58"/>
       <source>English (Medical Dictionary)</source>
-      <translation type="unfinished">English (Medical Dictionary)</translation>
+      <translation>ענגליש (מעדיציניש ווערטערבוך)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="60"/>
       <source>English (South African)</source>
-      <translation type="unfinished">English (South African)</translation>
+      <translation>ענגליש (דרום אפריקאנער)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="62"/>
       <source>Esperanto</source>
-      <translation type="unfinished">Esperanto</translation>
+      <translation>עספּעראַנטאָ</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="63"/>
       <source>Estonian</source>
-      <translation type="unfinished">Estonian</translation>
+      <translation>עסטיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="64"/>
       <source>Faroese</source>
-      <translation type="unfinished">Faroese</translation>
+      <translation>פעראָעעזיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="67"/>
       <source>Friulian</source>
-      <translation type="unfinished">Friulian</translation>
+      <translation>פריוליאַן</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="68"/>
@@ -375,22 +375,22 @@
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="74"/>
       <source>German (Classical Spelling)</source>
-      <translation type="unfinished">German (Classical Spelling)</translation>
+      <translation>דײַטש (קלאסישער אויסלייג)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="80"/>
       <source>German (Medical Dictionary)</source>
-      <translation type="unfinished">German (Medical Dictionary)</translation>
+      <translation>דײַטש (מעדיציניש ווערטערבוך)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="82"/>
       <source>Greek</source>
-      <translation type="unfinished">Greek</translation>
+      <translation>גריכיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="83"/>
       <source>Modern Greek (Polytonic Greek)</source>
-      <translation type="unfinished">Modern Greek (Polytonic Greek)</translation>
+      <translation>מאָדערן גריכיש (פּאָליטאָניק גריכיש)</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="86"/>
@@ -400,7 +400,7 @@
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="87"/>
       <source>Hebrew</source>
-      <translation type="unfinished">Hebrew</translation>
+      <translation>העברעאיש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="88"/>
@@ -410,7 +410,7 @@
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="89"/>
       <source>Hungarian</source>
-      <translation type="unfinished">Hungarian</translation>
+      <translation>אונגעריש</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="90"/>
@@ -680,20 +680,20 @@
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="292"/>
       <source>Download error</source>
-      <translation type="unfinished">Download error</translation>
+      <translation>אראפקאפיע טעות</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="293"/>
       <source>Error while downloading:
 %1</source>
-      <translation type="unfinished">Error while downloading:
+      <translation>טעות בעת דאַונלאָודינג:
 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="309"/>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="421"/>
       <source>File error</source>
-      <translation type="unfinished">File error</translation>
+      <translation>טעקע טעות</translation>
     </message>
     <message>
       <location filename="../dialogs/dictionarymanagerdialog.cpp" line="310"/>
@@ -715,7 +715,7 @@
     <message>
       <location filename="../dialogs/evernoteimportdialog.ui" line="14"/>
       <source>Evernote Import</source>
-      <translation type="unfinished">Evernote Import</translation>
+      <translation>עווערנאָטע ימפּאָרט</translation>
     </message>
     <message>
       <location filename="../dialogs/evernoteimportdialog.ui" line="121"/>
@@ -962,17 +962,17 @@
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="5979"/>
       <source> [New] </source>
-      <translation type="unfinished"> [New] </translation>
+      <translation>[נייַ]</translation>
     </message>
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="5987"/>
       <source>Cannot open file "%1" for reading</source>
-      <translation type="unfinished">Cannot open file "%1" for reading</translation>
+      <translation>דער טעקע "%1" קען ניט עפענען צום לייענען</translation>
     </message>
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6015"/>
       <source>"%1" %2L, %3C</source>
-      <translation type="unfinished">"%1" %2L, %3C</translation>
+      <translation>"%1" %2L, %3C</translation>
     </message>
     <message numerus="yes">
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6042"/>
@@ -985,7 +985,7 @@
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6130"/>
       <source>Cannot open file %1</source>
-      <translation type="unfinished">Cannot open file %1</translation>
+      <translation>קען נישט עפענען טעקע %1</translation>
     </message>
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6203"/>
@@ -1005,46 +1005,49 @@
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6337"/>
       <source>Search hit BOTTOM, continuing at TOP.</source>
-      <translation type="unfinished">Search hit BOTTOM, continuing at TOP.</translation>
+      <translation>זוכן שלאָגן דנאָ, קאַנטיניוינג אין שפּיץ.</translation>
     </message>
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6338"/>
       <source>Search hit TOP, continuing at BOTTOM.</source>
-      <translation type="unfinished">Search hit TOP, continuing at BOTTOM.</translation>
+      <translation>זוכן קלאַפּ שפּיץ, קאַנטיניוינג אין די דנאָ.</translation>
     </message>
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6343"/>
       <source>Search hit BOTTOM without match for: %1</source>
-      <translation type="unfinished">Search hit BOTTOM without match for: %1</translation>
+      <translation>זוך אונטער די דנאָ אָן גלייַכן פֿאַר: %1</translation>
     </message>
     <message>
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6344"/>
       <source>Search hit TOP without match for: %1</source>
-      <translation type="unfinished">Search hit TOP without match for: %1</translation>
+      <translation>זוך קלאַפּ שפּיץ אָן גלייַכן פֿאַר: %1</translation>
     </message>
     <message numerus="yes">
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6451"/>
       <source>%n lines indented.</source>
-      <translation type="unfinished">
-        <numerusform>%n lines indented.</numerusform>
-        <numerusform>%n lines indented.</numerusform>
+      <translation>
+        <numerusform>%n שורה ינדענטעד.
+</numerusform>
+        <numerusform>%n שורות ינדענטאַד.</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="6507"/>
       <source>%n lines %1ed %2 time.</source>
       <comment>%1 can be '&gt;' or '&lt;'</comment>
-      <translation type="unfinished">
-        <numerusform>%n lines %1ed %2 time.</numerusform>
-        <numerusform>%n lines %1ed %2 time.</numerusform>
+      <translation>
+        <numerusform>%n ליניע %1e אַעד%2 מאָל.
+</numerusform>
+        <numerusform>%n שורות%1e אַעד%2 מאָל.</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../libraries/fakevim/fakevim/fakevimhandler.cpp" line="7045"/>
       <source>%n lines yanked.</source>
-      <translation type="unfinished">
-        <numerusform>%n lines yanked.</numerusform>
-        <numerusform>%n lines yanked.</numerusform>
+      <translation>
+        <numerusform>%n שורה יקאַנגקט.
+</numerusform>
+        <numerusform>%n שורות יקאַנגקט.</numerusform>
       </translation>
     </message>
     <message>
@@ -1063,7 +1066,7 @@
     <message>
       <location filename="../helpers/fakevimproxy.cpp" line="24"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>אינפֿאָרמאַציע</translation>
     </message>
   </context>
   <context>
@@ -1071,43 +1074,43 @@
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="38"/>
       <source>Text font</source>
-      <translation type="unfinished">Text font</translation>
+      <translation>טעקסט שריפֿט</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="73"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>גרייס:</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="80"/>
       <source>Family:</source>
-      <translation type="unfinished">Family:</translation>
+      <translation>משפּחה:</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="103"/>
       <source>Color schema</source>
-      <translation type="unfinished">Color schema</translation>
+      <translation>קאָליר סכעמע</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="124"/>
       <source>Delete schema</source>
-      <translation type="unfinished">Delete schema</translation>
+      <translation>ויסמעקן סטשעמאַ</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="127"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>ויסמעקן</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="169"/>
       <location filename="../widgets/fontcolorwidget.cpp" line="689"/>
       <source>Export schema</source>
-      <translation type="unfinished">Export schema</translation>
+      <translation>אַרויספירן סטשעמאַ</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="172"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>אַרויספירן</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="271"/>
@@ -1122,93 +1125,93 @@
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="158"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>קאָפּיע</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="141"/>
       <location filename="../widgets/fontcolorwidget.cpp" line="731"/>
       <source>Import schema</source>
-      <translation type="unfinished">Import schema</translation>
+      <translation>אַרייַנפיר סטשעמאַ</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="144"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>אַרייַנפיר</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="315"/>
       <source>Share schema</source>
-      <translation type="unfinished">Share schema</translation>
+      <translation>שער סטשעמאַ</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="288"/>
       <source>Background:</source>
-      <translation type="unfinished">Background:</translation>
+      <translation>הינטערגרונט:</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="281"/>
       <source>Foreground:</source>
-      <translation type="unfinished">Foreground:</translation>
+      <translation>פאָרויסיקע ווייַזונג:</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="264"/>
       <source>Bold</source>
-      <translation type="unfinished">Bold</translation>
+      <translation>דרייסט</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="244"/>
       <source>Italic</source>
-      <translation type="unfinished">Italic</translation>
+      <translation>ייטאַל</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="237"/>
       <source>Adapt font size:</source>
-      <translation type="unfinished">Adapt font size:</translation>
+      <translation>אַדאַפּט שריפֿט גרייס:</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.ui" line="208"/>
       <source>Underline</source>
-      <translation type="unfinished">Underline</translation>
+      <translation>אַנדערליין</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="199"/>
       <source>Text preset</source>
-      <translation type="unfinished">Text preset</translation>
+      <translation>טעקסט פּריסעט</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="200"/>
       <source>Emphasized text</source>
-      <translation type="unfinished">Emphasized text</translation>
+      <translation>עמפאַסייזד טעקסט</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="201"/>
       <source>Strong text</source>
-      <translation type="unfinished">Strong text</translation>
+      <translation>שטאַרק טעקסט</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="235"/>
       <source>(HTML) Comment</source>
-      <translation type="unfinished">(HTML) Comment</translation>
+      <translation>(HTML) באַמערקן</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="225"/>
       <source>Header, level 1</source>
-      <translation type="unfinished">Header, level 1</translation>
+      <translation>כעדער, לעוועל 1</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="202"/>
       <source>Link</source>
-      <translation type="unfinished">Link</translation>
+      <translation>לינק</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="203"/>
       <source>Image</source>
-      <translation type="unfinished">Image</translation>
+      <translation>בילד</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="204"/>
       <source>Code (block)</source>
-      <translation type="unfinished">Code (block)</translation>
+      <translation>קאָד (פאַרשפּאַרן)</translation>
     </message>
     <message>
       <location filename="../widgets/fontcolorwidget.cpp" line="205"/>
@@ -1394,7 +1397,7 @@
     <message>
       <location filename="../dialogs/imagedialog.ui" line="220"/>
       <source>&amp;Crop</source>
-      <translation type="unfinished">&amp;Crop</translation>
+      <translation>&amp;שניידן</translation>
     </message>
     <message>
       <location filename="../dialogs/imagedialog.ui" line="30"/>
@@ -1429,7 +1432,7 @@
     <message>
       <location filename="../dialogs/imagedialog.cpp" line="81"/>
       <source>Any files</source>
-      <translation type="unfinished">Any files</translation>
+      <translation>קיין טעקעס</translation>
     </message>
     <message>
       <location filename="../dialogs/imagedialog.cpp" line="87"/>
@@ -1473,31 +1476,31 @@
       <location filename="../widgets/layoutwidget.cpp" line="158"/>
       <source>Minimal</source>
       <comment>Layout name</comment>
-      <translation type="unfinished">Minimal</translation>
+      <translation>מינימאַל</translation>
     </message>
     <message>
       <location filename="../widgets/layoutwidget.cpp" line="160"/>
       <source>Full</source>
       <comment>Layout name</comment>
-      <translation type="unfinished">Full</translation>
+      <translation>פול</translation>
     </message>
     <message>
       <location filename="../widgets/layoutwidget.cpp" line="162"/>
       <source>Preview only</source>
       <comment>Layout name</comment>
-      <translation type="unfinished">Preview only</translation>
+      <translation>פּריוויו בלויז</translation>
     </message>
     <message>
       <location filename="../widgets/layoutwidget.cpp" line="164"/>
       <source>Full vertical</source>
       <comment>Layout name</comment>
-      <translation type="unfinished">Full vertical</translation>
+      <translation>גאַנץ ווערטיקאַל</translation>
     </message>
     <message>
       <location filename="../widgets/layoutwidget.cpp" line="166"/>
       <source>Single column</source>
       <comment>Layout name</comment>
-      <translation type="unfinished">Single column</translation>
+      <translation>איין זייַל</translation>
     </message>
     <message>
       <location filename="../widgets/layoutwidget.cpp" line="174"/>
@@ -1547,47 +1550,47 @@
     <message>
       <location filename="../dialogs/linkdialog.ui" line="14"/>
       <source>Link an url or note</source>
-      <translation type="unfinished">Link an url or note</translation>
+      <translation>לינק אַ URL אָדער טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="51"/>
       <source>Enter URL</source>
-      <translation type="unfinished">Enter URL</translation>
+      <translation>אַרייַן URL</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="60"/>
       <source>Enter an URL to link to</source>
-      <translation type="unfinished">Enter an URL to link to</translation>
+      <translation>אַרייַן אַ URL צו לינק צו</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="83"/>
       <source>Select local file or directory to link to</source>
-      <translation type="unfinished">Select local file or directory to link to</translation>
+      <translation>סעלעקט היגע טעקע אָדער וועגווייַזער צו לינק צו</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="94"/>
       <source>Note</source>
-      <translation type="unfinished">Note</translation>
+      <translation>נאטיץ</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="141"/>
       <source>Enter the name of the link (optional)</source>
-      <translation type="unfinished">Enter the name of the link (optional)</translation>
+      <translation>אַרייַן די נאָמען פון די לינק (אַפּשאַנאַל)</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="144"/>
       <source>Name of link (optional)</source>
-      <translation type="unfinished">Name of link (optional)</translation>
+      <translation>נאָמען פון לינק (אַפּשאַנאַל)</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="154"/>
       <source>Enter a description for the link (optional)</source>
-      <translation type="unfinished">Enter a description for the link (optional)</translation>
+      <translation>אַרייַן אַ באַשרייַבונג פֿאַר די לינק (אַפּשאַנאַל)</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="157"/>
       <source>Description of link (optional)</source>
-      <translation type="unfinished">Description of link (optional)</translation>
+      <translation>באַשרייַבונג פון לינק (אַפּשאַנאַל)</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.ui" line="109"/>
@@ -1597,19 +1600,19 @@
     <message>
       <location filename="../dialogs/linkdialog.ui" line="124"/>
       <source>Search for a note to link to</source>
-      <translation type="unfinished">Search for a note to link to</translation>
+      <translation>זוכן פֿאַר אַ טאָן צו לינק צו</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.cpp" line="229"/>
       <location filename="../dialogs/linkdialog.cpp" line="314"/>
       <source>Select file to link to</source>
-      <translation type="unfinished">Select file to link to</translation>
+      <translation>סעלעקטירן טעקע צו לינק צו</translation>
     </message>
     <message>
       <location filename="../dialogs/linkdialog.cpp" line="271"/>
       <location filename="../dialogs/linkdialog.cpp" line="322"/>
       <source>Select directory to link to</source>
-      <translation type="unfinished">Select directory to link to</translation>
+      <translation>סעלעקט וועגווייַזער צו לינק צו</translation>
     </message>
   </context>
   <context>
@@ -1617,95 +1620,98 @@
     <message>
       <location filename="../dialogs/localtrashdialog.ui" line="14"/>
       <source>Locally trashed notes</source>
-      <translation type="unfinished">Locally trashed notes</translation>
+      <translation>לאָוקייטאַד טרוש הערות</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.ui" line="55"/>
       <source>Find note name</source>
-      <translation type="unfinished">Find note name</translation>
+      <translation>געפֿינען טאָן נאָמען</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.ui" line="81"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>נאָמען</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.ui" line="86"/>
       <source>Trashed</source>
-      <translation type="unfinished">Trashed</translation>
+      <translation>טראַשט</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="45"/>
       <source>Restore</source>
-      <translation type="unfinished">Restore</translation>
+      <translation>ומקערן</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="46"/>
       <location filename="../dialogs/localtrashdialog.cpp" line="195"/>
       <source>Restore selected notes</source>
-      <translation type="unfinished">Restore selected notes</translation>
+      <translation>ומקערן אויסגעקליבן הערות</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="54"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>אַראָפּנעמען</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="55"/>
       <location filename="../dialogs/localtrashdialog.cpp" line="240"/>
       <source>Remove selected notes</source>
-      <translation type="unfinished">Remove selected notes</translation>
+      <translation>אַראָפּנעמען אויסגעקליבן הערות</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="99"/>
       <source>File will be restored to: %1</source>
-      <translation type="unfinished">File will be restored to: %1</translation>
+      <translation>דער טעקע איז ריסטאָרד צו: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="109"/>
       <source>File &lt;strong&gt;%1&lt;/strong&gt; isn't readable and can't be restored!</source>
-      <translation type="unfinished">File &lt;strong&gt;%1&lt;/strong&gt; isn't readable and can't be restored!</translation>
+      <translation>טעקע &lt;strong&gt;%1 &lt;/strong&gt; איז ניט ליינעוודיק און קען ניט זיין געזונט!</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/localtrashdialog.cpp" line="196"/>
       <source>Restore &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?</source>
-      <translation type="unfinished">
-        <numerusform>Restore &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?</numerusform>
-        <numerusform>Restore &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?</numerusform>
+      <translation>
+        <numerusform>ומקערן &lt;strong&gt;%n &lt;/strong&gt; סעלעקטעד טאָן?
+</numerusform>
+        <numerusform>ריסטאָר &lt;/ strong&gt;%n&lt;/ strong&gt; סעלעקטעד הערות?</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="220"/>
       <source>Notes restored</source>
-      <translation type="unfinished">Notes restored</translation>
+      <translation>הערות געזונט</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/localtrashdialog.cpp" line="221"/>
       <source>&lt;strong&gt;%n&lt;/strong&gt; note(s) were restored</source>
-      <translation type="unfinished">
-        <numerusform>&lt;strong&gt;%n&lt;/strong&gt; note(s) were restored</numerusform>
-        <numerusform>&lt;strong&gt;%n&lt;/strong&gt; note(s) were restored</numerusform>
+      <translation>
+        <numerusform>&lt;strong&gt;%n &lt;/strong&gt; נאָטיץ זענען געזונט</numerusform>
+        <numerusform>&lt;strong&gt;%n &lt;/strong&gt; הערות זענען געזונט</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/localtrashdialog.cpp" line="241"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?</source>
-      <translation type="unfinished">
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?</numerusform>
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?</numerusform>
+      <translation>
+        <numerusform>אַראָפּנעמען &lt;/ strong&gt;% און &lt;/ strong&gt; סעלעקטעד טאָן?
+</numerusform>
+        <numerusform>אַראָפּנעמען &lt;/ strong&gt;% און &lt;/ strong&gt; סעלעקטעד הערות?</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../dialogs/localtrashdialog.cpp" line="265"/>
       <source>Notes removed</source>
-      <translation type="unfinished">Notes removed</translation>
+      <translation>הערות אַוועקגענומען</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/localtrashdialog.cpp" line="266"/>
       <source>&lt;strong&gt;%n&lt;/strong&gt; note(s) were removed</source>
-      <translation type="unfinished">
-        <numerusform>&lt;strong&gt;%n&lt;/strong&gt; note(s) were removed</numerusform>
-        <numerusform>&lt;strong&gt;%n&lt;/strong&gt; note(s) were removed</numerusform>
+      <translation>
+        <numerusform>&lt;strong&gt;%n &lt;/string&gt; נאָדע איז אַוועקגענומען
+</numerusform>
+        <numerusform>&lt;strong&gt;%n &lt;/ strong&gt; נאָודז זענען אַוועקגענומען</numerusform>
       </translation>
     </message>
   </context>
@@ -1714,37 +1720,37 @@
     <message>
       <location filename="../widgets/logwidget.ui" line="26"/>
       <source>Logs</source>
-      <translation type="unfinished">Logs</translation>
+      <translation>לאָגס</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="114"/>
       <source>Fatal</source>
-      <translation type="unfinished">Fatal</translation>
+      <translation>פאַטאַל</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="100"/>
       <source>Warning</source>
-      <translation type="unfinished">Warning</translation>
+      <translation>ווארענונג</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="107"/>
       <source>Critical</source>
-      <translation type="unfinished">Critical</translation>
+      <translation>קריטיש</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="86"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>דעבוג</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="93"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>אינפֿאָרמאַציע</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="121"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>סטאַטוס</translation>
     </message>
     <message>
       <location filename="../widgets/logwidget.ui" line="128"/>
@@ -1785,23 +1791,23 @@
     <message>
       <location filename="../mainwindow.ui" line="394"/>
       <source>Find navigation item</source>
-      <translation type="unfinished">Find navigation item</translation>
+      <translation>געפֿינען נאַוויגאַציע נומער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="696"/>
-      <location filename="../mainwindow.cpp" line="8679"/>
+      <location filename="../mainwindow.cpp" line="8687"/>
       <source>Add a tag to the current note</source>
-      <translation type="unfinished">Add a tag to the current note</translation>
+      <translation>לייג אַ קוויטל צו די קראַנט טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="867"/>
       <source>&amp;Note</source>
-      <translation type="unfinished">&amp;Note</translation>
+      <translation>&amp;נאטיץ</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="871"/>
       <source>Note &amp;folders</source>
-      <translation type="unfinished">Note &amp;folders</translation>
+      <translation>באַמערקונג &amp;פאָלדערס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="876"/>
@@ -1821,18 +1827,18 @@
     <message>
       <location filename="../mainwindow.ui" line="1149"/>
       <source>Editor width</source>
-      <translation type="unfinished">Editor width</translation>
+      <translation>עדיטאָר ברייט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1238"/>
-      <location filename="../mainwindow.cpp" line="6666"/>
+      <location filename="../mainwindow.cpp" line="6669"/>
       <source>Custom actions</source>
-      <translation type="unfinished">Custom actions</translation>
+      <translation>מנהג אַקשאַנז</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1258"/>
       <source>main toolbar</source>
-      <translation type="unfinished">main toolbar</translation>
+      <translation>הויפּט מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1292"/>
@@ -1842,27 +1848,27 @@
     <message>
       <location filename="../mainwindow.ui" line="1307"/>
       <source>&amp;Setup note folders</source>
-      <translation type="unfinished">&amp;Setup note folders</translation>
+      <translation>&amp;סעטאַפּ נאָטיץ פאָלדערס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1316"/>
       <source>&amp;Find note</source>
-      <translation type="unfinished">&amp;Find note</translation>
+      <translation>&amp;געפֿינען טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1328"/>
       <source>&amp;Remove current note</source>
-      <translation type="unfinished">&amp;Remove current note</translation>
+      <translation>&amp;אַראָפּנעמען קראַנט טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1352"/>
       <source>&amp;New note</source>
-      <translation type="unfinished">&amp;New note</translation>
+      <translation>&amp;ניו טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1364"/>
       <source>Check for &amp;updates</source>
-      <translation type="unfinished">Check for &amp;updates</translation>
+      <translation>&amp;זוך נייע ווערסיעס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1376"/>
@@ -1872,89 +1878,89 @@
     <message>
       <location filename="../mainwindow.ui" line="1387"/>
       <source>Alphabetical</source>
-      <translation type="unfinished">Alphabetical</translation>
+      <translation>אלפאבעט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1390"/>
       <source>Sort alphabetical</source>
-      <translation type="unfinished">Sort alphabetical</translation>
+      <translation>סאָרט אַלפאַבעטיקאַל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1398"/>
       <source>By date</source>
-      <translation type="unfinished">By date</translation>
+      <translation>דורך דאַטע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1401"/>
       <source>Sort by date</source>
-      <translation type="unfinished">Sort by date</translation>
+      <translation>סאָרט דורך טאָג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1425"/>
       <source>Show note &amp;versions</source>
-      <translation type="unfinished">Show note &amp;versions</translation>
+      <translation>&amp;ווייַזן טאָן ווערסיעס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1428"/>
       <source>Show note versions on server</source>
-      <translation type="unfinished">Show note versions on server</translation>
+      <translation>ווייַזן באַמערקונג ווערסיעס אויף סערווער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1440"/>
       <source>Show trashed notes on server</source>
-      <translation type="unfinished">Show trashed notes on server</translation>
+      <translation>ווייַזן טרעש הערות אויף די סערווער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1445"/>
-      <location filename="../mainwindow.cpp" line="10369"/>
+      <location filename="../mainwindow.cpp" line="10381"/>
       <source>Select &amp;all notes</source>
-      <translation type="unfinished">Select &amp;all notes</translation>
+      <translation>&amp;סעלעקטירן אַלע הערות</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1454"/>
-      <location filename="../mainwindow.cpp" line="6577"/>
+      <location filename="../mainwindow.cpp" line="6580"/>
       <source>Insert &amp;link</source>
       <translation type="unfinished">Insert &amp;link</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1457"/>
       <source>Insert link to an url or a note</source>
-      <translation type="unfinished">Insert link to an url or a note</translation>
+      <translation>לייג אריין לינק צו א URL אדער א צעטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1469"/>
       <source>&amp;Find in current note</source>
-      <translation type="unfinished">&amp;Find in current note</translation>
+      <translation>&amp;געפֿינען אין קראַנט טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1472"/>
       <source>Find text in current note</source>
-      <translation type="unfinished">Find text in current note</translation>
+      <translation>געפֿינען טעקסט אין קראַנט באַמערקונג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1485"/>
       <source>&amp;Duplicate text</source>
-      <translation type="unfinished">&amp;Duplicate text</translation>
+      <translation>&amp;דופּליקאַט טעקסט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1497"/>
       <source>&amp;Back in note history</source>
-      <translation type="unfinished">&amp;Back in note history</translation>
+      <translation>&amp;צוריק אין טאָן געשיכטע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1410"/>
       <source>&amp;Settings</source>
-      <translation type="unfinished">&amp;Settings</translation>
+      <translation>&amp;סעטטינגס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="119"/>
       <source>Find or create note sub folder</source>
-      <translation type="unfinished">Find or create note sub folder</translation>
+      <translation>געפֿינען אָדער שאַפֿן באַמערקונג סוב טעקע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="196"/>
       <source>Find or create tag</source>
-      <translation type="unfinished">Find or create tag</translation>
+      <translation>געפֿינען אָדער שאַפֿן קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="292"/>
@@ -1967,86 +1973,86 @@
       <translation>זוכן פֿאַר הערות אָדער שאַפֿן נייַע הערות דורך אַרייַן טעקסט און דריקן צוריקקומען</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8680"/>
+      <location filename="../mainwindow.cpp" line="8688"/>
       <source>Add a tag to the selected notes</source>
       <translation>לייג אַ קוויטל צו די אויסגעקליבן הערות</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="710"/>
       <source>New tag</source>
-      <translation type="unfinished">New tag</translation>
+      <translation>ניו קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="886"/>
-      <location filename="../mainwindow.cpp" line="6628"/>
+      <location filename="../mainwindow.cpp" line="6631"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>אַרויספירן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="899"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>אַרייַנפיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="928"/>
-      <location filename="../mainwindow.cpp" line="6609"/>
+      <location filename="../mainwindow.cpp" line="6612"/>
       <source>Print</source>
-      <translation type="unfinished">Print</translation>
+      <translation>דרוקן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="939"/>
       <source>View note</source>
-      <translation type="unfinished">View note</translation>
+      <translation>View טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="951"/>
       <source>Trash</source>
-      <translation type="unfinished">Trash</translation>
+      <translation>אָפּפאַל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1019"/>
       <source>&amp;Edit</source>
-      <translation type="unfinished">&amp;Edit</translation>
+      <translation>&amp;רעדאַגירן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1023"/>
       <source>Insert</source>
-      <translation type="unfinished">Insert</translation>
+      <translation>אַרייַנלייגן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1040"/>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>פֿאָרמאַטירונג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1054"/>
       <source>Extra</source>
-      <translation type="unfinished">Extra</translation>
+      <translation>עקסטרע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1070"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>רעדאַגירן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1083"/>
       <source>Versioning</source>
-      <translation type="unfinished">Versioning</translation>
+      <translation>ווערסיע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1094"/>
       <source>Encryption</source>
-      <translation type="unfinished">Encryption</translation>
+      <translation>ענקריפּשאַן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1106"/>
       <source>Languages</source>
-      <translation type="unfinished">Languages</translation>
+      <translation>שפראכן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1111"/>
       <source>Spelling backend</source>
-      <translation type="unfinished">Spelling backend</translation>
+      <translation>אויסלייג באַקענד</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1136"/>
@@ -2056,49 +2062,49 @@
     <message>
       <location filename="../mainwindow.ui" line="1142"/>
       <source>&amp;Window</source>
-      <translation type="unfinished">&amp;Window</translation>
+      <translation>&amp;פענצטער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1159"/>
       <location filename="../mainwindow.cpp" line="732"/>
       <source>Workspaces</source>
-      <translation type="unfinished">Workspaces</translation>
+      <translation>וואָרקספּאַסעס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1164"/>
       <source>Panels</source>
-      <translation type="unfinished">Panels</translation>
+      <translation>פּאַנעלס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1169"/>
       <source>Toolbars</source>
-      <translation type="unfinished">Toolbars</translation>
+      <translation>מכשירים</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1174"/>
       <source>Show</source>
       <extracomment>To show or hide stuff</extracomment>
-      <translation type="unfinished">Show</translation>
+      <translation>ווייַזן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1189"/>
       <source>Workspace</source>
-      <translation type="unfinished">Workspace</translation>
+      <translation>וואָרקספּאַסע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1198"/>
       <source>Jump to</source>
-      <translation type="unfinished">Jump to</translation>
+      <translation>שפרינג צו</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1234"/>
       <source>&amp;Scripting</source>
-      <translation type="unfinished">&amp;Scripting</translation>
+      <translation>&amp;סקריפּטינג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1340"/>
       <source>About &amp;QOwnNotes…</source>
-      <translation type="unfinished">About &amp;QOwnNotes…</translation>
+      <translation>&amp;וועגן QNwnNotes ...</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1379"/>
@@ -2124,47 +2130,47 @@
     <message>
       <location filename="../mainwindow.ui" line="1521"/>
       <source>Show shortcuts</source>
-      <translation type="unfinished">Show shortcuts</translation>
+      <translation>ווייַזן דורכוועג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1530"/>
       <source>&amp;Knowledge base</source>
-      <translation type="unfinished">&amp;Knowledge base</translation>
+      <translation>&amp;וויסן באַזע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1539"/>
       <source>Insert current &amp;time</source>
-      <translation type="unfinished">Insert current &amp;time</translation>
+      <translation>&amp;אַרייַנלייגן קראַנט צייט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1551"/>
       <source>Show &amp;Todo List</source>
-      <translation type="unfinished">Show &amp;Todo List</translation>
+      <translation>&amp;ווייַזן טאָדאָ רשימה</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1563"/>
       <source>&amp;Export note as PDF (preview)</source>
-      <translation type="unfinished">&amp;Export note as PDF (preview)</translation>
+      <translation>&amp;אַרויספירן טאָן ווי פּדף (פאָרויסיקע ווייַזונג)</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1566"/>
       <source>Export note as PDF (preview)</source>
-      <translation type="unfinished">Export note as PDF (preview)</translation>
+      <translation>אַרויספירן טאָן ווי פּדף (פאָרויסיקע ווייַזונג)</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1575"/>
       <source>&amp;Export note as PDF (text)</source>
-      <translation type="unfinished">&amp;Export note as PDF (text)</translation>
+      <translation>&amp;אַרויספירן טאָן ווי פּדף (טעקסט)</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1584"/>
       <source>&amp;Print note (text)</source>
-      <translation type="unfinished">&amp;Print note (text)</translation>
+      <translation>&amp;דרוק טאָן (טעקסט)</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1608"/>
       <source>Insert &amp;image</source>
-      <translation type="unfinished">Insert &amp;image</translation>
+      <translation>&amp;ינסערט בילד</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1611"/>
@@ -2174,57 +2180,57 @@
     <message>
       <location filename="../mainwindow.ui" line="1623"/>
       <source>Show &amp;changelog</source>
-      <translation type="unfinished">Show &amp;changelog</translation>
+      <translation>&amp;ווייַזן טשאַנגעלאָג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1632"/>
       <source>&amp;Encrypt note</source>
-      <translation type="unfinished">&amp;Encrypt note</translation>
+      <translation>&amp;ענקריפּט טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1641"/>
       <source>Edit encrypted note</source>
-      <translation type="unfinished">Edit encrypted note</translation>
+      <translation>רעדאַגירן ענקריפּטיד טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1653"/>
       <source>Decrypt note</source>
-      <translation type="unfinished">Decrypt note</translation>
+      <translation>דעקריפּט טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1662"/>
       <source>&amp;Open note in external editor</source>
-      <translation type="unfinished">&amp;Open note in external editor</translation>
+      <translation>&amp;עפֿן טאָן אין פונדרויסנדיק רעדאַקטאָר</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1674"/>
       <source>&amp;Export note as markdown file</source>
-      <translation type="unfinished">&amp;Export note as markdown file</translation>
+      <translation>&amp;אַרויספירן טאָן ווי מאַרקדאָוון טעקע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1683"/>
       <source>&amp;Get involved</source>
-      <translation type="unfinished">&amp;Get involved</translation>
+      <translation>&amp;באַקומען ינוואַלווד</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1692"/>
       <source>Insert &amp;code block</source>
-      <translation type="unfinished">Insert &amp;code block</translation>
+      <translation>&amp;אַרייַנלייגן קאָד בלאָק</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1704"/>
       <source>Next note</source>
-      <translation type="unfinished">Next note</translation>
+      <translation>ווייַטער טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1716"/>
       <source>Previous note</source>
-      <translation type="unfinished">Previous note</translation>
+      <translation>פֿריִער טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1728"/>
       <source>&amp;Distraction free mode</source>
-      <translation type="unfinished">&amp;Distraction free mode</translation>
+      <translation>&amp;דיסטראַקשאַן מאָדע פריי</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1731"/>
@@ -2239,27 +2245,27 @@
     <message>
       <location filename="../mainwindow.ui" line="1750"/>
       <source>Narrow</source>
-      <translation type="unfinished">Narrow</translation>
+      <translation>שמאָל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1761"/>
       <source>Medium</source>
-      <translation type="unfinished">Medium</translation>
+      <translation>מיטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1772"/>
       <source>Wide</source>
-      <translation type="unfinished">Wide</translation>
+      <translation>ברייט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1783"/>
       <source>Full</source>
-      <translation type="unfinished">Full</translation>
+      <translation>פול</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1795"/>
       <source>Paste html or media</source>
-      <translation type="unfinished">Paste html or media</translation>
+      <translation>פּאַפּ HTML אָדער מעדיע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1798"/>
@@ -2275,7 +2281,7 @@
     <message>
       <location filename="../mainwindow.ui" line="1825"/>
       <source>Format text &amp;bold</source>
-      <translation type="unfinished">Format text &amp;bold</translation>
+      <translation>דרייסט &amp;פֿאָרמאַט טעקסט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1837"/>
@@ -2285,269 +2291,269 @@
     <message>
       <location filename="../mainwindow.ui" line="1849"/>
       <source>&amp;Increase note text size</source>
-      <translation type="unfinished">&amp;Increase note text size</translation>
+      <translation>&amp;פאַרגרעסערן נומער טעקסט נומער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1861"/>
       <source>&amp;Decrease note text size</source>
-      <translation type="unfinished">&amp;Decrease note text size</translation>
+      <translation>&amp;פאַרמינערן טאָן נומער נומער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1873"/>
       <source>&amp;Reset note text size</source>
-      <translation type="unfinished">&amp;Reset note text size</translation>
+      <translation>&amp;באַשטעטיק טאָן טעקסט גרייס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1885"/>
       <source>&amp;Add tag to note</source>
-      <translation type="unfinished">&amp;Add tag to note</translation>
+      <translation>&amp;לייג קוויטל צו טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1897"/>
       <source>&amp;Reload note folder</source>
-      <translation type="unfinished">&amp;Reload note folder</translation>
+      <translation>&amp;רילאָוד טאָן טעקע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1969"/>
       <source>Show log</source>
-      <translation type="unfinished">Show log</translation>
+      <translation>ווייַזן קלאָץ</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1978"/>
       <source>Export note as HTML</source>
-      <translation type="unfinished">Export note as HTML</translation>
+      <translation>אַרויספירן טאָן ווי HTML</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2057"/>
       <source>Cycle text case</source>
-      <translation type="unfinished">Cycle text case</translation>
+      <translation>ציקל טעקסט פאַל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2130"/>
       <source>Show note list under tag panel</source>
-      <translation type="unfinished">Show note list under tag panel</translation>
+      <translation>ווייַזן טאָן רשימה אונטער קוויטל טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2148"/>
       <source>Find notes in all tags / subfolders</source>
-      <translation type="unfinished">Find notes in all tags / subfolders</translation>
+      <translation>געפֿינען הערות אין אַלע טאַגס / סובפאָלדערס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2169"/>
       <source>Import notes from text files</source>
-      <translation type="unfinished">Import notes from text files</translation>
+      <translation>אַרייַנפיר הערות פון טעקסט טעקעס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2178"/>
       <source>Manage orphaned image files</source>
-      <translation type="unfinished">Manage orphaned image files</translation>
+      <translation>אויפֿפּאַסן אָרפאַנד בילד טעקעס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2190"/>
       <location filename="../mainwindow.ui" line="2193"/>
       <source>Open the Telegram group</source>
-      <translation type="unfinished">Open the Telegram group</translation>
+      <translation>עפֿן די טעלעגראַם גרופּע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2205"/>
       <location filename="../mainwindow.ui" line="2208"/>
       <source>Open the Riot room</source>
       <extracomment>"Riot" as in the chat service</extracomment>
-      <translation type="unfinished">Open the Riot room</translation>
+      <translation>עפֿנט זיך דער טומל-צימער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2235"/>
       <source>Unlock panels</source>
-      <translation type="unfinished">Unlock panels</translation>
+      <translation>ופשליסן פּאַנאַלז</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2244"/>
-      <location filename="../mainwindow.cpp" line="11484"/>
+      <location filename="../mainwindow.cpp" line="11496"/>
       <source>Remove current workspace</source>
-      <translation type="unfinished">Remove current workspace</translation>
+      <translation>אַראָפּנעמען קראַנט וואָרקספּאַסע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2253"/>
       <source>Add new workspace</source>
-      <translation type="unfinished">Add new workspace</translation>
+      <translation>לייג נייַ וואָרקספּאַסע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2262"/>
       <source>Rename current workspace</source>
-      <translation type="unfinished">Rename current workspace</translation>
+      <translation>רענאַמע די קראַנט ווערקשיט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2271"/>
       <source>Switch to previous workspace</source>
-      <translation type="unfinished">Switch to previous workspace</translation>
+      <translation>רענאַמע די קראַנט ווערקשיט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2279"/>
       <source>Show all panels</source>
-      <translation type="unfinished">Show all panels</translation>
+      <translation>ווייַזן אַלע פּאַנאַלז</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2288"/>
       <source>Find action</source>
-      <translation type="unfinished">Find action</translation>
+      <translation>געפֿינען קאַמף</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2291"/>
       <location filename="../mainwindow.ui" line="2294"/>
       <source>Find an action from the menu</source>
-      <translation type="unfinished">Find an action from the menu</translation>
+      <translation>געפֿינען אַן אַקציע פון די מעניו</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2306"/>
       <source>Insert table</source>
-      <translation type="unfinished">Insert table</translation>
+      <translation>אַרייַנלייגן טיש</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2318"/>
-      <location filename="../mainwindow.cpp" line="6586"/>
+      <location filename="../mainwindow.cpp" line="6589"/>
       <source>Insert block &amp;quote</source>
-      <translation type="unfinished">Insert block &amp;quote</translation>
+      <translation>&amp;אַרייַנלייגן בלאָק ציטירן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2326"/>
       <location filename="../mainwindow.ui" line="2329"/>
       <source>Search selected text on the web</source>
-      <translation type="unfinished">Search selected text on the web</translation>
+      <translation>זוך אויסגעקליבן טעקסט אויף די וועב</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2337"/>
       <source>Delete line</source>
-      <translation type="unfinished">Delete line</translation>
+      <translation>ויסמעקן שורה</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2345"/>
       <source>Delete word</source>
-      <translation type="unfinished">Delete word</translation>
+      <translation>ויסמעקן וואָרט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2353"/>
       <source>Copy note headline</source>
-      <translation type="unfinished">Copy note headline</translation>
+      <translation>קאָפּי טאָן טיטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2365"/>
-      <location filename="../mainwindow.cpp" line="10345"/>
+      <location filename="../mainwindow.cpp" line="10357"/>
       <source>Open note in different window</source>
-      <translation type="unfinished">Open note in different window</translation>
+      <translation>עפֿן טאָן אין פאַרשידענע פֿענצטער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2377"/>
       <source>Save modified notes</source>
-      <translation type="unfinished">Save modified notes</translation>
+      <translation>היט מאַדאַפייד הערות</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2388"/>
       <source>Ascending</source>
-      <translation type="unfinished">Ascending</translation>
+      <translation>ארויף</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2396"/>
       <source>Descending</source>
-      <translation type="unfinished">Descending</translation>
+      <translation>אראפנידערן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2405"/>
-      <location filename="../mainwindow.cpp" line="10353"/>
+      <location filename="../mainwindow.cpp" line="10365"/>
       <source>Show note git versions</source>
-      <translation type="unfinished">Show note git versions</translation>
+      <translation>ווייַזן באַמערקונג גיט ווערסיעס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2414"/>
       <source>Find scripts in script repository</source>
-      <translation type="unfinished">Find scripts in script repository</translation>
+      <translation>געפֿינען סקריפּס אין שריפט ריפּאַזאַטאָרי</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2426"/>
       <source>Script settings</source>
-      <translation type="unfinished">Script settings</translation>
+      <translation>שריפט סעטטינגס</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2435"/>
       <source>Insert attachment</source>
-      <translation type="unfinished">Insert attachment</translation>
+      <translation>אַרייַנלייגן אַטאַטשמאַנט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2462"/>
       <source>Check for script updates</source>
-      <translation type="unfinished">Check for script updates</translation>
+      <translation>קוק פֿאַר שריפט דערהייַנטיקונגען</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2471"/>
       <source>Show local trash</source>
-      <translation type="unfinished">Show local trash</translation>
+      <translation>ווייַזן היגע אָפּפאַל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2476"/>
       <location filename="../mainwindow.ui" line="2479"/>
       <source>Jump to note edit panel</source>
-      <translation type="unfinished">Jump to note edit panel</translation>
+      <translation>שפרינג צו טאָן רעדאַגירן טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2491"/>
       <source>Manage orphaned attachments</source>
-      <translation type="unfinished">Manage orphaned attachments</translation>
+      <translation>אויפֿפּאַסן אָרפאַנד אַטאַטשמאַנץ</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2496"/>
       <source>Jump to note subfolder panel</source>
-      <translation type="unfinished">Jump to note subfolder panel</translation>
+      <translation>שפרינג צו טאָן סובפאָלדער טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2504"/>
       <source>Jump to tags panel</source>
-      <translation type="unfinished">Jump to tags panel</translation>
+      <translation>שפרינג צו טאַגס טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2512"/>
       <source>Jump to note list panel</source>
-      <translation type="unfinished">Jump to note list panel</translation>
+      <translation>שפרינג צו טאָן רשימה טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2520"/>
       <source>Activate context menu</source>
-      <translation type="unfinished">Activate context menu</translation>
+      <translation>אַקטאַווייט קאָנטעקסט מעניו</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2528"/>
       <source>Import bookmarks from server</source>
-      <translation type="unfinished">Import bookmarks from server</translation>
+      <translation>אַרייַנפיר בוקמאַרקס פון סערווער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2533"/>
       <location filename="../mainwindow.ui" line="2536"/>
       <source>Toggle full-screen mode</source>
-      <translation type="unfinished">Toggle full-screen mode</translation>
+      <translation>טאַגאַל פול פאַרשטעלן מאָדע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2547"/>
       <source>Typewriter mode</source>
-      <translation type="unfinished">Typewriter mode</translation>
+      <translation>שרייַבמאַשין מאָדע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2559"/>
       <source>Check spelling</source>
-      <translation type="unfinished">Check spelling</translation>
+      <translation>קאָנטראָלירן אויסלייג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2567"/>
-      <location filename="../mainwindow.cpp" line="12401"/>
+      <location filename="../mainwindow.cpp" line="12423"/>
       <source>Automatically detect</source>
-      <translation type="unfinished">Automatically detect</translation>
+      <translation>אויטאָמאַטיש דעטעקט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2572"/>
       <source>Manage dictionaries</source>
-      <translation type="unfinished">Manage dictionaries</translation>
+      <translation>פירן דיקשאַנעריז</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2580"/>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>מנהג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2583"/>
@@ -2557,37 +2563,37 @@
     <message>
       <location filename="../mainwindow.ui" line="2588"/>
       <source>Show/Hide application</source>
-      <translation type="unfinished">Show/Hide application</translation>
+      <translation>ווייַזן / באַהאַלטן אַפּלאַקיישאַן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2597"/>
       <source>Previous note tab</source>
-      <translation type="unfinished">Previous note tab</translation>
+      <translation>פרייַערדיק טאָן קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2609"/>
       <source>Next note tab</source>
-      <translation type="unfinished">Next note tab</translation>
+      <translation>ווייַטער באַמערקונג קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2621"/>
       <source>Close current note tab</source>
-      <translation type="unfinished">Close current note tab</translation>
+      <translation>נאָענט קראַנט קוויטל קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2633"/>
       <source>New note in new tab</source>
-      <translation type="unfinished">New note in new tab</translation>
+      <translation>נייַע באַמערקונג אין נייַע קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2641"/>
       <source>Toggle note stickiness of current tab</source>
-      <translation type="unfinished">Toggle note stickiness of current tab</translation>
+      <translation>טאַגאַל טאָן קלעפּיקקייט פון די קראַנט קוויטל</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2650"/>
       <source>Format text underline</source>
-      <translation type="unfinished">Format text underline</translation>
+      <translation>אַנדערליינז טעקסט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1908"/>
@@ -2598,54 +2604,54 @@
       <location filename="../mainwindow.ui" line="1911"/>
       <location filename="../mainwindow.ui" line="1914"/>
       <source>The note edit panel will be above the preview panel</source>
-      <translation type="unfinished">The note edit panel will be above the preview panel</translation>
+      <translation>דער קוויטל רעדאַגירן טאַפליע וועט זיין אויבן די פאָרויסיקע ווייַזונג טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1923"/>
       <source>Replace in current note</source>
-      <translation type="unfinished">Replace in current note</translation>
+      <translation>פאַרבייַטן דעם קראַנט טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1931"/>
       <source>Autocomplete, solve equation or open URL</source>
-      <translation type="unfinished">Autocomplete, solve equation or open URL</translation>
+      <translation>אַוטאָקאָמפּלעטע, סאָלווע יקווייזשאַן אָדער עפענען URL</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1934"/>
       <source>Solve a simple equation like '(2+3)*6=' in the current line</source>
-      <translation type="unfinished">Solve a simple equation like '(2+3)*6=' in the current line</translation>
+      <translation>סאָלווע אַ פּשוט יקווייזשאַן ווי '(2 + 3) * 6 =' אין די קראַנט שורה</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1942"/>
       <source>Select note folder</source>
-      <translation type="unfinished">Select note folder</translation>
+      <translation>סעלעקט טאָן טעקע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1957"/>
       <source>Reload scripting engine</source>
-      <translation type="unfinished">Reload scripting engine</translation>
+      <translation>רילאָוד סקריפּטינג מאָטאָר</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1990"/>
       <location filename="../mainwindow.ui" line="1993"/>
       <source>Open the #qownnotes IRC channel, you have to stay online to get a response</source>
-      <translation type="unfinished">Open the #qownnotes IRC channel, you have to stay online to get a response</translation>
+      <translation>עפֿן די IRQ קאַנאַל # קוואַננאָטעס. איר מוזן בלייַבן אָנליין צו באַקומען אַן ענטפער</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2220"/>
       <location filename="../mainwindow.ui" line="2223"/>
       <source>Open the qownnotes Gitter room, you need a GitHub or Twitter account to login, but you can get offline messages</source>
-      <translation type="unfinished">Open the qownnotes Gitter room, you need a GitHub or Twitter account to login, but you can get offline messages</translation>
+      <translation>עפֿענען די qownnotes גיטער צימער, איר דאַרפֿן אַ GitHub אָדער Twitter חשבון פֿאַר לאָגין, אָבער איר קענען באַקומען אָפפלינע אַרטיקלען</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="992"/>
       <source>Open chat</source>
-      <translation type="unfinished">Open chat</translation>
+      <translation>עפֿן שמועסן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="526"/>
       <source>Note operations…</source>
-      <translation type="unfinished">Note operations…</translation>
+      <translation>באַמערקונג אַפּעריישאַנז…</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1596"/>
@@ -2655,22 +2661,22 @@
     <message>
       <location filename="../mainwindow.ui" line="2002"/>
       <source>Insert headline from note filename</source>
-      <translation type="unfinished">Insert headline from note filename</translation>
+      <translation>לייג אריין קעפל פון די באַמערקונג פילענאַמע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2016"/>
       <source>Use softwrap in note editor and preview</source>
-      <translation type="unfinished">Use softwrap in note editor and preview</translation>
+      <translation>ניצן סאָפטוואַפּ אין טאָן רעדאַקטאָר און פאָרויסיקע ווייַזונג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2024"/>
       <source>Show status bar</source>
-      <translation type="unfinished">Show status bar</translation>
+      <translation>ווייַזן סטאַטוס באַר</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2039"/>
       <source>Share note</source>
-      <translation type="unfinished">Share note</translation>
+      <translation>ייַנטיילן טאָן</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2069"/>
@@ -2680,56 +2686,56 @@
     <message>
       <location filename="../mainwindow.ui" line="2078"/>
       <source>Strike out text</source>
-      <translation type="unfinished">Strike out text</translation>
+      <translation>סטרייק אויס טעקסט</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2089"/>
       <source>Use one column mode</source>
-      <translation type="unfinished">Use one column mode</translation>
+      <translation>ניצן איין זייַל מאָדע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2092"/>
       <location filename="../mainwindow.ui" line="2095"/>
       <source>Use a one column minimal mode (like NVAlt)</source>
-      <translation type="unfinished">Use a one column minimal mode (like NVAlt)</translation>
+      <translation>ניצן אַ איין זייַל מינימאַל מאָדע (ווי NVAlt)</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2107"/>
       <source>Show menu bar</source>
-      <translation type="unfinished">Show menu bar</translation>
+      <translation>ווייַזן מעניו באַר</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2119"/>
       <source>Split note at cursor position</source>
-      <translation type="unfinished">Split note at cursor position</translation>
+      <translation>שפּאַלטן צעטל אין לויפֿער שטעלע</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2139"/>
       <source>Donate</source>
-      <translation type="unfinished">Donate</translation>
+      <translation>שענקען</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2160"/>
       <source>Import notes from Evernote</source>
-      <translation type="unfinished">Import notes from Evernote</translation>
+      <translation>אַרייַנפיר הערות פון עווערנאָטע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2839"/>
+      <location filename="../mainwindow.cpp" line="2845"/>
       <source>Note was removed externally!</source>
-      <translation type="unfinished">Note was removed externally!</translation>
+      <translation>באַמערקונג איז אַוועקגענומען ויסווייניק!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2840"/>
+      <location filename="../mainwindow.cpp" line="2846"/>
       <source>Current note was removed outside of this application!
 Restore current note?</source>
-      <translation type="unfinished">Current note was removed outside of this application!
-Restore current note?</translation>
+      <translation>די יעצטיגע צעטל איז אראפגענומען געווארן מחוץ דעם אפליקאציע!
+ומקערן קראַנט טאָן?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5436"/>
-      <location filename="../mainwindow.cpp" line="5459"/>
-      <location filename="../mainwindow.cpp" line="7071"/>
-      <location filename="../mainwindow.cpp" line="10435"/>
+      <location filename="../mainwindow.cpp" line="5441"/>
+      <location filename="../mainwindow.cpp" line="5464"/>
+      <location filename="../mainwindow.cpp" line="7074"/>
+      <location filename="../mainwindow.cpp" line="10447"/>
       <source>&amp;Cancel</source>
       <translation type="unfinished">&amp;Cancel</translation>
     </message>
@@ -2741,581 +2747,585 @@ Restore current note?</translation>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3077"/>
+      <location filename="../mainwindow.cpp" line="3082"/>
       <source>new version %1 available</source>
-      <translation type="unfinished">new version %1 available</translation>
+      <translation>נייַע ווערסיע %1 בנימצא</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3194"/>
+      <location filename="../mainwindow.cpp" line="3199"/>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>אַבאָרט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3194"/>
+      <location filename="../mainwindow.cpp" line="3199"/>
       <source>Loading notes…</source>
-      <translation type="unfinished">Loading notes…</translation>
+      <translation>לאָודינג הערות…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3408"/>
+      <location filename="../mainwindow.cpp" line="3413"/>
       <source>Removed duplicate conflicted database: %1</source>
-      <translation type="unfinished">Removed duplicate conflicted database: %1</translation>
+      <translation>אַוועקגענומען דופּליקאַט קאַנפליקטיד דאַטאַבייס: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3409"/>
+      <location filename="../mainwindow.cpp" line="3414"/>
       <source>Could not remove duplicate conflicted database: %1</source>
-      <translation type="unfinished">Could not remove duplicate conflicted database: %1</translation>
+      <translation>קען נישט אַראָפּנעמען דופּליקאַט קאַנפליקטיד דאַטאַבייס: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3415"/>
+      <location filename="../mainwindow.cpp" line="3420"/>
       <source>Removed merged conflicted database: %1</source>
-      <translation type="unfinished">Removed merged conflicted database: %1</translation>
+      <translation>אַוועקגענומען מערדזשד קאַנפליקטיד דאַטאַבייס: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3416"/>
+      <location filename="../mainwindow.cpp" line="3421"/>
       <source>Could not remove merged conflicted database: %1</source>
-      <translation type="unfinished">Could not remove merged conflicted database: %1</translation>
+      <translation>קען נישט אַראָפּנעמען די צונויפגיסן קאַנפליקטיד דאַטאַבייס: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3431"/>
+      <location filename="../mainwindow.cpp" line="3436"/>
       <source>Delete conflicted database copies</source>
-      <translation type="unfinished">Delete conflicted database copies</translation>
+      <translation>ויסמעקן קאַנפליקטיד דייטאַבייס קאפיעס</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="3454"/>
+      <location filename="../mainwindow.cpp" line="3459"/>
       <source>Removed %n conflicted database copies</source>
-      <translation type="unfinished">
-        <numerusform>Removed %n conflicted database copies</numerusform>
-        <numerusform>Removed %n conflicted database copies</numerusform>
+      <translation>
+        <numerusform>אַוועקגענומען %n קאַנפליקטאַד דאַטאַבייס קאפיעס</numerusform>
+        <numerusform>אַוועקגענומען %n קאָנפליקטיד דייטאַבייס קאָפּיע</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3618"/>
+      <location filename="../mainwindow.cpp" line="3623"/>
       <source>Please select the folder where your notes will get stored</source>
-      <translation type="unfinished">Please select the folder where your notes will get stored</translation>
+      <translation>סעלעקטירן דעם טעקע אין וואָס דיין הערות זענען סטאָרד</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3644"/>
+      <location filename="../mainwindow.cpp" line="3649"/>
       <source>No folder was selected</source>
-      <translation type="unfinished">No folder was selected</translation>
+      <translation>קיין טעקע איז אויסגעקליבן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3646"/>
+      <location filename="../mainwindow.cpp" line="3651"/>
       <source>You have to select your ownCloud notes folder to make this software work!</source>
-      <translation type="unfinished">You have to select your ownCloud notes folder to make this software work!</translation>
+      <translation>איר מוזן סעלעקטירן דיין אָוועסקלאָוד הערות טעקע צו מאַכן דעם ווייכווארג אַרבעט!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3648"/>
+      <location filename="../mainwindow.cpp" line="3653"/>
       <source>&amp;Retry</source>
-      <translation type="unfinished">&amp;Retry</translation>
+      <translation>&amp;פרובירט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3648"/>
+      <location filename="../mainwindow.cpp" line="3653"/>
       <source>&amp;Exit</source>
-      <translation type="unfinished">&amp;Exit</translation>
+      <translation>&amp;אַרויסגאַנג</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3956"/>
+      <location filename="../mainwindow.cpp" line="3961"/>
       <source>Remove current note</source>
-      <translation type="unfinished">Remove current note</translation>
+      <translation>אַראָפּנעמען קראַנט טאָן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3957"/>
+      <location filename="../mainwindow.cpp" line="3962"/>
       <source>Remove current note: &lt;strong&gt;%1&lt;/strong&gt;?</source>
-      <translation type="unfinished">Remove current note: &lt;strong&gt;%1&lt;/strong&gt;?</translation>
+      <translation>אַראָפּנעמען קראַנט באַמערקונג: &lt;strong&gt;%1 &lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4314"/>
+      <location filename="../mainwindow.cpp" line="4319"/>
       <source>Please enter the &lt;strong&gt;password&lt;/strong&gt; of this encrypted note.</source>
-      <translation type="unfinished">Please enter the &lt;strong&gt;password&lt;/strong&gt; of this encrypted note.</translation>
+      <translation>ביטע אַרייַן די &lt;strong&gt; פּאַראָל &lt;/ strong&gt; פון דעם ענקריפּטיד טאָן.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4337"/>
+      <location filename="../mainwindow.cpp" line="4342"/>
       <source>Note can't be decrypted!</source>
-      <translation type="unfinished">Note can't be decrypted!</translation>
+      <translation>באַמערקונג קענען ניט זיין דעקריפּטעד!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4338"/>
+      <location filename="../mainwindow.cpp" line="4343"/>
       <source>It seems that your password is not valid!</source>
-      <translation type="unfinished">It seems that your password is not valid!</translation>
+      <translation>עס מיינט אַז דיין פּאַראָל איז נישט גילטיק!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4506"/>
+      <location filename="../mainwindow.cpp" line="4511"/>
       <source>Remove selected notes</source>
-      <translation type="unfinished">Remove selected notes</translation>
+      <translation>אַראָפּנעמען אויסגעקליבן הערות</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4508"/>
+      <location filename="../mainwindow.cpp" line="4513"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?
 
 If the trash is enabled on your ownCloud server you should be able to restore them from there.</source>
-      <translation type="unfinished">
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?
+      <translation>
+        <numerusform>באַזייַטיקן &lt;strong&gt;%n &lt;/strong&gt; סעלעקטעד טאָן?
 
-If the trash is enabled on your ownCloud server you should be able to restore them from there.</numerusform>
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected note(s)?
+אויב די אָפּפאַל איז ענייבאַלד אויף דיין אָוווערקלאָוד סערווער, איר זאָל קענען צו ומקערן זיי פֿון דאָרט.</numerusform>
+        <numerusform>באַזייַטיקן &lt;strong&gt;%n &lt;/strong&gt; אויסגעקליבן הערות?
 
-If the trash is enabled on your ownCloud server you should be able to restore them from there.</numerusform>
+אויב די אָפּפאַל איז ענייבאַלד אויף דיין אָוווערקלאָוד סערווער, איר זאָל קענען צו ומקערן זיי פֿון דאָרט.</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4596"/>
-      <location filename="../mainwindow.cpp" line="10652"/>
+      <location filename="../mainwindow.cpp" line="4601"/>
+      <location filename="../mainwindow.cpp" line="10664"/>
       <source>Remove selected folders</source>
-      <translation type="unfinished">Remove selected folders</translation>
+      <translation>אַראָפּנעמען אויסגעקליבן פאָלדערס</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4597"/>
+      <location filename="../mainwindow.cpp" line="4602"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected folder(s)?&lt;ul&gt;&lt;li&gt;%1&lt;/li&gt;&lt;/ul&gt;All files and folders in these folders will be removed as well!</source>
-      <translation type="unfinished">
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected folder(s)?&lt;ul&gt;&lt;li&gt;%1&lt;/li&gt;&lt;/ul&gt;All files and folders in these folders will be removed as well!</numerusform>
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected folder(s)?&lt;ul&gt;&lt;li&gt;%1&lt;/li&gt;&lt;/ul&gt;All files and folders in these folders will be removed as well!</numerusform>
+      <translation>
+        <numerusform>באַזייַטיקן &lt;strong&gt;%n &lt;/strong&gt; אויסגעקליבן טעקע? &lt;ul&gt;&lt;li&gt;%1&lt;/li&gt; &lt;/ul&gt; אַלע טעקעס און פאָלדערס אין די פאָלדערס זענען אויך אַוועקגענומען!</numerusform>
+        <numerusform>באַזייַטיקן &lt;strong&gt;%n &lt;/strong&gt; אויסגעקליבן פאָלדערס? &lt;ul&gt;&lt;li&gt;%1&lt;/li&gt; &lt;/ul&gt; אַלע טעקעס און פאָלדערס אין די פאָלדערס זענען אויך אַוועקגענומען!</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4608"/>
+      <location filename="../mainwindow.cpp" line="4613"/>
       <source>Removed note subfolder: %1</source>
-      <translation type="unfinished">Removed note subfolder: %1</translation>
+      <translation>סובפאָלדער רעמאָוועד באַמערקונג: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4628"/>
+      <location filename="../mainwindow.cpp" line="4633"/>
       <source>Remove selected tags</source>
-      <translation type="unfinished">Remove selected tags</translation>
+      <translation>אַראָפּנעמען אויסגעקליבן טאַגס</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4629"/>
+      <location filename="../mainwindow.cpp" line="4634"/>
       <source>Remove &lt;strong&gt;%n&lt;/strong&gt; selected tag(s)? No notes will be removed in this process.</source>
-      <translation type="unfinished">
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected tag(s)? No notes will be removed in this process.</numerusform>
-        <numerusform>Remove &lt;strong&gt;%n&lt;/strong&gt; selected tag(s)? No notes will be removed in this process.</numerusform>
+      <translation>
+        <numerusform>באַזייַטיקן &lt;strong&gt;%n &lt;/strong&gt; אויסגעקליבן קוויטל? קיין הערות וועט ווערן אַוועקגענומען אין דעם פּראָצעס.</numerusform>
+        <numerusform>באַזייַטיקן &lt;strong&gt;%n &lt;/strong&gt; אויסגעקליבן טאַגס? קיין הערות וועט ווערן אַוועקגענומען אין דעם פּראָצעס.</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4681"/>
-      <location filename="../mainwindow.cpp" line="9465"/>
+      <location filename="../mainwindow.cpp" line="4686"/>
+      <location filename="../mainwindow.cpp" line="9473"/>
       <source>Move selected notes</source>
-      <translation type="unfinished">Move selected notes</translation>
+      <translation>מאַך אויסגעקליבן הערות</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4682"/>
+      <location filename="../mainwindow.cpp" line="4687"/>
       <source>Move %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</source>
-      <translation type="unfinished">
-        <numerusform>Move %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
-        <numerusform>Move %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
+      <translation>
+        <numerusform>מאַך %n אויסגעקליבן טאָן צו &lt;strong&gt;%2 &lt;/strong&gt;?</numerusform>
+        <numerusform>מאַך %n אויסגעקליבן הערות צו &lt;strong&gt;%2 &lt;/strong&gt;?</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4785"/>
-      <location filename="../mainwindow.cpp" line="9573"/>
+      <location filename="../mainwindow.cpp" line="4790"/>
+      <location filename="../mainwindow.cpp" line="9581"/>
       <source>Copy selected notes</source>
-      <translation type="unfinished">Copy selected notes</translation>
+      <translation>נאָכמאַכן אויסגעקליבן הערות</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4786"/>
+      <location filename="../mainwindow.cpp" line="4791"/>
       <source>Copy %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</source>
-      <translation type="unfinished">
-        <numerusform>Copy %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
-        <numerusform>Copy %n selected note(s) to &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
+      <translation>
+        <numerusform>נאָכמאַכן %n אויסגעקליבן טאָן צו &lt;strong&gt;%2 &lt;/strong&gt;?</numerusform>
+        <numerusform>נאָכמאַכן %n אויסגעקליבן הערות צו &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4816"/>
-      <location filename="../mainwindow.cpp" line="4965"/>
+      <location filename="../mainwindow.cpp" line="4821"/>
+      <location filename="../mainwindow.cpp" line="4970"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>געשען</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4817"/>
+      <location filename="../mainwindow.cpp" line="4822"/>
       <source>%n note(s) were copied to &lt;strong&gt;%2&lt;/strong&gt;.</source>
-      <translation type="unfinished">
-        <numerusform>%n note(s) were copied to &lt;strong&gt;%2&lt;/strong&gt;.</numerusform>
-        <numerusform>%n note(s) were copied to &lt;strong&gt;%2&lt;/strong&gt;.</numerusform>
+      <translation>
+        <numerusform>%n טאָן זענען קאַפּיד צו &lt;strong&gt;%2 &lt;/strong&gt;.
+
+</numerusform>
+        <numerusform>%n הערות זענען קאַפּיד צו &lt;strong&gt;%2 &lt;/strong&gt;.</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4830"/>
+      <location filename="../mainwindow.cpp" line="4835"/>
       <source>Tag selected notes</source>
-      <translation type="unfinished">Tag selected notes</translation>
+      <translation>קוויטל אויסגעקליבן הערות</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4831"/>
+      <location filename="../mainwindow.cpp" line="4836"/>
       <source>Tag %n selected note(s) with &lt;strong&gt;%2&lt;/strong&gt;?</source>
-      <translation type="unfinished">
-        <numerusform>Tag %n selected note(s) with &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
-        <numerusform>Tag %n selected note(s) with &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
+      <translation>
+        <numerusform>צייכן% n אויסגעקליבן טאָן מיט &lt;strong&gt;% 2 &lt;/strong&gt;?</numerusform>
+        <numerusform>צייכן %n אויסגעקליבן הערות מיט &lt;strong&gt;%2 &lt;/strong&gt;?</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5104"/>
+      <location filename="../mainwindow.cpp" line="5109"/>
       <source>Restart application</source>
-      <translation type="unfinished">Restart application</translation>
-    </message>
-    <message>
-      <location filename="../mainwindow.cpp" line="5110"/>
-      <source>You may need to restart the application manually to let the changes take effect.</source>
-      <translation type="unfinished">You may need to restart the application manually to let the changes take effect.</translation>
+      <translation>ריסטאַרט אַפּלאַקיישאַן</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="5115"/>
+      <source>You may need to restart the application manually to let the changes take effect.</source>
+      <translation>איר קען דאַרפֿן צו ריסטאַרט די אַפּלאַקיישאַן מאַניואַלי צו לאָזן די ענדערונגען צו נעמען ווירקונג.</translation>
+    </message>
+    <message>
+      <location filename="../mainwindow.cpp" line="5120"/>
       <source>You may need to restart the application to let the changes take effect.</source>
-      <translation type="unfinished">You may need to restart the application to let the changes take effect.</translation>
+      <translation>איר קען דאַרפֿן צו ריסטאַרט די אַפּלאַקיישאַן צו לאָזן די ענדערונגען נעמען ווירקונג.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5117"/>
+      <location filename="../mainwindow.cpp" line="5122"/>
       <source>Restart</source>
-      <translation type="unfinished">Restart</translation>
+      <translation>הייב אן נאכאמאל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5348"/>
+      <location filename="../mainwindow.cpp" line="5353"/>
       <source>PDF files</source>
-      <translation type="unfinished">PDF files</translation>
+      <translation>פּדף טעקעס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5432"/>
+      <location filename="../mainwindow.cpp" line="5437"/>
       <source>Todo lists disabled!</source>
-      <translation type="unfinished">Todo lists disabled!</translation>
+      <translation>טאָדאָ רשימות פאַרקריפּלט!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5433"/>
+      <location filename="../mainwindow.cpp" line="5438"/>
       <source>You have disabled the todo lists.&lt;br /&gt;Please check your &lt;strong&gt;Todo&lt;/strong&gt; configuration in the settings!</source>
-      <translation type="unfinished">You have disabled the todo lists.&lt;br /&gt;Please check your &lt;strong&gt;Todo&lt;/strong&gt; configuration in the settings!</translation>
+      <translation>איר האָט פאַרקריפּלט די טאָדאָ ליס. &lt;br /&gt; ביטע טשעק דיין &lt;strong&gt; Todo &lt;/strong&gt; קאַנפיגיעריישאַן אין די סעטטינגס!</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="5676"/>
+      <location filename="../mainwindow.cpp" line="5681"/>
       <source>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of any term of &lt;strong&gt;%1&lt;/strong&gt;</source>
-      <translation type="unfinished">
-        <numerusform>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of any term of &lt;strong&gt;%1&lt;/strong&gt;</numerusform>
-        <numerusform>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of any term of &lt;strong&gt;%1&lt;/strong&gt;</numerusform>
+      <translation>
+        <numerusform>געפֿונען &lt;strong&gt;%n&lt;/ strong&gt; ייבערהאַנט פון קיין טערמין פון &lt;strong&gt;%1&lt;/strong&gt;</numerusform>
+        <numerusform>געפֿונען &lt;strong&gt;%n&lt;/strong&gt; פֿאַלן פֿון יעדן טערמין &lt;strong&gt;%1&lt;/strong&gt;</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6226"/>
+      <location filename="../mainwindow.cpp" line="6229"/>
       <source>Note was not found</source>
-      <translation type="unfinished">Note was not found</translation>
+      <translation>באַמערקונג איז ניט געפֿונען</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6227"/>
+      <location filename="../mainwindow.cpp" line="6230"/>
       <source>Note was not found, create new note &lt;strong&gt;%1&lt;/strong&gt;?</source>
-      <translation type="unfinished">Note was not found, create new note &lt;strong&gt;%1&lt;/strong&gt;?</translation>
+      <translation>באַמערקונג איז ניט געפֿונען ווערן, שאַפֿן נייַע באַמערקונג &lt;strong&gt;% 1 &lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6390"/>
+      <location filename="../mainwindow.cpp" line="6393"/>
       <source>Note folders</source>
-      <translation type="unfinished">Note folders</translation>
+      <translation>באַמערקונג פאָלדערס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6513"/>
+      <location filename="../mainwindow.cpp" line="6516"/>
       <source>Note versions are currently loaded from your ownCloud server</source>
-      <translation type="unfinished">Note versions are currently loaded from your ownCloud server</translation>
+      <translation>באַמערקונג ווערסיעס זענען דערווייַל לאָודיד פון דיין OwnCloud סערווער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6530"/>
+      <location filename="../mainwindow.cpp" line="6533"/>
       <source>Trashed notes are currently loaded from your ownCloud server</source>
-      <translation type="unfinished">Trashed notes are currently loaded from your ownCloud server</translation>
+      <translation>טרוש הערות זענען דערווייַל לאָודיד פון דיין אָוווערקלאָוד סערווער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6596"/>
+      <location filename="../mainwindow.cpp" line="6599"/>
       <source>Copy code block</source>
-      <translation type="unfinished">Copy code block</translation>
+      <translation>קאָפּיע קאָד בלאָק</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6617"/>
+      <location filename="../mainwindow.cpp" line="6620"/>
       <source>Print selected text</source>
-      <translation type="unfinished">Print selected text</translation>
+      <translation>דרוקן אויסגעקליבן טעקסט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6623"/>
+      <location filename="../mainwindow.cpp" line="6626"/>
       <source>Print selected text (preview)</source>
-      <translation type="unfinished">Print selected text (preview)</translation>
+      <translation>דרוקן אויסגעקליבן טעקסט (פאָרויסיקע ווייַזונג)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6641"/>
+      <location filename="../mainwindow.cpp" line="6644"/>
       <source>Export selected text as PDF</source>
-      <translation type="unfinished">Export selected text as PDF</translation>
+      <translation>אַרויספירן אויסגעקליבן טעקסט ווי פּדף</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6647"/>
+      <location filename="../mainwindow.cpp" line="6650"/>
       <source>Export selected text as PDF (preview)</source>
-      <translation type="unfinished">Export selected text as PDF (preview)</translation>
+      <translation>אַרויספירן אויסגעקליבן טעקסט ווי פּדף (פאָרויסיקע ווייַזונג)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7067"/>
+      <location filename="../mainwindow.cpp" line="7070"/>
       <source>Your note will be decrypted and stored as plain text again. Keep in mind that the unencrypted note will possibly be synced to your server and sensitive text may be exposed!&lt;br /&gt;Do you want to decrypt your note?</source>
-      <translation type="unfinished">Your note will be decrypted and stored as plain text again. Keep in mind that the unencrypted note will possibly be synced to your server and sensitive text may be exposed!&lt;br /&gt;Do you want to decrypt your note?</translation>
+      <translation>דיין טאָן וועט זיין דעקריפּט און סטאָרד ווי קלאָר טעקסט ווידער. האַלטן אין מיינונג אַז די ונענקריפּטעד טאָן קען זיין סינסעד צו דיין סערווער און שפּירעוודיק טעקסט קען זיין יקספּאָוזד! &lt;br /&gt; צי איר ווילן צו דעקריפּט דיין טאָן?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7164"/>
+      <location filename="../mainwindow.cpp" line="7167"/>
       <source>Markdown files</source>
-      <translation type="unfinished">Markdown files</translation>
+      <translation>מאַרקדאַון טעקעס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7220"/>
+      <location filename="../mainwindow.cpp" line="7223"/>
       <source>Bookmarked note position at slot %1</source>
-      <translation type="unfinished">Bookmarked note position at slot %1</translation>
+      <translation>בוקמאַרקעד טאָן שטעלע בייַ שפּעלטל %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7235"/>
+      <location filename="../mainwindow.cpp" line="7238"/>
       <source>Jumped to bookmark position at slot %1</source>
-      <translation type="unfinished">Jumped to bookmark position at slot %1</translation>
+      <translation>דזשאַמפּט צו לייענ - צייכן שטעלע בייַ שפּעלטל %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7463"/>
-      <location filename="../mainwindow.cpp" line="7532"/>
+      <location filename="../mainwindow.cpp" line="7466"/>
+      <location filename="../mainwindow.cpp" line="7535"/>
       <source>Inserting image</source>
-      <translation type="unfinished">Inserting image</translation>
+      <translation>ינסערטינג בילד</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7468"/>
-      <location filename="../mainwindow.cpp" line="7536"/>
+      <location filename="../mainwindow.cpp" line="7471"/>
+      <location filename="../mainwindow.cpp" line="7539"/>
       <source>Done inserting image</source>
-      <translation type="unfinished">Done inserting image</translation>
+      <translation>געטאן ינסערטינג בילד</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7470"/>
+      <location filename="../mainwindow.cpp" line="7473"/>
       <source>Inserting attachment</source>
-      <translation type="unfinished">Inserting attachment</translation>
+      <translation>ינסערטינג אַטאַטשמאַנט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7475"/>
+      <location filename="../mainwindow.cpp" line="7478"/>
       <source>Done inserting attachment</source>
-      <translation type="unfinished">Done inserting attachment</translation>
+      <translation>דורכגעקאָכט אַטאַטשמאַנט</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7487"/>
+      <location filename="../mainwindow.cpp" line="7490"/>
       <source>Copied %n note(s) to %1</source>
-      <translation type="unfinished">
-        <numerusform>Copied %n note(s) to %1</numerusform>
-        <numerusform>Copied %n note(s) to %1</numerusform>
+      <translation>
+        <numerusform>%n טאָן קאַפּיד צו %1
+
+</numerusform>
+        <numerusform>%n הערות זענען קאַפּיד צו %1</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7496"/>
+      <location filename="../mainwindow.cpp" line="7499"/>
       <source>Failed to copy %n note(s) (most likely already existing)</source>
-      <translation type="unfinished">
-        <numerusform>Failed to copy %n note(s) (most likely already existing)</numerusform>
-        <numerusform>Failed to copy %n note(s) (most likely already existing)</numerusform>
+      <translation>
+        <numerusform>ניט געקענט נאָכמאַכן %n טאָן (מיסטאָמע שוין יגזיסטינג)</numerusform>
+        <numerusform>ניט געקענט נאָכמאַכן %n הערות (מיסטאָמע שוין יגזיסטינג)</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="7506"/>
+      <location filename="../mainwindow.cpp" line="7509"/>
       <source>Skipped copying of %n note(s) (no markdown or text file or not readable)</source>
-      <translation type="unfinished">
-        <numerusform>Skipped copying of %n note(s) (no markdown or text file or not readable)</numerusform>
-        <numerusform>Skipped copying of %n note(s) (no markdown or text file or not readable)</numerusform>
+      <translation>
+        <numerusform>קאַפּירייט פון% n טאָן (קיין מאַרקדאָוון אָדער טעקסט טעקע אָדער ניט ליינעוודיק)</numerusform>
+        <numerusform>איבערגעשיקט קאַפּיינג פון% n הערות (קיין מאַרקדאָוון אָדער טעקסט טעקע אָדער ניט ליינעוודיק)</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7519"/>
+      <location filename="../mainwindow.cpp" line="7522"/>
       <source>Saving temporary image</source>
-      <translation type="unfinished">Saving temporary image</translation>
+      <translation>שפּאָרן צייטווייליגע בילד</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7538"/>
+      <location filename="../mainwindow.cpp" line="7541"/>
       <source>Temporary file can't be opened</source>
-      <translation type="unfinished">Temporary file can't be opened</translation>
+      <translation>צצייטווייליגע טעקע קענען ניט זיין געעפנט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7581"/>
+      <location filename="../mainwindow.cpp" line="7584"/>
       <source>Downloading %1</source>
-      <translation type="unfinished">Downloading %1</translation>
+      <translation>דאַונלאָודינג %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7771"/>
+      <location filename="../mainwindow.cpp" line="7774"/>
       <source>Reset font size to %1 pt</source>
       <comment>Will be shown after the font size is reset by 'Reset note text size'</comment>
-      <translation type="unfinished">Reset font size to %1 pt</translation>
+      <translation>באַשטעטיק שריפֿט גרייס צו %1 פּט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8725"/>
+      <location filename="../mainwindow.cpp" line="8733"/>
       <source>Remove tag '%1' from the current note</source>
-      <translation type="unfinished">Remove tag '%1' from the current note</translation>
+      <translation>אַראָפּנעמען די קוויטל '%1' פון די קראַנט באַמערקונג</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8726"/>
+      <location filename="../mainwindow.cpp" line="8734"/>
       <source>Remove tag '%1' from the selected notes</source>
-      <translation type="unfinished">Remove tag '%1' from the selected notes</translation>
+      <translation>אַראָפּנעמען קוויטל '%1' פון די אויסגעקליבן הערות</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8957"/>
+      <location filename="../mainwindow.cpp" line="8965"/>
       <source>Rename tag</source>
-      <translation type="unfinished">Rename tag</translation>
+      <translation>רענאַמע קוויטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8958"/>
+      <location filename="../mainwindow.cpp" line="8966"/>
       <source>Assign color</source>
-      <translation type="unfinished">Assign color</translation>
+      <translation>באַשטימען קאָליר</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8959"/>
+      <location filename="../mainwindow.cpp" line="8967"/>
       <source>Disable color</source>
-      <translation type="unfinished">Disable color</translation>
+      <translation>דיסאַבלע קאָליר</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8963"/>
+      <location filename="../mainwindow.cpp" line="8971"/>
       <source>&amp;Move tags to…</source>
-      <translation type="unfinished">&amp;Move tags to…</translation>
+      <translation>&amp;מאַך טאַגס צו…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9174"/>
+      <location filename="../mainwindow.cpp" line="9182"/>
       <source>Move to the root</source>
       <comment>to move a tag to the current tag in the tag context menu</comment>
-      <translation type="unfinished">Move to the root</translation>
+      <translation>מאַך צו די וואָרצל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9739"/>
+      <location filename="../mainwindow.cpp" line="9747"/>
       <source>An url was opened at the current cursor position</source>
-      <translation type="unfinished">An url was opened at the current cursor position</translation>
+      <translation>א URL איז געעפנט געווארן אין די קראַנט לויפֿער שטעלע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9843"/>
+      <location filename="../mainwindow.cpp" line="9851"/>
       <source>No equation was found in front of the cursor</source>
-      <translation type="unfinished">No equation was found in front of the cursor</translation>
+      <translation>קיין יקווייזשאַן איז געפונען אין פראָנט פון די לויפֿער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9860"/>
+      <location filename="../mainwindow.cpp" line="9868"/>
       <source>Result for equation: %1 = %2</source>
-      <translation type="unfinished">Result for equation: %1 = %2</translation>
+      <translation>רעזולטאַט פֿאַר יקווייזשאַן: %1 = %2</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9961"/>
+      <location filename="../mainwindow.cpp" line="9973"/>
       <source>The scripting engine was reloaded</source>
-      <translation type="unfinished">The scripting engine was reloaded</translation>
+      <translation>די סקריפּטינג מאָטאָר איז רילאָודיד</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9995"/>
+      <location filename="../mainwindow.cpp" line="10007"/>
       <source>HTML files</source>
-      <translation type="unfinished">HTML files</translation>
+      <translation>HTML טעקעס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10281"/>
+      <location filename="../mainwindow.cpp" line="10293"/>
       <source>Jump to the note's subfolder</source>
-      <translation type="unfinished">Jump to the note's subfolder</translation>
+      <translation>שפרינג צו די סובפאָלדער פון דער צעטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10338"/>
+      <location filename="../mainwindow.cpp" line="10350"/>
       <source>Open note in tab</source>
-      <translation type="unfinished">Open note in tab</translation>
+      <translation>עפֿן טאָן אין קוויטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12004"/>
+      <location filename="../mainwindow.cpp" line="12016"/>
       <source>A script update was found!</source>
-      <translation type="unfinished">A script update was found!</translation>
+      <translation>א שריפט דערהייַנטיקן איז געפונען!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12010"/>
+      <location filename="../mainwindow.cpp" line="12022"/>
       <source>Script updates</source>
-      <translation type="unfinished">Script updates</translation>
+      <translation>שריפט דערהייַנטיקונגען</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12011"/>
+      <location filename="../mainwindow.cpp" line="12023"/>
       <source>Updates to your scripts were found in the script repository! Do you want to update them?</source>
-      <translation type="unfinished">Updates to your scripts were found in the script repository! Do you want to update them?</translation>
+      <translation>אַפּדייץ צו דיין סקריפּס זענען געפֿונען אין די שריפט ריפּאַזאַטאָרי! צי איר ווילן צו דערהייַנטיקן זיי?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12026"/>
+      <location filename="../mainwindow.cpp" line="12038"/>
       <source>No script updates were found</source>
-      <translation type="unfinished">No script updates were found</translation>
+      <translation>קיין שריפט דערהייַנטיקונגען זענען געפונען</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12632"/>
+      <location filename="../mainwindow.cpp" line="12654"/>
       <source>Toggle note stickiness</source>
-      <translation type="unfinished">Toggle note stickiness</translation>
+      <translation>טאַגאַל טאָן סטיקקינעסס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12638"/>
+      <location filename="../mainwindow.cpp" line="12660"/>
       <source>Close other note tabs</source>
-      <translation type="unfinished">Close other note tabs</translation>
+      <translation>נאָענט אנדערע טאָן טאַבס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10225"/>
-      <location filename="../mainwindow.cpp" line="10419"/>
+      <location filename="../mainwindow.cpp" line="10237"/>
+      <location filename="../mainwindow.cpp" line="10431"/>
       <source>Rename note</source>
-      <translation type="unfinished">Rename note</translation>
+      <translation>רענאַמע טאָן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10227"/>
+      <location filename="../mainwindow.cpp" line="10239"/>
       <source>Allows you to rename the filename of the note</source>
-      <translation type="unfinished">Allows you to rename the filename of the note</translation>
+      <translation>אַלאַוז איר צו רענאַמע די פילענאַמע פון די צעטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10241"/>
+      <location filename="../mainwindow.cpp" line="10253"/>
       <source>&amp;Move notes to…</source>
-      <translation type="unfinished">&amp;Move notes to…</translation>
+      <translation>&amp;מאַך הערות צו ...</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10242"/>
+      <location filename="../mainwindow.cpp" line="10254"/>
       <source>&amp;Copy notes to…</source>
-      <translation type="unfinished">&amp;Copy notes to…</translation>
-    </message>
-    <message>
-      <location filename="../mainwindow.cpp" line="10285"/>
-      <source>Move notes to subfolder…</source>
-      <translation type="unfinished">Move notes to subfolder…</translation>
-    </message>
-    <message>
-      <location filename="../mainwindow.cpp" line="10289"/>
-      <source>Copy notes to subfolder…</source>
-      <translation type="unfinished">Copy notes to subfolder…</translation>
+      <translation>&amp;נאָכמאַכן הערות צו…</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="10297"/>
+      <source>Move notes to subfolder…</source>
+      <translation>מאַך הערות צו סובפאָלדער ...</translation>
+    </message>
+    <message>
+      <location filename="../mainwindow.cpp" line="10301"/>
+      <source>Copy notes to subfolder…</source>
+      <translation>נאָכמאַכן הערות צו סובפאָלדער ...</translation>
+    </message>
+    <message>
+      <location filename="../mainwindow.cpp" line="10309"/>
       <source>&amp;Tag selected notes with…</source>
-      <translation type="unfinished">&amp;Tag selected notes with…</translation>
+      <translation>&amp;קוויטל אויסגעקליבן הערות מיט…</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10321"/>
+      <location filename="../mainwindow.cpp" line="10333"/>
       <source>&amp;Remove tag from selected notes…</source>
-      <translation type="unfinished">&amp;Remove tag from selected notes…</translation>
-    </message>
-    <message>
-      <location filename="../mainwindow.cpp" line="10419"/>
-      <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>&amp;אַראָפּנעמען קוויטל פון אויסגעקליבן הערות</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="10431"/>
+      <source>Name:</source>
+      <translation>נאָמען:</translation>
+    </message>
+    <message>
+      <location filename="../mainwindow.cpp" line="10443"/>
       <source>Note renaming not enabled!</source>
-      <translation type="unfinished">Note renaming not enabled!</translation>
+      <translation>באַמערקונג ריניימינג ניט ענייבאַלד!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10651"/>
+      <location filename="../mainwindow.cpp" line="10663"/>
       <source>Rename subfolder</source>
-      <translation type="unfinished">Rename subfolder</translation>
+      <translation>רענאַמע סובפאָלדער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11255"/>
+      <location filename="../mainwindow.cpp" line="11267"/>
       <source>Create new workspace</source>
-      <translation type="unfinished">Create new workspace</translation>
+      <translation>שאַפֿן נייַ וואָרקספּאַסע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11256"/>
-      <location filename="../mainwindow.cpp" line="11526"/>
+      <location filename="../mainwindow.cpp" line="11268"/>
+      <location filename="../mainwindow.cpp" line="11538"/>
       <source>Workspace name:</source>
-      <translation type="unfinished">Workspace name:</translation>
+      <translation>וואָרקספּאַסע נאָמען:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11381"/>
+      <location filename="../mainwindow.cpp" line="11393"/>
       <source>full</source>
       <comment>full workspace</comment>
-      <translation type="unfinished">full</translation>
+      <translation>פול</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11388"/>
+      <location filename="../mainwindow.cpp" line="11400"/>
       <source>minimal</source>
       <comment>minimal workspace</comment>
-      <translation type="unfinished">minimal</translation>
+      <translation>מינימאַל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11485"/>
+      <location filename="../mainwindow.cpp" line="11497"/>
       <source>Remove the current workspace?</source>
-      <translation type="unfinished">Remove the current workspace?</translation>
+      <translation>אַראָפּנעמען דעם קראַנט ווערקשיט?</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11525"/>
+      <location filename="../mainwindow.cpp" line="11537"/>
       <source>Rename workspace</source>
-      <translation type="unfinished">Rename workspace</translation>
+      <translation>רענאַמע וואָרקספּאַסע</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="11671"/>
+      <location filename="../mainwindow.cpp" line="11683"/>
       <source>%n chars</source>
       <comment>characters</comment>
       <translation type="unfinished">
@@ -3324,42 +3334,42 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="11943"/>
+      <location filename="../mainwindow.cpp" line="11955"/>
       <source>Disallow all note editing</source>
-      <translation type="unfinished">Disallow all note editing</translation>
+      <translation>דיסאַלו אַלע עדיטינג עדיטינג</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12159"/>
+      <location filename="../mainwindow.cpp" line="12171"/>
       <source>Select text files to import</source>
-      <translation type="unfinished">Select text files to import</translation>
+      <translation>סעלעקטירן טעקסט טעקעס צו אַרייַנפיר</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12189"/>
+      <location filename="../mainwindow.cpp" line="12201"/>
       <source>Importing: %1</source>
-      <translation type="unfinished">Importing: %1</translation>
+      <translation>ימפּאָרטינג: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12254"/>
+      <location filename="../mainwindow.cpp" line="12266"/>
       <source>Note headline '%1' was copied to the clipboard</source>
-      <translation type="unfinished">Note headline '%1' was copied to the clipboard</translation>
+      <translation>באַמערקונג כעדינג '%1' איז קאַפּיד צו די קליפּבאָרד</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12339"/>
+      <location filename="../mainwindow.cpp" line="12360"/>
       <source>Leave full-screen mode</source>
-      <translation type="unfinished">Leave full-screen mode</translation>
+      <translation>לאָזן פול-פאַרשטעלן מאָדע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12519"/>
+      <location filename="../mainwindow.cpp" line="12541"/>
       <source>Custom editor width</source>
-      <translation type="unfinished">Custom editor width</translation>
+      <translation>מנהג רעדאַקטאָר ברייט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="12519"/>
+      <location filename="../mainwindow.cpp" line="12541"/>
       <source>Characters:</source>
-      <translation type="unfinished">Characters:</translation>
+      <translation>אותיות:</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="8699"/>
+      <location filename="../mainwindow.cpp" line="8707"/>
       <source>%n notes selected</source>
       <translation type="unfinished">
         <numerusform>%n notes selected</numerusform>
@@ -3368,9 +3378,9 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     </message>
     <message>
       <location filename="../mainwindow.ui" line="2450"/>
-      <location filename="../mainwindow.cpp" line="11944"/>
+      <location filename="../mainwindow.cpp" line="11956"/>
       <source>Allow all note editing</source>
-      <translation type="unfinished">Allow all note editing</translation>
+      <translation>לאָזן אַלע טאָן עדיטינג</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="1228"/>
@@ -3378,243 +3388,248 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <translation type="unfinished">&amp;Tag</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="4905"/>
+      <location filename="../mainwindow.cpp" line="4910"/>
       <source>Remove tag from selected notes</source>
-      <translation type="unfinished">Remove tag from selected notes</translation>
+      <translation>אַראָפּנעמען קוויטל פון אויסגעקליבן הערות</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4906"/>
+      <location filename="../mainwindow.cpp" line="4911"/>
       <source>Remove tag &lt;strong&gt;%1&lt;/strong&gt; from %n selected note(s)?</source>
-      <translation type="unfinished">
-        <numerusform>Remove tag &lt;strong&gt;%1&lt;/strong&gt; from %n selected note(s)?</numerusform>
-        <numerusform>Remove tag &lt;strong&gt;%1&lt;/strong&gt; from %n selected note(s)?</numerusform>
+      <translation>
+        <numerusform>אַראָפּנעמען קוויטל &lt;strong&gt;%1 &lt;/strong&gt; פון %n סעלעקטעד טאָן?</numerusform>
+        <numerusform>אַראָפּנעמען קוויטל &lt;strong&gt;%1 &lt;/strong&gt; פון %n סעלעקטעד הערות?</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4966"/>
+      <location filename="../mainwindow.cpp" line="4971"/>
       <source>Tag &lt;strong&gt;%1&lt;/strong&gt; was removed from %n note(s)</source>
-      <translation type="unfinished">
-        <numerusform>Tag &lt;strong&gt;%1&lt;/strong&gt; was removed from %n note(s)</numerusform>
-        <numerusform>Tag &lt;strong&gt;%1&lt;/strong&gt; was removed from %n note(s)</numerusform>
+      <translation>
+        <numerusform>קוויטל &lt;strong&gt;%1&lt;/strong&gt; איז אַוועקגענומען פון %n טאָן</numerusform>
+        <numerusform>קוויטל &lt;strong&gt;%1&lt;/strong&gt; איז אַוועקגענומען פון %n הערות</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5011"/>
+      <location filename="../mainwindow.cpp" line="5016"/>
       <source>Current notes folder: </source>
-      <translation type="unfinished">Current notes folder: </translation>
+      <translation>קראַנט נאָטיץ טעקע:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5014"/>
+      <location filename="../mainwindow.cpp" line="5019"/>
       <source>Set the notes folder. Current notes folder: </source>
-      <translation type="unfinished">Set the notes folder. Current notes folder: </translation>
+      <translation>באַשטעטיק די הערות טעקע. קראַנט נאָטיץ טעקע:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5216"/>
+      <location filename="../mainwindow.cpp" line="5221"/>
       <source>Print note</source>
-      <translation type="unfinished">Print note</translation>
+      <translation>דרוק טאָן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5291"/>
+      <location filename="../mainwindow.cpp" line="5296"/>
       <source>Letter</source>
-      <translation type="unfinished">Letter</translation>
+      <translation>בריוו</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5321"/>
+      <location filename="../mainwindow.cpp" line="5326"/>
       <source>Portrait</source>
-      <translation type="unfinished">Portrait</translation>
+      <translation>פּאָרטרעט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5321"/>
+      <location filename="../mainwindow.cpp" line="5326"/>
       <source>Landscape</source>
-      <translation type="unfinished">Landscape</translation>
+      <translation>לאַנדשאַפט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5326"/>
+      <location filename="../mainwindow.cpp" line="5331"/>
       <source>Orientation</source>
-      <translation type="unfinished">Orientation</translation>
+      <translation>אָריענטירונג</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5326"/>
+      <location filename="../mainwindow.cpp" line="5331"/>
       <source>Orientation:</source>
-      <translation type="unfinished">Orientation:</translation>
+      <translation>אָריענטירונג:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5349"/>
+      <location filename="../mainwindow.cpp" line="5354"/>
       <source>Export current note as PDF</source>
-      <translation type="unfinished">Export current note as PDF</translation>
+      <translation>אַרויספירן קראַנט טאָן ווי פּדף</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5456"/>
+      <location filename="../mainwindow.cpp" line="5461"/>
       <source>You have not selected any todo lists.&lt;br /&gt;Please check your &lt;strong&gt;Todo&lt;/strong&gt; configuration in the settings!</source>
-      <translation type="unfinished">You have not selected any todo lists.&lt;br /&gt;Please check your &lt;strong&gt;Todo&lt;/strong&gt; configuration in the settings!</translation>
+      <translation>איר האָט ניט אויסגעקליבן קיין טאָדאָ ליס. &lt;br /&gt; ביטע טשעק דיין &lt;strong&gt; Todo &lt;/strong&gt; קאַנפיגיעריישאַן אין די סעטטינגס!!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6372"/>
+      <location filename="../mainwindow.cpp" line="6375"/>
       <source>Open QOwnNotes</source>
-      <translation type="unfinished">Open QOwnNotes</translation>
+      <translation>עפֿן קוואָננאָטעס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6035"/>
-      <location filename="../mainwindow.cpp" line="6422"/>
-      <location filename="../mainwindow.cpp" line="10221"/>
-      <location filename="../mainwindow.cpp" line="10649"/>
+      <location filename="../mainwindow.cpp" line="6038"/>
+      <location filename="../mainwindow.cpp" line="6425"/>
+      <location filename="../mainwindow.cpp" line="10233"/>
+      <location filename="../mainwindow.cpp" line="10661"/>
       <source>New note</source>
-      <translation type="unfinished">New note</translation>
+      <translation>ניו טאָן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6439"/>
+      <location filename="../mainwindow.cpp" line="6442"/>
       <source>Recent notes</source>
-      <translation type="unfinished">Recent notes</translation>
+      <translation>לעצטע הערות</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6455"/>
+      <location filename="../mainwindow.cpp" line="6458"/>
       <source>Show todo lists</source>
-      <translation type="unfinished">Show todo lists</translation>
+      <translation>ווייַזן טאָדאָ רשימות</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6467"/>
+      <location filename="../mainwindow.cpp" line="6470"/>
       <source>Recent tasks</source>
-      <translation type="unfinished">Recent tasks</translation>
+      <translation>לעצטע טאַסקס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6488"/>
+      <location filename="../mainwindow.cpp" line="6491"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>פאַרלאָזן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7943"/>
+      <location filename="../mainwindow.cpp" line="7947"/>
       <source>show notes from all note subfolders (%1)</source>
-      <translation type="unfinished">show notes from all note subfolders (%1)</translation>
+      <translation>ווייַזן הערות פון אַלע באַמערקונג סובפאָלדערס (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7966"/>
+      <location filename="../mainwindow.cpp" line="7970"/>
       <source>show notes in note root folder (%1)</source>
-      <translation type="unfinished">show notes in note root folder (%1)</translation>
+      <translation>ווייַזן הערות אין די וואָרצל טעקע (%1)</translation>
     </message>
     <message>
       <location filename="../mainwindow.ui" line="316"/>
       <location filename="../mainwindow.cpp" line="776"/>
       <location filename="../mainwindow.cpp" line="2095"/>
-      <location filename="../mainwindow.cpp" line="7978"/>
+      <location filename="../mainwindow.cpp" line="7982"/>
       <source>Note folder</source>
-      <translation type="unfinished">Note folder</translation>
+      <translation>באַמערקונג טעקע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9346"/>
-      <location filename="../mainwindow.cpp" line="9413"/>
+      <location filename="../mainwindow.cpp" line="9354"/>
+      <location filename="../mainwindow.cpp" line="9421"/>
       <source>Copy to note folder</source>
-      <translation type="unfinished">Copy to note folder</translation>
+      <translation>קאָפּיע צו טאָן טעקע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9346"/>
-      <location filename="../mainwindow.cpp" line="9414"/>
+      <location filename="../mainwindow.cpp" line="9354"/>
+      <location filename="../mainwindow.cpp" line="9422"/>
       <source>Move to note folder</source>
-      <translation type="unfinished">Move to note folder</translation>
+      <translation>מאַך צו טאָן טעקע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9347"/>
-      <location filename="../mainwindow.cpp" line="9415"/>
+      <location filename="../mainwindow.cpp" line="9355"/>
+      <location filename="../mainwindow.cpp" line="9423"/>
       <source>Copy to this subfolder</source>
-      <translation type="unfinished">Copy to this subfolder</translation>
+      <translation>נאָכמאַכן צו דעם סובפאָלדער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9348"/>
-      <location filename="../mainwindow.cpp" line="9416"/>
+      <location filename="../mainwindow.cpp" line="9356"/>
+      <location filename="../mainwindow.cpp" line="9424"/>
       <source>Move to this subfolder</source>
-      <translation type="unfinished">Move to this subfolder</translation>
+      <translation>מאַך צו די סובפאָלדער</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9460"/>
+      <location filename="../mainwindow.cpp" line="9468"/>
       <source>Move %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
-      <translation type="unfinished">
-        <numerusform>Move %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
-        <numerusform>Move %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
+      <translation>
+        <numerusform>מאַך %n אויסגעקליבן טאָן צו טאָן סובפאָלדער &lt;strong&gt;%2 &lt;/ strong&gt;?</numerusform>
+        <numerusform>מאַך %n אויסגעקליבן הערות צו טאָן סובפאָלדער &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5117"/>
-      <location filename="../mainwindow.cpp" line="12173"/>
+      <location filename="../mainwindow.cpp" line="5122"/>
+      <location filename="../mainwindow.cpp" line="12185"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>באָטל מאַכן</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9544"/>
+      <location filename="../mainwindow.cpp" line="9552"/>
       <source>%n note(s) were moved to note subfolder "%2"</source>
-      <translation type="unfinished">
-        <numerusform>%n note(s) were moved to note subfolder "%2"</numerusform>
-        <numerusform>%n note(s) were moved to note subfolder "%2"</numerusform>
+      <translation>
+        <numerusform>%n טאָן איז אריבערגעפארן צו דער באַמערקונג סובפאָלדער "%2"
+</numerusform>
+        <numerusform>%n הערות זענען אריבערגעפארן צו טאָן סובפאָלדער "%2"</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9568"/>
+      <location filename="../mainwindow.cpp" line="9576"/>
       <source>Copy %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</source>
-      <translation type="unfinished">
-        <numerusform>Copy %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
-        <numerusform>Copy %n selected note(s) to note subfolder &lt;strong&gt;%2&lt;/strong&gt;?</numerusform>
+      <translation>
+        <numerusform>נאָכמאַכן %n סעלעקטעד טאָן צו טאָן סובפאָלדער &lt;strong&gt;%2 &lt;/strong&gt;?
+
+</numerusform>
+        <numerusform>נאָכמאַכן %n סעלעקטעד הערות צו טאָן סובפאָלדער &lt;strong&gt;%2 &lt;/strong&gt;?</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="9635"/>
+      <location filename="../mainwindow.cpp" line="9643"/>
       <source>%n note(s) were copied to note subfolder "%2"</source>
-      <translation type="unfinished">
-        <numerusform>%n note(s) were copied to note subfolder "%2"</numerusform>
-        <numerusform>%n note(s) were copied to note subfolder "%2"</numerusform>
+      <translation>
+        <numerusform>%n טאָן איז קאַפּיד צו די באַמערקונג סובפאָלדער "%2"
+
+</numerusform>
+        <numerusform>%n הערות זענען קאַפּיד צו די באַמערקונג סובפאָלדער "%2"</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10343"/>
+      <location filename="../mainwindow.cpp" line="10355"/>
       <source>Open note in external editor</source>
-      <translation type="unfinished">Open note in external editor</translation>
+      <translation>עפֿן טאָן אין פונדרויסנדיק רעדאַקטאָר</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10347"/>
+      <location filename="../mainwindow.cpp" line="10359"/>
       <source>Show note in file manager</source>
-      <translation type="unfinished">Show note in file manager</translation>
+      <translation>ווייַזן טאָן אין טעקע פאַרוואַלטער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10432"/>
+      <location filename="../mainwindow.cpp" line="10444"/>
       <source>If you want to rename your note you have to enable the option to allow the note filename to be different from the headline.</source>
-      <translation type="unfinished">If you want to rename your note you have to enable the option to allow the note filename to be different from the headline.</translation>
+      <translation>אויב איר ווילן צו רענאַמע דיין צעטל, איר דאַרפֿן צו געבן די אָפּציע צו לאָזן די נאָמען פֿאַר די נאָמען פון די נאָמען צו זיין אַנדערש פון דעם קעפל.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10650"/>
+      <location filename="../mainwindow.cpp" line="10662"/>
       <source>New subfolder</source>
-      <translation type="unfinished">New subfolder</translation>
+      <translation>ניו סובפאָלדער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10654"/>
+      <location filename="../mainwindow.cpp" line="10666"/>
       <source>Show folder in file manager</source>
-      <translation type="unfinished">Show folder in file manager</translation>
+      <translation>ווייַזן טעקע אין טעקע פאַרוואַלטער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10699"/>
+      <location filename="../mainwindow.cpp" line="10711"/>
       <source>Create a new folder</source>
-      <translation type="unfinished">Create a new folder</translation>
+      <translation>שאַפֿן אַ נייַע טעקע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10700"/>
+      <location filename="../mainwindow.cpp" line="10712"/>
       <source>Folder name:</source>
-      <translation type="unfinished">Folder name:</translation>
+      <translation>טעקע נאָמען:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7902"/>
+      <location filename="../mainwindow.cpp" line="7906"/>
       <source>show all untagged notes (%1)</source>
-      <translation type="unfinished">show all untagged notes (%1)</translation>
+      <translation>ווייַזן אַלע אַנאַטאַגד הערות (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7904"/>
+      <location filename="../mainwindow.cpp" line="7908"/>
       <source>Untagged notes</source>
-      <translation type="unfinished">Untagged notes</translation>
+      <translation>ונטאַגד הערות</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9996"/>
+      <location filename="../mainwindow.cpp" line="10008"/>
       <source>Export current note as HTML file</source>
-      <translation type="unfinished">Export current note as HTML file</translation>
+      <translation>אַרויספירן קראַנט באַמערקונג ווי HTML טעקע</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5300"/>
+      <location filename="../mainwindow.cpp" line="5305"/>
       <source>Page size</source>
-      <translation type="unfinished">Page size</translation>
+      <translation>בלאַט גרייס</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1148"/>
@@ -3622,359 +3637,361 @@ If the trash is enabled on your ownCloud server you should be able to restore th
       <translation type="unfinished">quit toolbar</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5300"/>
+      <location filename="../mainwindow.cpp" line="5305"/>
       <source>Page size:</source>
-      <translation type="unfinished">Page size:</translation>
+      <translation>בלאַט גרייס:</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5417"/>
+      <location filename="../mainwindow.cpp" line="5422"/>
       <source>QOwnNotes will track anonymous usage data, that helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. You can disable that behaviour in the settings.</source>
-      <translation type="unfinished">QOwnNotes will track anonymous usage data, that helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. You can disable that behaviour in the settings.</translation>
+      <translation>QOwnNotes וועט שפּור אַנאָנימע באַנוצערס דאַטן, וואָס העלפֿן באַשליסן וואָס פּאַרץ פון QOwnNotes צו פֿאַרבעסערן ווייַטער און צו געפֿינען און פאַרריכטן באַגז. איר קענען דיסייבאַל די נאַטור אין די סעטטינגס.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5421"/>
+      <location filename="../mainwindow.cpp" line="5426"/>
       <source>&amp;Ok</source>
       <translation type="unfinished">&amp;Ok</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="10231"/>
+      <location filename="../mainwindow.cpp" line="10243"/>
       <source>&amp;Remove notes</source>
-      <translation type="unfinished">&amp;Remove notes</translation>
+      <translation>&amp;אַראָפּנעמען הערות</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6577"/>
+      <location filename="../mainwindow.cpp" line="6580"/>
       <source>&amp;Link selected text</source>
-      <translation type="unfinished">&amp;Link selected text</translation>
+      <translation>&amp;לינק אויסגעקליבן טעקסט</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1074"/>
       <source>Your tasks are being loaded from your server</source>
-      <translation type="unfinished">Your tasks are being loaded from your server</translation>
+      <translation>דיין טאַסקס זענען לאָודיד פון דיין סערווירער</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2770"/>
+      <location filename="../mainwindow.cpp" line="2776"/>
       <source>Current note was modified externally</source>
-      <translation type="unfinished">Current note was modified externally</translation>
+      <translation>די איצטיקע צעטל איז מאַדאַפייד פונדרויסנדיק</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2853"/>
-      <location filename="../mainwindow.cpp" line="5973"/>
+      <location filename="../mainwindow.cpp" line="2859"/>
+      <location filename="../mainwindow.cpp" line="5976"/>
       <source>Stored current note to disk</source>
-      <translation type="unfinished">Stored current note to disk</translation>
+      <translation>סטאָרד קראַנט טאָן צו דיסק</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2871"/>
+      <location filename="../mainwindow.cpp" line="2877"/>
       <source>Note was modified externally: %1</source>
-      <translation type="unfinished">Note was modified externally: %1</translation>
+      <translation>באַמערקונג איז געווען מאַדאַפייד פונדרויסנדיק: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2894"/>
+      <location filename="../mainwindow.cpp" line="2899"/>
       <source>Notes directory was modified externally</source>
-      <translation type="unfinished">Notes directory was modified externally</translation>
+      <translation>נאָטעס וועגווייַזער איז מאַדאַפייד ויסווייניק</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="2955"/>
+      <location filename="../mainwindow.cpp" line="2960"/>
       <source>Stored %n note(s) to disk</source>
-      <translation type="unfinished">
-        <numerusform>Stored %n note(s) to disk</numerusform>
-        <numerusform>Stored %n note(s) to disk</numerusform>
+      <translation>
+        <numerusform>סטאָרד %n טאָן צו דיסק
+</numerusform>
+        <numerusform>סטאָרד %n הערות צו דיסק</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7869"/>
+      <location filename="../mainwindow.cpp" line="7873"/>
       <source>show all notes (%1)</source>
-      <translation type="unfinished">show all notes (%1)</translation>
+      <translation>ווייַזן אַלע הערות (%1)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7872"/>
-      <location filename="../mainwindow.cpp" line="7946"/>
+      <location filename="../mainwindow.cpp" line="7876"/>
+      <location filename="../mainwindow.cpp" line="7950"/>
       <source>All notes</source>
-      <translation type="unfinished">All notes</translation>
+      <translation>כל הערות</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8949"/>
+      <location filename="../mainwindow.cpp" line="8957"/>
       <source>&amp;Add tag</source>
-      <translation type="unfinished">&amp;Add tag</translation>
+      <translation>&amp;לייג קוויטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8997"/>
+      <location filename="../mainwindow.cpp" line="9005"/>
       <source>Tag could not be created!</source>
-      <translation type="unfinished">Tag could not be created!</translation>
+      <translation>קוויטל קען נישט זיין באשאפן!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9176"/>
+      <location filename="../mainwindow.cpp" line="9184"/>
       <source>Move to this tag</source>
-      <translation type="unfinished">Move to this tag</translation>
+      <translation>מאַך צו דעם קוויטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9211"/>
+      <location filename="../mainwindow.cpp" line="9219"/>
       <source>Tag this</source>
-      <translation type="unfinished">Tag this</translation>
+      <translation>פאַרבינדן דעם</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9236"/>
+      <location filename="../mainwindow.cpp" line="9244"/>
       <source>Cannot move tag '%1' to this tag</source>
-      <translation type="unfinished">Cannot move tag '%1' to this tag</translation>
+      <translation>קען ניט רירן דעם קוויטל '%1' צו דעם קוויטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="9285"/>
+      <location filename="../mainwindow.cpp" line="9293"/>
       <source>Moved tag '%1' to new tag</source>
-      <translation type="unfinished">Moved tag '%1' to new tag</translation>
+      <translation>אריבערגעפארן פאַרבינדן '%1' צו נייַ קוויטל</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8199"/>
+      <location filename="../mainwindow.cpp" line="8207"/>
       <source>show all notes tagged with '%1' (%2)</source>
-      <translation type="unfinished">show all notes tagged with '%1' (%2)</translation>
+      <translation>ווייַזן אַלע הערות טאַגד מיט '%1' (%2)</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="8960"/>
+      <location filename="../mainwindow.cpp" line="8968"/>
       <source>&amp;Remove tags</source>
-      <translation type="unfinished">&amp;Remove tags</translation>
+      <translation>&amp;אַראָפּנעמען טאַגס</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5455"/>
+      <location filename="../mainwindow.cpp" line="5460"/>
       <source>No selected todo lists!</source>
-      <translation type="unfinished">No selected todo lists!</translation>
+      <translation>ניט אויסגעקליבן טאָדאָ ליס!</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="745"/>
       <source>Subfolders</source>
-      <translation type="unfinished">Subfolders</translation>
+      <translation>סובפאָלדערס</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="757"/>
       <source>Tags</source>
-      <translation type="unfinished">Tags</translation>
+      <translation>טאַגס</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="766"/>
       <source>Note search</source>
-      <translation type="unfinished">Note search</translation>
+      <translation>באַמערקונג זוכן</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="795"/>
       <source>Note list</source>
-      <translation type="unfinished">Note list</translation>
+      <translation>באַמערקונג רשימה</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="820"/>
       <source>Note edit</source>
-      <translation type="unfinished">Note edit</translation>
+      <translation>באַמערקונג רעדאַגירן</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="832"/>
       <source>Note tags</source>
-      <translation type="unfinished">Note tags</translation>
+      <translation>באַמערקונג טאַגס</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="843"/>
       <source>Note preview</source>
-      <translation type="unfinished">Note preview</translation>
+      <translation>פאָרויסיקע ווייַזונג</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="851"/>
       <source>Log</source>
-      <translation type="unfinished">Log</translation>
+      <translation>קלאָץ</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="860"/>
       <source>Scripting</source>
-      <translation type="unfinished">Scripting</translation>
+      <translation>סקריפּטינג</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1115"/>
       <source>formatting toolbar</source>
-      <translation type="unfinished">formatting toolbar</translation>
+      <translation>פאָרמאַטטינג מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1124"/>
       <source>inserting toolbar</source>
-      <translation type="unfinished">inserting toolbar</translation>
+      <translation>ינסערטינג מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1131"/>
       <source>encryption toolbar</source>
-      <translation type="unfinished">encryption toolbar</translation>
+      <translation>ענקריפּשאַן מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1138"/>
       <source>window toolbar</source>
-      <translation type="unfinished">window toolbar</translation>
+      <translation>פֿענצטער מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1143"/>
       <source>custom action toolbar</source>
-      <translation type="unfinished">custom action toolbar</translation>
+      <translation>מנהג קאַמף מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1163"/>
       <source>Workspace selector</source>
-      <translation type="unfinished">Workspace selector</translation>
+      <translation>מנהג קאַמף מכשיר</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1309"/>
       <source>Show %1 panel</source>
-      <translation type="unfinished">Show %1 panel</translation>
+      <translation>ווייַזן %1 טאַפליע</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1351"/>
       <source>Show %1</source>
-      <translation type="unfinished">Show %1</translation>
+      <translation>ווייַזן %1</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1674"/>
       <source>Leave distraction free mode</source>
-      <translation type="unfinished">Leave distraction free mode</translation>
+      <translation>לאָזן דיסטראַקטיאָן מאָדע פריי</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1856"/>
       <source>Switch to note folder</source>
-      <translation type="unfinished">Switch to note folder</translation>
+      <translation>באַשטימען צו טאָן טעקע</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="2251"/>
       <source>show notes in folder '%1' (%2)</source>
-      <translation type="unfinished">show notes in folder '%1' (%2)</translation>
+      <translation>ווייַזן הערות אין טעקע '%1' (%2)</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="2290"/>
       <source>&lt;strong&gt;%1&lt;/strong&gt;&lt;br /&gt;last modified: %2</source>
-      <translation type="unfinished">&lt;strong&gt;%1&lt;/strong&gt;&lt;br /&gt;last modified: %2</translation>
+      <translation>&lt;strong&gt;%1 &lt;/strong&gt; &lt;br /&gt; לעצטע מאַדאַפייד: %2</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="2295"/>
       <source>&lt;br /&gt;path: %1</source>
-      <translation type="unfinished">&lt;br /&gt;path: %1</translation>
+      <translation>&lt;br /&gt; דרך: %1</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="2497"/>
       <source>Toolbar could not be loaded without name</source>
-      <translation type="unfinished">Toolbar could not be loaded without name</translation>
+      <translation>די מכשיר קען ניט זיין לאָודיד אָן נאָמען</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2797"/>
+      <location filename="../mainwindow.cpp" line="2803"/>
       <source>Overwriting external changes of: %1</source>
-      <translation type="unfinished">Overwriting external changes of: %1</translation>
+      <translation>אָווועררייטינג פונדרויסנדיק ענדערונגען פון: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2818"/>
+      <location filename="../mainwindow.cpp" line="2824"/>
       <source>Loading external changes from: %1</source>
-      <translation type="unfinished">Loading external changes from: %1</translation>
+      <translation>לאָודינג פונדרויסנדיק ענדערונגען פֿון: %1</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="2854"/>
-      <location filename="../mainwindow.cpp" line="5974"/>
+      <location filename="../mainwindow.cpp" line="2860"/>
+      <location filename="../mainwindow.cpp" line="5977"/>
       <source>Current note could not be stored to disk</source>
-      <translation type="unfinished">Current note could not be stored to disk</translation>
+      <translation>די קראַנט טאָן קען ניט זיין סטאָרד צו דיסק</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3034"/>
+      <location filename="../mainwindow.cpp" line="3039"/>
       <source>Read-only</source>
-      <translation type="unfinished">Read-only</translation>
+      <translation>נאר צום ליינען</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3036"/>
+      <location filename="../mainwindow.cpp" line="3041"/>
       <source>Note editing is disabled, click to enable</source>
-      <translation type="unfinished">Note editing is disabled, click to enable</translation>
+      <translation>באַמערקונג עדיטינג איז פאַרקריפּלט, גיט צו געבן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3053"/>
+      <location filename="../mainwindow.cpp" line="3058"/>
       <source>Line numbers</source>
-      <translation type="unfinished">Line numbers</translation>
+      <translation>שורה נומערן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="3063"/>
+      <location filename="../mainwindow.cpp" line="3068"/>
       <source>Click here to see what has changed and to be able to update to the latest version</source>
-      <translation type="unfinished">Click here to see what has changed and to be able to update to the latest version</translation>
+      <translation>דריקט דאָ צו זען וואָס איז פארענדערט און צו קענען צו דערהייַנטיקן צו די לעצטע ווערסיע</translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="3433"/>
+      <location filename="../mainwindow.cpp" line="3438"/>
       <source>Proceed with automatic deletion of &lt;strong&gt;%n&lt;/strong&gt; conflicted database copies that may block your ownCloud sync process?</source>
-      <translation type="unfinished">
-        <numerusform>Proceed with automatic deletion of &lt;strong&gt;%n&lt;/strong&gt; conflicted database copies that may block your ownCloud sync process?</numerusform>
-        <numerusform>Proceed with automatic deletion of &lt;strong&gt;%n&lt;/strong&gt; conflicted database copies that may block your ownCloud sync process?</numerusform>
+      <translation>
+        <numerusform>פאָרזעצן מיט אָטאַמאַטיק דילישאַן פון &lt;strong&gt;%n &lt;/ strong&gt; קאָנפליקטעד דייטאַבייס קאפיעס וואָס קען פאַרשפּאַרן דיין אָווועקלאָוד סינק פּראָצעס?</numerusform>
+        <numerusform>פאָרזעצן מיט אָטאַמאַטיק דילישאַן פון &lt;strong&gt;%n &lt;/ strong&gt; קאָנפליקטעד דייטאַבייס קאפיעס וואָס קען פאַרשפּאַרן דיין אָווועקלאָוד סינק פּראָצעס?</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="4889"/>
+      <location filename="../mainwindow.cpp" line="4894"/>
       <source>%n note(s) were tagged with "%2"</source>
-      <translation type="unfinished">
-        <numerusform>%n note(s) were tagged with "%2"</numerusform>
-        <numerusform>%n note(s) were tagged with "%2"</numerusform>
+      <translation>
+        <numerusform>%n טאָן איז געווען טאַגד מיט "%2"
+</numerusform>
+        <numerusform>%n הערות זענען געווען טאַגד מיט "%2"</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../mainwindow.cpp" line="5672"/>
+      <location filename="../mainwindow.cpp" line="5677"/>
       <source>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of &lt;strong&gt;%1&lt;/strong&gt;</source>
-      <translation type="unfinished">
-        <numerusform>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of &lt;strong&gt;%1&lt;/strong&gt;</numerusform>
-        <numerusform>Found &lt;strong&gt;%n&lt;/strong&gt; occurrence(s) of &lt;strong&gt;%1&lt;/strong&gt;</numerusform>
+      <translation>
+        <numerusform>געפונען &lt;strong&gt;%n &lt;/strong&gt; פּאַסירונג פון &lt;strong&gt;%1 &lt;/strong&gt;</numerusform>
+        <numerusform>געפונען &lt;strong&gt;%n &lt;/strong&gt; פֿאַלן פֿון &lt;strong&gt;%1 &lt;/strong&gt;</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6035"/>
+      <location filename="../mainwindow.cpp" line="6038"/>
       <source>Note headline</source>
-      <translation type="unfinished">Note headline</translation>
+      <translation>באַמערקונג כעדינג</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="6583"/>
+      <location filename="../mainwindow.cpp" line="6586"/>
       <source>Block &amp;quote selected text</source>
       <comment>Action to apply a block quote formatting to the selected text</comment>
-      <translation type="unfinished">Block &amp;quote selected text</translation>
+      <translation>פאַרשפּאַרן &amp; ציטירן אויסגעקליבן טעקסט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7593"/>
+      <location filename="../mainwindow.cpp" line="7596"/>
       <source>Downloading images finished</source>
-      <translation type="unfinished">Downloading images finished</translation>
+      <translation>דאַונלאָודינג בילדער פאַרטיק</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7743"/>
+      <location filename="../mainwindow.cpp" line="7746"/>
       <source>Increased font size to %1 pt</source>
-      <translation type="unfinished">Increased font size to %1 pt</translation>
+      <translation>געוואקסן שריפֿט גרייס צו %1 פּט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7760"/>
+      <location filename="../mainwindow.cpp" line="7763"/>
       <source>Decreased font size to %1 pt</source>
-      <translation type="unfinished">Decreased font size to %1 pt</translation>
+      <translation>דיקריסט שריפֿט גרייס צו %1 פּט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="5421"/>
-      <location filename="../mainwindow.cpp" line="5436"/>
-      <location filename="../mainwindow.cpp" line="5459"/>
-      <location filename="../mainwindow.cpp" line="10435"/>
+      <location filename="../mainwindow.cpp" line="5426"/>
+      <location filename="../mainwindow.cpp" line="5441"/>
+      <location filename="../mainwindow.cpp" line="5464"/>
+      <location filename="../mainwindow.cpp" line="10447"/>
       <source>Open &amp;settings</source>
-      <translation type="unfinished">Open &amp;settings</translation>
+      <translation>עפֿן &amp;סעטטינגס</translation>
     </message>
     <message>
       <location filename="../mainwindow.cpp" line="1671"/>
-      <location filename="../mainwindow.cpp" line="12325"/>
+      <location filename="../mainwindow.cpp" line="12337"/>
       <source>leave</source>
-      <translation type="unfinished">leave</translation>
+      <translation>לאָזן</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7010"/>
+      <location filename="../mainwindow.cpp" line="7013"/>
       <source>Please enter your &lt;strong&gt;password&lt;/strong&gt; to encrypt the note.&lt;br /&gt;Keep in mind that you have to &lt;strong&gt;remember&lt;/strong&gt; your password to read the content of the note&lt;br /&gt; and that you can &lt;strong&gt;only&lt;/strong&gt; do that &lt;strong&gt;in QOwnNotes&lt;/strong&gt;!</source>
-      <translation type="unfinished">Please enter your &lt;strong&gt;password&lt;/strong&gt; to encrypt the note.&lt;br /&gt;Keep in mind that you have to &lt;strong&gt;remember&lt;/strong&gt; your password to read the content of the note&lt;br /&gt; and that you can &lt;strong&gt;only&lt;/strong&gt; do that &lt;strong&gt;in QOwnNotes&lt;/strong&gt;!</translation>
+      <translation>ביטע אַרייַן דיין &lt;strong&gt; פּאַראָל &lt;/ strong&gt; צו ענקריפּט דעם צעטל. &lt;br /&gt; געדענקט אַז איר מוזט &lt;strong&gt; געדענקען &lt;/ strong&gt; דיין פּאַראָל צו לייענען די אינהאַלט פון דעם צעטל &lt;br /&gt; און אַז איר קענט &lt;strong&gt; בלויז &lt;/ strong&gt; טאָן דאָס אין QOwnNotes &lt;/strong&gt;!</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7066"/>
+      <location filename="../mainwindow.cpp" line="7069"/>
       <source>Decrypt note and store it as plain text</source>
-      <translation type="unfinished">Decrypt note and store it as plain text</translation>
+      <translation>דעקריפּט טאָן און קראָם עס ווי קלאָר טעקסט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7071"/>
+      <location filename="../mainwindow.cpp" line="7074"/>
       <source>&amp;Decrypt</source>
-      <translation type="unfinished">&amp;Decrypt</translation>
+      <translation>&amp;דעקריפּט</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7096"/>
+      <location filename="../mainwindow.cpp" line="7099"/>
       <source>&lt;br /&gt;You will be able to edit your encrypted note.</source>
-      <translation type="unfinished">&lt;br /&gt;You will be able to edit your encrypted note.</translation>
+      <translation>&lt;br /&gt; איר וועט קענען צו רעדאַגירן דיין ענקריפּטיד טאָן.</translation>
     </message>
     <message>
-      <location filename="../mainwindow.cpp" line="7165"/>
+      <location filename="../mainwindow.cpp" line="7168"/>
       <source>Export current note as Markdown file</source>
-      <translation type="unfinished">Export current note as Markdown file</translation>
+      <translation>דעפֿיניציע טאָן און דאַטן עס ווי קלאָרד טעקסט</translation>
     </message>
   </context>
   <context>
@@ -3982,7 +3999,7 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../widgets/navigationwidget.cpp" line="116"/>
       <source>headline %1</source>
-      <translation type="unfinished">headline %1</translation>
+      <translation>כעדליין %1</translation>
     </message>
   </context>
   <context>
@@ -3990,17 +4007,17 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../dialogs/notedialog.ui" line="14"/>
       <source>Note</source>
-      <translation type="unfinished">Note</translation>
+      <translation>נאטיץ</translation>
     </message>
     <message>
       <location filename="../dialogs/notedialog.ui" line="39"/>
       <source>Note text</source>
-      <translation type="unfinished">Note text</translation>
+      <translation>באַמערקונג טעקסט</translation>
     </message>
     <message>
       <location filename="../dialogs/notedialog.ui" line="71"/>
       <source>Preview</source>
-      <translation type="unfinished">Preview</translation>
+      <translation>פאָרויסיקע ווייַזונג</translation>
     </message>
   </context>
   <context>
@@ -4008,42 +4025,42 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../dialogs/notediffdialog.ui" line="17"/>
       <source>Note was modified externally!</source>
-      <translation type="unfinished">Note was modified externally!</translation>
+      <translation>באַמערקונג איז מאַדאַפייד פונדרויסנדיק!</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.ui" line="41"/>
       <source>The current note was modified outside of this application!</source>
-      <translation type="unfinished">The current note was modified outside of this application!</translation>
+      <translation>די יעצטיגע צעטל איז געענדערט געווארן מחוץ דעם אפליקאציע!</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.ui" line="48"/>
       <source>Differences:</source>
-      <translation type="unfinished">Differences:</translation>
+      <translation>דיפעראַנסיז:</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.ui" line="76"/>
       <source>Always accept external changes in the future</source>
-      <translation type="unfinished">Always accept external changes in the future</translation>
+      <translation>אָננעמען שטענדיק פונדרויסנדיק ענדערונגען אין דער צוקונפֿט</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.ui" line="83"/>
       <source>Accept external changes?</source>
-      <translation type="unfinished">Accept external changes?</translation>
+      <translation>אָננעמען פונדרויסנדיק ענדערונגען?</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.ui" line="69"/>
       <source>Ignore all external modifications in the future</source>
-      <translation type="unfinished">Ignore all external modifications in the future</translation>
+      <translation>איגנאָרירן אַלע פונדרויסנדיק מאַדאַפאַקיישאַנז אין דער צוקונפֿט</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.cpp" line="33"/>
       <source>Yes</source>
-      <translation type="unfinished">Yes</translation>
+      <translation>יאָ</translation>
     </message>
     <message>
       <location filename="../dialogs/notediffdialog.cpp" line="38"/>
       <source>No</source>
-      <translation type="unfinished">No</translation>
+      <translation>ניין</translation>
     </message>
   </context>
   <context>
@@ -4051,32 +4068,32 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../widgets/notepreviewwidget.cpp" line="236"/>
       <source>Copy image file path</source>
-      <translation type="unfinished">Copy image file path</translation>
+      <translation>נאָכמאַכן בילד טעקע דרך</translation>
     </message>
     <message>
       <location filename="../widgets/notepreviewwidget.cpp" line="237"/>
       <source>Copy image to clipboard</source>
-      <translation type="unfinished">Copy image to clipboard</translation>
+      <translation>נאָכמאַכן בילד צו קליפּבאָרד</translation>
     </message>
     <message>
       <location filename="../widgets/notepreviewwidget.cpp" line="259"/>
       <source>Copy link location</source>
-      <translation type="unfinished">Copy link location</translation>
+      <translation>קאָפּיע לינק אָרט</translation>
     </message>
     <message>
       <location filename="../widgets/notepreviewwidget.cpp" line="263"/>
       <source>Export generated raw HTML</source>
-      <translation type="unfinished">Export generated raw HTML</translation>
+      <translation>אַרויספירן דזשענערייטאַד רוי HTML</translation>
     </message>
     <message>
       <location filename="../widgets/notepreviewwidget.cpp" line="296"/>
       <source>HTML files</source>
-      <translation type="unfinished">HTML files</translation>
+      <translation>HTML טעקעס</translation>
     </message>
     <message>
       <location filename="../widgets/notepreviewwidget.cpp" line="297"/>
       <source>Export preview as raw HTML file</source>
-      <translation type="unfinished">Export preview as raw HTML file</translation>
+      <translation>אַרויספירן פאָרויסיקע ווייַזונג ווי רוי HTML טעקע</translation>
     </message>
   </context>
   <context>
@@ -4084,27 +4101,27 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="14"/>
       <source>Orphaned attachments</source>
-      <translation type="unfinished">Orphaned attachments</translation>
+      <translation>אָרפאַנד אַטאַטשמאַנץ</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="54"/>
       <source>Delete selected attachments</source>
-      <translation type="unfinished">Delete selected attachments</translation>
+      <translation>ויסמעקן אויסגעקליבן אַטאַטשמאַנץ</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="57"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>ויסמעקן</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="86"/>
       <source>Add selected attachments to note</source>
-      <translation type="unfinished">Add selected attachments to note</translation>
+      <translation>לייג אויסגעקליבן אַטאַטשמאַנץ צו טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="89"/>
       <source>Add to note</source>
-      <translation type="unfinished">Add to note</translation>
+      <translation>לייג צו טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="100"/>
@@ -4119,32 +4136,32 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="162"/>
       <source>File size:</source>
-      <translation type="unfinished">File size:</translation>
+      <translation>טעקע גרייס:</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="182"/>
       <source>File type:</source>
-      <translation type="unfinished">File type:</translation>
+      <translation>טעקע טיפּ:</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="199"/>
       <source>File path:</source>
-      <translation type="unfinished">File path:</translation>
+      <translation>טעקע דרך:</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.ui" line="229"/>
       <source>Attachments that are not used in notes:</source>
-      <translation type="unfinished">Attachments that are not used in notes:</translation>
+      <translation>אַטאַטשמאַנץ וואָס זענען נישט געניצט אין הערות:</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.cpp" line="66"/>
       <source>Last modified at %1</source>
-      <translation type="unfinished">Last modified at %1</translation>
+      <translation>לעצטע מאַדאַפייד ביי %1</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedattachmentsdialog.cpp" line="142"/>
       <source>Delete selected files</source>
-      <translation type="unfinished">Delete selected files</translation>
+      <translation>ויסמעקן אויסגעקליבן טעקעס</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/orphanedattachmentsdialog.cpp" line="143"/>
@@ -4160,42 +4177,42 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../dialogs/orphanedimagesdialog.ui" line="14"/>
       <source>Orphaned images</source>
-      <translation type="unfinished">Orphaned images</translation>
+      <translation>אָרפאַנד בילדער</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.ui" line="80"/>
       <source>Delete selected images</source>
-      <translation type="unfinished">Delete selected images</translation>
+      <translation>ויסמעקן אויסגעקליבן בילדער</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.ui" line="83"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>ויסמעקן</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.ui" line="94"/>
       <source>Add selected images to note</source>
-      <translation type="unfinished">Add selected images to note</translation>
+      <translation>לייג אויסגעקליבן בילדער צו טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.ui" line="97"/>
       <source>Add to note</source>
-      <translation type="unfinished">Add to note</translation>
+      <translation>לייג צו טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.ui" line="146"/>
       <source>Images that are not used in notes:</source>
-      <translation type="unfinished">Images that are not used in notes:</translation>
+      <translation>בילדער וואָס זענען נישט געניצט אין הערות:</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.cpp" line="62"/>
       <source>Last modified at %1</source>
-      <translation type="unfinished">Last modified at %1</translation>
+      <translation>לעצטע מאַדאַפייד ביי %1</translation>
     </message>
     <message>
       <location filename="../dialogs/orphanedimagesdialog.cpp" line="123"/>
       <source>Delete selected files</source>
-      <translation type="unfinished">Delete selected files</translation>
+      <translation>ויסמעקן אויסגעקליבן טעקעס</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/orphanedimagesdialog.cpp" line="124"/>
@@ -4209,105 +4226,105 @@ If the trash is enabled on your ownCloud server you should be able to restore th
   <context>
     <name>OwnCloudService</name>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="245"/>
+      <location filename="../services/owncloudservice.cpp" line="247"/>
       <source>Username / password error</source>
-      <translation type="unfinished">Username / password error</translation>
+      <translation>נאמען / שפּריכוואָרט טעות</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="246"/>
+      <location filename="../services/owncloudservice.cpp" line="248"/>
       <source>Your calendar username or password is incorrect!</source>
-      <translation type="unfinished">Your calendar username or password is incorrect!</translation>
+      <translation>דיין קאַלענדאַר נאמען אָדער פּאַראָל איז פאַלש!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="580"/>
+      <location filename="../services/owncloudservice.cpp" line="582"/>
       <source>API app version too low</source>
-      <translation type="unfinished">API app version too low</translation>
+      <translation>אַפּי אַפּ ווערסיע צו נידעריק</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="581"/>
+      <location filename="../services/owncloudservice.cpp" line="583"/>
       <source>Please consider updating your QOwnNotesAPI app on your server, your app version %1 is too low and may cause troubles in QOwnNotes.</source>
-      <translation type="unfinished">Please consider updating your QOwnNotesAPI app on your server, your app version %1 is too low and may cause troubles in QOwnNotes.</translation>
+      <translation>ביטע באַטראַכטן אַפּדייטינג דיין QOwnNotesAPI אַפּ אויף דיין סערווירער. דיין אַפּ ווערסיע% 1 איז צו נידעריק און קען פאַרשאַפן קאָפּדרייעניש אין QOwnNotes.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1128"/>
+      <location filename="../services/owncloudservice.cpp" line="1175"/>
       <source>ownCloud server connection error</source>
-      <translation type="unfinished">ownCloud server connection error</translation>
+      <translation>ownCloud סערווער קשר טעות</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1133"/>
+      <location filename="../services/owncloudservice.cpp" line="1180"/>
       <source>ownCloud server error: &lt;strong&gt;%1&lt;/strong&gt;&lt;br /&gt;Please check your ownCloud configuration.</source>
-      <translation type="unfinished">ownCloud server error: &lt;strong&gt;%1&lt;/strong&gt;&lt;br /&gt;Please check your ownCloud configuration.</translation>
+      <translation>ownCloud סערווער טעות: &lt;strong&gt;%1 &lt;/ strong&gt; &lt;br /&gt; ביטע טשעק דיין OwnCloud קאַנפיגיעריישאַן.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1153"/>
+      <location filename="../services/owncloudservice.cpp" line="1200"/>
       <source>You need to setup your ownCloud server!</source>
-      <translation type="unfinished">You need to setup your ownCloud server!</translation>
+      <translation>איר דאַרפֿן צו סעטאַפּ דיין אָווועקלאָוד סערווער!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1165"/>
+      <location filename="../services/owncloudservice.cpp" line="1212"/>
       <source>Open &amp;settings</source>
       <translation type="unfinished">Open &amp;settings</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1165"/>
+      <location filename="../services/owncloudservice.cpp" line="1212"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;באָטל מאַכן</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1224"/>
+      <location filename="../services/owncloudservice.cpp" line="1271"/>
       <source>Done with loading note versions</source>
-      <translation type="unfinished">Done with loading note versions</translation>
+      <translation>געטאן מיט ווערסיעס פון לאָודינג טאָן</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1269"/>
+      <location filename="../services/owncloudservice.cpp" line="1316"/>
       <source>No versions found</source>
-      <translation type="unfinished">No versions found</translation>
+      <translation>קיין ווערסיעס געפֿונען</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1270"/>
+      <location filename="../services/owncloudservice.cpp" line="1317"/>
       <source>There are no versions for this note or the note wasn't found on the server.</source>
-      <translation type="unfinished">There are no versions for this note or the note wasn't found on the server.</translation>
+      <translation>עס זענען קיין ווערסיעס פֿאַר דעם טאָן, אָדער די באַמערקונג איז ניט געפֿונען אויף די סערווער.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1290"/>
+      <location filename="../services/owncloudservice.cpp" line="1337"/>
       <source>Done with loading trashed notes</source>
-      <translation type="unfinished">Done with loading trashed notes</translation>
+      <translation>געטאן מיט לאָודינג טראַשט הערות</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1335"/>
+      <location filename="../services/owncloudservice.cpp" line="1382"/>
       <source>No trashed notes</source>
-      <translation type="unfinished">No trashed notes</translation>
+      <translation>ניט קיין טראַשעד הערות</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1336"/>
+      <location filename="../services/owncloudservice.cpp" line="1383"/>
       <source>No trashed notes were found on the server.</source>
-      <translation type="unfinished">No trashed notes were found on the server.</translation>
+      <translation>קיין טרוש נאָטעס זענען געפֿונען אויף די סערווער.</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1358"/>
-      <location filename="../services/owncloudservice.cpp" line="1385"/>
+      <location filename="../services/owncloudservice.cpp" line="1405"/>
+      <location filename="../services/owncloudservice.cpp" line="1432"/>
       <source>Error while loading todo lists!</source>
-      <translation type="unfinished">Error while loading todo lists!</translation>
+      <translation>טעות בעשאַס לאָודינג טאָדאָ רשימות!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1359"/>
+      <location filename="../services/owncloudservice.cpp" line="1406"/>
       <source>Your CalDAV server didn't reply anything!</source>
-      <translation type="unfinished">Your CalDAV server didn't reply anything!</translation>
+      <translation>דיין קאַלדאַוו סערווירער האָט נישט געענטפערט עפּעס!</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="1386"/>
+      <location filename="../services/owncloudservice.cpp" line="1433"/>
       <source>Error message from your CalDAV server: &lt;strong&gt;%1&lt;/strong&gt;</source>
-      <translation type="unfinished">Error message from your CalDAV server: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+      <translation>טעות אָנזאָג פון דיין CalDAV סערווער: &lt;strong&gt;% 1 &lt;/strong&gt;</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="2063"/>
+      <location filename="../services/owncloudservice.cpp" line="2110"/>
       <source>No bookmarks</source>
-      <translation type="unfinished">No bookmarks</translation>
+      <translation>ניט קיין בוקמאַרקס</translation>
     </message>
     <message>
-      <location filename="../services/owncloudservice.cpp" line="2064"/>
+      <location filename="../services/owncloudservice.cpp" line="2111"/>
       <source>No bookmarks were found on the server.</source>
-      <translation type="unfinished">No bookmarks were found on the server.</translation>
+      <translation>קיין בוקמאַרקס זענען געפֿונען אויף די סערווער.</translation>
     </message>
   </context>
   <context>
@@ -4315,27 +4332,27 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../dialogs/passworddialog.ui" line="14"/>
       <source>Please enter your password</source>
-      <translation type="unfinished">Please enter your password</translation>
+      <translation>ביטע אַרייַן דיין פּאַראָל</translation>
     </message>
     <message>
       <location filename="../dialogs/passworddialog.ui" line="24"/>
       <source>Enter your password:</source>
-      <translation type="unfinished">Enter your password:</translation>
+      <translation>אַרייַן דיין שפּריכוואָרט:</translation>
     </message>
     <message>
       <location filename="../dialogs/passworddialog.ui" line="34"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>שפּריכוואָרט</translation>
     </message>
     <message>
       <location filename="../dialogs/passworddialog.ui" line="44"/>
       <source>Re-enter password</source>
-      <translation type="unfinished">Re-enter password</translation>
+      <translation>ווידער אַרייַן פּאַראָל</translation>
     </message>
     <message>
       <location filename="../dialogs/passworddialog.ui" line="54"/>
       <source>Passwords don't match!</source>
-      <translation type="unfinished">Passwords don't match!</translation>
+      <translation>שפּריכוואָרט שטימען נישט!</translation>
     </message>
   </context>
   <context>
@@ -4343,135 +4360,136 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../entities/notefolder.cpp" line="470"/>
       <source>default</source>
-      <translation type="unfinished">default</translation>
+      <translation>פעליקייַט</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1248"/>
+      <location filename="../entities/note.cpp" line="1266"/>
       <source>Could not store note file: %1 - Error message: %2</source>
-      <translation type="unfinished">Could not store note file: %1 - Error message: %2</translation>
+      <translation>קען נישט קראָם דעם טעקע:% 1 - פֿעלער אָנזאָג:% 2</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1326"/>
+      <location filename="../entities/note.cpp" line="1344"/>
       <source>Renamed note-file was removed: %1</source>
-      <translation type="unfinished">Renamed note-file was removed: %1</translation>
+      <translation>רענאַמע נאָטיץ טעקע איז אַוועקגענומען: %1</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1334"/>
+      <location filename="../entities/note.cpp" line="1352"/>
       <source>Could not remove renamed note-file: %1 - Error message: %2</source>
-      <translation type="unfinished">Could not remove renamed note-file: %1 - Error message: %2</translation>
+      <translation>קען נישט אַראָפּנעמען ריניימד טאָן-טעקע: %1 - פֿעלער אָנזאָג: %2</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="1480"/>
+      <location filename="../entities/note.cpp" line="1498"/>
       <source>Note</source>
-      <translation type="unfinished">Note</translation>
+      <translation>נאטיץ</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="2528"/>
+      <location filename="../entities/note.cpp" line="2546"/>
       <source>Could not read image file: %1</source>
-      <translation type="unfinished">Could not read image file: %1</translation>
+      <translation>די בילד טעקע קען ניט לייענען: %1</translation>
     </message>
     <message>
-      <location filename="../entities/note.cpp" line="3116"/>
+      <location filename="../entities/note.cpp" line="3147"/>
       <source>Note file path changed</source>
-      <translation type="unfinished">Note file path changed</translation>
+      <translation>באַמערקונג טעקע דרך פארענדערט</translation>
     </message>
     <message numerus="yes">
-      <location filename="../entities/note.cpp" line="3117"/>
+      <location filename="../entities/note.cpp" line="3148"/>
       <source>A change of the note path was detected. Would you like to replace all occurrences of &lt;strong&gt;%1&lt;/strong&gt; links with &lt;strong&gt;%2&lt;/strong&gt; and links with filename &lt;strong&gt;%3&lt;/strong&gt; with &lt;strong&gt;%4&lt;/strong&gt; in &lt;strong&gt;%n&lt;/strong&gt; note file(s)?</source>
-      <translation type="unfinished">
-        <numerusform>A change of the note path was detected. Would you like to replace all occurrences of &lt;strong&gt;%1&lt;/strong&gt; links with &lt;strong&gt;%2&lt;/strong&gt; and links with filename &lt;strong&gt;%3&lt;/strong&gt; with &lt;strong&gt;%4&lt;/strong&gt; in &lt;strong&gt;%n&lt;/strong&gt; note file(s)?</numerusform>
-        <numerusform>A change of the note path was detected. Would you like to replace all occurrences of &lt;strong&gt;%1&lt;/strong&gt; links with &lt;strong&gt;%2&lt;/strong&gt; and links with filename &lt;strong&gt;%3&lt;/strong&gt; with &lt;strong&gt;%4&lt;/strong&gt; in &lt;strong&gt;%n&lt;/strong&gt; note file(s)?</numerusform>
+      <translation>
+        <numerusform>א ענדערונג פון די באַמערקונג דרך איז דיטעקטאַד. וואָלט איר ווי צו פאַרבייַטן אַלע פֿאַלן פֿון &lt;strong&gt;%1 &lt;/strong&gt; פֿאַרבינדונגען מיט &lt;strong&gt;%2 &lt;/strong&gt; און פֿאַרבינדונגען מיט פילענאַמע &lt;strong&gt;%3 &lt;/strong&gt; מיט &lt;strong&gt;%4 &lt;/strong&gt; &gt; אין &lt;strong&gt;%n &lt;/strong&gt; טאָן טעקע?</numerusform>
+        <numerusform>א ענדערונג פון די באַמערקונג דרך איז דיטעקטאַד. וואָלט איר ווי צו פאַרבייַטן אַלע פֿאַלן פֿון &lt;strong&gt;%1 &lt;/strong&gt; פֿאַרבינדונגען מיט &lt;strong&gt;%2 &lt;/strong&gt; און פֿאַרבינדונגען מיט פילענאַמע &lt;strong&gt;%3 &lt;/strong&gt; מיט &lt;strong&gt;%4 &lt;/strong&gt; &gt; אין &lt;strong&gt;%n &lt;/strong&gt; טאָן טעקעס?</numerusform>
       </translation>
     </message>
     <message numerus="yes">
-      <location filename="../entities/note.cpp" line="3658"/>
+      <location filename="../entities/note.cpp" line="3693"/>
       <source>…and %n more note(s)</source>
-      <translation type="unfinished">
-        <numerusform>…and %n more note(s)</numerusform>
-        <numerusform>…and %n more note(s)</numerusform>
+      <translation>
+        <numerusform>… און %n מער טאָן
+</numerusform>
+        <numerusform>… און %n מער הערות</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../helpers/toolbarcontainer.cpp" line="41"/>
       <location filename="../helpers/toolbarcontainer.cpp" line="118"/>
       <source>Unknown action %1</source>
-      <translation type="unfinished">Unknown action %1</translation>
+      <translation>אומבאַקאַנטע אַקציע %1</translation>
     </message>
     <message>
       <location filename="../helpers/toolbarcontainer.cpp" line="100"/>
       <source>Workspace selector</source>
-      <translation type="unfinished">Workspace selector</translation>
+      <translation>וואָרקספּאַסע סעלעקטאָר</translation>
     </message>
     <message>
       <location filename="../utils/gui.cpp" line="334"/>
       <source>Don't ask again!</source>
-      <translation type="unfinished">Don't ask again!</translation>
+      <translation>צי ניט פרעגן ווידער!</translation>
     </message>
     <message>
       <location filename="../utils/gui.cpp" line="335"/>
       <source>Don't show again!</source>
-      <translation type="unfinished">Don't show again!</translation>
+      <translation>צי ניט ווייַזן ווידער!</translation>
     </message>
     <message>
       <location filename="../utils/gui.cpp" line="856"/>
       <source>Double-click to unstick note from tab</source>
-      <translation type="unfinished">Double-click to unstick note from tab</translation>
+      <translation>טאָפּל גיט צו אַנסטיק די צעטל פון די קוויטל</translation>
     </message>
     <message>
       <location filename="../utils/gui.cpp" line="857"/>
       <source>Double-click to stick note to tab</source>
-      <translation type="unfinished">Double-click to stick note to tab</translation>
+      <translation>טאָפּל גיט צו קלעפּן טאָן צו קוויטל</translation>
     </message>
     <message>
       <location filename="../utils/git.cpp" line="76"/>
       <source>Command failed!</source>
-      <translation type="unfinished">Command failed!</translation>
+      <translation>באַפֿעל ניט אַנדערש!</translation>
     </message>
     <message>
       <location filename="../utils/git.cpp" line="77"/>
       <source>The command &lt;code&gt;%1&lt;/code&gt; failed!</source>
-      <translation type="unfinished">The command &lt;code&gt;%1&lt;/code&gt; failed!</translation>
+      <translation>די באַפֿעל &lt;code&gt;%1 &lt;/code&gt; ניט אַנדערש!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4215"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4219"/>
       <source>New connection</source>
-      <translation type="unfinished">New connection</translation>
+      <translation>ניו קשר</translation>
     </message>
     <message>
       <location filename="../entities/cloudconnection.cpp" line="291"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>פעליקייַט</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="256"/>
       <source>Note folder not found!</source>
-      <translation type="unfinished">Note folder not found!</translation>
+      <translation>באַמערקונג טעקע איז נישט געפֿונען!</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="257"/>
       <source>Your note folder was not found any more! Do you want to select a new one?</source>
-      <translation type="unfinished">Your note folder was not found any more! Do you want to select a new one?</translation>
+      <translation>דיין באַמערקונג טעקע איז ניט מער געפֿונען! צי איר ווילן צו קלייַבן אַ נייַע?</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="264"/>
       <source>Please select the folder where your notes will get stored to</source>
-      <translation type="unfinished">Please select the folder where your notes will get stored to</translation>
+      <translation>ביטע סעלעקטירן דעם טעקע צו וואָס דיין הערות זענען סטאָרד</translation>
     </message>
     <message>
-      <location filename="../entities/notesubfolder.cpp" line="562"/>
-      <location filename="../entities/notesubfolder.cpp" line="587"/>
+      <location filename="../entities/notesubfolder.cpp" line="556"/>
+      <location filename="../entities/notesubfolder.cpp" line="581"/>
       <source>Folder will be hidden!</source>
-      <translation type="unfinished">Folder will be hidden!</translation>
+      <translation>טעקע וועט זיין פאַרבאָרגן!</translation>
     </message>
     <message>
-      <location filename="../entities/notesubfolder.cpp" line="563"/>
+      <location filename="../entities/notesubfolder.cpp" line="557"/>
       <source>Folder with name &lt;b&gt;%1&lt;/b&gt; can't be created, because it's internally used by the application!</source>
-      <translation type="unfinished">Folder with name &lt;b&gt;%1&lt;/b&gt; can't be created, because it's internally used by the application!</translation>
+      <translation>טעקע מיט נאָמען &lt;b&gt;%1&lt;/b&gt; קענען ניט זיין באשאפן, ווייַל עס ינעווייניק איז געניצט דורך די אַפּלאַקיישאַן!</translation>
     </message>
     <message>
-      <location filename="../entities/notesubfolder.cpp" line="588"/>
+      <location filename="../entities/notesubfolder.cpp" line="582"/>
       <source>Folder with name &lt;b&gt;%1&lt;/b&gt; can't be created, because it's on the list of ignored subfolders! You can change that in the &lt;i&gt;Panels settings&lt;/i&gt;.</source>
-      <translation type="unfinished">Folder with name &lt;b&gt;%1&lt;/b&gt; can't be created, because it's on the list of ignored subfolders! You can change that in the &lt;i&gt;Panels settings&lt;/i&gt;.</translation>
+      <translation>טעקע מיט נאָמען &lt;b&gt;%1 &lt;/b&gt; קענען ניט זיין באשאפן, ווייַל עס איז אויף דער רשימה פון איגנאָרירט סובפאָלדערס! איר קענען טוישן דאָס אין די &lt;i&gt; פּאַנעלס סעטטינגס &lt;/ i&gt;.</translation>
     </message>
   </context>
   <context>
@@ -4479,27 +4497,27 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../widgets/qownnotesmarkdowntextedit.cpp" line="599"/>
       <source>No suggestions for %1</source>
-      <translation type="unfinished">No suggestions for %1</translation>
+      <translation>קיין פֿירלייגן פֿאַר %1</translation>
     </message>
     <message>
       <location filename="../widgets/qownnotesmarkdowntextedit.cpp" line="611"/>
       <source>Ignore</source>
-      <translation type="unfinished">Ignore</translation>
+      <translation>איגנאָרירן</translation>
     </message>
     <message>
       <location filename="../widgets/qownnotesmarkdowntextedit.cpp" line="612"/>
       <source>Add to Dictionary</source>
-      <translation type="unfinished">Add to Dictionary</translation>
+      <translation>לייג צו ווערטערבוך</translation>
     </message>
     <message>
       <location filename="../widgets/qownnotesmarkdowntextedit.cpp" line="669"/>
       <source>Note editing disabled</source>
-      <translation type="unfinished">Note editing disabled</translation>
+      <translation>באַמערקונג עדיטינג פאַרקריפּלט</translation>
     </message>
     <message>
       <location filename="../widgets/qownnotesmarkdowntextedit.cpp" line="670"/>
       <source>Note editing is currently disabled, do you want to allow it again?</source>
-      <translation type="unfinished">Note editing is currently disabled, do you want to allow it again?</translation>
+      <translation>באַמערקונג עדיטינג איז דערווייַל פאַרקריפּלט. צי איר ווילן צו לאָזן עס ווידער?</translation>
     </message>
   </context>
   <context>
@@ -4507,87 +4525,87 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="53"/>
       <source>Find:</source>
-      <translation type="unfinished">Find:</translation>
+      <translation>געפֿינען:</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="107"/>
       <source>Advanced search / replace text</source>
-      <translation type="unfinished">Advanced search / replace text</translation>
+      <translation>אַוואַנסירטע זוכעניש / פאַרבייַטן טעקסט</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="90"/>
       <source>Close search</source>
-      <translation type="unfinished">Close search</translation>
+      <translation>נאָענט זוכן</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="32"/>
       <source>Find in text</source>
-      <translation type="unfinished">Find in text</translation>
+      <translation>געפֿינען אין טעקסט</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="127"/>
       <source>Search forward</source>
-      <translation type="unfinished">Search forward</translation>
+      <translation>זוכן פאָרויס</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="63"/>
       <source>Search backward</source>
-      <translation type="unfinished">Search backward</translation>
+      <translation>זוכן צוריק</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="39"/>
       <source>Replace with</source>
-      <translation type="unfinished">Replace with</translation>
+      <translation>פאַרבייַטן מיט</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="80"/>
       <source>Replace:</source>
-      <translation type="unfinished">Replace:</translation>
+      <translation>פאַרבייַטן:</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="193"/>
       <source>Plain text</source>
-      <translation type="unfinished">Plain text</translation>
+      <translation>בלויזע טעקסט</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="198"/>
       <source>Whole words</source>
-      <translation type="unfinished">Whole words</translation>
+      <translation>גאַנץ ווערטער</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="203"/>
       <source>Regular expression</source>
-      <translation type="unfinished">Regular expression</translation>
+      <translation>רעגולער אויסדרוק</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="224"/>
       <source>Replace one text occurrence</source>
-      <translation type="unfinished">Replace one text occurrence</translation>
+      <translation>פאַרבייַטן איין טעקסט פּאַסירונג</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="227"/>
       <source>Replace</source>
-      <translation type="unfinished">Replace</translation>
+      <translation>פאַרבייַטן</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="237"/>
       <source>Replace all text occurrences</source>
-      <translation type="unfinished">Replace all text occurrences</translation>
+      <translation>פאַרבייַטן אַלע טעקסט פֿאַלן</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="240"/>
       <source>Replace all</source>
-      <translation type="unfinished">Replace all</translation>
+      <translation>פאַרבייַטן אַלע</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="164"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>מאָדע:</translation>
     </message>
     <message>
       <location filename="../libraries/qmarkdowntextedit/qplaintexteditsearchwidget.ui" line="144"/>
       <source>Match case sensitive</source>
-      <translation type="unfinished">Match case sensitive</translation>
+      <translation>גלייַכן פאַל שפּירעוודיק</translation>
     </message>
   </context>
   <context>
@@ -4595,77 +4613,77 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="32"/>
       <source>replace text</source>
-      <translation type="unfinished">replace text</translation>
+      <translation>פאַרבייַטן טעקסט</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="52"/>
       <source>Find:</source>
-      <translation type="unfinished">Find:</translation>
+      <translation>געפֿינען:</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="62"/>
       <source>close search</source>
-      <translation type="unfinished">close search</translation>
+      <translation>נאָענט זוכן</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="79"/>
       <source>find in text</source>
-      <translation type="unfinished">find in text</translation>
+      <translation>געפֿינען אין טעקסט</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="86"/>
       <source>search forward</source>
-      <translation type="unfinished">search forward</translation>
+      <translation>זוכן פאָרויס</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="103"/>
       <source>search backward</source>
-      <translation type="unfinished">search backward</translation>
+      <translation>זוכן צוריק</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="120"/>
       <source>replace with</source>
-      <translation type="unfinished">replace with</translation>
+      <translation>פאַרבייַטן מיט</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="127"/>
       <source>Replace:</source>
-      <translation type="unfinished">Replace:</translation>
+      <translation>פאַרבייַטן:</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="156"/>
       <source>Plain text</source>
-      <translation type="unfinished">Plain text</translation>
+      <translation>בלויזע טעקסט</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="161"/>
       <source>Whole words</source>
-      <translation type="unfinished">Whole words</translation>
+      <translation>גאַנץ ווערטער</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="166"/>
       <source>Regular expression</source>
-      <translation type="unfinished">Regular expression</translation>
+      <translation>רעגולער אויסדרוק</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="187"/>
       <source>Replace</source>
-      <translation type="unfinished">Replace</translation>
+      <translation>פאַרבייַטן</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="197"/>
       <source>Replace All</source>
-      <translation type="unfinished">Replace All</translation>
+      <translation>פאַרבייַטן אַלע</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="210"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>מאָדע:</translation>
     </message>
     <message>
       <location filename="../widgets/qtexteditsearchwidget.ui" line="220"/>
       <source>Match case sensitive</source>
-      <translation type="unfinished">Match case sensitive</translation>
+      <translation>גלייַכן פאַל שפּירעוודיק</translation>
     </message>
   </context>
   <context>
@@ -4673,42 +4691,42 @@ If the trash is enabled on your ownCloud server you should be able to restore th
     <message>
       <location filename="../services/databaseservice.cpp" line="84"/>
       <source>Cannot open memory database</source>
-      <translation type="unfinished">Cannot open memory database</translation>
+      <translation>קען נישט עפֿענען זכּרון דאַטאַבייס</translation>
     </message>
     <message>
       <location filename="../services/databaseservice.cpp" line="85"/>
       <source>Unable to establish a memory database connection.</source>
-      <translation type="unfinished">Unable to establish a memory database connection.</translation>
+      <translation>ניט געקענט צו פאַרלייגן אַ זיקאָרן דאַטאַבייס קשר</translation>
     </message>
     <message>
       <location filename="../services/databaseservice.cpp" line="101"/>
       <source>Cannot open disk database</source>
-      <translation type="unfinished">Cannot open disk database</translation>
+      <translation>קען נישט עפענען דיסק דייטאַבייס</translation>
     </message>
     <message>
       <location filename="../services/databaseservice.cpp" line="102"/>
       <location filename="../services/databaseservice.cpp" line="126"/>
       <source>Unable to establish a database connection with file '%1'.
 Are the folder and the file writeable?</source>
-      <translation type="unfinished">Unable to establish a database connection with file '%1'.
-Are the folder and the file writeable?</translation>
+      <translation>ניט געקענט צולייגן אַ דאַטאַבייס קאַנעקשאַן מיט טעקע '%1'.
+זענען די טעקע און דער טעקע שרייַבן?</translation>
     </message>
     <message>
       <location filename="../services/databaseservice.cpp" line="125"/>
       <source>Cannot open note folder database</source>
-      <translation type="unfinished">Cannot open note folder database</translation>
+      <translation>קען נישט עפענען די דאַטאַבייס פון די באַמערקונג טעקע</translation>
     </message>
     <message>
       <location filename="../services/databaseservice.cpp" line="873"/>
       <source>Cannot open database</source>
-      <translation type="unfinished">Cannot open database</translation>
+      <translation>קען נישט עפענען די דאַטאַבייס</translation>
     </message>
     <message>
       <location filename="../services/databaseservice.cpp" line="874"/>
       <source>Unable to establish a database connection with note folder database to merge '%1'.
 Are the folder and the file writeable?</source>
-      <translation type="unfinished">Unable to establish a database connection with note folder database to merge '%1'.
-Are the folder and the file writeable?</translation>
+      <translation>ניט געקענט צולייגן אַ דאַטאַבייס קאַנעקשאַן מיט די באַמערקונג טעקע דאַטאַבייס צו צונויפגיסן '%1'.
+זענען די טעקע און דער טעקע שרייַבן?</translation>
     </message>
   </context>
   <context>
@@ -4716,167 +4734,167 @@ Are the folder and the file writeable?</translation>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="14"/>
       <source>Script repository</source>
-      <translation type="unfinished">Script repository</translation>
+      <translation>שריפט ריפּאַזאַטאָרי</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="55"/>
       <source>To search for a script please enter your query text and press &lt;i&gt;Return&lt;/i&gt;.</source>
-      <translation type="unfinished">To search for a script please enter your query text and press &lt;i&gt;Return&lt;/i&gt;.</translation>
+      <translation>כּדי צו זוכן אַ שריפט ביטע אַרייַן דיין אָנפֿרעג טעקסט און דריקן &lt;i&gt; צוריק &lt;/ i&gt;.</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="127"/>
       <source>Currently installed version:</source>
-      <translation type="unfinished">Currently installed version:</translation>
+      <translation>דערווייַל אינסטאַלירן ווערסיע:</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="278"/>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="413"/>
       <source>Installs the script</source>
-      <translation type="unfinished">Installs the script</translation>
+      <translation>ינסטאָלז די שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="281"/>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="412"/>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="475"/>
       <source>Install</source>
-      <translation type="unfinished">Install</translation>
+      <translation>ינסטאַלירן</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="444"/>
       <source>Load more scripts</source>
-      <translation type="unfinished">Load more scripts</translation>
+      <translation>מאַסע מער סקריפּס</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="228"/>
       <source>Version:</source>
-      <translation type="unfinished">Version:</translation>
+      <translation>ווערסיע:</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="202"/>
       <source>Repository:</source>
-      <translation type="unfinished">Repository:</translation>
+      <translation>ריפּאַזאַטאָרי:</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="137"/>
       <source>Minimum app version:</source>
-      <translation type="unfinished">Minimum app version:</translation>
+      <translation>מינימום אַפּ ווערסיע:</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="433"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>נאָמען</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="413"/>
       <source>Enter your query text</source>
-      <translation type="unfinished">Enter your query text</translation>
+      <translation>אַרייַן דיין אָנפֿרעג טעקסט</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.ui" line="416"/>
       <source>Find script</source>
-      <translation type="unfinished">Find script</translation>
+      <translation>געפֿינען שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="52"/>
       <source>Script updates</source>
-      <translation type="unfinished">Script updates</translation>
+      <translation>שריפט דערהייַנטיקונגען</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="53"/>
       <source>All scripts are up-to-date.</source>
-      <translation type="unfinished">All scripts are up-to-date.</translation>
+      <translation>כל סקריפּס זענען ופּדאַטעד.</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="382"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>מחברים</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="382"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>מחבר</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="386"/>
       <source>Supported platforms</source>
-      <translation type="unfinished">Supported platforms</translation>
+      <translation>שטיצט פּלאַטפאָרמס</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="387"/>
       <source>Supported platform</source>
-      <translation type="unfinished">Supported platform</translation>
+      <translation>שטיצט פּלאַטפאָרמע</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="391"/>
       <source>Open repository</source>
-      <translation type="unfinished">Open repository</translation>
+      <translation>עפֿן ריפּאַזאַטאָרי</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="401"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>דערהייַנטיקן</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="402"/>
       <source>Updates the script</source>
-      <translation type="unfinished">Updates the script</translation>
+      <translation>דערהייַנטיקט די שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="404"/>
       <source>Reinstall</source>
-      <translation type="unfinished">Reinstall</translation>
+      <translation>ריינסטאַל</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="405"/>
       <source>Reinstalls the script</source>
-      <translation type="unfinished">Reinstalls the script</translation>
+      <translation>ריינסטאַל די שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="472"/>
       <source>Platform not supported!</source>
-      <translation type="unfinished">Platform not supported!</translation>
+      <translation>פּלאַטפאָרמע ניט געשטיצט!</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="473"/>
       <source>Your platform is not supported by this script!
 Do you want to install it anyway?</source>
-      <translation type="unfinished">Your platform is not supported by this script!
-Do you want to install it anyway?</translation>
+      <translation>דיין פּלאַטפאָרמע איז נישט געשטיצט דורך דעם שריפט!
+צי איר ווילט צו ינסטאַלירן עס סייַ ווי סייַ?</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="475"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>באָטל מאַכן</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="482"/>
       <source>Update app</source>
-      <translation type="unfinished">Update app</translation>
+      <translation>דערהייַנטיקן אַפּ</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="483"/>
       <source>Please don't forget to update your installation of QOwnNotes to make this script work!</source>
-      <translation type="unfinished">Please don't forget to update your installation of QOwnNotes to make this script work!</translation>
+      <translation>ביטע טאָן ניט פאַרגעסן צו דערהייַנטיקן דיין ינסטאַלירונג פון QOwnNotes צו מאַכן דעם שריפט אַרבעט!</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="551"/>
       <source>Install successful</source>
-      <translation type="unfinished">Install successful</translation>
+      <translation>ינסטאַלירן געראָטן</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="552"/>
       <source>The script was successfully installed!</source>
-      <translation type="unfinished">The script was successfully installed!</translation>
+      <translation>די שריפט איז געווען אינסטאַלירן הצלחה!</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="559"/>
       <source>Download failed</source>
-      <translation type="unfinished">Download failed</translation>
+      <translation>אראפקאפיע ניט אַנדערש</translation>
     </message>
     <message>
       <location filename="../dialogs/scriptrepositorydialog.cpp" line="560"/>
       <source>The script could not be downloaded!</source>
-      <translation type="unfinished">The script could not be downloaded!</translation>
+      <translation>די שריפט קען ניט זיין דאַונלאָודיד!</translation>
     </message>
   </context>
   <context>
@@ -4884,20 +4902,20 @@ Do you want to install it anyway?</translation>
     <message>
       <location filename="../widgets/scriptsettingwidget.ui" line="92"/>
       <source>The setting name</source>
-      <translation type="unfinished">The setting name</translation>
+      <translation>די באַשטעטיקן נאָמען</translation>
     </message>
     <message>
       <location filename="../widgets/scriptsettingwidget.cpp" line="193"/>
       <source>Please select a file</source>
-      <translation type="unfinished">Please select a file</translation>
+      <translation>ביטע סעלעקטירן אַ טעקע</translation>
     </message>
   </context>
   <context>
     <name>ScriptingService</name>
     <message>
-      <location filename="../services/scriptingservice.cpp" line="256"/>
+      <location filename="../services/scriptingservice.cpp" line="257"/>
       <source>file doesn't exist</source>
-      <translation type="unfinished">file doesn't exist</translation>
+      <translation>טעקע עקזיסטירט נישט</translation>
     </message>
   </context>
   <context>
@@ -4906,7 +4924,7 @@ Do you want to install it anyway?</translation>
       <location filename="../dialogs/serverbookmarksimportdialog.ui" line="14"/>
       <location filename="../dialogs/serverbookmarksimportdialog.ui" line="20"/>
       <source>Import bookmarks</source>
-      <translation type="unfinished">Import bookmarks</translation>
+      <translation>אַרייַנפיר בוקמאַרקס</translation>
     </message>
     <message>
       <location filename="../dialogs/serverbookmarksimportdialog.ui" line="47"/>
@@ -4916,9 +4934,9 @@ Do you want to install it anyway?</translation>
     <message numerus="yes">
       <location filename="../dialogs/serverbookmarksimportdialog.cpp" line="88"/>
       <source>&lt;strong&gt;%n bookmarks&lt;/strong&gt; found on server</source>
-      <translation type="unfinished">
-        <numerusform>&lt;strong&gt;%n bookmarks&lt;/strong&gt; found on server</numerusform>
-        <numerusform>&lt;strong&gt;%n bookmarks&lt;/strong&gt; found on server</numerusform>
+      <translation>
+        <numerusform>&lt;strong&gt;%n בוקמאַרקס &lt;/ strong&gt; געפֿונען אויף סערווער</numerusform>
+        <numerusform>&lt;strong&gt;%n בוקמאַרקס &lt;/ strong&gt; געפֿונען אויף סערווער</numerusform>
       </translation>
     </message>
   </context>
@@ -4926,89 +4944,89 @@ Do you want to install it anyway?</translation>
     <name>SettingsDialog</name>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="26"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4276"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4287"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="120"/>
       <source>Note folders</source>
-      <translation type="unfinished">Note folders</translation>
+      <translation>באַמערקונג פאָלדערס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="419"/>
       <source>Your note folders</source>
-      <translation type="unfinished">Your note folders</translation>
+      <translation>דיין טאָן פאָלדערס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="495"/>
       <source>&amp;Add folder</source>
-      <translation type="unfinished">&amp;Add folder</translation>
+      <translation>&amp;לייג טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="519"/>
       <source>&amp;Remove folder</source>
-      <translation type="unfinished">&amp;Remove folder</translation>
+      <translation>&amp;אַראָפּנעמען טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="757"/>
       <source>This name will be viewed in all the menus.</source>
-      <translation type="unfinished">This name will be viewed in all the menus.</translation>
+      <translation>דעם נאָמען וועט זיין געוויזן אין אַלע מעניוז.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="794"/>
       <source>Set the ownCloud path where the note folder path will be synced to on your ownCloud server.</source>
-      <translation type="unfinished">Set the ownCloud path where the note folder path will be synced to on your ownCloud server.</translation>
+      <translation>באַשטעטיקט דעם ownCloud דרך' וווּ די באַמערקונג טעקע דרך וועט זיין סינסעד צו אויף דיין OwnCloud סערווער.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="716"/>
       <source>Use as active note folder</source>
-      <translation type="unfinished">Use as active note folder</translation>
+      <translation>ניצן ווי אַקטיוו טאָן טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="862"/>
       <source>Your ownCloud server</source>
-      <translation type="unfinished">Your ownCloud server</translation>
+      <translation>דיין אָונקלאָוד סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1088"/>
       <source>ownCloud server url:</source>
-      <translation type="unfinished">ownCloud server url:</translation>
+      <translation>ownCloud סערווער URL:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1110"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please enter the URL of your ownCloud server, for example: &lt;span style=" font-style:italic;"&gt;https://cloud.yourserver.com&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please enter the URL of your ownCloud server, for example: &lt;span style=" font-style:italic;"&gt;https://cloud.yourserver.com&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; ביטע אַרייַן די URL פון דיין ownCloud סערווער, למשל: &lt;span style = "font-style: italic;"&gt; https://cloud.yourserver.com &lt;/ span &gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1148"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please enter the username on your ownCloud server.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please enter the username on your ownCloud server.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; ביטע אַרייַן די נאמען אויף דיין ownCloud סערווער. &lt;/ p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1183"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please enter the password for your username.&lt;br/&gt;Currently the password will be stored encrypted with the other settings, but is not very secure.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please enter the password for your username.&lt;br/&gt;Currently the password will be stored encrypted with the other settings, but is not very secure.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; ביטע אַרייַן די שפּריכוואָרט פֿאַר דיין נאמען. &lt;br/&gt; דערווייַל די פּאַראָל וועט זיין סטאָרד ענקריפּטיד מיט די אנדערע סעטטינגס, אָבער איז נישט זייער זיכער. &lt;/ p&gt; &lt;/ body &gt; &lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1254"/>
       <source>connection to web server</source>
-      <translation type="unfinished">connection to web server</translation>
+      <translation>קשר צו וועב סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1271"/>
       <source>ownCloud server detected</source>
-      <translation type="unfinished">ownCloud server detected</translation>
+      <translation>ownCloud סערווער דיטעקטאַד</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1305"/>
       <source>connection to QOwnNotesAPI</source>
-      <translation type="unfinished">connection to QOwnNotesAPI</translation>
+      <translation>קשר צו QOwnNotesAPI</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1288"/>
       <source>username and password correct</source>
-      <translation type="unfinished">username and password correct</translation>
+      <translation>נאמען און שפּריכוואָרט ריכטיק</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1244"/>
@@ -5019,232 +5037,232 @@ Do you want to install it anyway?</translation>
       <location filename="../dialogs/settingsdialog.ui" line="1329"/>
       <location filename="../dialogs/settingsdialog.ui" line="1346"/>
       <source>unknown</source>
-      <translation type="unfinished">unknown</translation>
+      <translation>אומבאַקאַנט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1211"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click here to test the connection to your ownCloud server.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click here to test the connection to your ownCloud server.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; קליקט דאָ צו פּרובירן די פֿאַרבינדונג צו דיין ownCloud סערווער. &lt;/ p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1322"/>
       <source>versions app enabled on server</source>
-      <translation type="unfinished">versions app enabled on server</translation>
+      <translation>ווערסיעס אַפּ ענייבאַלד אויף סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1339"/>
       <source>trash app enabled on server</source>
-      <translation type="unfinished">trash app enabled on server</translation>
+      <translation>אָפּפאַל אַפּ ענייבאַלד אויף סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1356"/>
       <source>notes path found on server</source>
-      <translation type="unfinished">notes path found on server</translation>
+      <translation>הערות דרך געפֿונען אויף סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="921"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Opens your ownCloud server &lt;span style=" font-weight:600;"&gt;App configuration&lt;/span&gt; page in your webbrowser to install or update QOwnNotesAPI and to enable the core apps &lt;span style=" font-weight:600;"&gt;Versions&lt;/span&gt; and &lt;span style=" font-weight:600;"&gt;Deleted files&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Opens your ownCloud server &lt;span style=" font-weight:600;"&gt;App configuration&lt;/span&gt; page in your webbrowser to install or update QOwnNotesAPI and to enable the core apps &lt;span style=" font-weight:600;"&gt;Versions&lt;/span&gt; and &lt;span style=" font-weight:600;"&gt;Deleted files&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; אָפּענס דיין ownCloud סערווער &lt;span style = "font-weight: 600;"&gt; אַפּ קאַנפיגיעריישאַן &lt;/ span&gt; בלאַט אין דיין וועב בראָווס צו ינסטאַלירן אָדער דערהייַנטיקן QOwnNotesAPI און צו געבן דעם האַרץ אַפּפּס &lt;span style = "font-weight: 600;"&gt; ווערסיעס &lt;/ span&gt; און &lt;span style = "font-weight: 600;"&gt; אויסגעמעקט טעקעס &lt;/ span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/ HTML&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="624"/>
       <source>path</source>
-      <translation type="unfinished">path</translation>
+      <translation>דרך</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="780"/>
       <source>Click here to select your local note path</source>
-      <translation type="unfinished">Click here to select your local note path</translation>
+      <translation>דריקט דאָ צו אויסקלייַבן דיין היגע טאָן דרך</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="733"/>
       <source>Click here to select your remote note path on your ownCloud server</source>
-      <translation type="unfinished">Click here to select your remote note path on your ownCloud server</translation>
+      <translation>דריקט דאָ צו סעלעקטירן דיין ווייַט טאָן דרך אויף דיין אָוווערקלאָוד סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="590"/>
       <source>Click here to use the selected folder from your server as note folder</source>
-      <translation type="unfinished">Click here to use the selected folder from your server as note folder</translation>
+      <translation>דריקט דאָ צו נוצן די אויסגעקליבן טעקע פון דיין סערווירער ווי טאָן טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="889"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You also need to have the two ownCloud core apps &lt;span style=" font-weight:600;"&gt;Versions&lt;/span&gt; and &lt;span style=" font-weight:600;"&gt;Deleted files&lt;/span&gt; enabled on your ownCloud server (that should be the default).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You also need to have the two ownCloud core apps &lt;span style=" font-weight:600;"&gt;Versions&lt;/span&gt; and &lt;span style=" font-weight:600;"&gt;Deleted files&lt;/span&gt; enabled on your ownCloud server (that should be the default).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; איר דארפט אויך האָבן די צוויי אייגענע קלאָוד האַרץ אַפּפּס &lt;span style = "font-weight: 600;"&gt; ווערסיעס &lt;/ span&gt; און &lt;span style = "font-weight : 600; "&gt; אויסגעמעקט טעקעס &lt;/ span&gt; ענייבאַלד אויף דיין OwnCloud סערווער (דאָס זאָל זיין די פעליקייַט). &lt;/ P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="988"/>
       <source>Error Message</source>
-      <translation type="unfinished">Error Message</translation>
+      <translation>טעות אָנזאָג</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="144"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>נעץ</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1423"/>
       <source>Proxy Settings</source>
-      <translation type="unfinished">Proxy Settings</translation>
+      <translation>פראקסי סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1429"/>
       <source>No Proxy</source>
-      <translation type="unfinished">No Proxy</translation>
+      <translation>ניט קיין פראקסי</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1439"/>
       <source>Use system proxy</source>
-      <translation type="unfinished">Use system proxy</translation>
+      <translation>ניצן סיסטעם פראקסי</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1446"/>
       <source>Specify proxy manually as</source>
-      <translation type="unfinished">Specify proxy manually as</translation>
+      <translation>ספּעציפיצירן פראקסי מאַניואַלי ווי</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1471"/>
       <source>Host</source>
-      <translation type="unfinished">Host</translation>
+      <translation>באַלעבאָס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1522"/>
       <source>Proxy server requires authentication</source>
-      <translation type="unfinished">Proxy server requires authentication</translation>
+      <translation>פראקסי סערווער ריקווייערז אָטענטאַקיישאַן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1579"/>
       <source>SSL Settings</source>
-      <translation type="unfinished">SSL Settings</translation>
+      <translation>SSL סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1585"/>
       <source>Ignore SSL errors</source>
-      <translation type="unfinished">Ignore SSL errors</translation>
+      <translation>איגנאָרירן ססל ערראָרס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="156"/>
       <source>Todo</source>
-      <translation type="unfinished">Todo</translation>
+      <translation>צו טוהן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1840"/>
       <source>Default ownCloud calendar</source>
-      <translation type="unfinished">Default ownCloud calendar</translation>
+      <translation>פעליקייַט אָונקלאָוד קאַלענדאַר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="168"/>
       <source>Interface</source>
-      <translation type="unfinished">Interface</translation>
+      <translation>צובינד</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1810"/>
       <source>Other CalDAV server</source>
-      <translation type="unfinished">Other CalDAV server</translation>
+      <translation>אנדערע קאַלדאַוו סערווער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2967"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2978"/>
       <source>Only some colors will be adapted, your desktop theme will control the rest. You need to restart the application to let these changes take action.</source>
-      <translation type="unfinished">Only some colors will be adapted, your desktop theme will control the rest. You need to restart the application to let these changes take action.</translation>
+      <translation>בלויז עטלעכע פארבן וועט זיין אַדאַפּטיד, דיין דעסקטאַפּ טעמע קאָנטראָל די מנוחה. איר דאַרפֿן צו ריסטאַרט די אַפּלאַקיישאַן צו לאָזן די ענדערונגען נעמען קאַמף.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2970"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2981"/>
       <source>Optimize preview colors for dark mode desktop themes</source>
-      <translation type="unfinished">Optimize preview colors for dark mode desktop themes</translation>
+      <translation>אָפּטימיזע פאָרויסיקע ווייַזונג פֿאַרבן פֿאַר טונקל מאָדע דעסקטאַפּ טעמעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2957"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2968"/>
       <source>This enables the dark mode, interface and icons will be modified. You need to restart the application to let these changes take action.</source>
-      <translation type="unfinished">This enables the dark mode, interface and icons will be modified. You need to restart the application to let these changes take action.</translation>
+      <translation>דעם ינייבאַלז די טונקל מאָדע, צובינד און ייקאַנז וועט זיין מאַדאַפייד. איר דאַרפֿן צו ריסטאַרט די אַפּלאַקיישאַן צו לאָזן די ענדערונגען נעמען קאַמף.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2960"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2971"/>
       <source>Enable dark mode</source>
-      <translation type="unfinished">Enable dark mode</translation>
+      <translation>געבן פינצטער מאָדע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2986"/>
-      <location filename="../dialogs/settingsdialog.ui" line="2996"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3027"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3037"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2997"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3007"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3038"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3048"/>
       <source>You need to restart the application to let this setting take effect</source>
-      <translation type="unfinished">You need to restart the application to let this setting take effect</translation>
+      <translation>איר דאַרפֿן צו ריסטאַרט די אַפּלאַקיישאַן צו לאָזן דעם באַשטעטיקן ווירקונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3066"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3077"/>
       <source>Item sizes in the main window</source>
-      <translation type="unfinished">Item sizes in the main window</translation>
+      <translation>נומער סיזעס אין די הויפּט פֿענצטער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5049"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5060"/>
       <source>Markdown highlighting</source>
-      <translation type="unfinished">Markdown highlighting</translation>
+      <translation>מאַרקדאַון כיילייטינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5055"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5066"/>
       <source>Enable markdown highlighting</source>
-      <translation type="unfinished">Enable markdown highlighting</translation>
+      <translation>געבן אַ כיילייטינג מאַרקדאַון</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2134"/>
       <source>Interface language</source>
-      <translation type="unfinished">Interface language</translation>
+      <translation>צובינד שפּראַך</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2164"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>אויטאָמאַטיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2299"/>
       <source>English</source>
-      <translation type="unfinished">English</translation>
+      <translation>ענגליש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="252"/>
       <source>Shortcuts</source>
-      <translation type="unfinished">Shortcuts</translation>
+      <translation>דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4504"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4797"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4515"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4808"/>
       <source>Default font:</source>
-      <translation type="unfinished">Default font:</translation>
+      <translation>פעליקייַט שריפֿט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4546"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4738"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4557"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4749"/>
       <source>Code font:</source>
-      <translation type="unfinished">Code font:</translation>
+      <translation>קאָד שריפֿט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3225"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3236"/>
       <source>Main window shortcuts</source>
-      <translation type="unfinished">Main window shortcuts</translation>
+      <translation>הויפּט פֿענצטער דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3818"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3829"/>
       <source>Do this at your own risk!</source>
-      <translation type="unfinished">Do this at your own risk!</translation>
+      <translation>טאָן דאָס אויף דיין אייגן ריזיקירן!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3821"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3832"/>
       <source>Ignore all external note folder changes</source>
-      <translation type="unfinished">Ignore all external note folder changes</translation>
+      <translation>איגנאָרירן אַלע ענדערונגען אין די פונדרויסנדיק טאָן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4401"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4412"/>
       <source>No two spaces to do a line break are added here if checked</source>
-      <translation type="unfinished">No two spaces to do a line break are added here if checked</translation>
+      <translation>ניט קיין צוויי ספּייסאַז צו טאָן אַ שורה ברעכן זענען צוגעגעבן דאָ אויב אָפּגעשטעלט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4404"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4415"/>
       <source>Use GitHub line breaks</source>
-      <translation type="unfinished">Use GitHub line breaks</translation>
+      <translation>ניצן GitHub שורה ברייקס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2277"/>
       <source>German</source>
-      <translation type="unfinished">German</translation>
+      <translation>דײַטש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2354"/>
@@ -5279,57 +5297,57 @@ Do you want to install it anyway?</translation>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2140"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you want to help to translate QOwnNotes or update an existing translation please read: &lt;a href="http://www.qownnotes.org/Knowledge-base/How-can-I-help-to-translate-QOwnNotes"&gt;How can I help to translate QOwnNotes?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you want to help to translate QOwnNotes or update an existing translation please read: &lt;a href="http://www.qownnotes.org/Knowledge-base/How-can-I-help-to-translate-QOwnNotes"&gt;How can I help to translate QOwnNotes?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; אויב איר ווילט העלפן איבערזעצן QOwnNotes אָדער דערהייַנטיקן אַ יגזיסטינג איבערזעצונג, ביטע לייענען: &lt;a href = "http://www.qownnotes.org/Knowledge-base/How- can-I-help-to-translate-QOwnNotes "&gt; ווי קען איך העלפֿן צו איבערזעצן QOwnNotes? &lt;/a&gt; &lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2931"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2942"/>
       <source>Dark mode</source>
-      <translation type="unfinished">Dark mode</translation>
+      <translation>פינצטער מאָדע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1639"/>
       <source>Disable tracking of usage data</source>
-      <translation type="unfinished">Disable tracking of usage data</translation>
+      <translation>דיסאַבלע טראַקינג פון באַניץ דאַטן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1683"/>
       <source>Usage tracking is done on a private Piwik server.</source>
-      <translation type="unfinished">Usage tracking is done on a private Piwik server.</translation>
+      <translation>באַניץ טראַקינג איז געטאן אויף אַ פּריוואַט Piwik סערווער.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1743"/>
       <source>Disable heartbeat</source>
-      <translation type="unfinished">Disable heartbeat</translation>
+      <translation>דיסאַבלע כאַרטביט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2673"/>
       <source>Russian</source>
-      <translation type="unfinished">Russian</translation>
+      <translation>רוסיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1592"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to consider getting a free SSL certificate from &lt;a href="https://letsencrypt.org/"&gt;Let's encrypt&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to consider getting a free SSL certificate from &lt;a href="https://letsencrypt.org/"&gt;Let's encrypt&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; איר וואָלט ווי צו נעמען אַ פריי SSL באַווייַזן פֿון &lt;a href="https://letsencrypt.org/"&gt; לאמיר ענקריפּט &lt;/a&gt;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2153"/>
       <source>If you change the language you have to restart the application for the changes to take action.</source>
-      <translation type="unfinished">If you change the language you have to restart the application for the changes to take action.</translation>
+      <translation>אויב איר טוישן די שפּראַך, איר מוזן ריסטאַרט די אַפּלאַקיישאַן פֿאַר די ענדערונגען צו נעמען קאַמף..</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3647"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3658"/>
       <source>You need to reload the scripting engine if you modify a script file</source>
-      <translation type="unfinished">You need to reload the scripting engine if you modify a script file</translation>
+      <translation>איר דאַרפֿן צו רילאָוד די סקריפּטינג מאָטאָר אויב איר מאָדיפיצירן אַ שריפט טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3650"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3661"/>
       <source>Reload scripting engine</source>
-      <translation type="unfinished">Reload scripting engine</translation>
+      <translation>רילאָוד סקריפּטינג מאָטאָר</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3640"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3651"/>
       <source>Validate script</source>
-      <translation type="unfinished">Validate script</translation>
+      <translation>וואַלאַדייט שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="288"/>
@@ -5337,254 +5355,254 @@ Do you want to install it anyway?</translation>
       <translation type="unfinished">General</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3812"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3823"/>
       <source>Notes</source>
       <translation type="unfinished">Notes</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3838"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3849"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked you will always be notified about external modifications, even if current note wasn't edited in the last minute. Recommended is &lt;span style=" font-style:italic;"&gt;unchecked&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked you will always be notified about external modifications, even if current note wasn't edited in the last minute. Recommended is &lt;span style=" font-style:italic;"&gt;unchecked&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; אויב אָפּגעשטעלט, איר וועט שטענדיק זיין נאָוטאַפייד וועגן פונדרויסנדיק מאַדאַפאַקיישאַנז, אפילו אויב די איצטיקע טאָן איז נישט עדיטיד אין די לעצטע מינוט. רעקאַמענדיד איז &lt;span style = "font-style: italic;"&gt; ונטשעקטיד &lt;/ span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3934"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5290"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5828"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3945"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5301"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5846"/>
       <source>You might run into sync troubles with older versions of ownCloud sync when going far below 10 sec.
 Just test yourself if you get sync conflicts and set a higher value if so.</source>
-      <translation type="unfinished">You might run into sync troubles with older versions of ownCloud sync when going far below 10 sec.
-Just test yourself if you get sync conflicts and set a higher value if so.</translation>
+      <translation>איר קען לויפן אין סינק קאָפּדרייעניש מיט עלטערע ווערסיעס פון OwnCloud סינק ווען איר גיין ווייַט אונטער 10 סעק.
+נאָר פּרובירן זיך אויב איר באַקומען סינק קאָנפליקט און שטעלן אַ העכער ווערט אויב אַזוי.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2574"/>
       <source>Japanese</source>
-      <translation type="unfinished">Japanese</translation>
+      <translation>יאַפּאַניש</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3938"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3949"/>
       <source>note save interval time [sec]</source>
-      <translation type="unfinished">note save interval time [sec]</translation>
+      <translation>טאָן שפּאָרן מעהאַלעך צייט [סעק]</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3841"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3852"/>
       <source>Notify about all external modifications of the current note</source>
-      <translation type="unfinished">Notify about all external modifications of the current note</translation>
+      <translation>געבנ צו וויסן וועגן אַלע פונדרויסנדיק מאַדאַפאַקיישאַנז פון דעם קראַנט טאָן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4305"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2270"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2278"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4316"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2274"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2282"/>
       <source>Database</source>
-      <translation type="unfinished">Database</translation>
+      <translation>דאַטאַבייס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4321"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4332"/>
       <source>Reinitialize Database</source>
-      <translation type="unfinished">Reinitialize Database</translation>
+      <translation>רעינאַליטיאַליזירן דאַטאַבייס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4244"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4255"/>
       <source>Clear application data and exit</source>
-      <translation type="unfinished">Clear application data and exit</translation>
+      <translation>ויסמעקן אַפּלאַקיישאַן דאַטן און אַרויסגאַנג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4250"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4261"/>
       <source>This button allows you to clear all settings, remove the local todo database and exit QOwnNotes.</source>
-      <translation type="unfinished">This button allows you to clear all settings, remove the local todo database and exit QOwnNotes.</translation>
+      <translation>מיט דעם קנעפּל איר קענען ויסמעקן אַלע סעטטינגס, אַראָפּנעמען די היגע טאָדאָ דאַטאַבייס און אַרויסגאַנג QOwnNotes.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4260"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2342"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4271"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2346"/>
       <source>Clear app data and exit</source>
-      <translation type="unfinished">Clear app data and exit</translation>
+      <translation>ויסמעקן אַפּ דאַטן און אַרויסגאַנג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4039"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4050"/>
       <source>Update dialog</source>
-      <translation type="unfinished">Update dialog</translation>
+      <translation>דערהייַנטיקן דיאַלאָג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4119"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4130"/>
       <source>Default note file extension</source>
-      <translation type="unfinished">Default note file extension</translation>
+      <translation>פעליקייַט באַמערקונג טעקע פאַרלענגערונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4204"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4215"/>
       <source>External editor</source>
-      <translation type="unfinished">External editor</translation>
+      <translation>פונדרויסנדיק רעדאַקטאָר</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4217"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4228"/>
       <source>path to external editor, leave empty for default</source>
-      <translation type="unfinished">path to external editor, leave empty for default</translation>
+      <translation>דרך צו פונדרויסנדיק רעדאַקטאָר, לאָזן ליידיק פֿאַר פעליקייַט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4227"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5369"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4238"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5380"/>
       <source>set external editor</source>
-      <translation type="unfinished">set external editor</translation>
+      <translation>שטעלן פונדרויסנדיק רעדאַקטאָר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1608"/>
       <source>App metrics</source>
-      <translation type="unfinished">App metrics</translation>
+      <translation>אַפּ מעטריקס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1626"/>
       <source>Anonymous usage data helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. Please disable it only if you really can't live with it.</source>
-      <translation type="unfinished">Anonymous usage data helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. Please disable it only if you really can't live with it.</translation>
+      <translation>אַנאָנימע באַנוצערס דאַטן העלפֿן צו באַשליסן וואָס פּאַרץ פון QOwnNotes צו פֿאַרבעסערן ווייַטער און צו געפֿינען און פאַרריכטן באַגז. ביטע דיסייבאַל עס נאָר אויב איר טאַקע קענען נישט לעבן מיט אים.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1658"/>
       <source>This data includes anonymous information about what features of the app are used.</source>
-      <translation type="unfinished">This data includes anonymous information about what features of the app are used.</translation>
+      <translation>די דאַטע כולל אַנאָנימע באַנוצערס אינפֿאָרמאַציע וועגן וואָס פֿעיִקייטן פון די אַפּ זענען געניצט.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1712"/>
       <source>App heartbeat</source>
-      <translation type="unfinished">App heartbeat</translation>
+      <translation>אַפּ העאַרטביט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1730"/>
       <source>A small heartbeat request is sent periodically while QOwnNotes is running. Make a developer happy by letting him know that someone is using QOwnNotes.</source>
-      <translation type="unfinished">A small heartbeat request is sent periodically while QOwnNotes is running. Make a developer happy by letting him know that someone is using QOwnNotes.</translation>
+      <translation>א קליין העאַרטביט בעטן איז געשיקט פּיריאַדיקלי בשעת QOwnNotes איז פליסנדיק. מאַכן אַ דעוועלאָפּער צופרידן דורך לאָזן אים וויסן אַז עמעצער איז ניצן QOwnNotes.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2464"/>
       <source>Italian</source>
-      <translation type="unfinished">Italian</translation>
+      <translation>איטאַליעניש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="264"/>
       <source>Scripting</source>
-      <translation type="unfinished">Scripting</translation>
+      <translation>סקריפּטינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3294"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3305"/>
       <source>Your scripts</source>
-      <translation type="unfinished">Your scripts</translation>
+      <translation>דיין סקריפּס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3378"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3389"/>
       <source>&amp;Remove script</source>
       <translation type="unfinished">&amp;Remove script</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3657"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3668"/>
       <source>Click here to select your QML script</source>
-      <translation type="unfinished">Click here to select your QML script</translation>
+      <translation>דריקט דאָ צו סעלעקטירן דיין קמל שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="92"/>
       <source>Find setting</source>
-      <translation type="unfinished">Find setting</translation>
+      <translation>געפֿינען באַשטעטיקן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="179"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>אויסלייג</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="191"/>
       <source>Editor</source>
-      <translation type="unfinished">Editor</translation>
+      <translation>עדיטאָר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="202"/>
       <source>Editor fonts &amp; colors</source>
-      <translation type="unfinished">Editor fonts &amp; colors</translation>
+      <translation>עדיטאָר &amp;פאַנץ פארבן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="215"/>
       <source>Panels</source>
-      <translation type="unfinished">Panels</translation>
+      <translation>פּאַנעלס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="239"/>
       <source>Toolbars</source>
-      <translation type="unfinished">Toolbars</translation>
+      <translation>מכשירים</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="299"/>
       <source>Portable mode</source>
-      <translation type="unfinished">Portable mode</translation>
+      <translation>פּאָרטאַטיוו מאָדע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="311"/>
       <source>Git versioning</source>
-      <translation type="unfinished">Git versioning</translation>
+      <translation>גיט ווערסיע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="323"/>
       <source>Local trash</source>
-      <translation type="unfinished">Local trash</translation>
+      <translation>לאקאלע אָפּפאַל</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="347"/>
       <source>Debug options</source>
-      <translation type="unfinished">Debug options</translation>
+      <translation>דעבוג אָפּציעס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="750"/>
       <source>Path where your notes are stored locally</source>
-      <translation type="unfinished">Path where your notes are stored locally</translation>
+      <translation>דרך וווּ דיין הערות זענען סטאָרד לאָוקאַלי</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="797"/>
       <source>"Notes" path on your server</source>
       <extracomment>"Notes" should not be translated</extracomment>
-      <translation type="unfinished">"Notes" path on your server</translation>
+      <translation>"נאָטעס" דרך אויף דיין סערווירער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="593"/>
       <source>&amp;Use as ownCloud path</source>
-      <translation type="unfinished">&amp;Use as ownCloud path</translation>
+      <translation>&amp;ניצן ווי אָוונעקלאָוד דרך</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="632"/>
       <source>Please select your note folder on your ownCloud server:</source>
-      <translation type="unfinished">Please select your note folder on your ownCloud server:</translation>
+      <translation>ביטע סעלעקטירן דיין נאָטיץ טעקע אויף דיין OwnCloud סערווער:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="652"/>
       <source>Path on your ownCloud server:</source>
-      <translation type="unfinished">Path on your ownCloud server:</translation>
+      <translation>דרך אויף דיין OwnCloud סערווער:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="773"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3468"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3479"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>נאָמען:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="699"/>
       <source>Note folder path:</source>
-      <translation type="unfinished">Note folder path:</translation>
+      <translation>באַמערקונג טעקע דרך:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="706"/>
       <source>You need to have git installed to make this work!</source>
-      <translation type="unfinished">You need to have git installed to make this work!</translation>
+      <translation>איר דאַרפֿן צו האָבן אינסטאַלירן גיט צו מאַכן דעם אַרבעט!</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="709"/>
       <source>Use git to keep a local history of your notes</source>
-      <translation type="unfinished">Use git to keep a local history of your notes</translation>
+      <translation>ניצן גיט צו האַלטן אַ היגע געשיכטע פון דיין הערות</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="839"/>
       <source>ownCloud support</source>
-      <translation type="unfinished">ownCloud support</translation>
+      <translation>ownCloud שטיצן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="845"/>
       <source>Enable ownCloud support</source>
-      <translation type="unfinished">Enable ownCloud support</translation>
+      <translation>געבן שטיצן ownCloud</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="876"/>
       <source>Please install the latest version of &lt;a href="https://github.com/pbek/qownnotesapi"&gt;&lt;span style=" font-weight:600;"&gt;QOwnNotesAPI&lt;/span&gt;&lt;/a&gt; (at least version QOWNNOTESAPI_MIN_VERSION) on your ownCloud server if you want QOwnNotes to be able to access note versions and trashed notes.</source>
-      <translation type="unfinished">Please install the latest version of &lt;a href="https://github.com/pbek/qownnotesapi"&gt;&lt;span style=" font-weight:600;"&gt;QOwnNotesAPI&lt;/span&gt;&lt;/a&gt; (at least version QOWNNOTESAPI_MIN_VERSION) on your ownCloud server if you want QOwnNotes to be able to access note versions and trashed notes.</translation>
+      <translation>Please install the latest version of &lt;a href="https://github.com/pbek/qownnotesapi"&gt;&lt;span style=" font-weight:600;"&gt;QOwnNotesAPI&lt;/span&gt;&lt;/a&gt; (at least version QOWNNOTESAPI_MIN_VERSION) on your ownCloud server if you want QOwnNotes to be able to access note versions and trashed notes.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="902"/>
@@ -5594,111 +5612,111 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1021"/>
       <source>Select a connection to edit</source>
-      <translation type="unfinished">Select a connection to edit</translation>
+      <translation>סעלעקטירן אַ פֿאַרבינדונג צו רעדאַגירן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1028"/>
       <location filename="../dialogs/settingsdialog.ui" line="1031"/>
       <source>Add connection</source>
-      <translation type="unfinished">Add connection</translation>
+      <translation>לייג קשר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1042"/>
       <location filename="../dialogs/settingsdialog.ui" line="1045"/>
       <source>Remove connection</source>
-      <translation type="unfinished">Remove connection</translation>
+      <translation>אַראָפּנעמען קשר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1126"/>
       <location filename="../dialogs/settingsdialog.ui" line="1897"/>
       <source>Username:</source>
-      <translation type="unfinished">Username:</translation>
+      <translation>נאמען:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1151"/>
       <source>Your ownCloud username</source>
-      <translation type="unfinished">Your ownCloud username</translation>
+      <translation>דיין אייגענע קלאָוד נאמען</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1161"/>
       <location filename="../dialogs/settingsdialog.ui" line="1932"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>שפּריכוואָרט:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1189"/>
       <source>Your ownCloud password</source>
-      <translation type="unfinished">Your ownCloud password</translation>
+      <translation>דיין אָוועסקלאָוד פּאַראָל</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1217"/>
       <source>&amp;Connect to ownCloud server</source>
-      <translation type="unfinished">&amp;Connect to ownCloud server</translation>
+      <translation>&amp;פאַרבינדן צו OwnCloud סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1237"/>
       <source>Connection status</source>
-      <translation type="unfinished">Connection status</translation>
+      <translation>קאַנעקשאַן סטאַטוס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1059"/>
       <source>Connection name:</source>
-      <translation type="unfinished">Connection name:</translation>
+      <translation>פֿאַרבינדונג נאָמען:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="723"/>
       <source>Be aware that the ownCloud notes app doesn't support subfolders!</source>
-      <translation type="unfinished">Be aware that the ownCloud notes app doesn't support subfolders!</translation>
+      <translation>זיין וויסנד אַז די אָוועסקלאָוד הערות אַפּ טוט נישט שטיצן סובפאָלדערס!</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="726"/>
       <source>Use note subfolders</source>
-      <translation type="unfinished">Use note subfolders</translation>
+      <translation>ניצן טאָן סובפאָלדערס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1392"/>
       <source>Enable QOwnNotesAPI app</source>
-      <translation type="unfinished">Enable QOwnNotesAPI app</translation>
+      <translation>Enable QOwnNotesAPI אַפּ</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1782"/>
       <source>Todo settings</source>
-      <translation type="unfinished">Todo settings</translation>
+      <translation>טאָדאָ סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1788"/>
       <source>Enable todo calendar support</source>
-      <translation type="unfinished">Enable todo calendar support</translation>
+      <translation>געבן טאָדאָ קאַלענדאַר שטיצן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1973"/>
       <source>Which cloud connection do you want to use?</source>
-      <translation type="unfinished">Which cloud connection do you want to use?</translation>
+      <translation>וואָס וואָלקן פֿאַרבינדונג טאָן איר ווילן צו נוצן?</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1985"/>
       <source>Select the calendars you want to use for the Todo list</source>
-      <translation type="unfinished">Select the calendars you want to use for the Todo list</translation>
+      <translation>סעלעקט די קאַלענדאַרס איר ווילן צו נוצן פֿאַר די Todo רשימה</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2060"/>
       <source>Todo list settings</source>
-      <translation type="unfinished">Todo list settings</translation>
+      <translation>טאָדאָ רשימה סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2066"/>
       <source>Saving an item also closes the Todo list</source>
-      <translation type="unfinished">Saving an item also closes the Todo list</translation>
+      <translation>שפּאָרן אַ נומער אויך קלאָוזיז די טאָדאָ רשימה</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2178"/>
       <source>Indonesian</source>
-      <translation type="unfinished">Indonesian</translation>
+      <translation>אינדאנעזיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2200"/>
       <source>Bengali</source>
-      <translation type="unfinished">Bengali</translation>
+      <translation>בענגאַליש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2211"/>
@@ -5708,12 +5726,12 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2222"/>
       <source>Bulgarian</source>
-      <translation type="unfinished">Bulgarian</translation>
+      <translation>בולגאַריש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2233"/>
       <source>Catalan</source>
-      <translation type="unfinished">Catalan</translation>
+      <translation>קאַטאַלאַניש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2244"/>
@@ -5723,17 +5741,17 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2266"/>
       <source>Danish</source>
-      <translation type="unfinished">Danish</translation>
+      <translation>דאַניש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2288"/>
       <source>Basque</source>
-      <translation type="unfinished">Basque</translation>
+      <translation>באַסק</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2321"/>
       <source>Estonian</source>
-      <translation type="unfinished">Estonian</translation>
+      <translation>עסטיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2332"/>
@@ -5758,7 +5776,7 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2387"/>
       <source>Greek</source>
-      <translation type="unfinished">Greek</translation>
+      <translation>גריכיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2398"/>
@@ -5768,7 +5786,7 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2409"/>
       <source>Hebrew</source>
-      <translation type="unfinished">Hebrew</translation>
+      <translation>העברעאיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2420"/>
@@ -5843,7 +5861,7 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2695"/>
       <source>Albanian</source>
-      <translation type="unfinished">Albanian</translation>
+      <translation>אַלבאַניש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2728"/>
@@ -5858,7 +5876,7 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2750"/>
       <source>Swedish</source>
-      <translation type="unfinished">Swedish</translation>
+      <translation>שוועדיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2761"/>
@@ -5868,774 +5886,784 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2794"/>
       <source>Turkish</source>
-      <translation type="unfinished">Turkish</translation>
+      <translation>טערקיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2827"/>
       <source>Urdu</source>
-      <translation type="unfinished">Urdu</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2849"/>
-      <source>Chinese Simplified</source>
-      <translation type="unfinished">Chinese Simplified</translation>
+      <translation>אורדו</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2860"/>
+      <source>Chinese Simplified</source>
+      <translation>סימפּליפיעד כינעזיש</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2871"/>
       <source>Chinese Traditional</source>
-      <translation type="unfinished">Chinese Traditional</translation>
+      <translation>כינעזיש טראַדיציאָנעל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2940"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2951"/>
       <source>Enable dark mode application icon and tray icon</source>
-      <translation type="unfinished">Enable dark mode application icon and tray icon</translation>
+      <translation>געבן די אַפּלאַקיישאַן בילדל און טאַץ ייקאַן פינצטער מאָדע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2947"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2958"/>
       <source>You might also want to choose another editor color schema in the editor settings in dark mode.</source>
-      <translation type="unfinished">You might also want to choose another editor color schema in the editor settings in dark mode.</translation>
+      <translation>איר קענט אויך ווילן צו קלייַבן אן אנדער רעדאַקטאָר קאָליר סכעמע אין די רעדאַקטאָר סעטטינגס אין פינצטער מאָדע.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3050"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3061"/>
       <source>Enable dark mode icon theme</source>
-      <translation type="unfinished">Enable dark mode icon theme</translation>
+      <translation>געבן טונקל בילדל ייקאַן טעמע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2980"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2991"/>
       <source>System tray</source>
-      <translation type="unfinished">System tray</translation>
+      <translation>סיסטעם טאַץ</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2989"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3000"/>
       <source>Show system tray icon</source>
-      <translation type="unfinished">Show system tray icon</translation>
+      <translation>ווייַזן סיסטעם טאַץ ייקאַן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2999"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3010"/>
       <source>Start application hidden</source>
-      <translation type="unfinished">Start application hidden</translation>
+      <translation>אָנהייב אַפּלאַקיישאַן איז פאַרבאָרגן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3009"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3020"/>
       <source>Interface style</source>
-      <translation type="unfinished">Interface style</translation>
+      <translation>צובינד סטיל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3040"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3051"/>
       <source>Enforce system icon theme</source>
-      <translation type="unfinished">Enforce system icon theme</translation>
+      <translation>דורכפירן סיסטעם ייקאַן טעמע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3146"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3157"/>
       <source>Override interface font size</source>
-      <translation type="unfinished">Override interface font size</translation>
+      <translation>אָוועררידע צובינד שריפֿט גרייס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3155"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3166"/>
       <source>Interface font size:</source>
-      <translation type="unfinished">Interface font size:</translation>
+      <translation>צובינד שריפֿט גרייס:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3367"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3378"/>
       <source>&amp;Add script…</source>
-      <translation type="unfinished">&amp;Add script…</translation>
+      <translation>לייג שריפט…</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4013"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4024"/>
       <source>Use legacy way to link to notes, images and attachments</source>
-      <translation type="unfinished">Use legacy way to link to notes, images and attachments</translation>
+      <translation>ניצן לעגאַט וועג צו לינק צו הערות, בילדער און אַטאַטשמאַנץ</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3858"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3869"/>
       <source>When opening notes the cursor position inside the note will now be restored to the position when the note was last visited in the current session</source>
-      <translation type="unfinished">When opening notes the cursor position inside the note will now be restored to the position when the note was last visited in the current session</translation>
+      <translation>ווען עפן הערות, די לויפֿער פּאָזיציע ין דער צעטל וועט איצט זיין ריסטאָרד צו דער שטעלע ווען די טאָן איז לעצטנס באזוכט אין די קראַנט סעסיע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3828"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3839"/>
       <source>By default the headline will generated automatically</source>
-      <translation type="unfinished">By default the headline will generated automatically</translation>
+      <translation>דורך פעליקייַט, די כעדליין וועט אויטאָמאַטיש דזשענערייטאַד</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3831"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3842"/>
       <source>The shortcut to create a new note asks for a headline</source>
-      <translation type="unfinished">The shortcut to create a new note asks for a headline</translation>
+      <translation>דער דורכוועג צו שאַפֿן אַ נייַע באַמערקונג פרעגט פֿאַר אַ קעפּל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3897"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3908"/>
       <source>Automatically close the note folder database to prevent problems with sync tools</source>
-      <translation type="unfinished">Automatically close the note folder database to prevent problems with sync tools</translation>
+      <translation>נאָענט אויטאָמאַטיש פאַרמאַכן די באַמערקונג טעקע דייטאַבייס צו פאַרמייַדן פראבלעמען מיט סינק מכשירים</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3900"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3911"/>
       <source>Automatically close the note folder database</source>
-      <translation type="unfinished">Automatically close the note folder database</translation>
+      <translation>אָטאַמאַטיק נאָענט די דאַטאַבייס פון די באַמערקונג טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4061"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4072"/>
       <source>Search engine</source>
-      <translation type="unfinished">Search engine</translation>
+      <translation>זוכן מאָטאָר</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4083"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4094"/>
       <source>Message boxes</source>
-      <translation type="unfinished">Message boxes</translation>
+      <translation>אָנזאָג באָקסעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4089"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3955"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4100"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3959"/>
       <source>Reset message boxes</source>
-      <translation type="unfinished">Reset message boxes</translation>
+      <translation>באַשטעטיק אָנזאָג באָקסעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4282"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4021"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4045"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4293"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4025"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4049"/>
       <source>Import settings</source>
-      <translation type="unfinished">Import settings</translation>
+      <translation>אַרייַנפיר סעטטינגס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4289"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3987"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4300"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3991"/>
       <source>Export settings</source>
-      <translation type="unfinished">Export settings</translation>
+      <translation>אַרויספירן סעטטינגס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4427"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4438"/>
       <source>Open issue assistant</source>
-      <translation type="unfinished">Open issue assistant</translation>
+      <translation>עפֿן אַרויסגעבן אַסיסטאַנט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4394"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4405"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The best way to post issues is to use the issue assistant by pressing the &lt;span style=" font-weight:600;"&gt;Open issue assistant&lt;/span&gt; button on the bottom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The best way to post issues is to use the issue assistant by pressing the &lt;span style=" font-weight:600;"&gt;Open issue assistant&lt;/span&gt; button on the bottom.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; דער בעסטער וועג צו פּאָסטן ישוז איז צו נוצן די אַרויסגעבן אַסיסטאַנט דורך דרינגלעך די &lt;span style = "font-weight: 600;"&gt; עפֿן אַרויסגעבן אַסיסטאַנט &lt;/ span&gt; קנעפּל אויף די דנאָ. &lt;/ p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4659"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4670"/>
       <source>Ignore code font size to allow zooming</source>
-      <translation type="unfinished">Ignore code font size to allow zooming</translation>
+      <translation>איגנאָרירן קאָד שריפֿט גרייס צו לאָזן זומינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4653"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4664"/>
       <source>Rendering</source>
-      <translation type="unfinished">Rendering</translation>
+      <translation>רענדערינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4673"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4684"/>
       <source>Enable underline rendering</source>
-      <translation type="unfinished">Enable underline rendering</translation>
+      <translation>געבן אַנדערלייינג רענדערינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5083"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5094"/>
       <source>Fully highlight blockquotes</source>
-      <translation type="unfinished">Fully highlight blockquotes</translation>
+      <translation>גאָר הויכפּונקט בלאָקקוואָטעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5153"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5164"/>
       <source>Note-edit cursor width:</source>
-      <translation type="unfinished">Note-edit cursor width:</translation>
+      <translation>באַמערקונג-רעדאַגירן לויפֿער ברייט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5102"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5113"/>
       <source>Enable Vim mode (some QOwnNotes shortcuts will not work)</source>
-      <translation type="unfinished">Enable Vim mode (some QOwnNotes shortcuts will not work)</translation>
+      <translation>געבן Vim מאָדע (עטלעכע קוויננאָטעס דורכוועג וועט נישט אַרבעטן)</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="642"/>
       <source>Cloud connection:</source>
-      <translation type="unfinished">Cloud connection:</translation>
+      <translation>וואָלקן קשר:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="941"/>
       <source>Opens your ownCloud server App Password page in your webbrowser to create a new app password for the application</source>
-      <translation type="unfinished">Opens your ownCloud server App Password page in your webbrowser to create a new app password for the application</translation>
+      <translation>אָפּענס דיין אָוועסקלאָוד סערווירער אַפּ שפּריכוואָרט בלאַט אין דיין וועב בראָווסער צו שאַפֿן אַ נייַ אַפּ פּאַראָל פֿאַר די אַפּלאַקיישאַן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="944"/>
       <source>Open your ownCloud server App Password page</source>
-      <translation type="unfinished">Open your ownCloud server App Password page</translation>
+      <translation>עפֿן דיין OwnCloud סערווירער אַפּ שפּריכוואָרט בלאַט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2541"/>
       <source>Māori</source>
-      <translation type="unfinished">Māori</translation>
+      <translation>Māori</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2189"/>
       <source>Malay</source>
-      <translation type="unfinished">Malay</translation>
+      <translation>Malay</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2497"/>
       <source>Khmer</source>
-      <translation type="unfinished">Khmer</translation>
+      <translation>כמער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2706"/>
       <source>Shona</source>
-      <translation type="unfinished">Shona</translation>
+      <translation>שאָנאַ</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2717"/>
       <source>Sinhala</source>
-      <translation type="unfinished">Sinhala</translation>
+      <translation>סינהאַלאַ</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2772"/>
       <source>Thai</source>
-      <translation type="unfinished">Thai</translation>
+      <translation>טײַלענדיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2783"/>
       <source>Vietnamese</source>
-      <translation type="unfinished">Vietnamese</translation>
+      <translation>וויעטנאַמעזיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2805"/>
       <source>Xhosa</source>
-      <translation type="unfinished">Xhosa</translation>
+      <translation>קסהאָסאַ</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2838"/>
+      <source>Yiddish</source>
+      <translation type="unfinished">Yiddish</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="2849"/>
       <source>Zulu</source>
-      <translation type="unfinished">Zulu</translation>
+      <translation>זולו</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2894"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2905"/>
       <source>Search for language</source>
-      <translation type="unfinished">Search for language</translation>
+      <translation>זוכן פֿאַר שפּראַך</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3257"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3268"/>
       <source>Action name</source>
-      <translation type="unfinished">Action name</translation>
+      <translation>קאַמף נאָמען</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3262"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3273"/>
       <source>Local shortcut</source>
-      <translation type="unfinished">Local shortcut</translation>
+      <translation>לאקאלע דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3267"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3278"/>
       <source>Global shortcut</source>
-      <translation type="unfinished">Global shortcut</translation>
+      <translation>גלאבאלע דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3868"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3879"/>
       <source>Disable this if you want to launch the application without opening a note</source>
-      <translation type="unfinished">Disable this if you want to launch the application without opening a note</translation>
+      <translation>דיסאַבלע דעם אויב איר ווילן צו קאַטער די אַפּלאַקיישאַן אָן עפן אַ צעטל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3871"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3882"/>
       <source>Open last accessed note at application startup</source>
-      <translation type="unfinished">Open last accessed note at application startup</translation>
+      <translation>עפֿן לעצטע אַקסעסט טאָן ביי אַפּלאַקיישאַן סטאַרטאַפּ</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4424"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4435"/>
       <source>This is the best way to open an issue</source>
-      <translation type="unfinished">This is the best way to open an issue</translation>
+      <translation>דאָס איז דער בעסטער וועג צו עפֿענען אַן אַרויסגעבן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4438"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4449"/>
       <source>Please use this in the issue tracker</source>
-      <translation type="unfinished">Please use this in the issue tracker</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4441"/>
-      <source>&amp;Copy debug information to clipboard</source>
-      <translation type="unfinished">&amp;Copy debug information to clipboard</translation>
+      <translation>ביטע נוצן דעם אין דעם אַרויסגעבן טראַקער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="4452"/>
+      <source>&amp;Copy debug information to clipboard</source>
+      <translation>&amp;נאָכמאַכן דיבאַג אינפֿאָרמאַציע צו קליפּבאָרד</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="4463"/>
       <source>Please don't use this in the issue tracker</source>
-      <translation type="unfinished">Please don't use this in the issue tracker</translation>
+      <translation>ביטע טאָן ניט נוצן דעם אין די אַרויסגעבן טראַקער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4680"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4691"/>
       <source>Use editor highlighting styles also for the preview</source>
-      <translation type="unfinished">Use editor highlighting styles also for the preview</translation>
+      <translation>ניצן רעדאַקטאָר כיילייטינג סטיילז אויך פֿאַר די פאָרויסיקע ווייַזונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4703"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4714"/>
       <source>Exporting</source>
-      <translation type="unfinished">Exporting</translation>
+      <translation>עקספּאָרטינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4709"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4720"/>
       <source>Use internal export styling for the PDF export and printing of the preview</source>
-      <translation type="unfinished">Use internal export styling for the PDF export and printing of the preview</translation>
+      <translation>ניצן ינערלעך אַרויספירן סטילינג פֿאַר די PDF אַרויספירן און דרוקן פון פאָרויסיקע ווייַזונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5017"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5028"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to take a look at all available &lt;a href="http://docs.qownnotes.org/en/latest/editor/time-formats/"&gt;time formats&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You might want to take a look at all available &lt;a href="http://docs.qownnotes.org/en/latest/editor/time-formats/"&gt;time formats&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt; איר זאל וועלן צו קוקן אין אַלע פאַראַנען &lt;a href="http://docs.qownnotes.org/en/latest/editor/time-formats/"&gt; צייט פאָרמאַץ &lt;/a&gt;. &lt;/ p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5187"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5198"/>
       <source>Disable cursor blinking</source>
-      <translation type="unfinished">Disable cursor blinking</translation>
+      <translation>דיסייבאַל לויפֿער בלינקינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5194"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5205"/>
       <source>Automatically remove trailing spaces in the note text</source>
-      <translation type="unfinished">Automatically remove trailing spaces in the note text</translation>
+      <translation>אויטאָמאַטיש באַזייַטיקן טריילינג ספּייסאַז אין די באַמערקונג טעקסט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5204"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5215"/>
       <source>Tabs and Indents</source>
-      <translation type="unfinished">Tabs and Indents</translation>
+      <translation>טאַבס און ינדענץ</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5212"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5223"/>
       <source>Use tab character instead of spaces</source>
-      <translation type="unfinished">Use tab character instead of spaces</translation>
+      <translation>ניצן קוויטל כאַראַקטער אַנשטאָט פון ספּייסאַז</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5219"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5230"/>
       <source>Indent:</source>
-      <translation type="unfinished">Indent:</translation>
+      <translation>ינדענט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5599"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5608"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5610"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5619"/>
       <source>Regular expressions of note subfolders to ignore, separated by ";"</source>
-      <translation type="unfinished">Regular expressions of note subfolders to ignore, separated by ";"</translation>
+      <translation>רעגולער אויסדרוקן צעטל סאַבפאָולדערז צו איגנאָרירן, אפגעשיידט דורך ";"</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5602"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5613"/>
       <source>Ignored subfolders</source>
-      <translation type="unfinished">Ignored subfolders</translation>
+      <translation>איגנאָרירט סובפאָלדערס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5618"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5629"/>
       <source>Reset ignored subfolders</source>
-      <translation type="unfinished">Reset ignored subfolders</translation>
+      <translation>באַשטעטיק איגנאָרירט סובפאָלדערס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5654"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5665"/>
       <source>Restore open note tabs at application startup and when note folders are switched</source>
-      <translation type="unfinished">Restore open note tabs at application startup and when note folders are switched</translation>
+      <translation>ומקערן עפענען טאָן טאַבס ביי אַפּלאַקיישאַן סטאַרטאַפּ און ווען טאָן פאָלדערס זענען סוויטשט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5768"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5750"/>
+      <source>Hide 'Note count' with tags (increases performance)</source>
+      <translation type="unfinished">Hide 'Note count' with tags (increases performance)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="5786"/>
       <source>Show the number of matches in each note</source>
-      <translation type="unfinished">Show the number of matches in each note</translation>
+      <translation>ווייַזן די נומער פון שוועבעלעך אין יעדער צעטל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5430"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5441"/>
       <source>Note list panel</source>
-      <translation type="unfinished">Note list panel</translation>
+      <translation>באַמערקונג רשימה טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5436"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5447"/>
       <source>Show notes in the note list with preview</source>
-      <translation type="unfinished">Show notes in the note list with preview</translation>
+      <translation>ווייַזן הערות אין די טאָן רשימה מיט פאָרויסיקע ווייַזונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5509"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5520"/>
       <source>Instead of a note list use a note tree with all the subfolders (if they are turned on for the note folder)</source>
-      <translation type="unfinished">Instead of a note list use a note tree with all the subfolders (if they are turned on for the note folder)</translation>
+      <translation>אַנשטאָט אַ באַמערקונג רשימה, נוצן אַ צעטל בוים מיט אַלע די סובפאָלדערס (אויב זיי זענען פארקערט אויף פֿאַר די טאָן טעקע)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5778"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5796"/>
       <source>Note folder panel</source>
-      <translation type="unfinished">Note folder panel</translation>
+      <translation>באַמערקונג טעקע טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5784"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5802"/>
       <source>Show note folders as buttons instead of in a select box</source>
-      <translation type="unfinished">Show note folders as buttons instead of in a select box</translation>
+      <translation>ווייַזן נאָטיץ פאָלדערס ווי קנעפּלעך אַנשטאָט פון אין אַ סעלעקט קעסטל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5926"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5944"/>
       <source>Panels can be turned on and off in the &lt;i&gt;Window / Panels&lt;/i&gt; main menu and you can also configure different &lt;i&gt;Workspaces&lt;/i&gt; for different panel configurations.</source>
-      <translation type="unfinished">Panels can be turned on and off in the &lt;i&gt;Window / Panels&lt;/i&gt; main menu and you can also configure different &lt;i&gt;Workspaces&lt;/i&gt; for different panel configurations.</translation>
+      <translation>פּאַנעלס קענען זיין פארקערט אויף און אַוועק אין די &lt;i&gt; ווינדאָו / פּאַנעלס &lt;/ i&gt; הויפּט מעניו, און איר קענט אויך קאַנפיגיער פאַרשידענע &lt;i&gt; וואָרקספּאַסעס &lt;/i&gt; פֿאַר פאַרשידענע טאַפליע קאַנפיגיעריישאַנז.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6003"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6021"/>
       <source>Bookmarks</source>
-      <translation type="unfinished">Bookmarks</translation>
+      <translation>בוקמאַרקס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6009"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6027"/>
       <source>Notes with this tag will be used for fetching bookmarks</source>
-      <translation type="unfinished">Notes with this tag will be used for fetching bookmarks</translation>
+      <translation>נאָטעס מיט דעם קוויטל וועט זיין געוויינט פֿאַר פעטשינג לייענ-צייכן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6012"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6030"/>
       <source>Tag name for bookmarks notes</source>
-      <translation type="unfinished">Tag name for bookmarks notes</translation>
+      <translation>קוויטל נאָמען פֿאַר בוקמאַרקס הערות</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6019"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6037"/>
       <source>Bookmarks tag:</source>
-      <translation type="unfinished">Bookmarks tag:</translation>
+      <translation>לייענ - צייכן:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6026"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6044"/>
       <source>By default the browser extension will show all links of the current note. You can also make it show special bookmark links of notes with a certain tag. For more information about the bookmark link syntax click &lt;a href="%1"&gt;here&lt;/a&gt;.</source>
-      <translation type="unfinished">By default the browser extension will show all links of the current note. You can also make it show special bookmark links of notes with a certain tag. For more information about the bookmark link syntax click &lt;a href="%1"&gt;here&lt;/a&gt;.</translation>
+      <translation>דורך פעליקייַט, דער בלעטערער פאַרלענגערונג וועט ווייַזן אַלע לינקס פון דעם קראַנט טאָן. איר קענט אויך ווייַזן ספּעציעלע לייענ-צייכן לינקס פון הערות מיט אַ זיכער קוויטל. פאר מער אינפֿאָרמאַציע וועגן דער סינטאַקס פון דער לייענ-צייכן גיט &lt;a href="%1"&gt; דאָ &lt;/a&gt;.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6039"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6057"/>
       <source>Bookmarks note name:</source>
-      <translation type="unfinished">Bookmarks note name:</translation>
+      <translation>נאָמען פון בוקמאַרקס טאָן:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6046"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6064"/>
       <source>This note will be used for adding new bookmarks from the browser extension</source>
-      <translation type="unfinished">This note will be used for adding new bookmarks from the browser extension</translation>
+      <translation>דער באַמערקונג וועט זיין געוויינט פֿאַר אַדינג נייַ בוקמאַרקס פון דעם בלעטערער געשפּרייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6049"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6067"/>
       <source>Note name for adding new bookmarks</source>
-      <translation type="unfinished">Note name for adding new bookmarks</translation>
+      <translation>באַמערקונג נאָמען פֿאַר אַדינג נייַ בוקמאַרקס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6059"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6077"/>
       <source>Web socket server</source>
-      <translation type="unfinished">Web socket server</translation>
+      <translation>וועב כאָלעל סערווער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6065"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6083"/>
       <source>Socket server port:</source>
-      <translation type="unfinished">Socket server port:</translation>
+      <translation>כאָלעל סערווער פּאָרט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6099"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6117"/>
       <source>Show security token</source>
-      <translation type="unfinished">Show security token</translation>
+      <translation>ווייַזן זיכערהייט סימען</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6135"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6153"/>
       <source>Web socket server support</source>
-      <translation type="unfinished">Web socket server support</translation>
+      <translation>שטיצן פֿאַר וועב כאָלעל סערווער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6141"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6159"/>
       <source>Enable socket server</source>
-      <translation type="unfinished">Enable socket server</translation>
+      <translation>געבן די כאָלעל סערווער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="6116"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6134"/>
       <source>Install the &lt;a href="%1"&gt;Web Companion browser extension&lt;/a&gt; from the &lt;a href="%2"&gt;Chrome Web Store&lt;/a&gt; or &lt;a href="%3"&gt;Firefox Add-ons page&lt;/a&gt; to use QOwnNotes as web clipper.</source>
-      <translation type="unfinished">Install the &lt;a href="%1"&gt;Web Companion browser extension&lt;/a&gt; from the &lt;a href="%2"&gt;Chrome Web Store&lt;/a&gt; or &lt;a href="%3"&gt;Firefox Add-ons page&lt;/a&gt; to use QOwnNotes as web clipper.</translation>
+      <translation>ינסטאַלירן די &lt;a href="%1"&gt; וועב קאַמפּאַנשאַן בלעטערער געשפּרייט &lt;/a&gt; פון די &lt;a href="%2"&gt; קראָום וועב סטאָר &lt;/a&gt; אָדער &lt;a href="%3"&gt; Firefox לייג- אָנס בלאַט &lt;/a&gt; צו נוצן QOwnNotes ווי וועב קליפּער.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="807"/>
       <source>Allow the note file name to be different from the headline.&lt;br&gt;Beware that ownCloud Notes needs the file name to be the same as the headline!</source>
-      <translation type="unfinished">Allow the note file name to be different from the headline.&lt;br&gt;Beware that ownCloud Notes needs the file name to be the same as the headline!</translation>
+      <translation>לאָזן די נאָמען פון די באַמערקונג טעקע זיין אַנדערש ווי די קעפל. &lt;br&gt; היט אייך אַז OwnCloud נאָטעס דאַרפֿן די טעקע נאָמען צו זיין די זעלבע ווי די כעדינג!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5638"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5649"/>
       <source>Note edit panel</source>
-      <translation type="unfinished">Note edit panel</translation>
+      <translation>באַמערקונג רעדאַגירן טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5644"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5655"/>
       <source>If this is disabled you are able to create more complex panel layouts, but all panels will be resized if the window is resized</source>
-      <translation type="unfinished">If this is disabled you are able to create more complex panel layouts, but all panels will be resized if the window is resized</translation>
+      <translation>אויב דאָס איז פאַרקריפּלט, איר קענען שאַפֿן מער קאָמפּליצירט טאַפליע לייאַוץ, אָבער אַלע פּאַנאַלז וועט זיין ענייבאַלד אויב די גרייס פון דעם פֿענצטער איז פארענדערט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5647"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5658"/>
       <source>Use the note edit panel as fixed central widget to be resized if the window or other panels are resized</source>
-      <translation type="unfinished">Use the note edit panel as fixed central widget to be resized if the window or other panels are resized</translation>
+      <translation>ניצן די קוויטל רעדאַגירן טאַפליע ווי פאַרפעסטיקט הויפט ווידזשיט צו זיין גרייס אויב די פֿענצטער אָדער אנדערע פּאַנאַלז זענען רעסיזעד</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5755"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5773"/>
       <source>Note search panel</source>
-      <translation type="unfinished">Note search panel</translation>
+      <translation>באַמערקונג זוכן טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5761"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5779"/>
       <source>Disable auto-completion of previous searches</source>
-      <translation type="unfinished">Disable auto-completion of previous searches</translation>
+      <translation>דיסאַבלע אַוטאָ קאַמפּלישאַן פון פרייַערדיק אָנפֿרעגן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5664"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5675"/>
       <source>Navigation panel</source>
-      <translation type="unfinished">Navigation panel</translation>
+      <translation>נאַוויגאַציע טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5670"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5681"/>
       <source>Hide navigation item search bar</source>
-      <translation type="unfinished">Hide navigation item search bar</translation>
+      <translation>באַהאַלטן זוך באַר אויף נאַוויגאַציע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5798"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5816"/>
       <source>Local trash settings</source>
-      <translation type="unfinished">Local trash settings</translation>
+      <translation>לאקאלע אָפּפאַל סעטטינגס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5832"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5850"/>
       <source>Remove trashed notes after:</source>
-      <translation type="unfinished">Remove trashed notes after:</translation>
+      <translation>נעם אָפּפאַל הערות נאָך:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5839"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5857"/>
       <source> days</source>
       <extracomment>seconds</extracomment>
-      <translation type="unfinished"> days</translation>
+      <translation>טעג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5858"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5876"/>
       <source>Automatically remove trashed notes after a certain time</source>
-      <translation type="unfinished">Automatically remove trashed notes after a certain time</translation>
+      <translation>אויטאָמאַטיש אַראָפּנעמען טרוש נאָטעס נאָך אַ זיכער צייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5884"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5902"/>
       <source>Local trash support</source>
-      <translation type="unfinished">Local trash support</translation>
+      <translation>לאקאלע אָפּפאַל שטיצן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5890"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5908"/>
       <source>Enable local trash</source>
-      <translation type="unfinished">Enable local trash</translation>
+      <translation>געבן היגע מיסט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5907"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5925"/>
       <source>Layout selector</source>
-      <translation type="unfinished">Layout selector</translation>
+      <translation>אויסלייג סעלעקטאָר</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5913"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5931"/>
       <source>You can set a new layout here. Keep in mind that you always can modify the position of the panels with the &lt;i&gt;Unlock panels&lt;/i&gt; button.</source>
-      <translation type="unfinished">You can set a new layout here. Keep in mind that you always can modify the position of the panels with the &lt;i&gt;Unlock panels&lt;/i&gt; button.</translation>
+      <translation>איר קענען שטעלן אַ נייַע אויסלייג דאָ. געדענקט אַז איר קענט שטענדיק מאָדיפיצירן די שטעלע פון די פּאַנאַלז מיט די &lt;i&gt; ופשליסן פּאַנאַלז &lt;/ i&gt; קנעפּל.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5129"/>
-      <location filename="../dialogs/settingsdialog.ui" line="6085"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5140"/>
+      <location filename="../dialogs/settingsdialog.ui" line="6103"/>
       <source>Reset the cursor width</source>
-      <translation type="unfinished">Reset the cursor width</translation>
+      <translation>באַשטעטיק די לויפֿער ברייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5304"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5315"/>
       <source>External git log command to show the git versions of a note</source>
-      <translation type="unfinished">External git log command to show the git versions of a note</translation>
+      <translation>פונדרויסנדיק גיט באַפֿעלן צו ווייַזן גיט ווערסיעס פון אַ צעטל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5310"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5321"/>
       <source>Enter a command to be used to show a git log (like for example "gitk")</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
-      <translation type="unfinished">Enter a command to be used to show a git log (like for example "gitk")</translation>
+      <translation>אַרייַן אַ באַפֿעל צו ווערן גענוצט צו ווייַזן אַ גיט לאָג (ווי למשל "גיטק")</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5330"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5341"/>
       <source>If you use this setting you will get a new menu entry to show the git versions if you right-click a note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
-      <translation type="unfinished">If you use this setting you will get a new menu entry to show the git versions if you right-click a note.</translation>
+      <translation>אויב איר נוצן דעם באַשטעטיקן, איר וועט באַקומען אַ נייַע מעניו פּאָזיציע צו ווייַזן די גיט ווערסיעס אויב איר רעכט גיט אויף אַ צעטל.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5450"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5461"/>
       <source>Show all notes of a tag including the notes of their children-tags</source>
-      <translation type="unfinished">Show all notes of a tag including the notes of their children-tags</translation>
+      <translation>ווייַזן אַלע הערות פון אַ קוויטל אַרייַנגערעכנט די הערות פון זייער קינדער טאַגס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5443"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5454"/>
       <source>Show all notes in a folder including their subfolders (only works if subfolders are turned on)</source>
-      <translation type="unfinished">Show all notes in a folder including their subfolders (only works if subfolders are turned on)</translation>
+      <translation>ווייַזן אַלע הערות אין אַ טעקע מיט זייער סובפאָלדערס (נאָר אַרבעט אויב סובפאָלדערס זענען אויסגעדרייט אויף)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5180"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5191"/>
       <source>Highlight the current line</source>
-      <translation type="unfinished">Highlight the current line</translation>
+      <translation>הויכפּונקט די קראַנט שורה</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5397"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5408"/>
       <source>Don't forget to enable git support for your note folders and to configure your name and email address for your git client, for example with these terminal commands:</source>
-      <translation type="unfinished">Don't forget to enable git support for your note folders and to configure your name and email address for your git client, for example with these terminal commands:</translation>
+      <translation>דו זאלסט נישט פאַרגעסן צו געבן גיט שטיצן פֿאַר דיין באַמערקונג פאָלדערס און צו קאַנפיגיער דיין נאָמען און אימעיל אַדרעס פֿאַר דיין גיט קליענט, למשל מיט די וואָקזאַל קאַמאַנדז:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5680"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5691"/>
       <source>Tags panel</source>
-      <translation type="unfinished">Tags panel</translation>
+      <translation>טאַגס טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5483"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5562"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5709"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5494"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5573"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5720"/>
       <source>Order</source>
-      <translation type="unfinished">Order</translation>
+      <translation>סדר</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5492"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5568"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5715"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5503"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5579"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5726"/>
       <source>Ascending</source>
-      <translation type="unfinished">Ascending</translation>
+      <translation>ארויף</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5499"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5575"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5722"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5510"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5586"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5733"/>
       <source>Descending</source>
-      <translation type="unfinished">Descending</translation>
+      <translation>אראפנידערן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5457"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5532"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5686"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5468"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5543"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5697"/>
       <source>Sort</source>
       <translation type="unfinished">Sort</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5173"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5184"/>
       <source>Only use editor width setting in distraction free mode</source>
-      <translation type="unfinished">Only use editor width setting in distraction free mode</translation>
+      <translation>נוצן בלויז עדיטינג פֿאַר עדיטאָר ברייט אין דיסטראַקטיאָן מאָדע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5463"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5538"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5692"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5474"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5549"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5703"/>
       <source>Alphabetical</source>
-      <translation type="unfinished">Alphabetical</translation>
+      <translation>אלפאבעט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5699"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5710"/>
       <source>By last change / use</source>
-      <translation type="unfinished">By last change / use</translation>
+      <translation>דורך לעצטע ענדערונג / נוצן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5732"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5743"/>
       <source>Hide 'Find or create tag' search</source>
-      <translation type="unfinished">Hide 'Find or create tag' search</translation>
+      <translation>באַהאַלטן זוך "געפֿינען אָדער שאַפֿן קוויטל"</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5519"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5530"/>
       <source>Note subfolders panel</source>
-      <translation type="unfinished">Note subfolders panel</translation>
+      <translation>באַמערקונג סובפאָלדערס טאַפליע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5525"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5536"/>
       <source>Show with full path</source>
-      <translation type="unfinished">Show with full path</translation>
+      <translation>ווייַזן מיט פול דרך</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5470"/>
-      <location filename="../dialogs/settingsdialog.ui" line="5545"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5481"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5556"/>
       <source>By last change</source>
-      <translation type="unfinished">By last change</translation>
+      <translation>דורך לעצטע ענדערונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5555"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5566"/>
       <source>Show root folder name</source>
-      <translation type="unfinished">Show root folder name</translation>
+      <translation>ווייַזן וואָרצל טעקע נאָמען</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5585"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5596"/>
       <source>Hide 'Find or create note subfolder' search</source>
-      <translation type="unfinished">Hide 'Find or create note subfolder' search</translation>
+      <translation>באַהאַלטן זוך "געפֿינען אָדער שאַפֿן באַמערקונג סובפאָלדער"</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5592"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5603"/>
       <source>Display note subfolders as full tree</source>
-      <translation type="unfinished">Display note subfolders as full tree</translation>
+      <translation>אַרויסווייַזן טאָן סובפאָלדערס ווי פול בוים</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2871"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2875"/>
       <source>Search script repository</source>
-      <translation type="unfinished">Search script repository</translation>
+      <translation>זוכן שריפט ריפּאַזאַטאָרי</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5320"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5331"/>
       <source>You optionally can use "%notePath%" for the path of the note.</source>
       <extracomment>Please don't translate "%notePath%"</extracomment>
-      <translation type="unfinished">You optionally can use "%notePath%" for the path of the note.</translation>
+      <translation>איר קענען אָפּטיאָנאַללי נוצן "% notePath%" פֿאַר דעם דרך פון דעם צעטל.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5343"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5354"/>
       <source>Git client</source>
-      <translation type="unfinished">Git client</translation>
+      <translation>גיט קליענט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5359"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5370"/>
       <source>Path to git executable:</source>
-      <translation type="unfinished">Path to git executable:</translation>
+      <translation>דורכפירן דרך צו גיט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5349"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5360"/>
       <source>Path to git client, leave empty for default</source>
-      <translation type="unfinished">Path to git client, leave empty for default</translation>
+      <translation>דרך צו גיט קליענט, לאָזן ליידיק פֿאַר פעליקייַט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5268"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5279"/>
       <source>Commit interval</source>
-      <translation type="unfinished">Commit interval</translation>
+      <translation>יבערגעבן ינטערוואַל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5274"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5285"/>
       <source>sec</source>
       <extracomment>seconds</extracomment>
       <translation type="unfinished">sec</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5294"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5305"/>
       <source>git commit interval time [sec]</source>
-      <translation type="unfinished">git commit interval time [sec]</translation>
+      <translation>גיט יבערגאַנג צייט צייט [סעק]</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="924"/>
       <source>Open your ownCloud server &amp;Apps page</source>
-      <translation type="unfinished">Open your ownCloud server &amp;Apps page</translation>
+      <translation>עפֿן דיין OwnCloud סערווירער &amp; אַפּפּס בלאַט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="227"/>
       <source>Preview</source>
-      <translation type="unfinished">Preview</translation>
+      <translation>פאָרויסיקע ווייַזונג</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="276"/>
       <source>Browser extension</source>
-      <translation type="unfinished">Browser extension</translation>
+      <translation>בלעטערער געשפּרייט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1804"/>
       <source>Which calendar backend do you want to use?</source>
-      <translation type="unfinished">Which calendar backend do you want to use?</translation>
+      <translation>וואָס קאַלענדאַר באַקענד איר ווילן צו נוצן?</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1837"/>
       <source>For most current ownCloud and Nextcloud installations</source>
-      <translation type="unfinished">For most current ownCloud and Nextcloud installations</translation>
+      <translation>וואָס קאַלענדאַר באַקענד איר ווילן צו נוצן?</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1817"/>
       <source>For older versions of ownCloud where the default setting doesn't work</source>
-      <translation type="unfinished">For older versions of ownCloud where the default setting doesn't work</translation>
+      <translation>פֿאַר עלטערע ווערסיעס פון אָוועסקלאָוד ווו די פעליקייַט באַשטעטיקן קען נישט אַרבעטן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1820"/>
       <source>Legacy ownCloud calendar</source>
-      <translation type="unfinished">Legacy ownCloud calendar</translation>
+      <translation>לעגאַט אָונקלאָוד קאַלענדאַר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1853"/>
       <source>CalDAV server settings</source>
-      <translation type="unfinished">CalDAV server settings</translation>
+      <translation>קאַלדאַוו סערווירער סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1862"/>
       <source>Calendar base url:</source>
-      <translation type="unfinished">Calendar base url:</translation>
+      <translation>URL פון קאַלענדאַר באַזע:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1884"/>
       <source>Please enter the CalDAV base url to your calendar.</source>
-      <translation type="unfinished">Please enter the CalDAV base url to your calendar.</translation>
+      <translation>ביטע אַרייַן די CalDAV באַזע URL צו דיין קאַלענדאַר.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1954"/>
       <source>Please enter the password for your CalDAV username.&lt;br/&gt;Currently the password will be stored encrypted with the other settings, but is not very secure.</source>
-      <translation type="unfinished">Please enter the password for your CalDAV username.&lt;br/&gt;Currently the password will be stored encrypted with the other settings, but is not very secure.</translation>
+      <translation>ביטע אַרייַן די פּאַראָל פֿאַר דיין קאַלדאַוו נאמען. &lt;br/&gt; דערווייַל די פּאַראָל וועט זיין סטאָרד ענקריפּטיד מיט די אנדערע סעטטינגס, אָבער איז נישט זייער זיכער.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2255"/>
       <source>Czech</source>
-      <translation type="unfinished">Czech</translation>
+      <translation>טשעכיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2629"/>
       <source>Brazilian Portuguese</source>
-      <translation type="unfinished">Brazilian Portuguese</translation>
+      <translation>בראַזיליאַן פּאָרטוגעזיש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2816"/>
@@ -6643,379 +6671,379 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
       <translation type="unfinished">Ukrainian</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3769"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3780"/>
       <source>The name</source>
-      <translation type="unfinished">The name</translation>
+      <translation>דער נאָמען</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3993"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4004"/>
       <source>Maximum height:</source>
-      <translation type="unfinished">Maximum height:</translation>
+      <translation>מאַקסימום הייך:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3966"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3977"/>
       <source>Maximum width:</source>
-      <translation type="unfinished">Maximum width:</translation>
+      <translation>מאַקסימום הייך:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3907"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3918"/>
       <source>Scale images down when inserted into notes</source>
-      <translation type="unfinished">Scale images down when inserted into notes</translation>
+      <translation>וואָג די בילדער אַראָפּ ווען ינסערטאַד אין הערות</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2431"/>
       <source>Croatian</source>
-      <translation type="unfinished">Croatian</translation>
+      <translation>קראָאַטיש</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3684"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3695"/>
       <source>Path to your QML file</source>
-      <translation type="unfinished">Path to your QML file</translation>
+      <translation>דרך צו דיין QML טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3475"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3486"/>
       <source>Script name</source>
-      <translation type="unfinished">Script name</translation>
+      <translation>שריפט נאָמען</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3497"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3508"/>
       <source>Description:</source>
-      <translation type="unfinished">Description:</translation>
+      <translation>באַשרייַבונג:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3579"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3590"/>
       <source>Version:</source>
-      <translation type="unfinished">Version:</translation>
+      <translation>ווערסיע:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3540"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3551"/>
       <source>Repository:</source>
-      <translation type="unfinished">Repository:</translation>
+      <translation>ריפּאַזאַטאָרי:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3517"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3528"/>
       <source>Author(s):</source>
-      <translation type="unfinished">Author(s):</translation>
+      <translation>מחבר (s):</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3914"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3925"/>
       <source>Check this if you want to accept all external modifications while you are editing the current note.</source>
-      <translation type="unfinished">Check this if you want to accept all external modifications while you are editing the current note.</translation>
+      <translation>קאָנטראָלירן דעם אויב איר ווילן צו אָננעמען אַלע פונדרויסנדיק מאַדאַפאַקיישאַנז בשעת איר רעדאַגירן דעם קראַנט טאָן..</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3917"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3928"/>
       <source>Accept all external modifications of the current note</source>
-      <translation type="unfinished">Accept all external modifications of the current note</translation>
+      <translation>אָננעמען אַלע פונדרויסנדיק מאַדאַפאַקיישאַנז פון דעם קראַנט טאָן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3851"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3862"/>
       <source>Use UNIX newline instead of native newline characters</source>
-      <translation type="unfinished">Use UNIX newline instead of native newline characters</translation>
+      <translation>ניצן UNIX נעוולינע אַנשטאָט פון געבוירן נייַע שורה</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3861"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3872"/>
       <source>Restore cursor position when opening a note</source>
-      <translation type="unfinished">Restore cursor position when opening a note</translation>
+      <translation>ומקערן לויפֿער שטעלע ווען עפן אַ צעטל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4311"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4322"/>
       <source>Be warned that this will also remove your cached todo items and configured note folders and scripts!</source>
-      <translation type="unfinished">Be warned that this will also remove your cached todo items and configured note folders and scripts!</translation>
+      <translation>זיין וואָרמד אַז דאָס וועט אויך באַזייַטיקן דיין קאַשט טאָדאָ ייטאַמז און קאַנפיגיערד טאָן פאָלדערס און סקריפּס!!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4841"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4852"/>
       <source>Apply toolbar configuration</source>
-      <translation type="unfinished">Apply toolbar configuration</translation>
+      <translation>צולייגן מכשיר קאַנפיגיעריישאַן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4855"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4866"/>
       <source>Reset toolbars</source>
-      <translation type="unfinished">Reset toolbars</translation>
+      <translation>באַשטעטיק מכשירים</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4883"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4894"/>
       <source>Enable logging to file</source>
-      <translation type="unfinished">Enable logging to file</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4890"/>
-      <source>Clear log file</source>
-      <translation type="unfinished">Clear log file</translation>
+      <translation>געבן לאָגינג צו טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="4901"/>
+      <source>Clear log file</source>
+      <translation>קלאָר קלאָץ טעקע</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="4912"/>
       <source>Fake old version number to trigger update</source>
-      <translation type="unfinished">Fake old version number to trigger update</translation>
+      <translation>אַלט שווינדל נומער צו צינגל דערהייַנטיקן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4929"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4940"/>
       <source>Log file path:</source>
-      <translation type="unfinished">Log file path:</translation>
+      <translation>קלאָץ אין טעקע טעקע:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4991"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5002"/>
       <source>Here you can set your own time format for inserting the current time into a note.</source>
-      <translation type="unfinished">Here you can set your own time format for inserting the current time into a note.</translation>
+      <translation>דאָ איר קענען שטעלן דיין אייגן צייט פֿאָרמאַט פֿאַר ינסערטינג די קראַנט צייט אין אַ צעטל.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4994"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5005"/>
       <source>Insert current time</source>
-      <translation type="unfinished">Insert current time</translation>
+      <translation>אַרייַנלייגן קראַנט צייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5000"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5011"/>
       <source>Time format:</source>
-      <translation type="unfinished">Time format:</translation>
+      <translation>צייט פֿאָרמאַט:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5007"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5018"/>
       <source>Enter your custom time format, like "dd.MM.yyyy hh:mm"</source>
-      <translation type="unfinished">Enter your custom time format, like "dd.MM.yyyy hh:mm"</translation>
+      <translation>אַרייַן דיין מנהג צייט פֿאָרמאַט, ווי "dd.MM.yyy hh: mm"</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5096"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5107"/>
       <source>Editor options</source>
-      <translation type="unfinished">Editor options</translation>
+      <translation>עדיטאָר אָפּציעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5109"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5120"/>
       <source>Enable automatic closing of brackets and markdown formatting characters</source>
-      <translation type="unfinished">Enable automatic closing of brackets and markdown formatting characters</translation>
+      <translation>געבן אָטאַמאַטיק קלאָוזינג קלאָוזינג אותיות און מאַרקדאַון פֿאָרמאַטירונג אותיות</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5163"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5174"/>
       <source>You have to use the backspace key to remove the opening character</source>
-      <translation type="unfinished">You have to use the backspace key to remove the opening character</translation>
+      <translation>איר דאַרפֿן צו נוצן די באַקקספּאַסע שליסל צו באַזייַטיקן די עפן כאַראַקטער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="5166"/>
+      <location filename="../dialogs/settingsdialog.ui" line="5177"/>
       <source>Enable automatic removal of matching closing characters</source>
-      <translation type="unfinished">Enable automatic removal of matching closing characters</translation>
+      <translation>געבן אָטאַמאַטיק באַזייַטיקונג פון ריכטן קלאָוזינג אותיות</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1887"/>
       <source>Your CalDAV calendar base url</source>
-      <translation type="unfinished">Your CalDAV calendar base url</translation>
+      <translation>דיין קאַלדאַוו קאַלענדאַר באַזע URL</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1919"/>
       <source>Please enter the username of your CalDAV server.</source>
-      <translation type="unfinished">Please enter the username of your CalDAV server.</translation>
+      <translation>ביטע אַרייַן די נאמען פון דיין CalDAV סערווער.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1922"/>
       <source>Your CalDAV username</source>
-      <translation type="unfinished">Your CalDAV username</translation>
+      <translation>דיין קאַלדאַוו באַניצער נאמען</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="1960"/>
       <source>Your CalDAV password</source>
-      <translation type="unfinished">Your CalDAV password</translation>
+      <translation>דיין קאַלדאַוו פּאַראָל</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2007"/>
       <source>This causes all todo list items to be reloaded from your server the next time you open your todo dialog.</source>
-      <translation type="unfinished">This causes all todo list items to be reloaded from your server the next time you open your todo dialog.</translation>
+      <translation>דערנאָך אַלע די טאָדאָ ליסטע אַרטיקלען זענען רילאָוד פון דיין סערווירער די ווייַטער מאָל איר עפענען דיין טאָדאָ דיאַלאָג.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2010"/>
       <source>Empty calendar item cache</source>
-      <translation type="unfinished">Empty calendar item cache</translation>
+      <translation>ליידיק קאַלענדאַר נומער קאַש</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2033"/>
       <source>Click here to reload the list of calendars from your calendar server.</source>
-      <translation type="unfinished">Click here to reload the list of calendars from your calendar server.</translation>
+      <translation>דריקט דאָ צו רילאָוד די רשימה פון קאַלענדאַרס פון דיין קאַלענדאַר סערווער.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2039"/>
       <source>&amp;Reload calendar list</source>
-      <translation type="unfinished">&amp;Reload calendar list</translation>
+      <translation>&amp;רילאָוד קאַלענדאַר רשימה</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2937"/>
-      <location filename="../dialogs/settingsdialog.ui" line="3047"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2948"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3058"/>
       <source>You may need to restart the application to let these changes take effect</source>
-      <translation type="unfinished">You may need to restart the application to let these changes take effect</translation>
+      <translation>איר קען דאַרפֿן צו ריסטאַרט די אַפּלאַקיישאַן צו לאָזן די ענדערונגען נעמען ווירקונג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3082"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3093"/>
       <source>Toolbar icon size:</source>
-      <translation type="unfinished">Toolbar icon size:</translation>
+      <translation>גרייס פון דעם מכשיר בילדל:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3072"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3083"/>
       <source>List and tree item height:</source>
-      <translation type="unfinished">List and tree item height:</translation>
+      <translation>רשימה און בוים נומער הייך:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3105"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3116"/>
       <source>Reset the icon size</source>
-      <translation type="unfinished">Reset the icon size</translation>
+      <translation>באַשטעטיק בילדל גרייס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3119"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3130"/>
       <source>Reset the item height</source>
-      <translation type="unfinished">Reset the item height</translation>
+      <translation>באַשטעטיק די הייך פון די נומער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4666"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4677"/>
       <source>View text right to left (RTL)</source>
-      <translation type="unfinished">View text right to left (RTL)</translation>
+      <translation>זוך טעקסט רעכט צו לינקס (RTL)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3243"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3254"/>
       <source>Search for shortcut</source>
-      <translation type="unfinished">Search for shortcut</translation>
+      <translation>זוכן פֿאַר דורכוועג</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="2050"/>
       <source>Ignore calendars that don't support todo items</source>
-      <translation type="unfinished">Ignore calendars that don't support todo items</translation>
+      <translation>איגנאָרירן קאַלענדאַרס וואָס טאָן ניט שטיצן טאָדאָ ייטאַמז</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="2871"/>
+      <location filename="../dialogs/settingsdialog.ui" line="2882"/>
       <source>Arabic</source>
-      <translation type="unfinished">Arabic</translation>
+      <translation>אַראַביש</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3021"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3032"/>
       <source>Icons</source>
-      <translation type="unfinished">Icons</translation>
+      <translation>יקאָנס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3030"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3041"/>
       <source>Use internal icon theme instead of system icon theme</source>
-      <translation type="unfinished">Use internal icon theme instead of system icon theme</translation>
+      <translation>ניצן ינערלעך ייקאַן טעמע אַנשטאָט פון סיסטעם ייקאַן טעמע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3633"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3644"/>
       <source>Script path:</source>
-      <translation type="unfinished">Script path:</translation>
+      <translation>שריפט דרך:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="763"/>
       <source>Note folder name</source>
-      <translation type="unfinished">Note folder name</translation>
+      <translation>באַמערקונג טעקע נאָמען</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="810"/>
       <source>Allow note file name to be different from headline</source>
-      <translation type="unfinished">Allow note file name to be different from headline</translation>
+      <translation>דערלויבן אַז די נאָמען פון די באַמערקונג טעקע איז אַנדערש פון דעם טיטל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3924"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3935"/>
       <source>Check this if you want to ignore all external modifications while you are editing the current note.</source>
-      <translation type="unfinished">Check this if you want to ignore all external modifications while you are editing the current note.</translation>
+      <translation>קאָנטראָלירן דעם אויב איר ווילט צו איגנאָרירן אַלע פונדרויסנדיק מאַדאַפאַקיישאַנז בשעת איר רעדאַגירן דעם קראַנט טאָן.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3927"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3938"/>
       <source>Ignore all external modifications of the current note</source>
-      <translation type="unfinished">Ignore all external modifications of the current note</translation>
+      <translation>איגנאָרירן אַלע פונדרויסנדיק מאַדאַפאַקיישאַנז פון דעם קראַנט טאָן</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="3848"/>
+      <location filename="../dialogs/settingsdialog.ui" line="3859"/>
       <source>You can use this for example under Windows if you have troubles with newlines in the ownCloud / Nextcloud notes app</source>
-      <translation type="unfinished">You can use this for example under Windows if you have troubles with newlines in the ownCloud / Nextcloud notes app</translation>
+      <translation>איר קענט ניצן דעם צום ביישפּיל אונטער Windows אויב איר האָט קאָפּדרייעניש מיט נעוולינעס אין די OwnCloud / Nextcloud הערות אַפּ</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4023"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4034"/>
       <source>App instance</source>
-      <translation type="unfinished">App instance</translation>
+      <translation>אַפּ בייַשפּיל</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4029"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4040"/>
       <source>Only allow one app instance at the same time</source>
-      <translation type="unfinished">Only allow one app instance at the same time</translation>
+      <translation>דערלויבן בלויז איין אַפּ בייַשפּיל אויף דער זעלביקער צייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4125"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4136"/>
       <source>Add a custom file extension</source>
-      <translation type="unfinished">Add a custom file extension</translation>
+      <translation>לייג אַ מנהג טעקע געשפּרייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4139"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4150"/>
       <source>Remove a custom file extension</source>
-      <translation type="unfinished">Remove a custom file extension</translation>
+      <translation>אַראָפּנעמען אַ מנהג טעקע געשפּרייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4178"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4189"/>
       <source>If you add custom extensions just type in the extension, like "taskpaper".</source>
-      <translation type="unfinished">If you add custom extensions just type in the extension, like "taskpaper".</translation>
+      <translation>אויב איר לייגן מנהג יקסטענשאַנז, נאָר אַרייַן די געשפּרייט, ווי "טאַסקפּאַפּער".</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4182"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4193"/>
       <source>Text file (txt)</source>
-      <translation type="unfinished">Text file (txt)</translation>
+      <translation>טעקסט טעקע (טקסט))</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4210"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4221"/>
       <source>Path to external editor:</source>
-      <translation type="unfinished">Path to external editor:</translation>
+      <translation>דרך צו פונדרויסנדיק רעדאַקטאָר:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4045"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4056"/>
       <source>Don't show the update dialog automatically</source>
-      <translation type="unfinished">Don't show the update dialog automatically</translation>
+      <translation>ווייַזן נישט די דערהייַנטיקן דיאַלאָג אויטאָמאַטיש</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4498"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4725"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4509"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4736"/>
       <source>Fonts</source>
-      <translation type="unfinished">Fonts</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4521"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4563"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4748"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4776"/>
-      <source>Set a new font</source>
-      <translation type="unfinished">Set a new font</translation>
+      <translation>פאָנץ</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="4532"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4577"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4762"/>
-      <location filename="../dialogs/settingsdialog.ui" line="4807"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4574"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4759"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4787"/>
+      <source>Set a new font</source>
+      <translation>באַשטעטיק אַ נייַ שריפֿט</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.ui" line="4543"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4588"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4773"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4818"/>
       <source>Reset font</source>
-      <translation type="unfinished">Reset font</translation>
+      <translation>באַשטעטיק שריפֿט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.ui" line="336"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>דעבוג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4362"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2289"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4264"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4373"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2293"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4268"/>
       <source>Debug information</source>
-      <translation type="unfinished">Debug information</translation>
+      <translation>דעבוג אינפֿאָרמאַציע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4368"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4379"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You can &lt;span style=" font-weight:600;"&gt;copy and paste&lt;/span&gt; this text (or parts of this text) in an &lt;span style=" font-weight:600;"&gt;issue&lt;/span&gt; on the &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt;QOwnNotes issues page&lt;/a&gt; if you have &lt;span style=" font-weight:600;"&gt;questions or troubles&lt;/span&gt; with QOwnNotes. Data that is too sensitive is hidden in this information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You can &lt;span style=" font-weight:600;"&gt;copy and paste&lt;/span&gt; this text (or parts of this text) in an &lt;span style=" font-weight:600;"&gt;issue&lt;/span&gt; on the &lt;a href="https://github.com/pbek/QOwnNotes/issues"&gt;QOwnNotes issues page&lt;/a&gt; if you have &lt;span style=" font-weight:600;"&gt;questions or troubles&lt;/span&gt; with QOwnNotes. Data that is too sensitive is hidden in this information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.ui" line="4455"/>
+      <location filename="../dialogs/settingsdialog.ui" line="4466"/>
       <source>&amp;Save debug information</source>
-      <translation type="unfinished">&amp;Save debug information</translation>
+      <translation>&amp;היט דיבאַג אינפֿאָרמאַציע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="497"/>
       <source>hostname of proxy server</source>
-      <translation type="unfinished">hostname of proxy server</translation>
+      <translation>האָסטנאַמע פון פראקסי סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="498"/>
       <source>username for proxy server</source>
-      <translation type="unfinished">username for proxy server</translation>
+      <translation>נאמען פֿאַר פראקסי סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="499"/>
       <source>password for proxy server</source>
-      <translation type="unfinished">password for proxy server</translation>
+      <translation>שפּריכוואָרט פֿאַר פראקסי סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="501"/>
@@ -7025,390 +7053,390 @@ Just test yourself if you get sync conflicts and set a higher value if so.</tran
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="502"/>
       <source>SOCKS5 proxy</source>
-      <translation type="unfinished">SOCKS5 proxy</translation>
+      <translation>SOCKS5 פראקסי</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1480"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1482"/>
       <source>Automatic (needs restart)</source>
-      <translation type="unfinished">Automatic (needs restart)</translation>
+      <translation>אָטאַמאַטיק (דאַרף ריסטאַרט)</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1789"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1793"/>
       <source>Shortcut already assigned</source>
-      <translation type="unfinished">Shortcut already assigned</translation>
+      <translation>דורכוועג שוין אַסיינד</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1992"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1996"/>
       <source>The connection was made successfully!
 Server version: %1
 QOwnNotesAPI version: %2</source>
-      <translation type="unfinished">The connection was made successfully!
-Server version: %1
-QOwnNotesAPI version: %2</translation>
+      <translation>די קשר איז הצלחה געמאכט!
+סערווירער ווערסיע: %1
+QOwnNotesAPI ווערסיע: %2</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2005"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2009"/>
       <source>There was an error connecting to the ownCloud Server!
 You also need to have the QOwnNotesAPI app installed and enabled!
 
 Connection error message: </source>
-      <translation type="unfinished">There was an error connecting to the ownCloud Server!
-You also need to have the QOwnNotesAPI app installed and enabled!
+      <translation>עס איז געווען אַ טעות קאַנעקטינג צו די OwnCloud סערווירער!
+איר דאַרפֿן צו האָבן די QOwnNotesAPI אַפּ אינסטאַלירן און ענייבאַלד!
 
-Connection error message: </translation>
+פארבינדונג טעות אָנזאָג:</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2290"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2294"/>
       <source>Please don't use this in the issue tracker, copy the debug information text directly into the issue.</source>
-      <translation type="unfinished">Please don't use this in the issue tracker, copy the debug information text directly into the issue.</translation>
+      <translation>ביטע טאָן ניט נוצן דעם אין די אַרויסגעבן טראַקער, נאָכמאַכן די טעקסט פון דיבאַג אינפֿאָרמאַציע גלייַך אין די אַרויסגעבן.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2297"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2301"/>
       <source>Markdown files</source>
-      <translation type="unfinished">Markdown files</translation>
+      <translation>מאַרקדאַון טעקעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2323"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2327"/>
       <source>Disable usage tracking</source>
-      <translation type="unfinished">Disable usage tracking</translation>
+      <translation>דיסאַבלע באַניץ טראַקינג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2324"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2328"/>
       <source>Anonymous usage data helps to decide what parts of QOwnNotes to improve next and to find and fix bugs.&lt;br /&gt;Please disable it only if you really can't live with it.&lt;br /&gt;&lt;br /&gt;Really disable usage tracking?</source>
-      <translation type="unfinished">Anonymous usage data helps to decide what parts of QOwnNotes to improve next and to find and fix bugs.&lt;br /&gt;Please disable it only if you really can't live with it.&lt;br /&gt;&lt;br /&gt;Really disable usage tracking?</translation>
+      <translation>אַנאָנימע באַנוץ דאַטן העלפּס צו באַשליסן וואָס פּאַרץ פון QOwnNotes צו פֿאַרבעסערן ווייַטער און צו געפֿינען און פאַרריכטן באַגז. &lt;br /&gt; ביטע דיסייבאַל עס נאָר אויב איר טאַקע קענען נישט לעבן מיט אים. &lt;br /&gt; &lt;br /&gt; טאַקע דיסייבאַל באַניץ טראַקינג ?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2551"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2555"/>
       <source>new folder</source>
-      <translation type="unfinished">new folder</translation>
+      <translation>נייַע טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2585"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2589"/>
       <source>Remove note folder</source>
-      <translation type="unfinished">Remove note folder</translation>
+      <translation>אַראָפּנעמען טאָן טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2586"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2590"/>
       <source>Remove the current note folder &lt;strong&gt;%1&lt;/strong&gt;?</source>
-      <translation type="unfinished">Remove the current note folder &lt;strong&gt;%1&lt;/strong&gt;?</translation>
+      <translation>אַראָפּנעמען דעם קראַנט באַמערקונג טעקע &lt;strong&gt;%1 &lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2660"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2664"/>
       <source>Please select the folder where your notes will get stored to</source>
-      <translation type="unfinished">Please select the folder where your notes will get stored to</translation>
+      <translation>ביטע סעלעקטירן דעם טעקע צו וואָס דיין הערות זענען סטאָרד</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2695"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2699"/>
       <source>Loading folders from server</source>
-      <translation type="unfinished">Loading folders from server</translation>
+      <translation>לאָודינג פאָלדערס פון די סערווער</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2710"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2714"/>
       <source>No more folders were found in the current folder</source>
-      <translation type="unfinished">No more folders were found in the current folder</translation>
+      <translation>ניט מער פאָלדערס זענען געפונען אין דעם קראַנט טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2783"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2787"/>
       <source>Loading folders in '%1' from server</source>
-      <translation type="unfinished">Loading folders in '%1' from server</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2856"/>
-      <source>Take a look at the &lt;a href="%1"&gt;Scripting documentation&lt;/a&gt; to get started fast.</source>
-      <translation type="unfinished">Take a look at the &lt;a href="%1"&gt;Scripting documentation&lt;/a&gt; to get started fast.</translation>
+      <translation>לאָודינג פאָלדערס אין '%1' פון סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="2860"/>
+      <source>Take a look at the &lt;a href="%1"&gt;Scripting documentation&lt;/a&gt; to get started fast.</source>
+      <translation>קוק בייַ די &lt;a href="%1"&gt; סקריפּטינג דאַקיומענטיישאַן &lt;/a&gt; צו אָנהייבן געשווינד.</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.cpp" line="2864"/>
       <source>If you need access to a certain functionality in QOwnNotes please open an issue on the &lt;a href="%1"&gt; QOwnNotes issue page&lt;/a&gt;.</source>
-      <translation type="unfinished">If you need access to a certain functionality in QOwnNotes please open an issue on the &lt;a href="%1"&gt; QOwnNotes issue page&lt;/a&gt;.</translation>
+      <translation>אויב איר דאַרפֿן אַקסעס צו אַ זיכער פאַנגקשאַנאַליטי אין QOwnNotes, ביטע עפענען אַן אַרויסגעבן אויף די &lt;a href="%1"&gt; QOwnNotes אַרויסגעבן בלאַט &lt;/a&gt;.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2882"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2886"/>
       <source>Check for script updates</source>
-      <translation type="unfinished">Check for script updates</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2889"/>
-      <source>Add local script</source>
-      <translation type="unfinished">Add local script</translation>
+      <translation>קוק פֿאַר שריפט דערהייַנטיקונגען</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="2893"/>
+      <source>Add local script</source>
+      <translation>לייג היגע שריפט</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.cpp" line="2897"/>
       <source>Add an existing, local script</source>
-      <translation type="unfinished">Add an existing, local script</translation>
+      <translation>לייג אַ יגזיסטינג, היגע שריפט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3986"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="4044"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3990"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4048"/>
       <source>INI files</source>
-      <translation type="unfinished">INI files</translation>
+      <translation>INI טעקעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4022"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4026"/>
       <source>Do you really want to import settings? Your current settings will get removed and not every setting may get restored, like the note folder settings and which scripts you were using. You also will need to adjust some settings, especially across platforms, but your notes will stay intact!</source>
-      <translation type="unfinished">Do you really want to import settings? Your current settings will get removed and not every setting may get restored, like the note folder settings and which scripts you were using. You also will need to adjust some settings, especially across platforms, but your notes will stay intact!</translation>
+      <translation>צי איר טאַקע ווילן צו אַרייַנפיר סעטטינגס? דיין קראַנט סעטטינגס וועט ווערן אַוועקגענומען, און ניט יעדער באַשטעטיקן קען זיין ריסטאָרד ווי די סעטטינגס טעקע און וואָס סקריפּס איר האָט געוויינט. איר וועט אויך דאַרפֿן צו סטרויערן עטלעכע סעטטינגס, ספּעציעל אַריבער פּלאַטפאָרמס, אָבער דיין הערות וועלן בלייַבן בעשאָלעם!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4032"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4036"/>
       <source>The application will be quit after the import.</source>
-      <translation type="unfinished">The application will be quit after the import.</translation>
+      <translation>די אַפּלאַקיישאַן וועט פאַרלאָזן נאָך דעם אַרייַנפיר.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4033"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4037"/>
       <source>The application will be restarted after the import.</source>
-      <translation type="unfinished">The application will be restarted after the import.</translation>
+      <translation>די אַפּלאַקיישאַן וועט זיין ריסטאַרטיד נאָך דעם אַרייַנפיר.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="4265"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="4269"/>
       <source>The debug information was copied to the clipboard.</source>
-      <translation type="unfinished">The debug information was copied to the clipboard.</translation>
+      <translation>די דיבאַג אינפֿאָרמאַציע איז קאַפּיד צו די קליפּבאָרד.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2876"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2880"/>
       <source>Find a script in the script repository</source>
-      <translation type="unfinished">Find a script in the script repository</translation>
+      <translation>געפֿינען אַ שריפט אין די שריפט ריפּאַזאַטאָרי</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="288"/>
       <source>Menu bar</source>
-      <translation type="unfinished">Menu bar</translation>
+      <translation>מעניו באַר</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="289"/>
       <source>Show menu bar item</source>
-      <translation type="unfinished">Show menu bar item</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1662"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="1714"/>
-      <source>Undefined shortcut</source>
-      <translation type="unfinished">Undefined shortcut</translation>
+      <translation>ווייַזן מעניו באַר נומער</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="1666"/>
       <location filename="../dialogs/settingsdialog.cpp" line="1718"/>
+      <source>Undefined shortcut</source>
+      <translation>ונדיפינעד דורכוועג</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.cpp" line="1670"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1722"/>
       <source>Assign a new shortcut</source>
-      <translation type="unfinished">Assign a new shortcut</translation>
+      <translation>באַשטימען אַ נייַ דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1667"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="1719"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1671"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1723"/>
       <source>Reset to default shortcut</source>
-      <translation type="unfinished">Reset to default shortcut</translation>
+      <translation>באַשטעטיק צו פעליקייַט דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1685"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1689"/>
       <source>Clear shortcut</source>
-      <translation type="unfinished">Clear shortcut</translation>
+      <translation>קלאָר דורכוועג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="1790"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="1794"/>
       <source>The shortcut &lt;strong&gt;%1&lt;/strong&gt; is already assigned to &lt;strong&gt;%2&lt;/strong&gt;! Do you want to jump to the shortcut?</source>
-      <translation type="unfinished">The shortcut &lt;strong&gt;%1&lt;/strong&gt; is already assigned to &lt;strong&gt;%2&lt;/strong&gt;! Do you want to jump to the shortcut?</translation>
+      <translation>די דורכוועג &lt;strong&gt;%1&lt;/strong&gt; איז שוין באַשטימט צו &lt;strong&gt;%2 &lt;/strong&gt;! צי איר ווילן צו שפּרינגען צו די דורכוועג?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2969"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2973"/>
       <source>Remove script</source>
-      <translation type="unfinished">Remove script</translation>
+      <translation>אַראָפּנעמען שריפט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2970"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2974"/>
       <source>Remove the current script &lt;strong&gt;%1&lt;/strong&gt;?</source>
-      <translation type="unfinished">Remove the current script &lt;strong&gt;%1&lt;/strong&gt;?</translation>
+      <translation>אַראָפּנעמען דעם קראַנט שריפט &lt;strong&gt;%1 &lt;/strong&gt;?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3020"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3024"/>
       <source>QML files</source>
-      <translation type="unfinished">QML files</translation>
+      <translation>QML טעקעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3021"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3025"/>
       <source>Please select your QML file</source>
-      <translation type="unfinished">Please select your QML file</translation>
+      <translation>ביטע סעלעקטירן דיין QML טעקע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3110"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3114"/>
       <source>Open repository</source>
-      <translation type="unfinished">Open repository</translation>
+      <translation>עפֿן ריפּאַזאַטאָרי</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3168"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3172"/>
       <source>Your script seems to be valid</source>
-      <translation type="unfinished">Your script seems to be valid</translation>
+      <translation>דיין שריפט מיינט צו זיין גילטיק</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3169"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3173"/>
       <source>There were script errors:
 %1</source>
-      <translation type="unfinished">There were script errors:
+      <translation>עס זענען געווען שריפט ערראָרס:
 %1</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3237"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3241"/>
       <source>File extension</source>
-      <translation type="unfinished">File extension</translation>
+      <translation>טעקע געשפּרייט</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3237"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3241"/>
       <source>Enter your custom file extension:</source>
-      <translation type="unfinished">Enter your custom file extension:</translation>
+      <translation>אַרייַן דיין מנהג טעקע געשפּרייט::</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3566"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3570"/>
       <source>Calendar cache emptied</source>
-      <translation type="unfinished">Calendar cache emptied</translation>
+      <translation>קאַלענדאַר קאַש עמפּטיד</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3567"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3571"/>
       <source>Your calendar cache was emptied.</source>
-      <translation type="unfinished">Your calendar cache was emptied.</translation>
+      <translation>דיין קאַלענדאַר קאַש איז עמטיד.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3648"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3652"/>
       <source>Reset toolbars and exit</source>
-      <translation type="unfinished">Reset toolbars and exit</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3649"/>
-      <source>Do you really want to reset all toolbars? The application will be closed in the process, the default toolbars will be restored when you start it again.</source>
-      <translation type="unfinished">Do you really want to reset all toolbars? The application will be closed in the process, the default toolbars will be restored when you start it again.</translation>
+      <translation>באַשטעטיק מכשירים און אַרויסגאַנג</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="3653"/>
+      <source>Do you really want to reset all toolbars? The application will be closed in the process, the default toolbars will be restored when you start it again.</source>
+      <translation>צי איר טאַקע ווילן צו באַשטעטיק אַלע מכשירים? די אַפּלאַקיישאַן וועט זיין פארמאכט אין דעם פּראָצעס, די פעליקייַט מכשירים באַרס וועט זיין ריסטאָרד ווען איר אָנהייב עס ווידער.</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/settingsdialog.cpp" line="3657"/>
       <source>Reset and &amp;exit</source>
-      <translation type="unfinished">Reset and &amp;exit</translation>
+      <translation>באַשטעטיק און אַרויסגאַנג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3811"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3815"/>
       <source>Log file cleared</source>
-      <translation type="unfinished">Log file cleared</translation>
+      <translation>קלאָץ טעקע קלירד</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3812"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3816"/>
       <source>The log file &lt;strong&gt;%1&lt;/strong&gt; was cleared.</source>
-      <translation type="unfinished">The log file &lt;strong&gt;%1&lt;/strong&gt; was cleared.</translation>
+      <translation>דער קלאָץ טעקע &lt;strong&gt;%1 &lt;/strong&gt; איז געווען קלירד.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3848"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3852"/>
       <source>Executable files</source>
-      <translation type="unfinished">Executable files</translation>
+      <translation>עקסעקוטאַבלע טעקעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3849"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3851"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3853"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3855"/>
       <source>All files</source>
-      <translation type="unfinished">All files</translation>
+      <translation>כל טעקעס</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3859"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3863"/>
       <source>Please select the path of your git executable</source>
-      <translation type="unfinished">Please select the path of your git executable</translation>
+      <translation>ביטע סעלעקטירן דעם דרך פון דיין גיט עקסעקוטאַבלע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="3956"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3960"/>
       <source>Do you really want to reset the overrides of all message boxes?</source>
-      <translation type="unfinished">Do you really want to reset the overrides of all message boxes?</translation>
+      <translation>צי איר טאַקע ווילן צו באַשטעטיק די אָוווערריידז פון אַלע אָנזאָג באָקסעס?</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2279"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2283"/>
       <source>The Database was reinitialized.</source>
-      <translation type="unfinished">The Database was reinitialized.</translation>
+      <translation>די דאַטאַבאַסע איז געווען ריניטיאַליזעד.</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="102"/>
       <source>New script</source>
-      <translation type="unfinished">New script</translation>
+      <translation>ניו שריפט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="106"/>
       <source>You can download your git client here: &lt;a href="%url"&gt;Git for Windows&lt;/a&gt;</source>
-      <translation type="unfinished">You can download your git client here: &lt;a href="%url"&gt;Git for Windows&lt;/a&gt;</translation>
+      <translation>איר קענט אראפקאפיע דיין גיט קליענט דאָ: &lt;a href="%url"&gt; גיט פֿאַר ווינדאָוז &lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="452"/>
       <source>enabled</source>
-      <translation type="unfinished">enabled</translation>
+      <translation>ערמעגליכט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="452"/>
       <source>disabled</source>
-      <translation type="unfinished">disabled</translation>
+      <translation>פאַרקריפּלט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="454"/>
       <source>Portable mode is currently:</source>
-      <translation type="unfinished">Portable mode is currently:</translation>
+      <translation>דער פּאָרטאַטיוו מאָדע איז דערווייַל:</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="457"/>
       <source>In portable mode</source>
-      <translation type="unfinished">In portable mode</translation>
+      <translation>אין פּאָרטאַטיוו מאָדע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="458"/>
       <source>the internal sqlite database and the settings will be stored inside a &lt;code&gt;Data&lt;/code&gt; folder at the binary's location</source>
-      <translation type="unfinished">the internal sqlite database and the settings will be stored inside a &lt;code&gt;Data&lt;/code&gt; folder at the binary's location</translation>
+      <translation>די ינערלעך סקליטע דאַטאַבייס און די סעטטינגס זענען סטאָרד אין אַ &lt;קאָד&gt; דאַטאַ &lt;/ קאָד&gt; טעקע אין די ביינערי אָרט</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="461"/>
       <source>the settings will be stored in an ini file</source>
-      <translation type="unfinished">the settings will be stored in an ini file</translation>
+      <translation>די סעטטינגס זענען סטאָרד אין אַן יני טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="463"/>
       <source>the note folders, script paths and path to an external editor will be automatically stored relative to the &lt;code&gt;Data&lt;/code&gt; folder so that the correct note folders, scripts and external editor will be loaded regardless where your QOwnNotes installation is currently located</source>
-      <translation type="unfinished">the note folders, script paths and path to an external editor will be automatically stored relative to the &lt;code&gt;Data&lt;/code&gt; folder so that the correct note folders, scripts and external editor will be loaded regardless where your QOwnNotes installation is currently located</translation>
+      <translation>די נאָטיץ פאָלדערס, שריפט פּאַטס און דרך צו אַ פונדרויסנדיק רעדאַקטאָר וועט ווערן אויטאָמאַטיש סטאָרד קאָרעוו צו די טעקע &lt;קאָד&gt; דאַטן &lt;קאָד&gt; אַזוי אַז די ריכטיק טאָן פאָלדערס, סקריפּס און פונדרויסנדיק רעדאַקטאָר וועט זיין לאָודיד ראַגאַרדלאַס פון ווו דיין QOwnNotes ינסטאַלירונג איז דערווייַל ליגן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="473"/>
       <source>It will be activated if you run QOwnNotes with the parameter &lt;code&gt;--portable&lt;/code&gt;.</source>
-      <translation type="unfinished">It will be activated if you run QOwnNotes with the parameter &lt;code&gt;--portable&lt;/code&gt;.</translation>
+      <translation>עס וועט זיין אַקטיווייטיד אויב איר לויפן QOwnNotes מיט דעם פּאַראַמעטער &lt;קאָד&gt; - פּאָרטאַטיוו &lt;/ קאָד&gt;.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2298"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2302"/>
       <source>Save debug information</source>
-      <translation type="unfinished">Save debug information</translation>
+      <translation>היט דיבאַג אינפֿאָרמאַציע</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2343"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2347"/>
       <source>Do you really want to clear all settings, remove the database and exit QOwnNotes?
 
 Your notes will stay intact!</source>
-      <translation type="unfinished">Do you really want to clear all settings, remove the database and exit QOwnNotes?
+      <translation>צי איר טאַקע ווילן צו ויסמעקן אַלע סעטטינגס, אַראָפּנעמען די דאַטאַבייס און אַרויסגאַנג QOwnNotes?
 
-Your notes will stay intact!</translation>
+דיין הערות וועלן בלייַבן בעשאָלעם!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2346"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2350"/>
       <source>Clear and &amp;exit</source>
-      <translation type="unfinished">Clear and &amp;exit</translation>
+      <translation>קלאָר און &amp;אַרויסגאַנג</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2274"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="2346"/>
-      <location filename="../dialogs/settingsdialog.cpp" line="3653"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2278"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2350"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="3657"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;באָטל מאַכן</translation>
     </message>
     <message>
       <location filename="../dialogs/settingsdialog.cpp" line="479"/>
       <source>You will find a &lt;code&gt;QOwnNotesPortable.bat&lt;/code&gt; in your release path to start QOwnNotes in portable mode.</source>
-      <translation type="unfinished">You will find a &lt;code&gt;QOwnNotesPortable.bat&lt;/code&gt; in your release path to start QOwnNotes in portable mode.</translation>
+      <translation>איר וועט געפֿינען אַ &lt;קאָד&gt; QOwnNotesPortable.bat &lt;/code&gt; אין דיין מעלדונג דרך צו אָנהייבן QOwnNotes אין פּאָרטאַטיוו מאָדע.</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2271"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2275"/>
       <source>Do you really want to clear the local database? This will also remove your configured note folders and your cached todo items!</source>
-      <translation type="unfinished">Do you really want to clear the local database? This will also remove your configured note folders and your cached todo items!</translation>
+      <translation>צי איר טאַקע ווילן צו ויסמעקן די היגע דאַטאַבייס? דאָס וועט אויך אַראָפּנעמען דיין קאַנפיגיערד נאָטיץ פאָלדערס און דיין קאַשט טאָדאָ ייטאַמז!</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2274"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2278"/>
       <source>Clear &amp;database</source>
       <translation type="unfinished">Clear &amp;database</translation>
     </message>
     <message>
-      <location filename="../dialogs/settingsdialog.cpp" line="2457"/>
+      <location filename="../dialogs/settingsdialog.cpp" line="2461"/>
       <source>Select editor application</source>
-      <translation type="unfinished">Select editor application</translation>
+      <translation>סעלעקטירן רעדאַקטאָר אַפּלאַקיישאַן</translation>
     </message>
   </context>
   <context>
@@ -7416,32 +7444,32 @@ Your notes will stay intact!</translation>
     <message>
       <location filename="../dialogs/sharedialog.ui" line="20"/>
       <source>Share note</source>
-      <translation type="unfinished">Share note</translation>
+      <translation>ייַנטיילן טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/sharedialog.ui" line="40"/>
       <source>Share note on ownCloud</source>
-      <translation type="unfinished">Share note on ownCloud</translation>
+      <translation>ייַנטיילן טאָן אויף אָוועסקלאָוד</translation>
     </message>
     <message>
       <location filename="../dialogs/sharedialog.ui" line="73"/>
       <source>Allow note editing</source>
-      <translation type="unfinished">Allow note editing</translation>
+      <translation>דערלויבן נאָטיץ עדיטינג</translation>
     </message>
     <message>
       <location filename="../dialogs/sharedialog.ui" line="30"/>
       <source>The public url of your note</source>
-      <translation type="unfinished">The public url of your note</translation>
+      <translation>די עפנטלעך URL פון דיין צעטל</translation>
     </message>
     <message>
       <location filename="../dialogs/sharedialog.ui" line="47"/>
       <source>Publicly share the current note file on your ownCloud server. You can send the generated link to others so they can view or download the file.</source>
-      <translation type="unfinished">Publicly share the current note file on your ownCloud server. You can send the generated link to others so they can view or download the file.</translation>
+      <translation>ייַנטיילן די קראַנט באַמערקונג טעקע עפנטלעך אויף דיין אָווענטקלאָוד סערווער. איר קענט שיקן די דזשענערייטאַד לינק צו אנדערע אַזוי זיי קענען זען אָדער אראפקאפיע די טעקע.</translation>
     </message>
     <message>
       <location filename="../dialogs/sharedialog.cpp" line="66"/>
       <source>Keep in mind that you still have to sync your notes with your server by using the ownCloud desktop sync tool to be able to share notes with others!</source>
-      <translation type="unfinished">Keep in mind that you still have to sync your notes with your server by using the ownCloud desktop sync tool to be able to share notes with others!</translation>
+      <translation>האַלטן אין מיינונג אַז איר נאָך דאַרפֿן צו סינק דיין הערות מיט דיין סערווירער דורך די אָוווערקלאָוד דעסקטאַפּ סינק געצייַג צו קענען צו טיילן הערות מיט אנדערע!</translation>
     </message>
   </context>
   <context>
@@ -7540,13 +7568,13 @@ Your notes will stay intact!</translation>
       <location filename="../libraries/sonnet/src/core/loader.cpp" line="241"/>
       <source>without accents</source>
       <comment>dictionary variant</comment>
-      <translation type="unfinished">without accents</translation>
+      <translation>אָן אַקסענץ</translation>
     </message>
     <message>
       <location filename="../libraries/sonnet/src/core/loader.cpp" line="242"/>
       <source>with accents</source>
       <comment>dictionary variant</comment>
-      <translation type="unfinished">with accents</translation>
+      <translation>מיט אַקסענץ</translation>
     </message>
     <message>
       <location filename="../libraries/sonnet/src/core/loader.cpp" line="244"/>
@@ -7576,19 +7604,19 @@ Your notes will stay intact!</translation>
       <location filename="../libraries/sonnet/src/core/loader.cpp" line="325"/>
       <source>%1 (%2) [%3]</source>
       <comment>dictionary name; %1 = language name, %2 = country name and %3 = language variant name</comment>
-      <translation type="unfinished">%1 (%2) [%3]</translation>
+      <translation>%1 (%2) [%3]</translation>
     </message>
     <message>
       <location filename="../libraries/sonnet/src/core/loader.cpp" line="328"/>
       <source>%1 (%2)</source>
       <comment>dictionary name; %1 = language name, %2 = country name</comment>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
     <message>
       <location filename="../libraries/sonnet/src/core/loader.cpp" line="331"/>
       <source>%1 (%2)</source>
       <comment>dictionary name; %1 = language name, %2 = language variant name</comment>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -7596,107 +7624,107 @@ Your notes will stay intact!</translation>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="14"/>
       <source>Insert table</source>
-      <translation type="unfinished">Insert table</translation>
+      <translation>אַרייַנלייגן טיש</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="24"/>
       <source>Create table</source>
-      <translation type="unfinished">Create table</translation>
+      <translation>שאַפֿן טיש</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="30"/>
       <source>Column width:</source>
-      <translation type="unfinished">Column width:</translation>
+      <translation>זייַל ברייט:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="37"/>
       <source>Insert a table heading separator</source>
-      <translation type="unfinished">Insert a table heading separator</translation>
+      <translation>שטעלן אַ טיש כעדינג סעפּאַראַטאָר</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="47"/>
       <source>Columns:</source>
-      <translation type="unfinished">Columns:</translation>
+      <translation>שפאלטן:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="67"/>
       <source>Rows:</source>
-      <translation type="unfinished">Rows:</translation>
+      <translation>ראָוז:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="87"/>
       <source>The amount of spaces in a column</source>
-      <translation type="unfinished">The amount of spaces in a column</translation>
+      <translation>די סומע פון ספּייסאַז אין אַ זייַל</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="119"/>
       <source>Select table layout or enter text:</source>
-      <translation type="unfinished">Select table layout or enter text:</translation>
+      <translation>סעלעקטירן טיש אויסלייג אָדער אַרייַן טעקסט:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="126"/>
       <source>Separator column width:</source>
-      <translation type="unfinished">Separator column width:</translation>
+      <translation>צעשיידונג זייַל ברייט:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="133"/>
       <source>The amount of dash characters in the separator</source>
-      <translation type="unfinished">The amount of dash characters in the separator</translation>
+      <translation>די סומע פון לאָך אותיות אין די סעפּאַראַטאָר</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="260"/>
       <source>Separator:</source>
-      <translation type="unfinished">Separator:</translation>
+      <translation>סעפּאַראַטאָר:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="169"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>סעלעקטירן טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="150"/>
       <source>Import CSV file / clipboard</source>
-      <translation type="unfinished">Import CSV file / clipboard</translation>
+      <translation>אַרייַנפיר קסוו טעקע / קליפּבאָרד</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="180"/>
       <source>Please select the CSV file you want to import:</source>
-      <translation type="unfinished">Please select the CSV file you want to import:</translation>
+      <translation>סעלעקטירן דעם CSV טעקע איר ווילן צו אַרייַנפיר:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="197"/>
       <source>Import clipboard</source>
-      <translation type="unfinished">Import clipboard</translation>
+      <translation>אַרייַנפיר קליפּבאָרד</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="190"/>
       <source>CSV file</source>
-      <translation type="unfinished">CSV file</translation>
+      <translation>קסוו טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="274"/>
       <source>First line is the table heading</source>
-      <translation type="unfinished">First line is the table heading</translation>
+      <translation>ערשטער שורה איז די כעדינג פון די טיש</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.ui" line="267"/>
       <source>Text-delimiter:</source>
-      <translation type="unfinished">Text-delimiter:</translation>
+      <translation>טעקסט-דעלימיטער:</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.cpp" line="186"/>
       <source>CSV files</source>
-      <translation type="unfinished">CSV files</translation>
+      <translation>קסוו טעקעס</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.cpp" line="187"/>
       <source>All files</source>
-      <translation type="unfinished">All files</translation>
+      <translation>כל טעקעס</translation>
     </message>
     <message>
       <location filename="../dialogs/tabledialog.cpp" line="192"/>
       <source>Select CSV file to import</source>
-      <translation type="unfinished">Select CSV file to import</translation>
+      <translation>סעלעקט קסוו טעקע צו אַרייַנפיר</translation>
     </message>
   </context>
   <context>
@@ -7704,17 +7732,17 @@ Your notes will stay intact!</translation>
     <message>
       <location filename="../dialogs/tagadddialog.ui" line="20"/>
       <source>Add a new tag</source>
-      <translation type="unfinished">Add a new tag</translation>
+      <translation>לייג אַ נייַ קוויטל</translation>
     </message>
     <message>
       <location filename="../dialogs/tagadddialog.ui" line="30"/>
       <source>Add new tag</source>
-      <translation type="unfinished">Add new tag</translation>
+      <translation>לייג נייַ קוויטל</translation>
     </message>
     <message>
       <location filename="../dialogs/tagadddialog.ui" line="47"/>
       <source>New tag</source>
-      <translation type="unfinished">New tag</translation>
+      <translation>ניו קוויטל</translation>
     </message>
   </context>
   <context>
@@ -7722,150 +7750,150 @@ Your notes will stay intact!</translation>
     <message>
       <location filename="../dialogs/tododialog.ui" line="14"/>
       <source>Todo</source>
-      <translation type="unfinished">Todo</translation>
+      <translation>צו טוהן</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="78"/>
       <location filename="../dialogs/tododialog.ui" line="85"/>
       <source>Priority</source>
-      <translation type="unfinished">Priority</translation>
+      <translation>בילכערקייַט</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="113"/>
       <source>Reminder</source>
-      <translation type="unfinished">Reminder</translation>
+      <translation>דערמאָנונג</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="157"/>
       <source>Summary</source>
-      <translation type="unfinished">Summary</translation>
+      <translation>קיצער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="191"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>היט</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="222"/>
       <source>Note…</source>
-      <translation type="unfinished">Note…</translation>
+      <translation>נאטיץ…</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="105"/>
       <source>Save and insert into note</source>
-      <translation type="unfinished">Save and insert into note</translation>
+      <translation>היט און אַרייַנלייגן אין צעטל</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="208"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>אַראָפּנעמען</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="285"/>
       <source>Show completed items</source>
-      <translation type="unfinished">Show completed items</translation>
+      <translation>ווייַזן געענדיקט ייטאַמז</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="292"/>
       <source>Reload the todo list from server</source>
-      <translation type="unfinished">Reload the todo list from server</translation>
+      <translation>רילאָוד די טאָדאָ רשימה פֿון די סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="295"/>
       <source>Reload…</source>
-      <translation type="unfinished">Reload…</translation>
+      <translation>רילאָוד ...</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="260"/>
       <source>Search or create todo item</source>
-      <translation type="unfinished">Search or create todo item</translation>
+      <translation>זוכן אָדער שאַפֿן טאָדאָ פּונקט</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="334"/>
       <source>select your todo list</source>
-      <translation type="unfinished">select your todo list</translation>
+      <translation>סעלעקטירן דיין טאָדאָ רשימה</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="188"/>
       <source>Save the current todo item</source>
-      <translation type="unfinished">Save the current todo item</translation>
+      <translation>היט דעם קראַנט טאָדאָ פּונקט</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="110"/>
       <source>Save the current todo item and insert a link to it into the current note</source>
-      <translation type="unfinished">Save the current todo item and insert a link to it into the current note</translation>
+      <translation>היט דעם קראַנט טאָדאָ פּונקט און אַרייַנלייגן אַ לינק צו עס אין די קראַנט טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="119"/>
       <source>Import the current todo item as new note</source>
-      <translation type="unfinished">Import the current todo item as new note</translation>
+      <translation>אַרייַנפיר די קראַנט טאָדאָ פּונקט ווי נייַ טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="115"/>
       <source>Import as note</source>
-      <translation type="unfinished">Import as note</translation>
+      <translation>אַרייַנפיר ווי טאָן</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="205"/>
       <source>Remove the current todo item</source>
-      <translation type="unfinished">Remove the current todo item</translation>
+      <translation>אַראָפּנעמען די קראַנט טאָדאָ נומער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.ui" line="309"/>
       <source>Todo list items are being loaded from the server</source>
-      <translation type="unfinished">Todo list items are being loaded from the server</translation>
+      <translation>טאָטאָ רשימה זאכן זענען לאָודיד פון די סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="130"/>
       <source>Reload from server</source>
-      <translation type="unfinished">Reload from server</translation>
+      <translation>רילאָוד פון סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="134"/>
       <source>Reload tasks from server</source>
-      <translation type="unfinished">Reload tasks from server</translation>
+      <translation>רילאָוד טאַסקס פון סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="138"/>
       <source>Clear cache and reload</source>
-      <translation type="unfinished">Clear cache and reload</translation>
+      <translation>ויסמעקן קאַש און רילאָוד</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="143"/>
       <source>Clear calendar cache and reload tasks from server</source>
-      <translation type="unfinished">Clear calendar cache and reload tasks from server</translation>
+      <translation>ויסמעקן קאַלענדאַר קאַש און רילאָוד טאַסקס פֿון סערווער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="582"/>
       <source>Remove todo item</source>
-      <translation type="unfinished">Remove todo item</translation>
+      <translation>אַראָפּנעמען טאָדאָ נומער</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="583"/>
       <source>Remove the selected todo item?
 This cannot be undone!</source>
-      <translation type="unfinished">Remove the selected todo item?
-This cannot be undone!</translation>
+      <translation>אַראָפּנעמען די אויסגעקליבן טאָדאָ נומער?
+דאָס קען ניט זיין אַנדאַן!</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="867"/>
       <source>Create sub-task</source>
-      <translation type="unfinished">Create sub-task</translation>
+      <translation>שאַפֿן סאַב-אַרבעט</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="874"/>
       <source>Create new sub-task</source>
-      <translation type="unfinished">Create new sub-task</translation>
+      <translation>שאַפֿן נייַ סאַב-אַרבעט</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="874"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>נאָמען:</translation>
     </message>
     <message>
       <location filename="../dialogs/tododialog.cpp" line="875"/>
       <source>New sub-task</source>
-      <translation type="unfinished">New sub-task</translation>
+      <translation>ניו סאַב-אַרבעט</translation>
     </message>
   </context>
   <context>
@@ -7873,134 +7901,134 @@ This cannot be undone!</translation>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="23"/>
       <source>Select a menu</source>
-      <translation type="unfinished">Select a menu</translation>
+      <translation>סעלעקטירן אַ מעניו</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="26"/>
       <source>Lists the available menus to get the corresponding actions</source>
-      <translation type="unfinished">Lists the available menus to get the corresponding actions</translation>
+      <translation>ליס די פאַראַנען מעניוז צו באַקומען די קאָראַספּאַנדינג אַקשאַנז</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="33"/>
       <source>Select toolbar</source>
-      <translation type="unfinished">Select toolbar</translation>
+      <translation>סעלעקט מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="36"/>
       <source>List the available toolbars. The selected one will be edited</source>
-      <translation type="unfinished">List the available toolbars. The selected one will be edited</translation>
+      <translation>רשימה די בנימצא מכשירים. די אויסגעקליבן איינער וועט זיין עדיטיד</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="43"/>
       <source>Lists the actions in the selected toolbar</source>
-      <translation type="unfinished">Lists the actions in the selected toolbar</translation>
+      <translation>ליסט די אַקשאַנז אין די אויסגעקליבן מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="52"/>
       <source>Add new Toolbar</source>
-      <translation type="unfinished">Add new Toolbar</translation>
+      <translation>לייג נייַ מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="55"/>
       <source>New</source>
-      <translation type="unfinished">New</translation>
+      <translation>נייַ</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="66"/>
       <source>Delete selected toolbar</source>
-      <translation type="unfinished">Delete selected toolbar</translation>
+      <translation>ויסמעקן אויסגעקליבן מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="69"/>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="168"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>אַראָפּנעמען</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="82"/>
       <source>Lists the available actions for the selected menu</source>
-      <translation type="unfinished">Lists the available actions for the selected menu</translation>
+      <translation>ליסט די פאַראַנען אַקשאַנז פֿאַר די אויסגעקליבן מעניו</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="104"/>
       <source>Move Up</source>
-      <translation type="unfinished">Move Up</translation>
+      <translation>רוק זיך ארויף</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="107"/>
       <source>Moves the selected toolbar item up</source>
-      <translation type="unfinished">Moves the selected toolbar item up</translation>
+      <translation>מאָוועס די אויסגעקליבן מכשיר נומער אַרויף</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="110"/>
       <source>Move &amp;Up</source>
-      <translation type="unfinished">Move &amp;Up</translation>
+      <translation>&amp;רוק זיך ארויף</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="121"/>
       <source>Move Down</source>
-      <translation type="unfinished">Move Down</translation>
+      <translation>מאַך אַראָפּ</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="124"/>
       <source>moves the selected toolbar item down</source>
-      <translation type="unfinished">moves the selected toolbar item down</translation>
+      <translation>מאַך די אויסגעקליבן מכשיר נומער אַראָפּ</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="127"/>
       <source>Move &amp;Down</source>
-      <translation type="unfinished">Move &amp;Down</translation>
+      <translation>&amp;מאַך אַראָפּ</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="151"/>
       <source>Insert</source>
-      <translation type="unfinished">Insert</translation>
+      <translation>אַרייַנלייגן</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="154"/>
       <source>Adds the selected menu action to the toolbar</source>
-      <translation type="unfinished">Adds the selected menu action to the toolbar</translation>
+      <translation>מוסיף די אויסגעקליבן מעניו קאַמף צו דעם מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="157"/>
       <source>&amp;Insert</source>
-      <translation type="unfinished">&amp;Insert</translation>
+      <translation>&amp;אַרייַנלייגן</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="171"/>
       <source>Removes the selected item from the active toolbar</source>
-      <translation type="unfinished">Removes the selected item from the active toolbar</translation>
+      <translation>רימוווז די אויסגעקליבן נומער פון די אַקטיוו מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="174"/>
       <source>&amp;Remove</source>
-      <translation type="unfinished">&amp;Remove</translation>
+      <translation>&amp;אַראָפּנעמען</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="198"/>
       <source>Separator</source>
-      <translation type="unfinished">Separator</translation>
+      <translation>סעפּאַראַטאָר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.ui" line="201"/>
       <source>&amp;Separator</source>
-      <translation type="unfinished">&amp;Separator</translation>
+      <translation>&amp;סעפּאַראַטאָר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.cpp" line="192"/>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.cpp" line="216"/>
       <source>--(separator)--</source>
-      <translation type="unfinished">--(separator)--</translation>
+      <translation>- (סעפּאַראַטאָר) -</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.cpp" line="309"/>
       <source>Remove current toolbar</source>
-      <translation type="unfinished">Remove current toolbar</translation>
+      <translation>אַראָפּנעמען קראַנט מכשיר</translation>
     </message>
     <message>
       <location filename="../libraries/qttoolbareditor/src/toolbar_editor.cpp" line="310"/>
       <source>Remove the current toolbar?</source>
-      <translation type="unfinished">Remove the current toolbar?</translation>
+      <translation>אַראָפּנעמען די קראַנט מכשיר?</translation>
     </message>
   </context>
   <context>
@@ -8008,37 +8036,67 @@ This cannot be undone!</translation>
     <message>
       <location filename="../dialogs/trashdialog.ui" line="14"/>
       <source>Trashed notes</source>
-      <translation type="unfinished">Trashed notes</translation>
+      <translation>טראַשעד הערות</translation>
     </message>
     <message>
       <location filename="../dialogs/trashdialog.ui" line="55"/>
       <source>Find note name</source>
-      <translation type="unfinished">Find note name</translation>
+      <translation>געפֿינען טאָן נאָמען</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="30"/>
+      <location filename="../dialogs/trashdialog.cpp" line="31"/>
       <source>&amp;Restore selected note on server</source>
-      <translation type="unfinished">&amp;Restore selected note on server</translation>
+      <translation>&amp;ריסטאָר סעלעקטעד טאָן אויף סערווער</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="32"/>
+      <location filename="../dialogs/trashdialog.cpp" line="33"/>
       <source>&lt;h3&gt;Slower, but with note versions&lt;/h3&gt;&lt;p&gt;The note will be restored on your ownCloud server with all versions.&lt;/p&gt;&lt;p&gt;You will have to wait until it is synced to QOwnNotes by ownCloud sync.&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;h3&gt;Slower, but with note versions&lt;/h3&gt;&lt;p&gt;The note will be restored on your ownCloud server with all versions.&lt;/p&gt;&lt;p&gt;You will have to wait until it is synced to QOwnNotes by ownCloud sync.&lt;/p&gt;</translation>
+      <translation>&lt;h3&gt; סלאָוער, אָבער מיט טאָן ווערסיעס &lt;/ h3&gt; &lt;p&gt; דער צעטל וועט זיין ריסטאָרד אויף דיין אָוועסקלאָוד סערווער מיט אַלע ווערסיעס. &lt;/ p&gt; &lt;p&gt; . &lt;/ p&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="44"/>
+      <location filename="../dialogs/trashdialog.cpp" line="45"/>
       <source>&amp;Download selected note</source>
-      <translation type="unfinished">&amp;Download selected note</translation>
+      <translation>&amp;אראפקאפיע סעלעקטעד טאָן</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="46"/>
+      <location filename="../dialogs/trashdialog.cpp" line="47"/>
       <source>&lt;h3&gt;Faster, but without versions&lt;/h3&gt;&lt;p&gt;The note will be created with the text from the preview.&lt;/p&gt;&lt;p&gt;The note versions on your ownCloud server will not be restored and the note will remain in the trash.&lt;/p&gt;&lt;p&gt;You can always restore the note and its versions later.&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;h3&gt;Faster, but without versions&lt;/h3&gt;&lt;p&gt;The note will be created with the text from the preview.&lt;/p&gt;&lt;p&gt;The note versions on your ownCloud server will not be restored and the note will remain in the trash.&lt;/p&gt;&lt;p&gt;You can always restore the note and its versions later.&lt;/p&gt;</translation>
+      <translation>&lt;h3&gt; פאַסטער, אָבער אָן ווערסיעס &lt;/ h3&gt; &lt;p&gt; דער צעטל וועט זיין באשאפן מיט די טעקסט פֿון פאָרויסיקע ווייַזונג. &lt;/ p&gt; &lt;p&gt; די באַמערקונג ווערסיעס אויף דיין ownCloud סערווער וועט ניט זיין ריסטאָרד און דער צעטל וועט בלייַבן אין די אָפּפאַל. &lt;/ p&gt; &lt;p&gt; איר קענט שטענדיק ומקערן דעם צעטל און זיין ווערסיעס שפּעטער. &lt;/ p&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/trashdialog.cpp" line="58"/>
+      <location filename="../dialogs/trashdialog.cpp" line="59"/>
+      <source>&amp;Delete</source>
+      <translation>&amp;ויסמעקן</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="60"/>
+      <source>Delete selected note on server</source>
+      <translation>ויסמעקן אויסגעקליבן טאָן אויף סערווער</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="68"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;באָטל מאַכן</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="190"/>
+      <source>Delete note on server</source>
+      <translation>ויסמעקן טאָן אויף סערווער</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="191"/>
+      <source>Delete selected trashed note on server?</source>
+      <translation>ויסמעקן אויסגעקליבן אָפּפאַל צעטל אויף די סערווער?</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="213"/>
+      <source>Error while deleting note</source>
+      <translation>טעות ווען דיליטינג טאָן</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/trashdialog.cpp" line="214"/>
+      <source>Deleting trashed note failed with status code: %1</source>
+      <translation>די ויסמעקן פון די טראַש טאָן ניט אַנדערש מיט סטאַטוס קאָד: %1</translation>
     </message>
   </context>
   <context>
@@ -8046,116 +8104,116 @@ This cannot be undone!</translation>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="14"/>
       <source>Update available</source>
-      <translation type="unfinished">Update available</translation>
+      <translation>דערהייַנטיקן בנימצא</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="26"/>
       <source>A new update of QOwnNotes is available!</source>
-      <translation type="unfinished">A new update of QOwnNotes is available!</translation>
+      <translation>א נייַע דערהייַנטיקן פון QOwnNotes איז בארעכטיגט!</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="69"/>
       <source>Do you want to download the new version?</source>
-      <translation type="unfinished">Do you want to download the new version?</translation>
+      <translation>צי איר ווילן צו אָפּלאָדירן די נייַע ווערסיע?</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="76"/>
       <source>QOwnNotes will be downloaded in your default browser.</source>
-      <translation type="unfinished">QOwnNotes will be downloaded in your default browser.</translation>
+      <translation>QOwnNotes וועט זיין דאַונלאָודיד אין דיין פעליקייַט בלעטערער.</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="83"/>
       <source>Keep in mind that QOwnNotes needs to run from a location where you have write access to for the automatic update to work!</source>
-      <translation type="unfinished">Keep in mind that QOwnNotes needs to run from a location where you have write access to for the automatic update to work!</translation>
+      <translation>האַלטן אין מיינונג אַז QOwnNotes דאַרף לויפן פֿון אַ אָרט וווּ איר האָט שרייַבן אַקסעס צו די אָטאַמאַטיק דערהייַנטיקן צו אַרבעטן!</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="93"/>
       <source>&lt;a href="http://www.qownnotes.org/Knowledge-base/How-can-I-get-involved-with-QOwnNotes"&gt;Get involved with QOwnNotes&lt;/a&gt;</source>
-      <translation type="unfinished">&lt;a href="http://www.qownnotes.org/Knowledge-base/How-can-I-get-involved-with-QOwnNotes"&gt;Get involved with QOwnNotes&lt;/a&gt;</translation>
+      <translation>&lt;a href="http://www.qownnotes.org/Knowledge-base/How-can-I-get-involved-with-QOwnNotes"&gt;Get involved with QOwnNotes&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.ui" line="106"/>
       <source>%p% downloaded</source>
-      <translation type="unfinished">%p% downloaded</translation>
+      <translation>%p% דאַונלאָודיד</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="48"/>
       <source>&amp;Update</source>
-      <translation type="unfinished">&amp;Update</translation>
+      <translation>&amp;דערהייַנטיקן</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="59"/>
       <source>&amp;Download latest</source>
-      <translation type="unfinished">&amp;Download latest</translation>
+      <translation>&amp;אראפקאפיע לעצט</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="57"/>
       <source>Just download</source>
-      <translation type="unfinished">Just download</translation>
+      <translation>נאָר אראפקאפיע</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="72"/>
       <source>&amp;Skip version</source>
-      <translation type="unfinished">&amp;Skip version</translation>
+      <translation>&amp;האָפּקען ווערסיע</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="80"/>
       <source>&amp;Disable dialog</source>
-      <translation type="unfinished">&amp;Disable dialog</translation>
+      <translation>&amp;דיסאַבלע דיאַלאָג</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="81"/>
       <source>Don't show this dialog automatically</source>
-      <translation type="unfinished">Don't show this dialog automatically</translation>
+      <translation>דו זאלסט נישט ווייַזן דעם דיאַלאָג אויטאָמאַטיש</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="89"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;באָטל מאַכן</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="242"/>
       <source>Download error</source>
-      <translation type="unfinished">Download error</translation>
+      <translation>אראפקאפיע טעות</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="243"/>
       <source>Error while downloading:
 %1</source>
-      <translation type="unfinished">Error while downloading:
+      <translation>טעות בעת דאַונלאָודינג:
 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="245"/>
       <source>network error: %1</source>
-      <translation type="unfinished">network error: %1</translation>
+      <translation>נעץ טעות: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="267"/>
       <location filename="../dialogs/updatedialog.cpp" line="288"/>
       <location filename="../dialogs/updatedialog.cpp" line="382"/>
       <source>File error</source>
-      <translation type="unfinished">File error</translation>
+      <translation>טעקע טעות</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="268"/>
       <location filename="../dialogs/updatedialog.cpp" line="383"/>
       <source>Could not open temporary file:
 %1</source>
-      <translation type="unfinished">Could not open temporary file:
+      <translation>קען נישט עפענען צייטווייליגע פייל:
 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="289"/>
       <source>Could not store downloaded file:
 %1</source>
-      <translation type="unfinished">Could not store downloaded file:
+      <translation>קען נישט קראָם די דאַונלאָודיד טעקע:
 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="340"/>
       <source>Do you want to update and restart QOwnNotes?</source>
-      <translation type="unfinished">Do you want to update and restart QOwnNotes?</translation>
+      <translation>צי איר ווילן צו דערהייַנטיקן און ריסטאַרט QOwnNotes?</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="356"/>
@@ -8166,86 +8224,86 @@ This cannot be undone!</translation>
       <location filename="../dialogs/updatedialog.cpp" line="477"/>
       <location filename="../dialogs/updatedialog.cpp" line="486"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>טעות</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="357"/>
       <source>Could not find updater file:
 %1</source>
-      <translation type="unfinished">Could not find updater file:
+      <translation>די אַפּדאַטער טעקע קען נישט געפֿינען:
 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="442"/>
       <source>Updater script '%1' doesn't exist!</source>
-      <translation type="unfinished">Updater script '%1' doesn't exist!</translation>
+      <translation>ופּדאַטער שריפט '%1' עקזיסטירט נישט!</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="450"/>
       <source>Updater unzip executable '%1' doesn't exist!</source>
-      <translation type="unfinished">Updater unzip executable '%1' doesn't exist!</translation>
+      <translation>ופּדאַטשער אַנזיפּ עקסעקוטאַבלע '%1' עקזיסטירט נישט!</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="459"/>
       <location filename="../dialogs/updatedialog.cpp" line="468"/>
       <source>Could not copy updater script '%1' to '%2'!</source>
-      <translation type="unfinished">Could not copy updater script '%1' to '%2'!</translation>
+      <translation>קען נישט נאָכמאַכן די אַפּדייט שריפט '%1' צו '%2'!</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="478"/>
       <source>Couldn't find updater script: %1</source>
-      <translation type="unfinished">Couldn't find updater script: %1</translation>
+      <translation>קען נישט געפֿינען אַפּדייט שריפט: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="487"/>
       <source>Couldn't find unzip executable: %1</source>
-      <translation type="unfinished">Couldn't find unzip executable: %1</translation>
+      <translation>ניט געקענט צונויפפירן יגזעקיאַטיוו: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="339"/>
       <location filename="../dialogs/updatedialog.cpp" line="492"/>
       <source>Proceed with update</source>
-      <translation type="unfinished">Proceed with update</translation>
+      <translation>גיינ ווייַטער מיט דערהייַנטיקן</translation>
     </message>
     <message>
       <location filename="../dialogs/updatedialog.cpp" line="493"/>
       <source>The download is now finished. Do you want to update and restart QOwnNotes?</source>
-      <translation type="unfinished">The download is now finished. Do you want to update and restart QOwnNotes?</translation>
+      <translation>די אראפקאפיע איז איצט פאַרטיק. צי איר ווילן צו דערהייַנטיקן און ריסטאַרט QOwnNotes?</translation>
     </message>
   </context>
   <context>
     <name>UpdateService</name>
     <message>
-      <location filename="../services/updateservice.cpp" line="111"/>
-      <location filename="../services/updateservice.cpp" line="126"/>
-      <location filename="../services/updateservice.cpp" line="147"/>
+      <location filename="../services/updateservice.cpp" line="118"/>
+      <location filename="../services/updateservice.cpp" line="133"/>
+      <location filename="../services/updateservice.cpp" line="154"/>
       <source>Update-checker error</source>
-      <translation type="unfinished">Update-checker error</translation>
+      <translation>דערהייַנטיקן-קאָנטראָליאָר טעות</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="112"/>
+      <location filename="../services/updateservice.cpp" line="119"/>
       <source>Network reply error: %1</source>
-      <translation type="unfinished">Network reply error: %1</translation>
+      <translation>נעץ ענטפער טעות: %1</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="127"/>
+      <location filename="../services/updateservice.cpp" line="134"/>
       <source>No data was received by the network request!</source>
-      <translation type="unfinished">No data was received by the network request!</translation>
+      <translation>קיין דאַטן איז געווען באקומען דורך די נעץ בעטן!</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="148"/>
+      <location filename="../services/updateservice.cpp" line="155"/>
       <source>The data from the network request could not be interpreted!</source>
-      <translation type="unfinished">The data from the network request could not be interpreted!</translation>
+      <translation>די דאַטן פון די נעץ בעטן קען ניט זיין ינטערפּראַטאַד!</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="261"/>
+      <location filename="../services/updateservice.cpp" line="268"/>
       <source>No updates</source>
-      <translation type="unfinished">No updates</translation>
+      <translation>ניט דערהייַנטיקונגען</translation>
     </message>
     <message>
-      <location filename="../services/updateservice.cpp" line="262"/>
+      <location filename="../services/updateservice.cpp" line="269"/>
       <source>There are no updates available.&lt;br /&gt;&lt;strong&gt;%1&lt;/strong&gt; is the latest version.</source>
-      <translation type="unfinished">There are no updates available.&lt;br /&gt;&lt;strong&gt;%1&lt;/strong&gt; is the latest version.</translation>
+      <translation>עס זענען ניט דערהייַנטיקונגען. &lt;br /&gt; &lt;strong&gt;%1&lt;/strong&gt; איז די לעצטע ווערסיע.</translation>
     </message>
   </context>
   <context>
@@ -8253,27 +8311,27 @@ This cannot be undone!</translation>
     <message>
       <location filename="../dialogs/versiondialog.ui" line="14"/>
       <source>Note versions on your ownCloud server</source>
-      <translation type="unfinished">Note versions on your ownCloud server</translation>
+      <translation>באַמערקונג ווערסיעס אויף דיין OwnCloud סערווער.</translation>
     </message>
     <message>
       <location filename="../dialogs/versiondialog.ui" line="65"/>
       <source>Diff</source>
-      <translation type="unfinished">Diff</translation>
+      <translation>אונטערשייד</translation>
     </message>
     <message>
       <location filename="../dialogs/versiondialog.ui" line="98"/>
       <source>Note text</source>
-      <translation type="unfinished">Note text</translation>
+      <translation>באַמערקונג טעקסט</translation>
     </message>
     <message>
       <location filename="../dialogs/versiondialog.cpp" line="31"/>
       <source>&amp;Restore selected version</source>
-      <translation type="unfinished">&amp;Restore selected version</translation>
+      <translation>&amp;ומקערן די אויסגעקליבן ווערסיע</translation>
     </message>
     <message>
       <location filename="../dialogs/versiondialog.cpp" line="39"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;באָטל מאַכן</translation>
     </message>
   </context>
   <context>
@@ -8281,30 +8339,31 @@ This cannot be undone!</translation>
     <message>
       <location filename="../services/websocketserverservice.cpp" line="67"/>
       <source>QOwnNotes server listening on port %1</source>
-      <translation type="unfinished">QOwnNotes server listening on port %1</translation>
+      <translation>QOwnNotes סערווירער צוגעהערט אויף פּאָרט %1</translation>
     </message>
     <message>
       <location filename="../services/websocketserverservice.cpp" line="74"/>
       <source>Could not start QOwnNotes server on port %1!</source>
-      <translation type="unfinished">Could not start QOwnNotes server on port %1!</translation>
+      <translation>קען נישט אָנהייבן QOwnNotes סערווער אויף פּאָרט %1!</translation>
     </message>
     <message>
       <location filename="../services/websocketserverservice.cpp" line="120"/>
       <source>%1 connected to QOwnNotes server!</source>
-      <translation type="unfinished">%1 connected to QOwnNotes server!</translation>
+      <translation>%1 פארבונדן צו QOwnNotes סערווער!</translation>
     </message>
     <message numerus="yes">
       <location filename="../services/websocketserverservice.cpp" line="238"/>
       <source>%n bookmark(s) created</source>
-      <translation type="unfinished">
-        <numerusform>%n bookmark(s) created</numerusform>
-        <numerusform>%n bookmark(s) created</numerusform>
+      <translation>
+        <numerusform>%n לייענ - צייכן
+</numerusform>
+        <numerusform>%n בוקמאַרקס באשאפן</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../services/websocketserverservice.cpp" line="386"/>
       <source>%1 was disconnected from QOwnNotes server</source>
-      <translation type="unfinished">%1 was disconnected from QOwnNotes server</translation>
+      <translation>%1 איז דיסקאַנעקטיד פון QOwnNotes סערווער</translation>
     </message>
   </context>
   <context>
@@ -8312,22 +8371,22 @@ This cannot be undone!</translation>
     <message>
       <location filename="../dialogs/websockettokendialog.ui" line="20"/>
       <source>Security token</source>
-      <translation type="unfinished">Security token</translation>
+      <translation>זיכערהייט סימען</translation>
     </message>
     <message>
       <location filename="../dialogs/websockettokendialog.ui" line="26"/>
       <source>To let your QOwnNotes browser extension access your notes please paste this security token in the settings of your browser extension:</source>
-      <translation type="unfinished">To let your QOwnNotes browser extension access your notes please paste this security token in the settings of your browser extension:</translation>
+      <translation>צו לאָזן דיין QOwnNotes בלעטערער געשפּרייט אַקסעס צו דיין הערות, ביטע פּאַפּ דעם זיכערהייט סימען אין די סעטטינגס פון דיין בלעטערער געשפּרייט:</translation>
     </message>
     <message>
       <location filename="../dialogs/websockettokendialog.ui" line="65"/>
       <source>Generate new token</source>
-      <translation type="unfinished">Generate new token</translation>
+      <translation>דזשענערייט נייַ סימען</translation>
     </message>
     <message>
       <location filename="../dialogs/websockettokendialog.ui" line="79"/>
       <source>Copy token</source>
-      <translation type="unfinished">Copy token</translation>
+      <translation>קאָפּיע סימען</translation>
     </message>
   </context>
   <context>
@@ -8336,118 +8395,118 @@ This cannot be undone!</translation>
       <location filename="../dialogs/welcomedialog.ui" line="14"/>
       <location filename="../dialogs/welcomedialog.ui" line="56"/>
       <source>Welcome to QOwnNotes</source>
-      <translation type="unfinished">Welcome to QOwnNotes</translation>
+      <translation>ברוכים הבאים צו QOwnNotes</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="24"/>
       <source>plain-text file markdown note taking with ownCloud integration</source>
-      <translation type="unfinished">plain-text file markdown note taking with ownCloud integration</translation>
+      <translation>קלאָר-טעקסט טעקע מאַרקדאַון טאָן מיט אָוווערקלאָוד ינאַגריישאַן</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="88"/>
       <source>&amp;Back</source>
-      <translation type="unfinished">&amp;Back</translation>
+      <translation>&amp;צוריק</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="99"/>
       <source>&amp;Next</source>
-      <translation type="unfinished">&amp;Next</translation>
+      <translation>&amp;ווייַטער</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="116"/>
       <source>&amp;Finished</source>
-      <translation type="unfinished">&amp;Finished</translation>
+      <translation>&amp;געענדיקט</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="139"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;באָטל מאַכן</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="168"/>
       <location filename="../dialogs/welcomedialog.cpp" line="219"/>
       <source>Note folder</source>
-      <translation type="unfinished">Note folder</translation>
+      <translation>באַמערקונג טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="191"/>
       <source>Create note folder if not existing</source>
-      <translation type="unfinished">Create note folder if not existing</translation>
+      <translation>שאַפֿן טאָן טעקע אויב נישט יגזיסטינג</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="225"/>
       <source>Note folder path</source>
-      <translation type="unfinished">Note folder path</translation>
+      <translation>באַמערקונג טעקע דרך</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="232"/>
       <source>Select folder</source>
-      <translation type="unfinished">Select folder</translation>
+      <translation>סעלעקטירן טעקע</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="285"/>
       <source>Panel layout</source>
-      <translation type="unfinished">Panel layout</translation>
+      <translation>טאַפליע אויסלייג</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="342"/>
       <source>Open ownCloud settings</source>
-      <translation type="unfinished">Open ownCloud settings</translation>
+      <translation>עפֿן ענדזשענקלאָוד סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="384"/>
       <source>Open network settings</source>
-      <translation type="unfinished">Open network settings</translation>
+      <translation>עפֿן נעץ סעטטינגס</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="184"/>
       <source>Please select where you want to store your notes:</source>
-      <translation type="unfinished">Please select where you want to store your notes:</translation>
+      <translation>ביטע סעלעקטירן ווו איר ווילן צו קראָם דיין הערות:</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="246"/>
       <source>Show subfolders</source>
-      <translation type="unfinished">Show subfolders</translation>
+      <translation>ווייַזן סובפאָלדערס</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="319"/>
       <source>If you want to be able to access your note versions and your trashed notes on your ownCloud server, you can configure QOwnNotes for it now. You can also do it at a later time.</source>
-      <translation type="unfinished">If you want to be able to access your note versions and your trashed notes on your ownCloud server, you can configure QOwnNotes for it now. You can also do it at a later time.</translation>
+      <translation>אויב איר ווילן צו האָבן צוטריט צו דיין קוויטל ווערסיעס און דיין טראַשעד הערות אויף דיין אָוועסקלאָוד סערווער, איר קענען קאַנפיגיער QOwnNotes איצט. איר קענט אויך טאָן דאָס אין אַ שפּעטער צייט.</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="349"/>
       <source>In any case, you need the ownCloud sync client (or any other sync client) to sync your notes with your ownCloud server.</source>
-      <translation type="unfinished">In any case, you need the ownCloud sync client (or any other sync client) to sync your notes with your ownCloud server.</translation>
+      <translation>אין קיין פאַל, איר דאַרפֿן די אָוועסקלאָוד סינק קליענט (אָדער קיין אנדערע סינק קליענט) צו סינק דיין הערות מיט דיין אָווועקלאָוד סערווער.</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.ui" line="391"/>
       <source>QOwnNotes will track anonymous usage data, that helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. You can disable that behaviour in the settings.</source>
-      <translation type="unfinished">QOwnNotes will track anonymous usage data, that helps to decide what parts of QOwnNotes to improve next and to find and fix bugs. You can disable that behaviour in the settings.</translation>
+      <translation>QOwnNotes וועט שפּור אַנאָנימע באַנוצערס דאַטן, וואָס העלפֿן באַשליסן וואָס פּאַרץ פון QOwnNotes צו פֿאַרבעסערן ווייַטער און צו געפֿינען און פאַרריכטן באַגז. איר קענען דיסייבאַל די נאַטור אין די סעטטינגס.</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.cpp" line="122"/>
       <source>Cannot create note path! You have to create the note folder manually!</source>
-      <translation type="unfinished">Cannot create note path! You have to create the note folder manually!</translation>
+      <translation>קען ניט מאַכן טאָן דרך! איר מוזן מאַכן די טאָן טעקע מאַניואַלי!</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.cpp" line="130"/>
       <source>Cannot create note path!</source>
-      <translation type="unfinished">Cannot create note path!</translation>
+      <translation>קען ניט מאַכן טאָן דרך!</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.cpp" line="135"/>
       <source>This note path doesn't exist!</source>
-      <translation type="unfinished">This note path doesn't exist!</translation>
+      <translation>דער דאָזיקער נאָטיץ דרך עקזיסטירט נישט!</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.cpp" line="207"/>
       <source>Please select the folder where your notes will get stored to</source>
-      <translation type="unfinished">Please select the folder where your notes will get stored to</translation>
+      <translation>ביטע סעלעקטירן דעם טעקע צו וואָס דיין הערות זענען סטאָרד</translation>
     </message>
     <message>
       <location filename="../dialogs/welcomedialog.cpp" line="220"/>
       <source>Keep in mind that the note folder will be stored relative to the directory where QOwnNotes resides in portable mode! So you need to stay on the same drive.</source>
-      <translation type="unfinished">Keep in mind that the note folder will be stored relative to the directory where QOwnNotes resides in portable mode! So you need to stay on the same drive.</translation>
+      <translation>האַלטן אין מיינונג אַז די טאָן טעקע וועט זיין סטאָרד קאָרעוו צו די וועגווייַזער וווּ QOwnNotes וווינט אין פּאָרטאַטיוו מאָדע! אַזוי איר דאַרפֿן צו בלייַבן אויף דער זעלביקער פאָר.</translation>
     </message>
   </context>
   <context>
@@ -8455,42 +8514,42 @@ This cannot be undone!</translation>
     <message>
       <location filename="../main.cpp" line="96"/>
       <source>Runs the application in portable mode.</source>
-      <translation type="unfinished">Runs the application in portable mode.</translation>
+      <translation>ראַנז די אַפּלאַקיישאַן אין פּאָרטאַטיוו מאָדע.</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="102"/>
       <source>Prints out a dump of the settings and other information about the application and environment in GitHub Markdown and exits the application.</source>
-      <translation type="unfinished">Prints out a dump of the settings and other information about the application and environment in GitHub Markdown and exits the application.</translation>
+      <translation>פּרינץ אַ דאַמפּ פון די סעטטינגס און אנדערע אינפֿאָרמאַציע וועגן די אַפּלאַקיישאַן און סוויווע אין GitHub מאַרקדאַון און יגזיסץ די אַפּלאַקיישאַן.</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="111"/>
       <source>Allows multiple instances of QOwnNotes to be started even if disallowed in the settings.</source>
-      <translation type="unfinished">Allows multiple instances of QOwnNotes to be started even if disallowed in the settings.</translation>
+      <translation>דערלויבט צו זיין סטאַרטעד קייפל ינסטאַנסיז פון QOwnNotes, אפילו אויב די סעטטינגס זענען דיסאַלאַוד.</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="118"/>
       <source>Clears the settings and runs the application.</source>
-      <translation type="unfinished">Clears the settings and runs the application.</translation>
+      <translation>קלירז די סעטטינגס און ראַנז די אַפּלאַקיישאַן.</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="124"/>
       <source>Runs the application in a different context for settings and internal files.</source>
-      <translation type="unfinished">Runs the application in a different context for settings and internal files.</translation>
+      <translation>ראַנז די אַפּלאַקיישאַן אין אַ אַנדערש קאָנטעקסט פֿאַר סעטטינגס און ינערלעך טעקעס..</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="539"/>
       <source>Single application mode is not supported on your system!</source>
-      <translation type="unfinished">Single application mode is not supported on your system!</translation>
+      <translation>איין אַפּלאַקיישאַן מאָדע איז ניט געשטיצט אויף דיין סיסטעם!</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="549"/>
       <source>Another instance of QOwnNotes was already started! You can turn off the single instance mode in the settings or use the parameter --allow-multiple-instances.</source>
-      <translation type="unfinished">Another instance of QOwnNotes was already started! You can turn off the single instance mode in the settings or use the parameter --allow-multiple-instances.</translation>
+      <translation>אן אנדער בייַשפּיל פון QOwnNotes איז שוין סטאַרטעד! איר קענען קער אַוועק די איין בייַשפּיל מאָדע אין די סעטטינגס אָדער נוצן דעם פּאַראַמעטער - אַללאָוו-קייפל-ינסטאַנסיז.</translation>
     </message>
     <message>
       <location filename="../main.cpp" line="577"/>
       <source>A second instance of QOwnNotes was attempted to be started!</source>
-      <translation type="unfinished">A second instance of QOwnNotes was attempted to be started!</translation>
+      <translation>א צווייטע בייַשפּיל פון QOwnNotes איז געפרוווט צו זיין סטאַרטעד!</translation>
     </message>
   </context>
 </TS>

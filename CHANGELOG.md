@@ -1,5 +1,106 @@
 # QOwnNotes Changelog
 
+## 20.8.9
+- fixed a problem with pressing `Backspace` after a `'` in lists
+  (for [#1857](https://github.com/pbek/QOwnNotes/issues/1857), thank you @Waqar144)
+
+## 20.8.8
+- fixed a problem where you could loose changes to an encrypted note if you switch
+  to another note and back to the encrypted note and then immediately edit it again
+  before the encrypted note was stored to disk (for [#1858](https://github.com/pbek/QOwnNotes/issues/1858))
+
+## 20.8.7
+- the note scripting api will now not attempt to automatically decrypt a note in the background because
+  this would happen every time the current note changes (for [#104](https://github.com/qownnotes/scripts/issues/104))
+
+## 20.8.6
+- the `readFromFile` script command now has a new parameter `codec` to specify the encoding
+  of the file (for [#1817](https://github.com/pbek/QOwnNotes/issues/1817))
+    - for more information please take a look at the
+      [scripting documentation](https://docs.qownnotes.org/en/latest/scripting/methods-and-objects/#reading-text-from-a-file)
+    - the script `dictionary-autocomplete` in the script repository was updated to use this parameter
+      in a script setting to set the encoding of the dictionary file
+
+## 20.8.5
+- fixed a regression from 20.8.4 that causes to crash the application when right-clicking
+  on an empty area in the note list (for [#1854](https://github.com/pbek/QOwnNotes/issues/1854))
+
+## 20.8.4
+- improvements where made to the **note / subfolder tree mode**
+  (for [#790](https://github.com/pbek/QOwnNotes/issues/790))
+    - the notes of the note folder root are now shown
+    - if your right-click a sub-folder the sub-folder context menu is now shown
+- added more translation (thank you MGuerra, richarson, rakekniven, Gregory.K,
+  rawfreeamy, unchase, filipedias321, ihatemyself, tiwi90, mlimacarlos, Utkirbek, gbabin)
+
+## 20.8.3
+- added the **new editor color schema** *Breeze dark*
+  (for [#1847](https://github.com/pbek/QOwnNotes/pull/1847), thank you @fabianski7)
+- added some speed improvements (for [#1848](https://github.com/pbek/QOwnNotes/pull/1848), thank you @Waqar144)
+- there now is an option to disable the note count in the tags panel to improve the
+  performance on slower hardware (for [#943](https://github.com/pbek/QOwnNotes/issues/943), thank you @Waqar144)
+- added more Greek, Portuguese, Brazilian Portuguese translation (thank you Gregory.K, filipedias321, i****myself)
+
+## 20.8.2
+- Bold and italic highlighting now also works between inline code blocks in the note editor
+  (for [#1842](https://github.com/pbek/QOwnNotes/issues/1842), thank you @Waqar144)
+
+## 20.8.1
+- you can now also turn off/on the spellchecking inside encrypted notes
+  (for [#1841](https://github.com/pbek/QOwnNotes/issues/1841))
+- you can now also use <kbd>Tab</kbd> or <kbd>Enter</kbd> to switch from the
+  note list to the note edit panel if note renaming in the note list is enabled
+  (for [#1837](https://github.com/pbek/QOwnNotes/issues/1837))
+- added more Brazilian Portuguese, German translation (thank you i****myself, rawfreeamy)
+
+## 20.8.0
+- added new scripting methods `cacheDir` and `clearCacheDir`
+  (for [#1838](https://github.com/pbek/QOwnNotes/pull/1838), thank you @r00tr4v3n)
+    - please take a look at the documentation for
+      [cacheDir](https://docs.qownnotes.org/en/latest/scripting/methods-and-objects/#creating-a-cache-directory)
+      and [clearCacheDir](https://docs.qownnotes.org/en/latest/scripting/methods-and-objects/#clearing-a-cache-directory)
+      for more information
+- added more translation (thank you rawfreeamy, i****myself, mlimacarlos,
+  rakekniven, Zack-83, Gregory.K)
+
+## 20.7.9
+- if you minimized or maximized the application window before entering full-screen mode that state will now
+  be restored after exiting full-screen mode (for [#1835](https://github.com/pbek/QOwnNotes/issues/1835))
+- you are now able to also delete trashed notes on your server in the trash dialog
+  (for [#1833](https://github.com/pbek/QOwnNotes/issues/1833))
+- added more translation (thank you MGuerra, rawfreeamy, richarson, unchase)
+
+## 20.7.8
+- fixed a possible crash when encrypting notes with less than two lines
+  (for [#1831](https://github.com/pbek/QOwnNotes/issues/1831))
+
+## 20.7.7
+- the name and description fields that got moved to the 2nd tab by accident were fixed in the
+  note link dialog (for [#1828](https://github.com/pbek/QOwnNotes/issues/1828#issuecomment-663835422))
+- fixed warnings when encrypting notes if application is built with Qt 5.14 or newer
+  (for [#1832](https://github.com/pbek/QOwnNotes/issues/1832))
+- changes to individual notes are now also ignored if the setting to ignore all
+  external note folder changes is active
+- added more Brazilian Portuguese, German, Italian translation (thank you i****myself, rakekniven, Zack-83)
+
+## 20.7.6
+- the note link dialog can now be resized smaller than the height needed for its 2nd tab
+  (for [#1828](https://github.com/pbek/QOwnNotes/issues/1828#issuecomment-663217669))
+- added **Yiddish translation** (a big thank you to Fabijenna)
+    - visit [QOwnNotes Translation](http://docs.qownnotes.org/en/latest/contributing/translation/)
+      if you want to make QOwnNotes available in more languages or help with the
+      current translation
+- added more Greek, Hungarian, Brazilian Portuguese, Russian, French translation
+  (thank you Gregory.K, rawfreeamy, mlimacarlos, unchase, gbabin)
+
+## 20.7.5
+- **releases for Windows and macOS** are now built with **GitHub Actions in 64 bit**
+  (for [#1828](https://github.com/pbek/QOwnNotes/issues/1828))
+    - there is a macOS DMG with Qt 5.14.2 and Windows ZIP file with Qt 5.13.2 in every release
+    - the updating api was adapted to use the new releases, please report any
+      troubles with updating or installing
+    - in addition there is a Linux AppImage 64 Bit with Qt 5.14.2
+
 ## 20.7.4
 - added the **new editor color schema** *Dracula*
   (for [#1823](https://github.com/pbek/QOwnNotes/issues/1823), thank you @TheChiefMeat)
