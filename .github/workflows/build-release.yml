@@ -123,7 +123,7 @@ jobs:
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
       run: |
-        sudo apt install desktop-file-utils libxcb-icccm4 libxcb-image0
+        sudo apt install desktop-file-utils libxcb-icccm4 libxcb-image0 libxcb-keysyms1
         echo "#define RELEASE \"GitHub Actions\"" > release.h
         qmake PREFIX=/usr
         lrelease QOwnNotes.pro
