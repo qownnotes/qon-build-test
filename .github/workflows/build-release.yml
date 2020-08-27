@@ -63,14 +63,15 @@ jobs:
         # macOS:   https://download.qt.io/online/qtsdkrepository/mac_x64/desktop/
         # Windows: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/
 #        qt-version: ['5.13.2', '5.15.1']
-        qt-version: ['5.14.2', '5.15.1']
-        exclude:
-          - os: ubuntu-16.04
-            qt-version: '5.14.2'
-          - os: macos-latest
-            qt-version: '5.14.2'
-          - os: windows-latest
-            qt-version: '5.15.1'
+#        qt-version: ['5.14.2', '5.15.1']
+        qt-version: ['5.15.1']
+#        exclude:
+#          - os: ubuntu-16.04
+#            qt-version: '5.14.2'
+#          - os: macos-latest
+#            qt-version: '5.14.2'
+#          - os: windows-latest
+#            qt-version: '5.15.1'
     steps:
     - uses: actions/checkout@v2	
       with:	
