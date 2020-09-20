@@ -127,7 +127,7 @@ jobs:
 #        make
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Snapcraft
-      run: snapcraft ..
+      run: cd .. && snapcraft
 
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
