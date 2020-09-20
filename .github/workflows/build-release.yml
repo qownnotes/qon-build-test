@@ -111,6 +111,9 @@ jobs:
       run: |
         echo "VERSION=${VERSION}"
         printenv
+    - if: contains( matrix.os, 'ubuntu')
+      name: Install Snapcraft
+      uses: samuelmeuli/action-snapcraft@v1
 
     #
     # Build QOwnNotes
@@ -122,6 +125,10 @@ jobs:
 #        qmake
 #        lrelease QOwnNotes.pro
 #        make
+    - if: contains( matrix.os, 'ubuntu')
+      name: Build for Snapcraft
+      run: snapcraft ..
+
     - if: contains( matrix.os, 'ubuntu')
       name: Build for Linux
       run: |
