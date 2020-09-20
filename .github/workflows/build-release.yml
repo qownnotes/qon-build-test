@@ -80,7 +80,7 @@ jobs:
       shell: bash
       run: |
         export VERSION=$(cat version.h | sed 's/[^0-9,.]//g')
-        # echo "::set-env name=VERSION::${VERSION}"
+        echo "::set-env name=VERSION::${VERSION}"
 
     #
     # Install Qt
