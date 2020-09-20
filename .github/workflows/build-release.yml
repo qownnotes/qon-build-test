@@ -86,6 +86,11 @@ jobs:
     # Install Qt
     #
 
+    - if: contains( matrix.os, 'ubuntu')
+      name: Install Snapcraft
+      uses: samuelmeuli/action-snapcraft@v1
+      with:
+        use_lxd: true
     - name: Cache Qt
       id: cache-qt
       uses: actions/cache@v1
@@ -111,11 +116,7 @@ jobs:
       run: |
         echo "VERSION=${VERSION}"
         printenv
-    - if: contains( matrix.os, 'ubuntu')
-      name: Install Snapcraft
-      uses: samuelmeuli/action-snapcraft@v1
-      with:
-          use_lxd: true
+
     #
     # Build QOwnNotes
     #
