@@ -10,6 +10,15 @@ description: |
   for GNU/Linux, Mac OS X and Windows, that (optionally) works together with the
   notes application of Nextcloud/ownCloud.
   https://www.qownnotes.org/
+architectures:
+  - build-on: amd64
+    run-on: amd64
+  - build-on: amd64
+    run-on: i386
+  - build-on: amd64
+    run-on: arm64
+  - build-on: amd64
+    run-on: armhf
 
 apps:
   qownnotes:
