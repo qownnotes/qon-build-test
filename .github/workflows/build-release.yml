@@ -243,7 +243,7 @@ jobs:
       run: |
         cd .. && ls
         if [ -n "$(ls *.snap 2>/dev/null)" ]; then
-          sudo snapcraft push *.snap --release edge
+          sudo snapcraft upload *.snap --release edge
         fi
 
     - if: contains( matrix.os, 'ubuntu-16')
