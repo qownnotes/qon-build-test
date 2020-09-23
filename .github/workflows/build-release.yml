@@ -240,6 +240,7 @@ jobs:
       name: Deploy Snap
       shell: bash
       run: |
+        cd .. && ls
         if [ -n "$(ls *.snap 2>/dev/null)" ]; then
           sudo snapcraft push *.snap --release edge
         fi
