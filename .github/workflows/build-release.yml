@@ -91,6 +91,7 @@ jobs:
       uses: samuelmeuli/action-snapcraft@v1
       with:
         use_lxd: true
+        # `snapcraft export-login --snaps qownnotes --channels edge -`, token valid for one year  
         snapcraft_token: ${{ secrets.SNAP_TOKEN_GH }}
     - name: Cache Qt
       id: cache-qt
