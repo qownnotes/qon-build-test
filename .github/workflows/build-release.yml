@@ -91,6 +91,7 @@ jobs:
       uses: samuelmeuli/action-snapcraft@v1
       with:
         use_lxd: true
+        snapcraft_token: ${{ secrets.SNAP_TOKEN_GH }}
     - name: Cache Qt
       id: cache-qt
       uses: actions/cache@v1
@@ -235,6 +236,13 @@ jobs:
         asset_path: ./qownnotes_${{ env.VERSION }}_amd64.snap
         asset_name: QOwnNotes-amd64.snap
         asset_content_type: application/vnd.snap
+    - if: contains( matrix.os, 'ubuntu-latest')
+      name: Deploy Snap
+      shell: bash
+      run: |
+        if [ -n "$(ls *.snap 2>/dev/null)" ]; then
+          sudo snapcraft push *.snap --release edge
+        fi
 
     - if: contains( matrix.os, 'ubuntu-16')
       name: Release AppImage for Linux
