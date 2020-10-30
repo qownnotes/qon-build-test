@@ -32,11 +32,11 @@ jobs:
           #RELEASE_TEXT="${RELEASE_TEXT//$'\r'/'%0D'}"
           echo "VERSION=${VERSION}" >> $GITHUB_ENV
           echo "TAG=${TAG}" >> $GITHUB_ENV
-          echo "RELEASE_TEXT=${RELEASE_TEXT}" >> $GITHUB_ENV
+          #echo "RELEASE_TEXT=${RELEASE_TEXT}" >> $GITHUB_ENV
           # add multiline release text
-          #echo "RELEASE_TEXT<<EOF" >> $GITHUB_ENV
-          #echo "${RELEASE_TEXT}" >> $GITHUB_ENV
-          #echo "EOF" >> $GITHUB_ENV
+          echo "RELEASE_TEXT<<EOF" >> $GITHUB_ENV
+          echo "${RELEASE_TEXT}" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
       - name: Printenv
         run: |
           echo "VERSION=${VERSION}"
