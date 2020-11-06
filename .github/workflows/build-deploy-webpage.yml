@@ -29,10 +29,10 @@ jobs:
         done
         echo "DO_BUILD: ${DO_BUILD}"
         echo ::set-output name=DO_BUILD::${DO_BUILD}
-    - if: ${{ steps.vars.outputs.DO_BUILD }}
+    - if: ${{ steps.changes.outputs.DO_BUILD }}
       name: Use Node.js
       uses: actions/setup-node@v1
-    - if: ${{ steps.vars.outputs.DO_BUILD }}
+    - if: ${{ steps.changes.outputs.DO_BUILD }}
       run: yarn install
-    - if: ${{ steps.vars.outputs.DO_BUILD }}
+    - if: ${{ steps.changes.outputs.DO_BUILD }}
       run: yarn run build
