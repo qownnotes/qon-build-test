@@ -34,5 +34,3 @@ jobs:
       uses: actions/setup-node@v1
     - if: ${{ steps.changes.outputs.DO_BUILD }}
       run: yarn install
-    - if: ${{ steps.changes.outputs.DO_BUILD }}
-      run: yarn run build
