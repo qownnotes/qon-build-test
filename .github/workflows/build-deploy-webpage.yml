@@ -24,9 +24,11 @@ jobs:
           echo "Do something with this ${changed_file}."
           if  [[ ${changed_file} == "CHANGELOG.md" ]] || [[ ${changed_file} == screenshots* ]] || [[ ${changed_file} == webpage* ]] ;
           then
-              DO_BUILD=true
+            echo "'${changed_file}' is important, we will build
+            DO_BUILD=true
           fi
         done
+        echo "DO_BUILD: ${DO_BUILD}"
         echo ::set-output name=DO_BUILD::${DO_BUILD}
     - if: ${{ steps.vars.outputs.DO_BUILD == false }}
       name: cancelling
