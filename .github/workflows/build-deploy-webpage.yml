@@ -19,12 +19,12 @@ jobs:
       uses: jitterbit/get-changed-files@v1
     - id: changes
       run: |
-        DO_BUILD=false
+        DO_BUILD='false'
         for changed_file in ${{ steps.files.outputs.all }}; do
           if  [[ ${changed_file} == "CHANGELOG.md" ]] || [[ ${changed_file} == screenshots* ]] || [[ ${changed_file} == webpage* ]] ;
           then
             echo "'${changed_file}' matches, we will build"
-            DO_BUILD=true
+            DO_BUILD='true'
           fi
         done
         echo "DO_BUILD: ${DO_BUILD}"
