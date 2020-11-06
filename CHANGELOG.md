@@ -1,5 +1,7 @@
 # QOwnNotes Changelog
 
+test
+
 ## 20.8.9
 - fixed a problem with pressing `Backspace` after a `'` in lists
   (for [#1857](https://github.com/pbek/QOwnNotes/issues/1857), thank you @Waqar144)
