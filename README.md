@@ -24,6 +24,8 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/qownnotes/qownnotes)
 [![Documentation](https://readthedocs.org/projects/qownnotes/badge/?version=develop)](http://docs.qownnotes.org)
 
+[20.8.8](CHANGELOG.md#2088)
+
 [QOwnNotes](https://www.qownnotes.org) is the **open source notepad** with
 [**markdown support**](https://github.com/pbek/QOwnNotes/blob/develop/src/demonotes/Markdown%20Cheatsheet.md)
 and **todo list manager** for **GNU/Linux**, **Mac OS X** and **Windows**,
